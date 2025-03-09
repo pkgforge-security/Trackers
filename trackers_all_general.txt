@@ -74,6 +74,7 @@ https://tracker.yemekyedim.com:443/announce
 https://tracker.zhuqiy.top:443/announce
 udp://bandito.byterunner.io:6969/announce
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
+udp://bt-tracker.devnak.win:6969/announce
 udp://bt.ktrackers.com:6666/announce
 udp://concen.org:6969/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
