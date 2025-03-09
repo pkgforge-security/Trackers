@@ -56,7 +56,6 @@ http://tracker810.xyz:11450/announce
 http://wepzone.net:6969/announce
 http://www.genesis-sp.org:2710/announce
 http://www.torrentsnipe.info:2701/announce
-https://retracker.x2k.ru:443/announce
 https://sparkle.ghostchu-services.top:443/announce
 https://tr.nyacat.pw:443/announce
 https://tr.zukizuki.org:443/announce
