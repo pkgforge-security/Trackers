@@ -25,8 +25,8 @@ udp://p4p.arenabg.com:1337/announce
 udp://tracker.kmzs123.cn:17272/announce
 https://tracker.yemekyedim.com:443/announce
 udp://martin-gebhardt.eu:25/announce
-udp://tracker.gigantino.net:6969/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
+udp://tracker.gigantino.net:6969/announce
 udp://tracker.srv00.com:6969/announce
 udp://tracker.0x7c0.com:6969/announce
 udp://tracker.gmi.gd:6969/announce
@@ -47,6 +47,6 @@ udp://www.torrent.eu.org:451/announce
 https://tracker.lilithraws.org:443/announce
 udp://opentracker.io:6969/announce
 udp://tracker.fnix.net:6969/announce
-udp://tracker.filemail.com:6969/announce
 udp://tracker.yume-hatsuyuki.moe:6969/announce
+udp://tracker.filemail.com:6969/announce
 udp://retracker.hotplug.ru:2710/announce
