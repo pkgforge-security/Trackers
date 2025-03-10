@@ -14,6 +14,7 @@ udp://udp.tracker.projectk.org:23333/announce
 https://tracker.aburaya.live:443/announce
 https://tracker.zhuqiy.top:443/announce
 http://lucke.fenesisu.moe:6969/announce
+http://ipv6.bt-tracker.devnak.win:6969/announce
 udp://open.demonii.com:1337/announce
 udp://p2p.publictracker.xyz:6969/announce
 udp://tracker.valete.tf:9999/announce
@@ -37,8 +38,8 @@ http://bt.okmp3.ru:2710/announce
 http://tracker.netmap.top:6969/announce
 udp://open.stealth.si:80/announce
 udp://tracker.tryhackx.org:6969/announce
-udp://retracker.lanta.me:2710/announce
 udp://evan.im:6969/announce
+udp://retracker.lanta.me:2710/announce
 http://tracker.bittor.pw:1337/announce
 http://0123456789nonexistent.com:80/announce
 udp://tracker.darkness.services:6969/announce
