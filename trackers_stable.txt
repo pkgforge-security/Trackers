@@ -15,6 +15,8 @@ https://tracker.aburaya.live:443/announce
 https://tracker.zhuqiy.top:443/announce
 http://lucke.fenesisu.moe:6969/announce
 http://ipv6.bt-tracker.devnak.win:6969/announce
+http://4.tracker.devnak.win:6969/announce
+http://6.tracker.devnak.win:6969/announce
 udp://open.demonii.com:1337/announce
 udp://p2p.publictracker.xyz:6969/announce
 udp://tracker.valete.tf:9999/announce
@@ -46,8 +48,8 @@ udp://tracker.darkness.services:6969/announce
 http://ipv6.rer.lol:6969/announce
 udp://www.torrent.eu.org:451/announce
 https://tracker.lilithraws.org:443/announce
-udp://opentracker.io:6969/announce
 udp://tracker.fnix.net:6969/announce
+udp://opentracker.io:6969/announce
 udp://tracker.yume-hatsuyuki.moe:6969/announce
 udp://tracker.filemail.com:6969/announce
 udp://tracker.torrent.eu.org:451/announce
