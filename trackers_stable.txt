@@ -14,7 +14,6 @@ udp://udp.tracker.projectk.org:23333/announce
 https://tracker.aburaya.live:443/announce
 https://tracker.zhuqiy.top:443/announce
 http://lucke.fenesisu.moe:6969/announce
-http://ipv6.bt-tracker.devnak.win:6969/announce
 http://4.tracker.devnak.win:6969/announce
 http://6.tracker.devnak.win:6969/announce
 udp://open.demonii.com:1337/announce

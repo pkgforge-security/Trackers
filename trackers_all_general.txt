@@ -13,7 +13,6 @@ http://finbytes.org:80/announce.php
 http://fleira.no:6969/announce
 http://highteahop.top:6960/announce
 http://home.yxgz.club:6969/announce
-http://ipv6.bt-tracker.devnak.win:6969/announce
 http://ipv6.rer.lol:6969/announce
 http://lucke.fenesisu.moe:6969/announce
 http://open.acgtracker.com:1096/announce
