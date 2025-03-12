@@ -72,7 +72,6 @@ https://tracker.moeking.me:443/announce
 https://tracker.pmman.tech:443/announce
 https://tracker.yemekyedim.com:443/announce
 https://tracker.zhuqiy.top:443/announce
-https://trunker.ghostchu-services.top:443/announce
 udp://4.tracker.devnak.win:6969/announce
 udp://bandito.byterunner.io:6969/announce
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
