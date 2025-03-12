@@ -17,6 +17,7 @@ https://tracker.aburaya.live:443/announce
 https://tracker.zhuqiy.top:443/announce
 http://lucke.fenesisu.moe:6969/announce
 http://4.tracker.devnak.win:6969/announce
+https://trunker.ghostchu-services.top:443/announce
 udp://open.demonii.com:1337/announce
 udp://p2p.publictracker.xyz:6969/announce
 udp://tracker.opentrackr.org:1337/announce
