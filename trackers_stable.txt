@@ -46,8 +46,8 @@ https://tracker.yemekyedim.com:443/announce
 http://tracker.netmap.top:6969/announce
 http://tracker.bittor.pw:1337/announce
 http://ipv6.rer.lol:6969/announce
-udp://tracker.darkness.services:6969/announce
 http://torrent.hificode.in:6969/announce
+udp://tracker.darkness.services:6969/announce
 udp://www.torrent.eu.org:451/announce
 http://0123456789nonexistent.com:80/announce
 https://tracker.lilithraws.org:443/announce
@@ -55,6 +55,6 @@ udp://tracker.fnix.net:6969/announce
 udp://tracker.torrent.eu.org:451/announce
 udp://tracker.kmzs123.top:17272/announce
 udp://opentracker.io:6969/announce
-udp://tracker.filemail.com:6969/announce
 udp://retracker.hotplug.ru:2710/announce
+udp://tracker.filemail.com:6969/announce
 https://tr.nyacat.pw:443/announce
