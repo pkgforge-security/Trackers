@@ -43,8 +43,8 @@ udp://open.stealth.si:80/announce
 udp://tracker.dler.com:6969/announce
 http://tracker.ipv6tracker.ru:80/announce
 https://tracker.yemekyedim.com:443/announce
-http://tracker.netmap.top:6969/announce
 http://tracker.bittor.pw:1337/announce
+http://tracker.netmap.top:6969/announce
 http://ipv6.rer.lol:6969/announce
 http://torrent.hificode.in:6969/announce
 udp://tracker.darkness.services:6969/announce
