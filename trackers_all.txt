@@ -931,7 +931,6 @@ udp://51.68.174.87:6969/announce
 udp://51.81.222.188:6969/announce
 udp://52.58.128.163:6969/announce
 udp://6.pocketnet.app:6969/announce
-udp://6.tracker.devnak.win:6969/announce
 udp://6ahddutb1ucc3cp.ru:6969/announce
 udp://82.65.115.10:6969/announce
 udp://88.80.28.7:6969/announce
