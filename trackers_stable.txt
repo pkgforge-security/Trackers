@@ -19,6 +19,7 @@ https://tracker.zhuqiy.top:443/announce
 http://lucke.fenesisu.moe:6969/announce
 http://4.tracker.devnak.win:6969/announce
 http://6.tracker.devnak.win:6969/announce
+http://tracker.23794.top:6969/announce
 udp://p2p.publictracker.xyz:6969/announce
 udp://evan.im:6969/announce
 https://tr.zukizuki.org:443/announce
