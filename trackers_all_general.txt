@@ -47,6 +47,7 @@ http://tracker.lintk.me:2710/announce
 http://tracker.moxing.party:6969/announce
 http://tracker.mywaifu.best:6969/announce
 http://tracker.netmap.top:6969/announce
+http://tracker.opentrackr.org:1337/announce
 http://tracker.privateseedbox.xyz:2710/announce
 http://tracker.qu.ax:6969/announce
 http://tracker.renfei.net:8080/announce
@@ -119,7 +120,6 @@ udp://tracker.gigantino.net:6969/announce
 udp://tracker.gmi.gd:6969/announce
 udp://tracker.kmzs123.cn:17272/announce
 udp://tracker.kmzs123.top:17272/announce
-udp://tracker.ololosh.space:6969/announce
 udp://tracker.opentrackr.org:1337/announce
 udp://tracker.qu.ax:6969/announce
 udp://tracker.skynetcloud.site:6969/announce
@@ -127,7 +127,6 @@ udp://tracker.srv00.com:6969/announce
 udp://tracker.theoks.net:6969/announce
 udp://tracker.tiny-vps.com:6969/announce
 udp://tracker.torrent.eu.org:451/announce
-udp://tracker.torrust-demo.com:6969/announce
 udp://tracker.tryhackx.org:6969/announce
 udp://tracker.valete.tf:9999/announce
 udp://tracker1.myporn.club:9337/announce
