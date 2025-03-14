@@ -54,8 +54,8 @@ udp://www.torrent.eu.org:451/announce
 https://tracker.lilithraws.org:443/announce
 udp://tracker.fnix.net:6969/announce
 udp://tracker.torrent.eu.org:451/announce
-udp://tracker.kmzs123.top:17272/announce
 https://tr.nyacat.pw:443/announce
+udp://tracker.kmzs123.top:17272/announce
 udp://opentracker.io:6969/announce
 udp://retracker.hotplug.ru:2710/announce
 udp://tracker.filemail.com:6969/announce
