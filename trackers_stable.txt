@@ -9,7 +9,6 @@ https://tracker.gcrenwp.top:443/announce
 https://tracker.bjut.jp:443/announce
 udp://ismaarino.com:1234/announce
 https://tracker.leechshield.link:443/announce
-http://tracker.beeimg.com:6969/announce
 https://tracker.moeking.me:443/announce
 http://tracker.renfei.net:8080/announce
 http://fleira.no:6969/announce
@@ -22,6 +21,7 @@ http://6.tracker.devnak.win:6969/announce
 udp://torrent.i.ng:6969/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
 udp://evan.im:6969/announce
+http://tracker.beeimg.com:6969/announce
 https://tr.zukizuki.org:443/announce
 udp://p2p.publictracker.xyz:6969/announce
 http://taciturn-shadow.spb.ru:6969/announce
