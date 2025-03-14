@@ -20,10 +20,10 @@ http://lucke.fenesisu.moe:6969/announce
 http://4.tracker.devnak.win:6969/announce
 http://6.tracker.devnak.win:6969/announce
 http://tracker.23794.top:6969/announce
+udp://d40969.acod.regrucolo.ru:6969/announce
 udp://p2p.publictracker.xyz:6969/announce
 udp://evan.im:6969/announce
 https://tr.zukizuki.org:443/announce
-udp://d40969.acod.regrucolo.ru:6969/announce
 http://taciturn-shadow.spb.ru:6969/announce
 udp://tracker.valete.tf:9999/announce
 udp://p4p.arenabg.com:1337/announce
@@ -56,5 +56,5 @@ udp://tracker.torrent.eu.org:451/announce
 udp://tracker.kmzs123.top:17272/announce
 udp://opentracker.io:6969/announce
 udp://retracker.hotplug.ru:2710/announce
-udp://tracker.filemail.com:6969/announce
 https://tr.nyacat.pw:443/announce
+udp://tracker.filemail.com:6969/announce
