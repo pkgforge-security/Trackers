@@ -82,7 +82,6 @@ udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 udp://bt.ktrackers.com:6666/announce
 udp://concen.org:6969/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
-udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 udp://evan.im:6969/announce
 udp://exodus.desync.com:6969/announce
 udp://explodie.org:6969/announce
@@ -134,4 +133,3 @@ udp://ttk2.nbaonlineservice.com:6969/announce
 udp://udp.tracker.projectk.org:23333/announce
 udp://utracker.ghostchu-services.top:6969/announce
 udp://wepzone.net:6969/announce
-udp://www.torrent.eu.org:451/announce
