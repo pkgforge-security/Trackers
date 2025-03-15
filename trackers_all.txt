@@ -420,7 +420,6 @@ http://taciturn-shadow.spb.ru:6969/announce
 http://thetracker.org/announce
 http://thetracker.org:80/announce
 http://thitgaluoc.dynu.net:6969/announce
-http://tinfoil.space:6969/announce
 http://tk.greedland.net/announce
 http://tk2.greedland.net/announce
 http://torrent-team.net/announce.php
