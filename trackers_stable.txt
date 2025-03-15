@@ -19,6 +19,7 @@ https://tracker.aburaya.live:443/announce
 https://tracker.zhuqiy.top:443/announce
 http://lucke.fenesisu.moe:6969/announce
 http://6.tracker.devnak.win:6969/announce
+https://tracker.ghostchu-services.top:443/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
 udp://evan.im:6969/announce
 http://tracker.beeimg.com:6969/announce
@@ -51,8 +52,8 @@ udp://www.torrent.eu.org:451/announce
 https://tracker.lilithraws.org:443/announce
 http://0123456789nonexistent.com:80/announce
 http://tracker.netmap.top:6969/announce
-udp://tracker.torrent.eu.org:451/announce
 udp://tracker.kmzs123.top:17272/announce
+udp://tracker.torrent.eu.org:451/announce
 udp://tracker.fnix.net:6969/announce
 udp://opentracker.io:6969/announce
 udp://retracker.hotplug.ru:2710/announce
