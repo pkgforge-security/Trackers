@@ -13,6 +13,7 @@ https://tracker.moeking.me:443/announce
 http://tracker.renfei.net:8080/announce
 http://fleira.no:6969/announce
 udp://udp.tracker.projectk.org:23333/announce
+https://tr.nyacat.pw:443/announce
 https://tracker.aburaya.live:443/announce
 https://tracker.zhuqiy.top:443/announce
 http://lucke.fenesisu.moe:6969/announce
@@ -21,7 +22,6 @@ udp://d40969.acod.regrucolo.ru:6969/announce
 udp://evan.im:6969/announce
 http://tracker.beeimg.com:6969/announce
 https://tr.zukizuki.org:443/announce
-https://tr.nyacat.pw:443/announce
 udp://p4p.arenabg.com:1337/announce
 udp://p2p.publictracker.xyz:6969/announce
 udp://tracker.valete.tf:9999/announce
