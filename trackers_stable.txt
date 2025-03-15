@@ -17,7 +17,6 @@ https://tracker.aburaya.live:443/announce
 https://tracker.zhuqiy.top:443/announce
 http://lucke.fenesisu.moe:6969/announce
 http://6.tracker.devnak.win:6969/announce
-udp://torrent.i.ng:6969/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
 udp://evan.im:6969/announce
 http://tracker.beeimg.com:6969/announce
@@ -35,6 +34,7 @@ http://bt.okmp3.ru:2710/announce
 udp://tracker.tryhackx.org:6969/announce
 udp://bandito.byterunner.io:6969/announce
 udp://tracker.gigantino.net:6969/announce
+udp://torrent.i.ng:6969/announce
 udp://tracker.srv00.com:6969/announce
 udp://tracker.gmi.gd:6969/announce
 https://tr.nyacat.pw:443/announce
