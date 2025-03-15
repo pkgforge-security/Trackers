@@ -48,10 +48,10 @@ http://torrent.hificode.in:6969/announce
 http://tracker.bittor.pw:1337/announce
 http://ipv6.rer.lol:6969/announce
 udp://tracker.darkness.services:6969/announce
+https://tracker.lilithraws.org:443/announce
 udp://www.torrent.eu.org:451/announce
 http://tracker.netmap.top:6969/announce
 http://0123456789nonexistent.com:80/announce
-https://tracker.lilithraws.org:443/announce
 udp://tracker.torrent.eu.org:451/announce
 udp://tracker.kmzs123.top:17272/announce
 udp://tracker.fnix.net:6969/announce
