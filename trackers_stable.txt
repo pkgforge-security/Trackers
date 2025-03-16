@@ -38,8 +38,8 @@ udp://tracker.opentrackr.org:1337/announce
 udp://open.stealth.si:80/announce
 udp://tracker.dler.com:6969/announce
 http://tracker.ipv6tracker.ru:80/announce
-https://tracker.moeking.me:443/announce
 http://torrent.hificode.in:6969/announce
+https://tracker.moeking.me:443/announce
 http://ipv6.rer.lol:6969/announce
 udp://tracker.darkness.services:6969/announce
 http://4.tracker.devnak.win:6969/announce
@@ -47,7 +47,7 @@ https://tracker.lilithraws.org:443/announce
 udp://tracker.kmzs123.top:17272/announce
 http://tracker.netmap.top:6969/announce
 udp://tracker.fnix.net:6969/announce
-https://tracker.gcrenwp.top:443/announce
 udp://tracker.torrent.eu.org:451/announce
+https://tracker.gcrenwp.top:443/announce
 udp://opentracker.io:6969/announce
 udp://retracker.hotplug.ru:2710/announce
