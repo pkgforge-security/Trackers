@@ -26,9 +26,9 @@ udp://tracker.valete.tf:9999/announce
 http://tracker.bt4g.com:2095/announce
 udp://tracker.0x7c0.com:6969/announce
 http://taciturn-shadow.spb.ru:6969/announce
+udp://retracker.lanta.me:2710/announce
 udp://martin-gebhardt.eu:25/announce
 udp://tracker.tryhackx.org:6969/announce
-udp://retracker.lanta.me:2710/announce
 udp://bandito.byterunner.io:6969/announce
 http://bt.okmp3.ru:2710/announce
 udp://tracker.gigantino.net:6969/announce
@@ -47,8 +47,7 @@ http://4.tracker.devnak.win:6969/announce
 udp://tracker.kmzs123.top:17272/announce
 udp://tracker.fnix.net:6969/announce
 http://tracker.netmap.top:6969/announce
-https://tracker.moeking.me:443/announce
 udp://tracker.torrent.eu.org:451/announce
+https://tracker.moeking.me:443/announce
 udp://opentracker.io:6969/announce
 udp://retracker.hotplug.ru:2710/announce
-https://tracker.gcrenwp.top:443/announce
