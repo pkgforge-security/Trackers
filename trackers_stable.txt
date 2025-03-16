@@ -48,6 +48,7 @@ udp://tracker.kmzs123.top:17272/announce
 udp://tracker.fnix.net:6969/announce
 http://tracker.netmap.top:6969/announce
 udp://tracker.torrent.eu.org:451/announce
-https://tracker.moeking.me:443/announce
 udp://opentracker.io:6969/announce
+https://tracker.moeking.me:443/announce
 udp://retracker.hotplug.ru:2710/announce
+udp://tracker.yume-hatsuyuki.moe:6969/announce
