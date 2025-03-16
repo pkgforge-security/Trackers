@@ -46,8 +46,8 @@ udp://tracker.darkness.services:6969/announce
 http://4.tracker.devnak.win:6969/announce
 udp://tracker.kmzs123.top:17272/announce
 udp://tracker.fnix.net:6969/announce
-http://tracker.netmap.top:6969/announce
 udp://tracker.torrent.eu.org:451/announce
+http://tracker.netmap.top:6969/announce
 udp://opentracker.io:6969/announce
 udp://retracker.hotplug.ru:2710/announce
 https://tracker.moeking.me:443/announce
