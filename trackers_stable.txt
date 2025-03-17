@@ -50,4 +50,3 @@ udp://tracker.torrent.eu.org:451/announce
 http://tracker.netmap.top:6969/announce
 udp://opentracker.io:6969/announce
 udp://retracker.hotplug.ru:2710/announce
-udp://tracker.yume-hatsuyuki.moe:6969/announce
