@@ -16,8 +16,6 @@ https://tracker.aburaya.live:443/announce
 https://tracker.zhuqiy.top:443/announce
 http://lucke.fenesisu.moe:6969/announce
 http://tracker.renfei.net:8080/announce
-https://tracker.guguan.dpdns.org:443/announce
-udp://files.project-cataclysm.ru:6969/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
 udp://p2p.publictracker.xyz:6969/announce
 http://tracker.beeimg.com:6969/announce
