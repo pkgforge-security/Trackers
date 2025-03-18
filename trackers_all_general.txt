@@ -85,6 +85,7 @@ udp://discord.heihachi.pw:6969/announce
 udp://evan.im:6969/announce
 udp://exodus.desync.com:6969/announce
 udp://explodie.org:6969/announce
+udp://files.project-cataclysm.ru:6969/announce
 udp://ipv4announce.sktorrent.eu:6969/announce
 udp://isk.richardsw.club:6969/announce
 udp://ismaarino.com:1234/announce
