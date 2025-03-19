@@ -48,5 +48,7 @@ udp://tracker.fnix.net:6969/announce
 https://tracker.pmman.tech:443/announce
 udp://retracker.hotplug.ru:2710/announce
 http://tracker.netmap.top:6969/announce
+http://4.tracker.devnak.win:6969/announce
 udp://opentracker.io:6969/announce
+http://6.tracker.devnak.win:6969/announce
 udp://tracker.yume-hatsuyuki.moe:6969/announce
