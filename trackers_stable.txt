@@ -1,7 +1,6 @@
 http://tracker.mywaifu.best:6969/announce
 udp://open.demonii.com:1337/announce
 udp://tracker.qu.ax:6969/announce
-udp://tracker.skynetcloud.site:6969/announce
 udp://ttk2.nbaonlineservice.com:6969/announce
 http://tracker.privateseedbox.xyz:2710/announce
 https://tracker.yemekyedim.com:443/announce
@@ -15,6 +14,7 @@ https://tracker.aburaya.live:443/announce
 https://tracker.zhuqiy.top:443/announce
 http://lucke.fenesisu.moe:6969/announce
 http://tracker.renfei.net:8080/announce
+udp://tracker.skynetcloud.site:6969/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
 udp://p2p.publictracker.xyz:6969/announce
 udp://evan.im:6969/announce
@@ -47,5 +47,4 @@ udp://tracker.fnix.net:6969/announce
 http://tracker.netmap.top:6969/announce
 udp://retracker.hotplug.ru:2710/announce
 udp://opentracker.io:6969/announce
-http://4.tracker.devnak.win:6969/announce
 https://tracker.ghostchu-services.top:443/announce
