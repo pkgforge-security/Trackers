@@ -47,4 +47,3 @@ udp://tracker.fnix.net:6969/announce
 http://tracker.netmap.top:6969/announce
 udp://retracker.hotplug.ru:2710/announce
 udp://opentracker.io:6969/announce
-https://tracker.ghostchu-services.top:443/announce
