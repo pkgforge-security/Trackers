@@ -14,13 +14,13 @@ http://lucke.fenesisu.moe:6969/announce
 http://tracker.renfei.net:8080/announce
 udp://www.torrent.eu.org:451/announce
 http://tracker.mywaifu.best:6969/announce
-udp://tracker.skynetcloud.site:6969/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
 udp://p2p.publictracker.xyz:6969/announce
 udp://evan.im:6969/announce
 http://tracker.beeimg.com:6969/announce
 udp://p4p.arenabg.com:1337/announce
 http://tracker.bt4g.com:2095/announce
+udp://tracker.skynetcloud.site:6969/announce
 udp://retracker.lanta.me:2710/announce
 http://taciturn-shadow.spb.ru:6969/announce
 udp://tracker.valete.tf:9999/announce
@@ -45,8 +45,8 @@ udp://tracker.torrent.eu.org:451/announce
 http://ipv6.rer.lol:6969/announce
 http://torrent.hificode.in:6969/announce
 udp://tracker.fnix.net:6969/announce
-udp://retracker.hotplug.ru:2710/announce
 https://tracker.pmman.tech:443/announce
+udp://retracker.hotplug.ru:2710/announce
 http://tracker.netmap.top:6969/announce
 udp://opentracker.io:6969/announce
 udp://tracker.yume-hatsuyuki.moe:6969/announce
