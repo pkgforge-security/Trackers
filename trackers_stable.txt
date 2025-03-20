@@ -41,13 +41,13 @@ udp://tracker.opentrackr.org:1337/announce
 udp://open.stealth.si:80/announce
 http://tracker.ipv6tracker.ru:80/announce
 https://tracker.lilithraws.org:443/announce
-http://4.tracker.devnak.win:6969/announce
 http://6.tracker.devnak.win:6969/announce
+http://4.tracker.devnak.win:6969/announce
 udp://tracker.darkness.services:6969/announce
 udp://tracker.torrent.eu.org:451/announce
 http://ipv6.rer.lol:6969/announce
-udp://tracker.qu.ax:6969/announce
 udp://tracker.fnix.net:6969/announce
+udp://tracker.qu.ax:6969/announce
 http://torrent.hificode.in:6969/announce
 udp://retracker.hotplug.ru:2710/announce
 udp://opentracker.io:6969/announce
