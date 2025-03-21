@@ -37,8 +37,8 @@ udp://tracker.gigantino.net:6969/announce
 udp://tracker.srv00.com:6969/announce
 udp://open.stealth.si:80/announce
 https://tracker.lilithraws.org:443/announce
-http://tracker.ipv6tracker.ru:80/announce
 udp://www.torrent.eu.org:451/announce
+http://tracker.ipv6tracker.ru:80/announce
 udp://tracker.opentrackr.org:1337/announce
 udp://tracker.torrent.eu.org:451/announce
 udp://tracker.darkness.services:6969/announce
@@ -49,5 +49,4 @@ udp://retracker.hotplug.ru:2710/announce
 udp://opentracker.io:6969/announce
 http://tracker.netmap.top:6969/announce
 udp://tracker.skynetcloud.site:6969/announce
-http://tracker.lyretain.site:2710/announce
 udp://tracker-udp.gbitt.info:80/announce
