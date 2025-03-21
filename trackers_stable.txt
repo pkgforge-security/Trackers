@@ -15,12 +15,12 @@ udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 http://tracker.mywaifu.best:6969/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
 udp://evan.im:6969/announce
+udp://martin-gebhardt.eu:25/announce
 udp://ismaarino.com:1234/announce
 udp://tracker.valete.tf:9999/announce
 udp://p4p.arenabg.com:1337/announce
 http://tracker.bt4g.com:2095/announce
 udp://p2p.publictracker.xyz:6969/announce
-udp://martin-gebhardt.eu:25/announce
 http://tracker.beeimg.com:6969/announce
 udp://tracker.0x7c0.com:6969/announce
 udp://retracker.lanta.me:2710/announce
@@ -49,3 +49,4 @@ udp://retracker.hotplug.ru:2710/announce
 udp://opentracker.io:6969/announce
 http://tracker.netmap.top:6969/announce
 udp://tracker-udp.gbitt.info:80/announce
+udp://tracker.yume-hatsuyuki.moe:6969/announce
