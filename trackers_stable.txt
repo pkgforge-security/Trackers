@@ -25,9 +25,9 @@ http://taciturn-shadow.spb.ru:6969/announce
 http://tracker.beeimg.com:6969/announce
 https://tracker.aburaya.live:443/announce
 udp://tracker.0x7c0.com:6969/announce
+udp://martin-gebhardt.eu:25/announce
 udp://tracker.dler.com:6969/announce
 udp://tracker.tryhackx.org:6969/announce
-udp://martin-gebhardt.eu:25/announce
 udp://tracker.kmzs123.cn:17272/announce
 udp://tracker.kmzs123.top:17272/announce
 udp://tracker.opentrackr.org:1337/announce
@@ -45,10 +45,9 @@ udp://tracker.torrent.eu.org:451/announce
 udp://tracker.darkness.services:6969/announce
 http://ipv6.rer.lol:6969/announce
 udp://tracker.fnix.net:6969/announce
-udp://tracker.skynetcloud.site:6969/announce
 http://torrent.hificode.in:6969/announce
+udp://tracker.skynetcloud.site:6969/announce
 udp://retracker.hotplug.ru:2710/announce
 udp://opentracker.io:6969/announce
 http://tracker.netmap.top:6969/announce
 udp://tracker.qu.ax:6969/announce
-http://tracker.lyretain.site:2710/announce
