@@ -118,7 +118,6 @@ udp://tracker.kmzs123.top:17272/announce
 udp://tracker.ololosh.space:6969/announce
 udp://tracker.opentrackr.org:1337/announce
 udp://tracker.qu.ax:6969/announce
-udp://tracker.skynetcloud.site:6969/announce
 udp://tracker.srv00.com:6969/announce
 udp://tracker.theoks.net:6969/announce
 udp://tracker.tiny-vps.com:6969/announce
