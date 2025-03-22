@@ -42,8 +42,8 @@ udp://tracker.opentrackr.org:1337/announce
 udp://www.torrent.eu.org:451/announce
 udp://tracker.torrent.eu.org:451/announce
 udp://tracker.fnix.net:6969/announce
-udp://tracker.darkness.services:6969/announce
 http://ipv6.rer.lol:6969/announce
+udp://tracker.darkness.services:6969/announce
 http://torrent.hificode.in:6969/announce
 udp://opentracker.io:6969/announce
 udp://retracker.hotplug.ru:2710/announce
