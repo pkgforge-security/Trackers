@@ -31,10 +31,10 @@ udp://tracker.tryhackx.org:6969/announce
 udp://tracker.gmi.gd:6969/announce
 udp://tracker.kmzs123.top:17272/announce
 http://bt.okmp3.ru:2710/announce
-https://tracker.lilithraws.org:443/announce
 udp://bandito.byterunner.io:6969/announce
 udp://tracker.gigantino.net:6969/announce
 udp://tracker.srv00.com:6969/announce
+https://tracker.lilithraws.org:443/announce
 https://tracker.zhuqiy.top:443/announce
 udp://open.stealth.si:80/announce
 http://tracker.ipv6tracker.ru:80/announce
