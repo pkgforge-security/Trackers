@@ -48,4 +48,5 @@ http://torrent.hificode.in:6969/announce
 udp://opentracker.io:6969/announce
 http://tracker.23794.top:6969/announce
 udp://tracker-udp.gbitt.info:80/announce
+udp://exodus.desync.com:6969/announce
 udp://tr4ck3r.duckdns.org:6969/announce
