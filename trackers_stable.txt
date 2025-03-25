@@ -1,3 +1,4 @@
+udp://open.stealth.si:80/announce
 udp://open.demonii.com:1337/announce
 udp://ttk2.nbaonlineservice.com:6969/announce
 http://tracker.privateseedbox.xyz:2710/announce
@@ -13,7 +14,6 @@ udp://udp.tracker.projectk.org:23333/announce
 http://lucke.fenesisu.moe:6969/announce
 http://tracker.renfei.net:8080/announce
 udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
-udp://open.stealth.si:80/announce
 http://tracker.bt4g.com:2095/announce
 http://tracker.mywaifu.best:6969/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
