@@ -50,4 +50,3 @@ udp://tracker-udp.gbitt.info:80/announce
 https://tracker.pmman.tech:443/announce
 http://tracker.23794.top:6969/announce
 udp://exodus.desync.com:6969/announce
-udp://tr4ck3r.duckdns.org:6969/announce
