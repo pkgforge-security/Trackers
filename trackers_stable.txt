@@ -6,7 +6,6 @@ udp://evan.im:6969/announce
 https://tracker.yemekyedim.com:443/announce
 udp://martin-gebhardt.eu:25/announce
 https://tracker.bjut.jp:443/announce
-https://tracker.leechshield.link:443/announce
 https://tr.zukizuki.org:443/announce
 http://lucke.fenesisu.moe:6969/announce
 http://tracker.renfei.net:8080/announce
@@ -15,6 +14,7 @@ http://tracker.mywaifu.best:6969/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
 http://tracker.privateseedbox.xyz:2710/announce
 udp://ismaarino.com:1234/announce
+https://tracker.leechshield.link:443/announce
 udp://tracker.valete.tf:9999/announce
 udp://udp.tracker.projectk.org:23333/announce
 https://tracker.aburaya.live:443/announce
@@ -45,8 +45,8 @@ http://ipv6.rer.lol:6969/announce
 http://torrent.hificode.in:6969/announce
 udp://tracker-udp.gbitt.info:80/announce
 udp://opentracker.io:6969/announce
-http://fleira.no:6969/announce
 udp://torrent.i.ng:6969/announce
+http://fleira.no:6969/announce
 http://tracker.23794.top:6969/announce
 udp://exodus.desync.com:6969/announce
 udp://tr4ck3r.duckdns.org:6969/announce
