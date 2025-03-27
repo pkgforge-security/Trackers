@@ -37,10 +37,10 @@ https://tracker.lilithraws.org:443/announce
 udp://tracker.fnix.net:6969/announce
 http://taciturn-shadow.spb.ru:6969/announce
 udp://www.torrent.eu.org:451/announce
+udp://torrent.i.ng:6969/announce
 http://tracker.ipv6tracker.ru:80/announce
 https://tracker.zhuqiy.top:443/announce
 udp://tracker.opentrackr.org:1337/announce
-udp://torrent.i.ng:6969/announce
 udp://tracker.darkness.services:6969/announce
 http://ipv6.rer.lol:6969/announce
 http://torrent.hificode.in:6969/announce
@@ -49,4 +49,3 @@ udp://opentracker.io:6969/announce
 http://tracker.23794.top:6969/announce
 udp://exodus.desync.com:6969/announce
 udp://tr4ck3r.duckdns.org:6969/announce
-http://fleira.no:6969/announce
