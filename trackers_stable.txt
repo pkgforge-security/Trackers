@@ -19,11 +19,11 @@ http://tracker.privateseedbox.xyz:2710/announce
 udp://ismaarino.com:1234/announce
 https://tracker.leechshield.link:443/announce
 udp://tracker.valete.tf:9999/announce
-udp://udp.tracker.projectk.org:23333/announce
 udp://tracker.kmzs123.cn:17272/announce
 udp://p2p.publictracker.xyz:6969/announce
 udp://retracker.lanta.me:2710/announce
 http://tracker.beeimg.com:6969/announce
+udp://udp.tracker.projectk.org:23333/announce
 udp://p4p.arenabg.com:1337/announce
 udp://tracker.dler.com:6969/announce
 udp://tracker.kmzs123.top:17272/announce
@@ -48,6 +48,6 @@ udp://opentracker.io:6969/announce
 http://torrent.hificode.in:6969/announce
 udp://tracker-udp.gbitt.info:80/announce
 http://tracker.23794.top:6969/announce
-udp://exodus.desync.com:6969/announce
 udp://wepzone.net:6969/announce
+udp://exodus.desync.com:6969/announce
 udp://tr4ck3r.duckdns.org:6969/announce
