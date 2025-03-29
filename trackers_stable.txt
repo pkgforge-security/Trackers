@@ -1,6 +1,7 @@
 udp://open.stealth.si:80/announce
 udp://open.demonii.com:1337/announce
 udp://ttk2.nbaonlineservice.com:6969/announce
+udp://tracker.fnix.net:6969/announce
 udp://evan.im:6969/announce
 https://tracker.yemekyedim.com:443/announce
 udp://martin-gebhardt.eu:25/announce
@@ -14,7 +15,6 @@ udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 http://tracker.bt4g.com:2095/announce
 http://tracker.mywaifu.best:6969/announce
 http://tracker.privateseedbox.xyz:2710/announce
-udp://tracker.fnix.net:6969/announce
 udp://ismaarino.com:1234/announce
 https://tracker.leechshield.link:443/announce
 udp://tracker.valete.tf:9999/announce
@@ -34,11 +34,11 @@ udp://tracker.gmi.gd:6969/announce
 udp://bandito.byterunner.io:6969/announce
 udp://tracker.gigantino.net:6969/announce
 http://bt.okmp3.ru:2710/announce
+udp://tracker.cyberia.is:6969/announce
 http://taciturn-shadow.spb.ru:6969/announce
 udp://tracker.srv00.com:6969/announce
 udp://wepzone.net:6969/announce
 https://tracker.lilithraws.org:443/announce
-udp://tracker.cyberia.is:6969/announce
 http://tracker.ipv6tracker.ru:80/announce
 udp://tracker.opentrackr.org:1337/announce
 udp://tracker.darkness.services:6969/announce
