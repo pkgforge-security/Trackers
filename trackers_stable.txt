@@ -34,9 +34,9 @@ udp://tracker.gmi.gd:6969/announce
 http://bt.okmp3.ru:2710/announce
 udp://bandito.byterunner.io:6969/announce
 udp://tracker.gigantino.net:6969/announce
-https://tracker.lilithraws.org:443/announce
 http://taciturn-shadow.spb.ru:6969/announce
 udp://tracker.srv00.com:6969/announce
+https://tracker.lilithraws.org:443/announce
 http://tracker.ipv6tracker.ru:80/announce
 udp://tracker.opentrackr.org:1337/announce
 https://tracker.zhuqiy.top:443/announce
@@ -51,3 +51,4 @@ udp://tracker-udp.gbitt.info:80/announce
 http://tracker.23794.top:6969/announce
 udp://exodus.desync.com:6969/announce
 udp://tr4ck3r.duckdns.org:6969/announce
+udp://t.overflow.biz:6969/announce
