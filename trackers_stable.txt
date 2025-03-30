@@ -1,4 +1,5 @@
 udp://open.stealth.si:80/announce
+http://bt.okmp3.ru:2710/announce
 udp://open.demonii.com:1337/announce
 udp://ttk2.nbaonlineservice.com:6969/announce
 udp://tracker.fnix.net:6969/announce
@@ -19,7 +20,6 @@ udp://martin-gebhardt.eu:25/announce
 udp://ismaarino.com:1234/announce
 udp://tracker.valete.tf:9999/announce
 udp://tracker.kmzs123.cn:17272/announce
-http://bt.okmp3.ru:2710/announce
 udp://tracker.torrent.eu.org:451/announce
 udp://p2p.publictracker.xyz:6969/announce
 udp://retracker.lanta.me:2710/announce
@@ -51,4 +51,3 @@ udp://tracker-udp.gbitt.info:80/announce
 udp://opentracker.io:6969/announce
 udp://t.overflow.biz:6969/announce
 udp://tr4ck3r.duckdns.org:6969/announce
-udp://exodus.desync.com:6969/announce
