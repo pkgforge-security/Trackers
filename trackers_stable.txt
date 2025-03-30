@@ -35,8 +35,8 @@ udp://tracker.kmzs123.top:17272/announce
 udp://tracker.gmi.gd:6969/announce
 udp://bandito.byterunner.io:6969/announce
 http://bt.okmp3.ru:2710/announce
-http://taciturn-shadow.spb.ru:6969/announce
 udp://tracker.srv00.com:6969/announce
+http://taciturn-shadow.spb.ru:6969/announce
 udp://wepzone.net:6969/announce
 https://tracker.lilithraws.org:443/announce
 http://tracker.ipv6tracker.ru:80/announce
