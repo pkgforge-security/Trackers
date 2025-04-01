@@ -20,6 +20,7 @@ udp://martin-gebhardt.eu:25/announce
 udp://ismaarino.com:1234/announce
 udp://tracker.valete.tf:9999/announce
 udp://tracker.kmzs123.cn:17272/announce
+udp://wepzone.net:6969/announce
 udp://p2p.publictracker.xyz:6969/announce
 udp://retracker.lanta.me:2710/announce
 https://tracker.leechshield.link:443/announce
@@ -29,7 +30,6 @@ udp://p4p.arenabg.com:1337/announce
 udp://tracker.dler.com:6969/announce
 udp://tracker.cyberia.is:6969/announce
 udp://tracker.gigantino.net:6969/announce
-udp://wepzone.net:6969/announce
 udp://tracker.tryhackx.org:6969/announce
 udp://tracker.0x7c0.com:6969/announce
 udp://bandito.byterunner.io:6969/announce
