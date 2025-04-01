@@ -828,6 +828,7 @@ https://tracker.parrotlinux.org/announce
 https://tracker.parrotlinux.org:443/announce
 https://tracker.parrotsec.org/announce
 https://tracker.parrotsec.org:443/announce
+https://tracker.pmman.tech:443/announce
 https://tracker.pterclub.com/announce
 https://tracker.publictorrent.net/announce
 https://tracker.publictorrent.net:443/announce
@@ -977,6 +978,7 @@ udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 udp://elementsbrowser.com:6969/announce
 udp://epider.me:6969/announce
 udp://evan.im:6969/announce
+udp://exodus.desync.com:6969/announce
 udp://explodie.org:6969/announce
 udp://f1sh.de:6969/announce
 udp://fe.dealclub.de:6969/announce
@@ -989,7 +991,6 @@ udp://ipv4.tracker.harry.lu/announce
 udp://ipv4.tracker.harry.lu:80/announce
 udp://ipv4announce.sktorrent.eu:6969/announce
 udp://ipv6.tracker.harry.lu/announce
-udp://isk.richardsw.club:6969/announce
 udp://ismaarino.com:1234/announce
 udp://jutone.com:6969/announce
 udp://keke.re:6969/announce
