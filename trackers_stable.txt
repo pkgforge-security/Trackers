@@ -36,9 +36,9 @@ udp://tracker.0x7c0.com:6969/announce
 udp://bandito.byterunner.io:6969/announce
 udp://tracker.torrent.eu.org:451/announce
 udp://tracker.srv00.com:6969/announce
+https://tracker.lilithraws.org:443/announce
 udp://tracker.gmi.gd:6969/announce
 http://taciturn-shadow.spb.ru:6969/announce
-https://tracker.lilithraws.org:443/announce
 http://tracker.ipv6tracker.ru:80/announce
 udp://tracker.opentrackr.org:1337/announce
 udp://tracker.darkness.services:6969/announce
@@ -48,6 +48,7 @@ http://ipv6.rer.lol:6969/announce
 http://tracker.23794.top:6969/announce
 http://torrent.hificode.in:6969/announce
 udp://tracker-udp.gbitt.info:80/announce
-udp://tr4ck3r.duckdns.org:6969/announce
 udp://opentracker.io:6969/announce
+udp://tr4ck3r.duckdns.org:6969/announce
 udp://t.overflow.biz:6969/announce
+udp://bt.ktrackers.com:6666/announce
