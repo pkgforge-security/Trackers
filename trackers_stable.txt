@@ -11,8 +11,6 @@ http://lucke.fenesisu.moe:6969/announce
 udp://torrent.i.ng:6969/announce
 http://tracker.renfei.net:8080/announce
 udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
-http://4.tracker.devnak.win:6969/announce
-http://6.tracker.devnak.win:6969/announce
 http://tracker.bt4g.com:2095/announce
 http://tracker.mywaifu.best:6969/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
@@ -47,8 +45,8 @@ http://tracker.ipv6tracker.ru:80/announce
 udp://www.torrent.eu.org:451/announce
 http://ipv6.rer.lol:6969/announce
 https://tracker.zhuqiy.top:443/announce
-http://tracker.23794.top:6969/announce
 udp://t.overflow.biz:6969/announce
+http://tracker.23794.top:6969/announce
 udp://tracker-udp.gbitt.info:80/announce
 http://torrent.hificode.in:6969/announce
 udp://opentracker.io:6969/announce
