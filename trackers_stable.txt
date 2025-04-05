@@ -15,13 +15,13 @@ http://ipv4.rer.lol:2710/announce
 http://tracker.bt4g.com:2095/announce
 http://tracker.mywaifu.best:6969/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
+udp://p2p.publictracker.xyz:6969/announce
 http://tracker.privateseedbox.xyz:2710/announce
 udp://tracker.fnix.net:6969/announce
 udp://evan.im:6969/announce
 udp://martin-gebhardt.eu:25/announce
 udp://ismaarino.com:1234/announce
 udp://tracker.kmzs123.cn:17272/announce
-udp://p2p.publictracker.xyz:6969/announce
 udp://retracker.lanta.me:2710/announce
 http://tracker.beeimg.com:6969/announce
 udp://udp.tracker.projectk.org:23333/announce
