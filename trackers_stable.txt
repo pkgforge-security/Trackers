@@ -12,7 +12,6 @@ udp://torrent.i.ng:6969/announce
 http://tracker.renfei.net:8080/announce
 udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 http://ipv4.rer.lol:2710/announce
-udp://tracker.nitrix.me:6969/announce
 http://tracker.bt4g.com:2095/announce
 http://tracker.mywaifu.best:6969/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
@@ -35,12 +34,12 @@ udp://tracker.dler.com:6969/announce
 udp://tracker.torrent.eu.org:451/announce
 udp://tracker.gigantino.net:6969/announce
 https://tracker.leechshield.link:443/announce
-https://tracker.lilithraws.org:443/announce
 udp://tracker.kmzs123.top:17272/announce
 udp://tracker.opentrackr.org:1337/announce
 udp://tracker.darkness.services:6969/announce
 udp://tracker.gmi.gd:6969/announce
 udp://tracker.srv00.com:6969/announce
+https://tracker.lilithraws.org:443/announce
 udp://tracker.tryhackx.org:6969/announce
 http://taciturn-shadow.spb.ru:6969/announce
 http://tracker.ipv6tracker.ru:80/announce
