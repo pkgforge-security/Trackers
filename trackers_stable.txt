@@ -47,8 +47,8 @@ udp://www.torrent.eu.org:451/announce
 https://tracker.zhuqiy.top:443/announce
 http://ipv6.rer.lol:6969/announce
 http://tracker.23794.top:6969/announce
-udp://tracker-udp.gbitt.info:80/announce
 udp://tracker.nitrix.me:6969/announce
+udp://tracker-udp.gbitt.info:80/announce
 udp://tracker.yume-hatsuyuki.moe:6969/announce
 udp://t.overflow.biz:6969/announce
 http://torrent.hificode.in:6969/announce
