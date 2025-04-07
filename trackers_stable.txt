@@ -57,3 +57,4 @@ udp://tr4ck3r.duckdns.org:6969/announce
 udp://opentracker.io:6969/announce
 http://4.tracker.devnak.win:6969/announce
 http://6.tracker.devnak.win:6969/announce
+https://tracker.ghostchu-services.top:443/announce
