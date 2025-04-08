@@ -7,6 +7,7 @@ udp://evan.im:6969/announce
 https://tracker.bjut.jp:443/announce
 https://tr.zukizuki.org:443/announce
 udp://tracker.valete.tf:9999/announce
+udp://udp.tracker.projectk.org:23333/announce
 udp://tracker.kmzs123.cn:17272/announce
 http://lucke.fenesisu.moe:6969/announce
 udp://torrent.i.ng:6969/announce
@@ -23,7 +24,6 @@ https://tracker.yemekyedim.com:443/announce
 udp://martin-gebhardt.eu:25/announce
 udp://ismaarino.com:1234/announce
 http://tracker.beeimg.com:6969/announce
-udp://udp.tracker.projectk.org:23333/announce
 udp://wepzone.net:6969/announce
 udp://tracker.0x7c0.com:6969/announce
 udp://retracker.lanta.me:2710/announce
