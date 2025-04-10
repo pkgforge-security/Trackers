@@ -8,6 +8,7 @@ udp://ttk2.nbaonlineservice.com:6969/announce
 udp://evan.im:6969/announce
 https://tracker.bjut.jp:443/announce
 udp://ismaarino.com:1234/announce
+http://tracker.beeimg.com:6969/announce
 udp://tracker.valete.tf:9999/announce
 udp://udp.tracker.projectk.org:23333/announce
 udp://tracker.kmzs123.cn:17272/announce
@@ -20,7 +21,6 @@ udp://d40969.acod.regrucolo.ru:6969/announce
 http://tracker.privateseedbox.xyz:2710/announce
 udp://tracker.fnix.net:6969/announce
 udp://martin-gebhardt.eu:25/announce
-http://tracker.beeimg.com:6969/announce
 https://tr.zukizuki.org:443/announce
 http://tracker.bt4g.com:2095/announce
 https://tracker.yemekyedim.com:443/announce
