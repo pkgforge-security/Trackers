@@ -34,9 +34,9 @@ udp://tracker.torrent.eu.org:451/announce
 udp://tracker.0x7c0.com:6969/announce
 udp://bandito.byterunner.io:6969/announce
 udp://tracker.gigantino.net:6969/announce
-https://tracker.leechshield.link:443/announce
 udp://tracker.srv00.com:6969/announce
 udp://tracker.darkness.services:6969/announce
+https://tracker.leechshield.link:443/announce
 http://taciturn-shadow.spb.ru:6969/announce
 udp://tracker.nitrix.me:6969/announce
 https://tracker.lilithraws.org:443/announce
@@ -53,7 +53,7 @@ http://tracker.23794.top:6969/announce
 http://4.tracker.devnak.win:6969/announce
 http://6.tracker.devnak.win:6969/announce
 https://tracker.ghostchu-services.top:443/announce
-udp://opentracker.io:6969/announce
 udp://tracker.qu.ax:6969/announce
+udp://opentracker.io:6969/announce
 udp://tr4ck3r.duckdns.org:6969/announce
 http://torrent.hificode.in:6969/announce
