@@ -48,8 +48,8 @@ udp://tracker.kmzs123.top:17272/announce
 udp://tracker.gmi.gd:6969/announce
 udp://tracker-udp.gbitt.info:80/announce
 udp://tracker.yume-hatsuyuki.moe:6969/announce
-http://ipv6.rer.lol:6969/announce
 https://tracker.expli.top:443/announce
+http://ipv6.rer.lol:6969/announce
 udp://retracker.hotplug.ru:2710/announce
 http://tracker.23794.top:6969/announce
 https://tracker.ghostchu-services.top:443/announce
