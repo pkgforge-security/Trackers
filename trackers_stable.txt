@@ -45,8 +45,8 @@ udp://tracker.tryhackx.org:6969/announce
 http://tracker.ipv6tracker.ru:80/announce
 udp://www.torrent.eu.org:451/announce
 https://tracker.zhuqiy.top:443/announce
-udp://tracker.gmi.gd:6969/announce
 udp://tracker.kmzs123.top:17272/announce
+udp://tracker.gmi.gd:6969/announce
 udp://tracker.yume-hatsuyuki.moe:6969/announce
 udp://tracker-udp.gbitt.info:80/announce
 http://ipv6.rer.lol:6969/announce
