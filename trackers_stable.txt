@@ -40,8 +40,8 @@ udp://tracker.nitrix.me:6969/announce
 udp://tracker.srv00.com:6969/announce
 http://taciturn-shadow.spb.ru:6969/announce
 https://tracker.leechshield.link:443/announce
-https://tracker.lilithraws.org:443/announce
 udp://tracker.tryhackx.org:6969/announce
+https://tracker.lilithraws.org:443/announce
 http://tracker.ipv6tracker.ru:80/announce
 udp://www.torrent.eu.org:451/announce
 https://tracker.zhuqiy.top:443/announce
