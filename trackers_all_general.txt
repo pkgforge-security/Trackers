@@ -69,6 +69,7 @@ https://tracker.bt4g.com:443/announce
 https://tracker.expli.top:443/announce
 https://tracker.gcrenwp.top:443/announce
 https://tracker.ghostchu-services.top:443/announce
+https://tracker.jdx3.org:443/announce
 https://tracker.leechshield.link:443/announce
 https://tracker.lilithraws.org:443/announce
 https://tracker.linvk.com:443/announce
