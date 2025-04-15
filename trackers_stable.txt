@@ -57,3 +57,4 @@ https://tracker.ghostchu-services.top:443/announce
 http://tracker.23794.top:6969/announce
 https://tracker.jdx3.org:443/announce
 udp://opentracker.io:6969/announce
+udp://tracker.home.kmzs123.cn:17272/announce
