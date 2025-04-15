@@ -136,6 +136,7 @@ http://51.81.46.170:6969/announce
 http://52.70.94.249/announce
 http://54.39.98.124/announce
 http://54.39.98.124:80/announce
+http://6.tracker.devnak.win:6969/announce
 http://60-fps.org/bt/announce.php
 http://60-fps.org/bt:80/announce.php
 http://60-fps.org:80/bt/announce.php
