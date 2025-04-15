@@ -33,10 +33,10 @@ udp://p4p.arenabg.com:1337/announce
 udp://retracker.hotplug.ru:2710/announce
 udp://tracker.fnix.net:6969/announce
 udp://tracker.dler.com:6969/announce
-udp://tracker.0x7c0.com:6969/announce
 udp://tracker.darkness.services:6969/announce
-udp://tracker.torrent.eu.org:451/announce
 https://tracker.lilithraws.org:443/announce
+udp://tracker.0x7c0.com:6969/announce
+udp://tracker.torrent.eu.org:451/announce
 udp://bandito.byterunner.io:6969/announce
 udp://tracker.gigantino.net:6969/announce
 udp://tracker.yume-hatsuyuki.moe:6969/announce
