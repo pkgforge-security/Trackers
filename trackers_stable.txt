@@ -4,7 +4,6 @@ http://bt.okmp3.ru:2710/announce
 http://tracker.mywaifu.best:6969/announce
 udp://open.demonii.com:1337/announce
 udp://tracker.qu.ax:6969/announce
-udp://p2p.publictracker.xyz:6969/announce
 udp://ttk2.nbaonlineservice.com:6969/announce
 udp://evan.im:6969/announce
 https://tracker.yemekyedim.com:443/announce
@@ -18,8 +17,10 @@ udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 http://ns3109441.mypdns.org:6969/announce
 http://chihaya.de:80/announce
 http://6.tracker.devnak.win:6969/announce
+udp://4.tracker.devnak.win:6969/announce
 udp://tracker.opentrackr.org:1337/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
+udp://p2p.publictracker.xyz:6969/announce
 http://tracker.privateseedbox.xyz:2710/announce
 https://tracker.jdx3.org:443/announce
 udp://retracker.lanta.me:2710/announce
@@ -55,6 +56,6 @@ http://ipv6.rer.lol:6969/announce
 udp://tracker.gmi.gd:6969/announce
 https://tracker.ghostchu-services.top:443/announce
 http://tracker.23794.top:6969/announce
-http://torrent.hificode.in:6969/announce
 udp://opentracker.io:6969/announce
+http://torrent.hificode.in:6969/announce
 udp://tracker.home.kmzs123.cn:17272/announce
