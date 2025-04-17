@@ -45,8 +45,8 @@ udp://tracker.srv00.com:6969/announce
 udp://wepzone.net:6969/announce
 udp://tracker.tryhackx.org:6969/announce
 http://tracker.ipv6tracker.ru:80/announce
-https://tracker.leechshield.link:443/announce
 udp://www.torrent.eu.org:451/announce
+https://tracker.leechshield.link:443/announce
 udp://tracker-udp.gbitt.info:80/announce
 https://tracker.zhuqiy.top:443/announce
 https://tracker.expli.top:443/announce
