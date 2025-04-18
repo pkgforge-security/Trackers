@@ -49,8 +49,8 @@ udp://www.torrent.eu.org:451/announce
 https://tracker.leechshield.link:443/announce
 udp://tracker-udp.gbitt.info:80/announce
 https://tracker.zhuqiy.top:443/announce
-https://tracker.expli.top:443/announce
 udp://tracker.kmzs123.top:17272/announce
+https://tracker.expli.top:443/announce
 http://ipv6.rer.lol:6969/announce
 udp://tracker.gmi.gd:6969/announce
 http://tracker.23794.top:6969/announce
