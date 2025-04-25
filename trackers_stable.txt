@@ -60,4 +60,3 @@ http://tracker.23794.top:6969/announce
 udp://tracker.gmi.gd:6969/announce
 https://tracker.expli.top:443/announce
 udp://tracker.filemail.com:6969/announce
-udp://tr4ck3r.duckdns.org:6969/announce
