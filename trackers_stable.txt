@@ -1,3 +1,4 @@
+udp://tracker.opentrackr.org:1337/announce
 udp://open.stealth.si:80/announce
 udp://tracker.cyberia.is:6969/announce
 http://bt.okmp3.ru:2710/announce
@@ -19,7 +20,6 @@ udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 http://ns3109441.mypdns.org:6969/announce
 https://tr.nyacat.pw:443/announce
 udp://tracker.therarbg.to:6969/announce
-udp://tracker.opentrackr.org:1337/announce
 http://tracker.bt4g.com:2095/announce
 udp://tracker-udp.gbitt.info:80/announce
 udp://retracker01-msk-virt.corbina.net:80/announce
