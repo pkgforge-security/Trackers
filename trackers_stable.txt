@@ -22,6 +22,7 @@ http://ns3109441.mypdns.org:6969/announce
 https://tr.nyacat.pw:443/announce
 udp://tracker.therarbg.to:6969/announce
 udp://tracker.ducks.party:1984/announce
+udp://tracker.trackarr.org:6969/announce
 http://tracker.bt4g.com:2095/announce
 udp://tracker-udp.gbitt.info:80/announce
 udp://retracker01-msk-virt.corbina.net:80/announce
