@@ -52,12 +52,12 @@ http://tracker.ipv6tracker.ru:80/announce
 https://tracker.lilithraws.org:443/announce
 udp://tracker.trackarr.org:6969/announce
 udp://www.torrent.eu.org:451/announce
-http://ns3109441.mypdns.org:6969/announce
 udp://tracker.dler.com:6969/announce
+http://ns3109441.mypdns.org:6969/announce
 udp://tracker.tryhackx.org:6969/announce
 https://tracker.ghostchu-services.top:443/announce
-udp://tracker.gmi.gd:6969/announce
 https://tracker.leechshield.link:443/announce
 http://tracker.23794.top:6969/announce
+udp://tracker.gmi.gd:6969/announce
 https://tracker.expli.top:443/announce
 udp://tracker.filemail.com:6969/announce
