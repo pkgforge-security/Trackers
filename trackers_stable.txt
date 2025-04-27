@@ -20,7 +20,6 @@ http://lucke.fenesisu.moe:6969/announce
 udp://torrent.i.ng:6969/announce
 http://tracker.renfei.net:8080/announce
 udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
-https://tr.nyacat.pw:443/announce
 udp://tracker.therarbg.to:6969/announce
 udp://tracker.ducks.party:1984/announce
 http://tracker.bt4g.com:2095/announce
@@ -32,6 +31,7 @@ udp://evan.im:6969/announce
 udp://ismaarino.com:1234/announce
 https://tr.zukizuki.org:443/announce
 udp://tracker.yume-hatsuyuki.moe:6969/announce
+https://tr.nyacat.pw:443/announce
 http://chihaya.de:80/announce
 udp://retracker.hotplug.ru:2710/announce
 udp://tracker.fnix.net:6969/announce
@@ -52,13 +52,14 @@ https://tracker.lilithraws.org:443/announce
 https://tracker.zhuqiy.top:443/announce
 http://tracker.ipv6tracker.ru:80/announce
 udp://www.torrent.eu.org:451/announce
-udp://tracker-udp.gbitt.info:80/announce
 udp://tracker.dler.com:6969/announce
+udp://tracker-udp.gbitt.info:80/announce
 udp://tracker.tryhackx.org:6969/announce
 https://tracker.ghostchu-services.top:443/announce
 https://tracker.leechshield.link:443/announce
 http://tracker.23794.top:6969/announce
-https://tracker.expli.top:443/announce
 udp://tracker.gmi.gd:6969/announce
+https://tracker.expli.top:443/announce
 udp://tracker.filemail.com:6969/announce
 udp://t.overflow.biz:6969/announce
+http://torrent.hificode.in:6969/announce
