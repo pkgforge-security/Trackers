@@ -28,7 +28,6 @@ udp://tracker.torrent.eu.org:451/announce
 udp://open.demonii.com:1337/announce
 http://tracker.privateseedbox.xyz:2710/announce
 udp://evan.im:6969/announce
-https://tracker.yemekyedim.com:443/announce
 udp://ismaarino.com:1234/announce
 udp://tracker.gigantino.net:6969/announce
 https://tr.zukizuki.org:443/announce
@@ -36,13 +35,14 @@ udp://tracker.yume-hatsuyuki.moe:6969/announce
 http://chihaya.de:80/announce
 udp://retracker.hotplug.ru:2710/announce
 udp://tracker.fnix.net:6969/announce
+https://tracker.yemekyedim.com:443/announce
 udp://tracker.kmzs123.cn:17272/announce
 udp://p4p.arenabg.com:1337/announce
-udp://tracker-udp.gbitt.info:80/announce
 udp://tracker.darkness.services:6969/announce
 udp://wepzone.net:6969/announce
 udp://p2p.publictracker.xyz:6969/announce
 udp://bandito.byterunner.io:6969/announce
+udp://tracker-udp.gbitt.info:80/announce
 udp://tracker.0x7c0.com:6969/announce
 udp://tracker.srv00.com:6969/announce
 udp://tracker.kmzs123.top:17272/announce
@@ -53,11 +53,11 @@ https://tracker.zhuqiy.top:443/announce
 http://tracker.ipv6tracker.ru:80/announce
 udp://www.torrent.eu.org:451/announce
 udp://tracker.dler.com:6969/announce
-udp://tracker.tryhackx.org:6969/announce
 udp://torrent.i.ng:6969/announce
+udp://tracker.tryhackx.org:6969/announce
 https://tracker.ghostchu-services.top:443/announce
 http://tracker.23794.top:6969/announce
 udp://tracker.gmi.gd:6969/announce
-https://tracker.expli.top:443/announce
 https://tracker.leechshield.link:443/announce
+https://tracker.expli.top:443/announce
 udp://tracker.filemail.com:6969/announce
