@@ -33,11 +33,11 @@ https://tracker.yemekyedim.com:443/announce
 udp://ismaarino.com:1234/announce
 udp://tracker.gigantino.net:6969/announce
 https://tr.zukizuki.org:443/announce
+udp://tracker.yume-hatsuyuki.moe:6969/announce
 http://chihaya.de:80/announce
 udp://retracker.hotplug.ru:2710/announce
 udp://tracker.fnix.net:6969/announce
 udp://tracker.darkness.services:6969/announce
-udp://tracker.yume-hatsuyuki.moe:6969/announce
 udp://tracker.kmzs123.cn:17272/announce
 udp://p4p.arenabg.com:1337/announce
 udp://wepzone.net:6969/announce
@@ -57,8 +57,8 @@ udp://tracker.tryhackx.org:6969/announce
 https://tracker.ghostchu-services.top:443/announce
 http://tracker.23794.top:6969/announce
 udp://tracker.gmi.gd:6969/announce
+udp://torrent.i.ng:6969/announce
 https://tracker.leechshield.link:443/announce
 https://tracker.expli.top:443/announce
-udp://torrent.i.ng:6969/announce
 udp://tracker.filemail.com:6969/announce
 http://ns3109441.mypdns.org:6969/announce
