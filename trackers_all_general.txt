@@ -86,7 +86,6 @@ udp://bt.rer.lol:6969/announce
 udp://chihaya.de:6969/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
 udp://discord.heihachi.pw:6969/announce
-udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 udp://evan.im:6969/announce
 udp://explodie.org:6969/announce
 udp://ipv4.rer.lol:2710/announce
