@@ -17,7 +17,6 @@ https://tracker.bjut.jp:443/announce
 http://tracker.beeimg.com:6969/announce
 https://tr.zukizuki.org:443/announce
 udp://tracker.yume-hatsuyuki.moe:6969/announce
-udp://udp.tracker.projectk.org:23333/announce
 https://tracker.aburaya.live:443/announce
 http://lucke.fenesisu.moe:6969/announce
 udp://torrent.i.ng:6969/announce
@@ -28,6 +27,7 @@ udp://tracker.torrent.eu.org:451/announce
 http://tracker.privateseedbox.xyz:2710/announce
 https://tracker.yemekyedim.com:443/announce
 udp://tracker.valete.tf:9999/announce
+udp://udp.tracker.projectk.org:23333/announce
 https://tr.nyacat.pw:443/announce
 http://chihaya.de:80/announce
 udp://p4p.arenabg.com:1337/announce
@@ -48,8 +48,8 @@ http://ipv6.rer.lol:6969/announce
 https://tracker.zhuqiy.top:443/announce
 http://tracker.ipv6tracker.ru:80/announce
 udp://www.torrent.eu.org:451/announce
-udp://tracker.dler.com:6969/announce
 https://tracker.ghostchu-services.top:443/announce
+udp://tracker.dler.com:6969/announce
 udp://tracker.tryhackx.org:6969/announce
 udp://ismaarino.com:1234/announce
 https://tracker.expli.top:443/announce
