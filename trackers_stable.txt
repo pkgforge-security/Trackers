@@ -59,4 +59,3 @@ udp://tracker.filemail.com:6969/announce
 udp://tracker.gmi.gd:6969/announce
 https://tracker.leechshield.link:443/announce
 http://torrent.hificode.in:6969/announce
-udp://wepzone.net:6969/announce
