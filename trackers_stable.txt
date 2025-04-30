@@ -43,8 +43,8 @@ udp://tracker.kmzs123.top:17272/announce
 udp://tracker.srv00.com:6969/announce
 udp://tracker.0x7c0.com:6969/announce
 udp://tracker.trackarr.org:6969/announce
-http://ipv6.rer.lol:6969/announce
 https://tracker.lilithraws.org:443/announce
+http://ipv6.rer.lol:6969/announce
 https://tracker.zhuqiy.top:443/announce
 http://tracker.ipv6tracker.ru:80/announce
 udp://www.torrent.eu.org:451/announce
