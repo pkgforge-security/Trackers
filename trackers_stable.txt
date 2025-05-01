@@ -50,9 +50,9 @@ http://tracker.ipv6tracker.ru:80/announce
 https://tracker.zhuqiy.top:443/announce
 udp://www.torrent.eu.org:451/announce
 udp://tracker.dler.com:6969/announce
+https://tracker.expli.top:443/announce
 udp://tracker.tryhackx.org:6969/announce
 udp://ismaarino.com:1234/announce
-https://tracker.expli.top:443/announce
 udp://t.overflow.biz:6969/announce
 udp://tracker.filemail.com:6969/announce
 udp://tracker.gmi.gd:6969/announce
