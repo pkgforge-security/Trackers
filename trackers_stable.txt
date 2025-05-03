@@ -22,6 +22,7 @@ udp://torrent.i.ng:6969/announce
 http://tracker.renfei.net:8080/announce
 https://tr.nyacat.pw:443/announce
 udp://tracker.ducks.party:1984/announce
+http://tracker.tritan.gg:8080/announce
 udp://retracker.hotplug.ru:2710/announce
 udp://tracker.torrent.eu.org:451/announce
 http://tracker.privateseedbox.xyz:2710/announce
