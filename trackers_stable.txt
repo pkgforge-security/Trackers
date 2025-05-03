@@ -1,6 +1,7 @@
 udp://tracker.opentrackr.org:1337/announce
 udp://open.stealth.si:80/announce
 udp://tracker.cyberia.is:6969/announce
+udp://retracker.hotplug.ru:2710/announce
 http://tracker.bt4g.com:2095/announce
 http://bt.okmp3.ru:2710/announce
 http://tracker.mywaifu.best:6969/announce
@@ -23,7 +24,6 @@ http://tracker.renfei.net:8080/announce
 https://tr.nyacat.pw:443/announce
 udp://tracker.ducks.party:1984/announce
 http://tracker.tritan.gg:8080/announce
-udp://retracker.hotplug.ru:2710/announce
 udp://tracker.torrent.eu.org:451/announce
 http://tracker.privateseedbox.xyz:2710/announce
 udp://tracker.valete.tf:9999/announce
