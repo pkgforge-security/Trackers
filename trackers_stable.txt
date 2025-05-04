@@ -58,5 +58,5 @@ udp://t.overflow.biz:6969/announce
 https://tracker.leechshield.link:443/announce
 udp://tracker.filemail.com:6969/announce
 udp://tracker.gmi.gd:6969/announce
-http://torrent.hificode.in:6969/announce
 udp://opentracker.io:6969/announce
+http://torrent.hificode.in:6969/announce
