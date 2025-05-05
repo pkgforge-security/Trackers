@@ -43,9 +43,9 @@ http://tracker.privateseedbox.xyz:2710/announce
 https://tracker.yemekyedim.com:443/announce
 udp://tracker.kmzs123.top:17272/announce
 http://ipv6.rer.lol:6969/announce
+http://tracker.tritan.gg:8080/announce
 https://tracker.lilithraws.org:443/announce
 udp://tracker.0x7c0.com:6969/announce
-http://tracker.tritan.gg:8080/announce
 http://tracker.ipv6tracker.ru:80/announce
 https://tracker.zhuqiy.top:443/announce
 udp://www.torrent.eu.org:451/announce
@@ -53,9 +53,9 @@ udp://tracker.dler.com:6969/announce
 https://tracker.expli.top:443/announce
 udp://ismaarino.com:1234/announce
 udp://tracker.tryhackx.org:6969/announce
-udp://t.overflow.biz:6969/announce
 https://tracker.leechshield.link:443/announce
 udp://tracker.filemail.com:6969/announce
+udp://t.overflow.biz:6969/announce
 udp://tracker.gmi.gd:6969/announce
 udp://opentracker.io:6969/announce
 http://torrent.hificode.in:6969/announce
