@@ -57,5 +57,5 @@ udp://tracker.tryhackx.org:6969/announce
 https://tracker.leechshield.link:443/announce
 udp://tracker.gmi.gd:6969/announce
 udp://tracker.filemail.com:6969/announce
-http://torrent.hificode.in:6969/announce
 udp://tr4ck3r.duckdns.org:6969/announce
+http://torrent.hificode.in:6969/announce
