@@ -47,8 +47,8 @@ udp://tracker.0x7c0.com:6969/announce
 http://tracker.ipv6tracker.ru:80/announce
 https://tracker.lilithraws.org:443/announce
 https://tracker.zhuqiy.top:443/announce
-udp://thouvenin.cloud:6969/announce
 udp://www.torrent.eu.org:451/announce
+udp://thouvenin.cloud:6969/announce
 https://tracker.expli.top:443/announce
 udp://tracker.dler.com:6969/announce
 udp://t.overflow.biz:6969/announce
