@@ -19,6 +19,7 @@ http://tracker.beeimg.com:6969/announce
 http://lucke.fenesisu.moe:6969/announce
 http://tracker.renfei.net:8080/announce
 udp://tracker.ducks.party:1984/announce
+https://tracker.itscraftsoftware.my.id:443/announce
 udp://p4p.arenabg.com:1337/announce
 udp://tracker.fnix.net:6969/announce
 udp://tracker.valete.tf:9999/announce
