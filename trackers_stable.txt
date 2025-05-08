@@ -54,8 +54,8 @@ udp://www.torrent.eu.org:451/announce
 udp://tracker.gmi.gd:6969/announce
 udp://t.overflow.biz:6969/announce
 udp://ismaarino.com:1234/announce
-udp://tracker.dler.com:6969/announce
 udp://tracker.tryhackx.org:6969/announce
+udp://tracker.dler.com:6969/announce
 udp://tracker.trackarr.org:6969/announce
 http://torrent.hificode.in:6969/announce
 udp://tr4ck3r.duckdns.org:6969/announce
