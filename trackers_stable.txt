@@ -57,6 +57,6 @@ udp://t.overflow.biz:6969/announce
 udp://tracker.tryhackx.org:6969/announce
 udp://tracker.dler.com:6969/announce
 http://torrent.hificode.in:6969/announce
-udp://tracker.trackarr.org:6969/announce
 udp://opentracker.io:6969/announce
+udp://tracker.trackarr.org:6969/announce
 udp://tr4ck3r.duckdns.org:6969/announce
