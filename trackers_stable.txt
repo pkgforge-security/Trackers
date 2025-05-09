@@ -46,8 +46,8 @@ udp://tracker.yume-hatsuyuki.moe:6969/announce
 http://tracker.tritan.gg:8080/announce
 https://tracker.zhuqiy.top:443/announce
 http://tracker.privateseedbox.xyz:2710/announce
-https://tracker.expli.top:443/announce
 https://tracker.itscraftsoftware.my.id:443/announce
+https://tracker.expli.top:443/announce
 udp://www.torrent.eu.org:451/announce
 udp://thouvenin.cloud:6969/announce
 udp://tracker.gmi.gd:6969/announce
