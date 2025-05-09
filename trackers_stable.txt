@@ -29,9 +29,9 @@ udp://open.demonii.com:1337/announce
 http://chihaya.de:80/announce
 udp://bandito.byterunner.io:6969/announce
 udp://tracker.gigantino.net:6969/announce
-udp://tracker.kmzs123.cn:17272/announce
 udp://tracker.kmzs123.top:17272/announce
 udp://p2p.publictracker.xyz:6969/announce
+udp://tracker.kmzs123.cn:17272/announce
 https://tracker.ghostchu-services.top:443/announce
 udp://udp.tracker.projectk.org:23333/announce
 udp://tracker.srv00.com:6969/announce
@@ -48,9 +48,9 @@ https://tracker.zhuqiy.top:443/announce
 http://tracker.privateseedbox.xyz:2710/announce
 https://tracker.expli.top:443/announce
 https://tracker.itscraftsoftware.my.id:443/announce
+https://tracker.leechshield.link:443/announce
 udp://www.torrent.eu.org:451/announce
 udp://thouvenin.cloud:6969/announce
-https://tracker.leechshield.link:443/announce
 udp://tracker.gmi.gd:6969/announce
 udp://ismaarino.com:1234/announce
 udp://t.overflow.biz:6969/announce
