@@ -374,7 +374,6 @@ http://prestige.minimafia.nl:443/announce
 http://private.minimafia.nl:443/announce
 http://proaudiotorrents.org/announce.php
 http://proaudiotorrents.org:80/announce.php
-http://public.tracker.vraphim.com:6969/announce
 http://region.nl1.privex.cc:6969/announce
 http://reisub.nsupdate.info:6969/announce
 http://retracker.joxnet.ru/announce
@@ -511,6 +510,7 @@ http://tracker.gbitt.info/announce
 http://tracker.gbitt.info:80/announce
 http://tracker.gcvchp.com:2710/announce
 http://tracker.gdp.pw:900/announce
+http://tracker.ghostchu-services.top:80/announce
 http://tracker.gigatorrents.ws:2710/announce
 http://tracker.h0me.cc:8880/announce
 http://tracker.hiyj.cn/announce
@@ -710,6 +710,7 @@ https://opentracker.i2p.rocks:443/announce
 https://opentracker.xyz/announce
 https://opentracker.xyz:443/announce
 https://seeders-paradise.org/announce
+https://sparkle.ghostchu-services.top:443/announce
 https://t.btcland.xyz/announce
 https://t.btcland.xyz:443/announce
 https://t.quic.ws/announce
@@ -982,7 +983,6 @@ udp://download.nerocloud.me:6969/announce
 udp://elementsbrowser.com:6969/announce
 udp://epider.me:6969/announce
 udp://evan.im:6969/announce
-udp://exodus.desync.com:6969/announce
 udp://explodie.org:6969/announce
 udp://extracker.dahrkael.net:6969/announce
 udp://f1sh.de:6969/announce
@@ -1125,6 +1125,7 @@ udp://tracker.srv00.com:6969/announce
 udp://tracker.swateam.org.uk:2710/announce
 udp://tracker.sylphix.com:6969/announce
 udp://tracker.tcp.exchange:6969/announce
+udp://tracker.theoks.net:6969/announce
 udp://tracker.therarbg.to:6969/announce
 udp://tracker.tiny-vps.com:6969/announce
 udp://tracker.torrent.eu.org:451/announce
@@ -1140,7 +1141,6 @@ udp://tracker.zemoj.com:6969/announce
 udp://tracker.zerobytes.xyz:1337/announce
 udp://tracker1.bt.moack.co.kr:80/announce
 udp://tracker1.itzmx.com:8080/announce
-udp://tracker1.myporn.club:9337/announce
 udp://tracker2.dler.com:80/announce
 udp://tracker2.dler.org:80/announce
 udp://tracker2.itzmx.com:6961/announce
