@@ -1,4 +1,5 @@
 udp://tracker.opentrackr.org:1337/announce
+udp://p4p.arenabg.com:1337/announce
 udp://open.stealth.si:80/announce
 udp://retracker.hotplug.ru:2710/announce
 http://tracker.bt4g.com:2095/announce
@@ -20,7 +21,6 @@ https://tracker.expli.top:443/announce
 https://tr.nyacat.pw:443/announce
 udp://tracker.ducks.party:1984/announce
 udp://tracker.kmzs123.cn:17272/announce
-udp://p4p.arenabg.com:1337/announce
 http://bt.okmp3.ru:2710/announce
 udp://retracker.lanta.me:2710/announce
 udp://tracker.valete.tf:9999/announce
@@ -33,13 +33,13 @@ https://tracker.aburaya.live:443/announce
 udp://udp.tracker.projectk.org:23333/announce
 https://tracker.itscraftsoftware.my.id:443/announce
 https://tracker.yemekyedim.com:443/announce
+udp://tracker.deadorbit.nl:6969/announce
 udp://p2p.publictracker.xyz:6969/announce
 udp://tracker.kmzs123.top:17272/announce
 udp://tracker.srv00.com:6969/announce
 udp://tracker.therarbg.to:6969/announce
 udp://tracker.cyberia.is:6969/announce
 udp://tracker.0x7c0.com:6969/announce
-udp://tracker.deadorbit.nl:6969/announce
 https://tracker.ghostchu-services.top:443/announce
 http://ipv6.rer.lol:6969/announce
 udp://tracker.darkness.services:6969/announce
