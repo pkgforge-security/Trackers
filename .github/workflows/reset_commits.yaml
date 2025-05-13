@@ -94,7 +94,7 @@ jobs:
 
       - name: Releaser (Resetter)
         if: env.RESET_HISTORY == 'YES'
-        uses: softprops/action-gh-release@v2.2.1
+        uses: softprops/action-gh-release@v2.2.2
         with:
           name: "reset-${{ env.UTC_TIME }}"
           tag_name: "reset-${{ env.UTC_TIME }}"
