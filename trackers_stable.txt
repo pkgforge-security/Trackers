@@ -56,7 +56,7 @@ udp://ismaarino.com:1234/announce
 udp://tracker.dler.com:6969/announce
 https://tracker.leechshield.link:443/announce
 udp://tracker.tryhackx.org:6969/announce
-udp://t.overflow.biz:6969/announce
 http://tracker.tritan.gg:8080/announce
+udp://t.overflow.biz:6969/announce
 http://torrent.hificode.in:6969/announce
 udp://extracker.dahrkael.net:6969/announce
