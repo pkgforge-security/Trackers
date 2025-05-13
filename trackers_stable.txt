@@ -40,11 +40,11 @@ udp://tracker.therarbg.to:6969/announce
 udp://tracker.0x7c0.com:6969/announce
 https://tracker.ghostchu-services.top:443/announce
 udp://tracker.cyberia.is:6969/announce
+https://tracker.lilithraws.org:443/announce
 http://ipv6.rer.lol:6969/announce
 udp://tracker.darkness.services:6969/announce
 https://tr.zukizuki.org:443/announce
 udp://tracker.kmzs123.top:17272/announce
-https://tracker.lilithraws.org:443/announce
 http://tracker.ipv6tracker.ru:80/announce
 https://tracker.zhuqiy.top:443/announce
 http://tracker.privateseedbox.xyz:2710/announce
