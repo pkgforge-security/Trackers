@@ -7,6 +7,7 @@ http://tracker.mywaifu.best:6969/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
 udp://ttk2.nbaonlineservice.com:6969/announce
 udp://tracker.fnix.net:6969/announce
+https://tracker.yemekyedim.com:443/announce
 https://tracker.jdx3.org:443/announce
 udp://martin-gebhardt.eu:25/announce
 udp://tracker.deadorbit.nl:6969/announce
@@ -31,7 +32,6 @@ https://tracker.aburaya.live:443/announce
 udp://tracker.kmzs123.cn:17272/announce
 udp://evan.im:6969/announce
 udp://bandito.byterunner.io:6969/announce
-https://tracker.yemekyedim.com:443/announce
 udp://udp.tracker.projectk.org:23333/announce
 http://chihaya.de:80/announce
 udp://p2p.publictracker.xyz:6969/announce
@@ -60,4 +60,3 @@ https://tracker.leechshield.link:443/announce
 http://tracker.netmap.top:6969/announce
 udp://tracker.tryhackx.org:6969/announce
 udp://tracker.dler.com:6969/announce
-http://0123456789nonexistent.com:80/announce
