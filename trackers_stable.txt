@@ -30,8 +30,8 @@ https://tracker.aburaya.live:443/announce
 udp://tracker.kmzs123.cn:17272/announce
 https://tracker.itscraftsoftware.my.id:443/announce
 udp://tracker.gigantino.net:6969/announce
-http://chihaya.de:80/announce
 udp://bandito.byterunner.io:6969/announce
+http://chihaya.de:80/announce
 udp://p2p.publictracker.xyz:6969/announce
 https://tracker.yemekyedim.com:443/announce
 udp://udp.tracker.projectk.org:23333/announce
