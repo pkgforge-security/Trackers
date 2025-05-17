@@ -58,6 +58,6 @@ udp://t.overflow.biz:6969/announce
 http://tracker.tritan.gg:8080/announce
 http://0123456789nonexistent.com:80/announce
 udp://tracker.tryhackx.org:6969/announce
-https://tracker.itscraftsoftware.my.id:443/announce
 udp://tracker.dler.com:6969/announce
+https://tracker.itscraftsoftware.my.id:443/announce
 udp://opentracker.io:6969/announce
