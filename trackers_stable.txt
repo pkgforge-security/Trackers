@@ -57,5 +57,5 @@ http://0123456789nonexistent.com:80/announce
 udp://tracker.tryhackx.org:6969/announce
 udp://t.overflow.biz:6969/announce
 http://tracker.tritan.gg:8080/announce
-udp://tracker.valete.tf:9999/announce
 udp://tracker.dler.com:6969/announce
+udp://tracker.valete.tf:9999/announce
