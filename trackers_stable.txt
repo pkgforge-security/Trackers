@@ -50,8 +50,8 @@ udp://thouvenin.cloud:6969/announce
 http://tracker.privateseedbox.xyz:2710/announce
 http://tracker.netmap.top:6969/announce
 udp://tracker.yume-hatsuyuki.moe:6969/announce
-http://torrent.hificode.in:6969/announce
 https://tracker.ghostchu-services.top:443/announce
+http://torrent.hificode.in:6969/announce
 https://tracker.leechshield.link:443/announce
 udp://tracker.tryhackx.org:6969/announce
 http://0123456789nonexistent.com:80/announce
