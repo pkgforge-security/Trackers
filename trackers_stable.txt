@@ -42,9 +42,9 @@ udp://p2p.publictracker.xyz:6969/announce
 https://tr.zukizuki.org:443/announce
 http://ipv6.rer.lol:6969/announce
 udp://tracker.gmi.gd:6969/announce
+http://tracker.netmap.top:6969/announce
 udp://www.torrent.eu.org:451/announce
 http://tracker.ipv6tracker.ru:80/announce
-http://tracker.netmap.top:6969/announce
 https://tracker.zhuqiy.top:443/announce
 udp://tracker.cyberia.is:6969/announce
 https://tracker.lilithraws.org:443/announce
