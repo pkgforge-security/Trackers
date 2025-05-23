@@ -51,8 +51,8 @@ udp://tracker.kmzs123.top:17272/announce
 https://tracker.lilithraws.org:443/announce
 udp://thouvenin.cloud:6969/announce
 http://tracker.privateseedbox.xyz:2710/announce
-udp://tracker.yume-hatsuyuki.moe:6969/announce
 https://tracker.leechshield.link:443/announce
+udp://tracker.yume-hatsuyuki.moe:6969/announce
 http://torrent.hificode.in:6969/announce
 http://taciturn-shadow.spb.ru:6969/announce
 https://tracker.ghostchu-services.top:443/announce
