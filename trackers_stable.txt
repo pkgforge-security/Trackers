@@ -46,7 +46,6 @@ udp://www.torrent.eu.org:451/announce
 http://tracker.ipv6tracker.ru:80/announce
 https://tracker.zhuqiy.top:443/announce
 udp://tracker.cyberia.is:6969/announce
-udp://tracker.bitcoinindia.space:6969/announce
 udp://thouvenin.cloud:6969/announce
 udp://tracker.kmzs123.top:17272/announce
 http://tracker.privateseedbox.xyz:2710/announce
@@ -59,4 +58,5 @@ http://tracker.tritan.gg:8080/announce
 udp://t.overflow.biz:6969/announce
 udp://tracker.tryhackx.org:6969/announce
 http://0123456789nonexistent.com:80/announce
+udp://tracker.bitcoinindia.space:6969/announce
 udp://bt.ktrackers.com:6666/announce
