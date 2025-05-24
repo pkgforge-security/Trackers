@@ -56,6 +56,6 @@ http://torrent.hificode.in:6969/announce
 http://taciturn-shadow.spb.ru:6969/announce
 https://tracker.ghostchu-services.top:443/announce
 http://tracker.tritan.gg:8080/announce
+http://0123456789nonexistent.com:80/announce
 udp://tracker.tryhackx.org:6969/announce
 udp://t.overflow.biz:6969/announce
-http://0123456789nonexistent.com:80/announce
