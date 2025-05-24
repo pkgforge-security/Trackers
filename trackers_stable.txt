@@ -19,6 +19,7 @@ udp://torrent.i.ng:6969/announce
 http://tracker.renfei.net:8080/announce
 https://tr.nyacat.pw:443/announce
 udp://extracker.dahrkael.net:6969/announce
+udp://tracker.hifitechindia.com:6969/announce
 udp://tracker.0x7c0.com:6969/announce
 udp://retracker.lanta.me:2710/announce
 http://tracker.beeimg.com:6969/announce
