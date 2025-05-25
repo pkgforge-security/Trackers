@@ -52,8 +52,8 @@ udp://thouvenin.cloud:6969/announce
 udp://tracker.yume-hatsuyuki.moe:6969/announce
 udp://tracker.kmzs123.top:17272/announce
 http://torrent.hificode.in:6969/announce
-http://lucke.fenesisu.moe:6969/announce
 http://taciturn-shadow.spb.ru:6969/announce
+http://lucke.fenesisu.moe:6969/announce
 https://tracker.ghostchu-services.top:443/announce
 http://tracker.tritan.gg:8080/announce
 https://tracker.leechshield.link:443/announce
