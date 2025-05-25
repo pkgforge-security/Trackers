@@ -56,7 +56,7 @@ https://tracker.ghostchu-services.top:443/announce
 https://tracker.leechshield.link:443/announce
 http://tracker.tritan.gg:8080/announce
 udp://tracker.hifitechindia.com:6969/announce
-udp://t.overflow.biz:6969/announce
 udp://wepzone.net:6969/announce
+udp://t.overflow.biz:6969/announce
 udp://tracker.tryhackx.org:6969/announce
 http://0123456789nonexistent.com:80/announce
