@@ -58,5 +58,3 @@ udp://t.overflow.biz:6969/announce
 udp://tracker.tryhackx.org:6969/announce
 https://tracker.leechshield.link:443/announce
 http://0123456789nonexistent.com:80/announce
-udp://tracker.hifitechindia.com:6969/announce
-udp://tracker.bitcoinindia.space:6969/announce
