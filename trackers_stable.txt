@@ -14,6 +14,7 @@ https://tracker.jdx3.org:443/announce
 udp://martin-gebhardt.eu:25/announce
 udp://tracker.deadorbit.nl:6969/announce
 https://tracker.bjut.jp:443/announce
+https://tr.zukizuki.org:443/announce
 udp://torrent.i.ng:6969/announce
 http://tracker.renfei.net:8080/announce
 https://tr.nyacat.pw:443/announce
@@ -27,7 +28,6 @@ udp://tracker.kmzs123.cn:17272/announce
 udp://retracker.hotplug.ru:2710/announce
 http://bt.okmp3.ru:2710/announce
 udp://tracker.gigantino.net:6969/announce
-https://tr.zukizuki.org:443/announce
 http://ns3109441.mypdns.org:6969/announce
 https://tracker.expli.top:443/announce
 udp://tracker.ducks.party:1984/announce
