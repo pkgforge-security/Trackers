@@ -37,8 +37,8 @@ https://tracker.aburaya.live:443/announce
 udp://tracker.gmi.gd:6969/announce
 udp://tracker.srv00.com:6969/announce
 udp://tracker.qu.ax:6969/announce
-udp://tracker.0x7c0.com:6969/announce
 http://tracker.privateseedbox.xyz:2710/announce
+udp://tracker.0x7c0.com:6969/announce
 http://ipv6.rer.lol:6969/announce
 udp://wepzone.net:6969/announce
 udp://tracker.darkness.services:6969/announce
@@ -55,7 +55,7 @@ http://taciturn-shadow.spb.ru:6969/announce
 udp://tracker.dler.com:6969/announce
 udp://t.overflow.biz:6969/announce
 http://tracker.tritan.gg:8080/announce
-http://torrent.hificode.in:6969/announce
 udp://tracker.tryhackx.org:6969/announce
+http://torrent.hificode.in:6969/announce
 https://tracker.leechshield.link:443/announce
 http://0123456789nonexistent.com:80/announce
