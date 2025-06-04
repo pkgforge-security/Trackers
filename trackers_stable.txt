@@ -20,6 +20,7 @@ http://ipv4.rer.lol:2710/announce
 udp://tracker.plx.im:6969/announce
 udp://tracker-udp.gbitt.info:80/announce
 udp://ttk2.nbaonlineservice.com:6969/announce
+udp://evan.im:6969/announce
 https://tracker.yemekyedim.com:443/announce
 udp://martin-gebhardt.eu:25/announce
 http://bt.okmp3.ru:2710/announce
@@ -30,7 +31,6 @@ udp://bandito.byterunner.io:6969/announce
 udp://tracker.gigantino.net:6969/announce
 udp://tracker.kmzs123.cn:17272/announce
 udp://tracker.cyberia.is:6969/announce
-udp://evan.im:6969/announce
 http://tracker.privateseedbox.xyz:2710/announce
 udp://tracker.gmi.gd:6969/announce
 udp://tracker.qu.ax:6969/announce
