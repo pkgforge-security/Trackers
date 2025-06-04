@@ -19,10 +19,10 @@ udp://extracker.dahrkael.net:6969/announce
 http://ipv4.rer.lol:2710/announce
 udp://tracker.plx.im:6969/announce
 udp://tracker-udp.gbitt.info:80/announce
-http://bt.okmp3.ru:2710/announce
 udp://ttk2.nbaonlineservice.com:6969/announce
 https://tracker.yemekyedim.com:443/announce
 udp://martin-gebhardt.eu:25/announce
+http://bt.okmp3.ru:2710/announce
 http://tracker.netmap.top:6969/announce
 https://tracker.expli.top:443/announce
 udp://tracker.ducks.party:1984/announce
