@@ -24,10 +24,10 @@ udp://ttk2.nbaonlineservice.com:6969/announce
 https://tracker.yemekyedim.com:443/announce
 udp://martin-gebhardt.eu:25/announce
 http://bt.okmp3.ru:2710/announce
+udp://bandito.byterunner.io:6969/announce
 http://tracker.netmap.top:6969/announce
 https://tracker.expli.top:443/announce
 udp://tracker.ducks.party:1984/announce
-udp://bandito.byterunner.io:6969/announce
 udp://tracker.gigantino.net:6969/announce
 udp://tracker.kmzs123.cn:17272/announce
 udp://tracker.cyberia.is:6969/announce
@@ -42,9 +42,9 @@ udp://tracker.kmzs123.top:17272/announce
 http://ipv6.rer.lol:6969/announce
 udp://p2p.publictracker.xyz:6969/announce
 udp://tracker.darkness.services:6969/announce
-https://tracker.zhuqiy.top:443/announce
 udp://www.torrent.eu.org:451/announce
 http://tracker.ipv6tracker.ru:80/announce
+https://tracker.zhuqiy.top:443/announce
 udp://tracker.dler.com:6969/announce
 https://tracker.ghostchu-services.top:443/announce
 udp://tracker.tryhackx.org:6969/announce
