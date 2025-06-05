@@ -11,6 +11,7 @@ http://highteahop.top:6960/announce
 http://home.yxgz.club:6969/announce
 http://ipv4.rer.lol:2710/announce
 http://ipv6.rer.lol:6969/announce
+http://joczo.duckdns.org:6969/announce
 http://ns3109441.mypdns.org:6969/announce
 http://open.trackerlist.xyz:80/announce
 http://p4p.arenabg.com:1337/announce
