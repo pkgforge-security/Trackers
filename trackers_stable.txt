@@ -43,8 +43,8 @@ udp://udp.tracker.projectk.org:23333/announce
 http://ipv6.rer.lol:6969/announce
 udp://tracker.darkness.services:6969/announce
 http://tracker.ipv6tracker.ru:80/announce
-udp://www.torrent.eu.org:451/announce
 udp://tracker.dler.com:6969/announce
+udp://www.torrent.eu.org:451/announce
 https://tracker.zhuqiy.top:443/announce
 udp://explodie.org:6969/announce
 http://taciturn-shadow.spb.ru:6969/announce
