@@ -40,8 +40,8 @@ udp://tracker.kmzs123.top:17272/announce
 udp://tracker.srv00.com:6969/announce
 udp://udp.tracker.projectk.org:23333/announce
 http://ipv6.rer.lol:6969/announce
-http://taciturn-shadow.spb.ru:6969/announce
 udp://tracker.dler.com:6969/announce
+http://taciturn-shadow.spb.ru:6969/announce
 http://tracker.ipv6tracker.ru:80/announce
 udp://tracker.darkness.services:6969/announce
 udp://www.torrent.eu.org:451/announce
@@ -52,4 +52,3 @@ udp://tracker.tryhackx.org:6969/announce
 http://tracker.tritan.gg:8080/announce
 udp://t.overflow.biz:6969/announce
 udp://torrent.i.ng:6969/announce
-udp://bt.ktrackers.com:6666/announce
