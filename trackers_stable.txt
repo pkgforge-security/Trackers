@@ -11,7 +11,6 @@ https://tracker.jdx3.org:443/announce
 https://tracker.bjut.jp:443/announce
 http://tracker.beeimg.com:6969/announce
 https://tr.zukizuki.org:443/announce
-udp://torrent.i.ng:6969/announce
 http://tracker.renfei.net:8080/announce
 udp://extracker.dahrkael.net:6969/announce
 http://ipv4.rer.lol:2710/announce
@@ -30,6 +29,7 @@ http://bt.okmp3.ru:2710/announce
 udp://bandito.byterunner.io:6969/announce
 udp://tracker.kmzs123.cn:17272/announce
 udp://tracker.gmi.gd:6969/announce
+udp://torrent.i.ng:6969/announce
 udp://tracker.cyberia.is:6969/announce
 udp://tracker.gigantino.net:6969/announce
 udp://tracker.yume-hatsuyuki.moe:6969/announce
@@ -52,4 +52,3 @@ udp://tracker.tryhackx.org:6969/announce
 https://tracker.aburaya.live:443/announce
 http://tracker.tritan.gg:8080/announce
 udp://t.overflow.biz:6969/announce
-https://tracker.itscraftsoftware.my.id:443/announce
