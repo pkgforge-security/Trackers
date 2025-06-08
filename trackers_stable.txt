@@ -53,3 +53,4 @@ https://tracker.aburaya.live:443/announce
 http://tracker.tritan.gg:8080/announce
 udp://explodie.org:6969/announce
 udp://t.overflow.biz:6969/announce
+udp://tracker.torrust-demo.com:6969/announce
