@@ -13,7 +13,6 @@ http://tracker.beeimg.com:6969/announce
 https://tr.zukizuki.org:443/announce
 udp://torrent.i.ng:6969/announce
 http://tracker.renfei.net:8080/announce
-https://tr.nyacat.pw:443/announce
 udp://extracker.dahrkael.net:6969/announce
 http://ipv4.rer.lol:2710/announce
 udp://tracker.plx.im:6969/announce
@@ -25,6 +24,7 @@ udp://retracker.lanta.me:2710/announce
 udp://martin-gebhardt.eu:25/announce
 http://tracker.netmap.top:6969/announce
 https://tracker.expli.top:443/announce
+https://tr.nyacat.pw:443/announce
 udp://tracker.ducks.party:1984/announce
 http://bt.okmp3.ru:2710/announce
 udp://bandito.byterunner.io:6969/announce
