@@ -40,8 +40,8 @@ udp://tracker.qu.ax:6969/announce
 udp://tracker.srv00.com:6969/announce
 http://ipv6.rer.lol:6969/announce
 udp://udp.tracker.projectk.org:23333/announce
-udp://torrent.i.ng:6969/announce
 udp://tracker.dler.com:6969/announce
+udp://torrent.i.ng:6969/announce
 http://tracker.ipv6tracker.ru:80/announce
 http://taciturn-shadow.spb.ru:6969/announce
 udp://tracker.darkness.services:6969/announce
