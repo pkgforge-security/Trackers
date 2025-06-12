@@ -30,9 +30,9 @@ http://bt.okmp3.ru:2710/announce
 http://tracker.privateseedbox.xyz:2710/announce
 udp://tracker.gmi.gd:6969/announce
 udp://tracker.cyberia.is:6969/announce
+udp://bandito.byterunner.io:6969/announce
 udp://tracker.yume-hatsuyuki.moe:6969/announce
 udp://tracker.qu.ax:6969/announce
-udp://bandito.byterunner.io:6969/announce
 udp://tracker.gigantino.net:6969/announce
 udp://wepzone.net:6969/announce
 udp://udp.tracker.projectk.org:23333/announce
@@ -50,5 +50,5 @@ udp://tracker.tryhackx.org:6969/announce
 http://taciturn-shadow.spb.ru:6969/announce
 https://tracker.zhuqiy.top:443/announce
 udp://t.overflow.biz:6969/announce
-http://tracker.tritan.gg:8080/announce
 udp://bt.ktrackers.com:6666/announce
+http://tracker.tritan.gg:8080/announce
