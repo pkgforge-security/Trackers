@@ -45,10 +45,11 @@ udp://tracker-udp.gbitt.info:80/announce
 udp://tracker.darkness.services:6969/announce
 http://tracker.ipv6tracker.ru:80/announce
 udp://www.torrent.eu.org:451/announce
-udp://tracker.tryhackx.org:6969/announce
 https://tracker.ghostchu-services.top:443/announce
+udp://tracker.tryhackx.org:6969/announce
 udp://t.overflow.biz:6969/announce
-https://tracker.zhuqiy.top:443/announce
 udp://tracker.valete.tf:9999/announce
+https://tracker.zhuqiy.top:443/announce
+udp://retracker01-msk-virt.corbina.net:80/announce
 http://taciturn-shadow.spb.ru:6969/announce
 https://tracker.leechshield.link:443/announce
