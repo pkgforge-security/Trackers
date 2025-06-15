@@ -48,8 +48,8 @@ udp://www.torrent.eu.org:451/announce
 https://tracker.ghostchu-services.top:443/announce
 udp://tracker.tryhackx.org:6969/announce
 udp://tracker.valete.tf:9999/announce
-udp://t.overflow.biz:6969/announce
 udp://retracker01-msk-virt.corbina.net:80/announce
+udp://t.overflow.biz:6969/announce
 https://tracker.zhuqiy.top:443/announce
 https://tracker.leechshield.link:443/announce
 udp://bt.ktrackers.com:6666/announce
