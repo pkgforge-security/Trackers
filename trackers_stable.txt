@@ -7,7 +7,6 @@ udp://wepzone.net:6969/announce
 udp://tracker.fnix.net:6969/announce
 udp://evan.im:6969/announce
 https://tracker.yemekyedim.com:443/announce
-https://tracker.jdx3.org:443/announce
 http://tracker.beeimg.com:6969/announce
 udp://tracker.valete.tf:9999/announce
 http://tracker.netmap.top:6969/announce
@@ -22,13 +21,14 @@ udp://p4p.arenabg.com:1337/announce
 http://bt.okmp3.ru:2710/announce
 udp://tracker.qu.ax:6969/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
+udp://p2p.publictracker.xyz:6969/announce
 udp://ttk2.nbaonlineservice.com:6969/announce
+https://tracker.jdx3.org:443/announce
 udp://martin-gebhardt.eu:25/announce
 https://tracker.bjut.jp:443/announce
 https://tr.zukizuki.org:443/announce
 udp://retracker01-msk-virt.corbina.net:80/announce
 udp://open.demonii.com:1337/announce
-udp://p2p.publictracker.xyz:6969/announce
 http://tracker.privateseedbox.xyz:2710/announce
 udp://tracker.yume-hatsuyuki.moe:6969/announce
 udp://tracker.kmzs123.cn:17272/announce
@@ -52,5 +52,5 @@ https://tracker.ghostchu-services.top:443/announce
 udp://t.overflow.biz:6969/announce
 https://tracker.zhuqiy.top:443/announce
 udp://bt.ktrackers.com:6666/announce
-udp://opentracker.io:6969/announce
 https://tracker.leechshield.link:443/announce
+udp://opentracker.io:6969/announce
