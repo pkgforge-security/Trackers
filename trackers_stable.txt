@@ -46,8 +46,8 @@ udp://tracker.dler.com:6969/announce
 http://tracker.ipv6tracker.ru:80/announce
 udp://tracker.tryhackx.org:6969/announce
 udp://www.torrent.eu.org:451/announce
-udp://tracker.qu.ax:6969/announce
 udp://tracker-udp.gbitt.info:80/announce
+udp://tracker.qu.ax:6969/announce
 https://tracker.ghostchu-services.top:443/announce
 udp://t.overflow.biz:6969/announce
 https://tracker.leechshield.link:443/announce
