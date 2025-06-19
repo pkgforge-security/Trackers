@@ -39,8 +39,8 @@ udp://tracker.gigantino.net:6969/announce
 udp://tracker.kmzs123.cn:17272/announce
 https://tracker.jdx3.org:443/announce
 udp://p2p.publictracker.xyz:6969/announce
-udp://tracker.valete.tf:9999/announce
 udp://tracker.srv00.com:6969/announce
+udp://tracker.valete.tf:9999/announce
 udp://tracker.darkness.services:6969/announce
 udp://tracker.kmzs123.top:17272/announce
 http://ipv6.rer.lol:6969/announce
