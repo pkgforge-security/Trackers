@@ -35,8 +35,8 @@ https://tracker.jdx3.org:443/announce
 udp://tracker.gmi.gd:6969/announce
 udp://bandito.byterunner.io:6969/announce
 udp://p2p.publictracker.xyz:6969/announce
-udp://tracker.kmzs123.cn:17272/announce
 udp://tracker.srv00.com:6969/announce
+udp://tracker.kmzs123.cn:17272/announce
 udp://tracker.tvunderground.org.ru:3218/announce
 udp://tracker.darkness.services:6969/announce
 udp://tracker.kmzs123.top:17272/announce
@@ -52,6 +52,6 @@ https://tracker.aburaya.live:443/announce
 https://tracker.zhuqiy.top:443/announce
 udp://opentracker.io:6969/announce
 udp://bt.ktrackers.com:6666/announce
+http://0123456789nonexistent.com:80/announce
 https://tr.zukizuki.org:443/announce
 udp://tracker.valete.tf:9999/announce
-http://0123456789nonexistent.com:80/announce
