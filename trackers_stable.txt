@@ -51,6 +51,5 @@ udp://t.overflow.biz:6969/announce
 https://tracker.moeblog.cn:443/announce
 https://tracker.zhuqiy.top:443/announce
 udp://opentracker.io:6969/announce
-https://tracker.aburaya.live:443/announce
-udp://bt.ktrackers.com:6666/announce
 http://0123456789nonexistent.com:80/announce
+udp://bt.ktrackers.com:6666/announce
