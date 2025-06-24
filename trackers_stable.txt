@@ -42,8 +42,8 @@ udp://tracker.skillindia.site:6969/announce
 udp://tracker.dler.com:6969/announce
 udp://www.torrent.eu.org:451/announce
 http://tracker.ipv6tracker.ru:80/announce
-udp://tracker.cyberia.is:6969/announce
 udp://tracker.tryhackx.org:6969/announce
+udp://tracker.cyberia.is:6969/announce
 https://tracker.ghostchu-services.top:443/announce
 https://tracker.moeblog.cn:443/announce
 udp://tracker-udp.gbitt.info:80/announce
