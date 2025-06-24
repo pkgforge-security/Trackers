@@ -37,8 +37,8 @@ udp://p2p.publictracker.xyz:6969/announce
 udp://tracker.darkness.services:6969/announce
 udp://tracker.kmzs123.cn:17272/announce
 udp://tracker.kmzs123.top:17272/announce
-udp://tracker.cyberia.is:6969/announce
 http://ipv6.rer.lol:6969/announce
+udp://tracker.cyberia.is:6969/announce
 udp://tracker.skillindia.site:6969/announce
 udp://tracker.dler.com:6969/announce
 udp://www.torrent.eu.org:451/announce
