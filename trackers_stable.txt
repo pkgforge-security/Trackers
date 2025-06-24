@@ -45,8 +45,8 @@ udp://www.torrent.eu.org:451/announce
 http://tracker.ipv6tracker.ru:80/announce
 udp://tracker.tryhackx.org:6969/announce
 https://tracker.ghostchu-services.top:443/announce
-udp://tracker-udp.gbitt.info:80/announce
 https://tracker.moeblog.cn:443/announce
+udp://tracker-udp.gbitt.info:80/announce
 udp://t.overflow.biz:6969/announce
 udp://udp.tracker.projectk.org:23333/announce
 https://tracker.zhuqiy.top:443/announce
