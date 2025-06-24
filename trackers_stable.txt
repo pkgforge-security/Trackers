@@ -6,6 +6,7 @@ udp://wepzone.net:6969/announce
 udp://ttk2.nbaonlineservice.com:6969/announce
 udp://tracker.fnix.net:6969/announce
 https://tracker.yemekyedim.com:443/announce
+udp://martin-gebhardt.eu:25/announce
 http://tracker.beeimg.com:6969/announce
 http://tracker.netmap.top:6969/announce
 udp://tracker.yume-hatsuyuki.moe:6969/announce
@@ -20,7 +21,6 @@ udp://p4p.arenabg.com:1337/announce
 udp://open.stealth.si:80/announce
 http://bt.okmp3.ru:2710/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
-udp://martin-gebhardt.eu:25/announce
 https://tracker.bjut.jp:443/announce
 udp://tracker.gigantino.net:6969/announce
 udp://open.demonii.com:1337/announce
