@@ -4,6 +4,7 @@ http://bt.okmp3.ru:2710/announce
 udp://tracker.torrent.eu.org:451/announce
 http://tracker.mywaifu.best:6969/announce
 udp://wepzone.net:6969/announce
+udp://d40969.acod.regrucolo.ru:6969/announce
 udp://ttk2.nbaonlineservice.com:6969/announce
 udp://tracker.fnix.net:6969/announce
 https://tracker.yemekyedim.com:443/announce
@@ -19,7 +20,6 @@ udp://tracker.plx.im:6969/announce
 udp://v74853.hosted-by-vdsina.com:6969/announce
 https://t.213891.xyz:443/announce
 udp://open.stealth.si:80/announce
-udp://d40969.acod.regrucolo.ru:6969/announce
 http://tracker.privateseedbox.xyz:2710/announce
 https://tracker.bjut.jp:443/announce
 udp://tracker.gigantino.net:6969/announce
@@ -35,15 +35,15 @@ https://tracker.jdx3.org:443/announce
 udp://bandito.byterunner.io:6969/announce
 udp://tracker.srv00.com:6969/announce
 udp://tracker.gmi.gd:6969/announce
-udp://tracker.darkness.services:6969/announce
 udp://tracker.kmzs123.cn:17272/announce
+udp://tracker.darkness.services:6969/announce
 udp://p2p.publictracker.xyz:6969/announce
 udp://tracker.kmzs123.top:17272/announce
 udp://tracker.skillindia.site:6969/announce
 http://ipv6.rer.lol:6969/announce
 udp://tracker.dler.com:6969/announce
-udp://tracker.tryhackx.org:6969/announce
 http://tracker.ipv6tracker.ru:80/announce
+udp://tracker.tryhackx.org:6969/announce
 udp://www.torrent.eu.org:451/announce
 https://tracker.ghostchu-services.top:443/announce
 https://tracker.moeblog.cn:443/announce
