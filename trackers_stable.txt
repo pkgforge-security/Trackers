@@ -52,5 +52,4 @@ https://tracker.zhuqiy.top:443/announce
 udp://udp.tracker.projectk.org:23333/announce
 udp://opentracker.io:6969/announce
 udp://tracker.therarbg.to:6969/announce
-udp://tracker.cyberia.is:6969/announce
 udp://bt.ktrackers.com:6666/announce
