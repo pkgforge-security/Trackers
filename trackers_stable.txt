@@ -39,11 +39,11 @@ https://tracker.jdx3.org:443/announce
 udp://bandito.byterunner.io:6969/announce
 udp://tracker.srv00.com:6969/announce
 udp://tracker.gmi.gd:6969/announce
-udp://p2p.publictracker.xyz:6969/announce
 https://tracker.ghostchu-services.top:443/announce
+udp://p2p.publictracker.xyz:6969/announce
 udp://tracker.skillindia.site:6969/announce
-udp://tracker.kmzs123.top:17272/announce
 http://ipv6.rer.lol:6969/announce
+udp://tracker.kmzs123.top:17272/announce
 udp://tracker.dler.com:6969/announce
 udp://tracker.tryhackx.org:6969/announce
 udp://www.torrent.eu.org:451/announce
