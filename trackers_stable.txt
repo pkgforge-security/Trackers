@@ -38,8 +38,8 @@ udp://tracker.srv00.com:6969/announce
 https://tracker.jdx3.org:443/announce
 udp://bandito.byterunner.io:6969/announce
 udp://tracker.gigantino.net:6969/announce
-udp://tracker.gmi.gd:6969/announce
 http://ipv6.rer.lol:6969/announce
+udp://tracker.gmi.gd:6969/announce
 udp://tracker.skillindia.site:6969/announce
 udp://p2p.publictracker.xyz:6969/announce
 udp://tracker.torrust-demo.com:6969/announce
