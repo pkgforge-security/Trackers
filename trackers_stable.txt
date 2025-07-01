@@ -10,7 +10,9 @@ http://tracker.privateseedbox.xyz:2710/announce
 udp://tracker.fnix.net:6969/announce
 udp://evan.im:6969/announce
 udp://martin-gebhardt.eu:25/announce
+udp://tracker.darkness.services:6969/announce
 http://tracker.beeimg.com:6969/announce
+https://tracker.ghostchu-services.top:443/announce
 http://tracker.renfei.net:8080/announce
 http://ns3109441.mypdns.org:6969/announce
 https://tracker.expli.top:443/announce
@@ -22,11 +24,9 @@ udp://v74853.hosted-by-vdsina.com:6969/announce
 https://t.213891.xyz:443/announce
 udp://open.demonii.com:1337/announce
 https://tracker.bjut.jp:443/announce
-https://tracker.ghostchu-services.top:443/announce
 udp://extracker.dahrkael.net:6969/announce
 udp://tracker.tvunderground.org.ru:3218/announce
 udp://open.stealth.si:80/announce
-udp://tracker.darkness.services:6969/announce
 udp://bandito.byterunner.io:6969/announce
 http://tracker.netmap.top:6969/announce
 udp://tracker.kmzs123.cn:17272/announce
