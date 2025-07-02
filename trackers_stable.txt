@@ -46,8 +46,8 @@ udp://tracker.dler.com:6969/announce
 udp://tracker.kmzs123.top:17272/announce
 udp://tracker.tryhackx.org:6969/announce
 udp://tracker.torrust-demo.com:6969/announce
-udp://www.torrent.eu.org:451/announce
 udp://tracker.hifitechindia.com:6969/announce
+udp://www.torrent.eu.org:451/announce
 udp://tracker.darkness.services:6969/announce
 http://tracker.ipv6tracker.ru:80/announce
 udp://tracker.bitcoinindia.space:6969/announce
