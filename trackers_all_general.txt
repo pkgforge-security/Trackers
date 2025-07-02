@@ -101,6 +101,7 @@ udp://retracker01-msk-virt.corbina.net:80/announce
 udp://t.overflow.biz:6969/announce
 udp://tr4ck3r.duckdns.org:6969/announce
 udp://tracker-udp.gbitt.info:80/announce
+udp://tracker.bitcoinindia.space:6969/announce
 udp://tracker.darkness.services:6969/announce
 udp://tracker.ddunlimited.net:6969/announce
 udp://tracker.dler.com:6969/announce
