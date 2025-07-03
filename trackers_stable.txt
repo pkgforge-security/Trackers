@@ -55,5 +55,5 @@ udp://tracker.therarbg.to:6969/announce
 udp://tracker-udp.gbitt.info:80/announce
 https://tracker.zhuqiy.top:443/announce
 udp://t.overflow.biz:6969/announce
-https://tracker.leechshield.link:443/announce
 udp://opentracker.io:6969/announce
+https://tracker.leechshield.link:443/announce
