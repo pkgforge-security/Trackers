@@ -41,10 +41,10 @@ udp://tracker.skillindia.site:6969/announce
 udp://tracker.gmi.gd:6969/announce
 udp://tracker.gigantino.net:6969/announce
 udp://tracker.dler.com:6969/announce
+udp://udp.tracker.projectk.org:23333/announce
 udp://p2p.publictracker.xyz:6969/announce
 udp://tracker.torrust-demo.com:6969/announce
 udp://tracker.tryhackx.org:6969/announce
-udp://udp.tracker.projectk.org:23333/announce
 udp://tracker.hifitechindia.com:6969/announce
 udp://tracker.bitcoinindia.space:6969/announce
 udp://www.torrent.eu.org:451/announce
