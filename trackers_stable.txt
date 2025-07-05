@@ -28,13 +28,13 @@ https://tracker.bjut.jp:443/announce
 udp://tracker.kmzs123.cn:17272/announce
 udp://tracker.tvunderground.org.ru:3218/announce
 udp://retracker01-msk-virt.corbina.net:80/announce
+udp://retracker.lanta.me:2710/announce
 udp://bandito.byterunner.io:6969/announce
 http://tracker.netmap.top:6969/announce
 udp://udp.tracker.projectk.org:23333/announce
 udp://open.stealth.si:80/announce
 udp://tracker.srv00.com:6969/announce
 https://tracker.moeblog.cn:443/announce
-udp://retracker.lanta.me:2710/announce
 http://ipv6.rer.lol:6969/announce
 udp://p4p.arenabg.com:1337/announce
 https://tracker.jdx3.org:443/announce
