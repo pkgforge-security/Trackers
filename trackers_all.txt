@@ -708,7 +708,6 @@ https://opentracker.xyz/announce
 https://opentracker.xyz:443/announce
 https://seeders-paradise.org/announce
 https://sparkle.ghostchu-services.top:443/announce
-https://t.213891.xyz:443/announce
 https://t.btcland.xyz/announce
 https://t.btcland.xyz:443/announce
 https://t.quic.ws/announce
@@ -1102,6 +1101,7 @@ udp://tracker.hifitechindia.com:6969/announce
 udp://tracker.ilibr.org:80/announce
 udp://tracker.internetwarriors.net:1337/announce
 udp://tracker.istole.it:80/announce
+udp://tracker.kmzs123.cn:17272/announce
 udp://tracker.lelux.fi:6969/announce
 udp://tracker.monitorit4.me:6969/announce
 udp://tracker.ololosh.space:6969/announce
