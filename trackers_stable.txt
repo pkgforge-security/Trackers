@@ -48,9 +48,9 @@ udp://www.torrent.eu.org:451/announce
 http://tracker.ipv6tracker.ru:80/announce
 udp://tracker.bitcoinindia.space:6969/announce
 udp://tracker.hifitechindia.com:6969/announce
-http://shubt.net:2710/announce
 udp://tracker.therarbg.to:6969/announce
 udp://tracker.skillindia.site:6969/announce
+http://shubt.net:2710/announce
 https://tracker.pmman.tech:443/announce
 http://open.trackerlist.xyz:80/announce
 http://tracker.tritan.gg:8080/announce
