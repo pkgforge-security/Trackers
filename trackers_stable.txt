@@ -55,7 +55,7 @@ udp://tracker.skillindia.site:6969/announce
 http://shubt.net:2710/announce
 http://open.trackerlist.xyz:80/announce
 http://tracker.tritan.gg:8080/announce
-udp://t.overflow.biz:6969/announce
 http://torrent.hificode.in:6969/announce
+udp://t.overflow.biz:6969/announce
 http://0123456789nonexistent.com:80/announce
 https://tracker.zhuqiy.top:443/announce
