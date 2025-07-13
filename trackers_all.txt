@@ -866,6 +866,7 @@ https://trackme.theom.nz:443/announce
 https://trakx.herokuapp.com/announce
 https://trakx.herokuapp.com:443/announce
 https://ttk.pp.ua/announce
+https://ttracker.just-h.party:443/announce
 https://voxhost.fr/announce
 https://voxhost.fr:443/announce
 https://w.wwwww.wtf/announce

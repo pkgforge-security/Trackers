@@ -22,6 +22,7 @@ udp://extracker.dahrkael.net:6969/announce
 http://ipv4.rer.lol:2710/announce
 udp://tracker.plx.im:6969/announce
 udp://tracker.tvunderground.org.ru:3218/announce
+https://ttracker.just-h.party:443/announce
 udp://tracker.torrust-demo.com:6969/announce
 udp://retracker.lanta.me:2710/announce
 udp://bandito.byterunner.io:6969/announce
@@ -49,15 +50,14 @@ http://tracker.ipv6tracker.ru:80/announce
 udp://tracker.hifitechindia.com:6969/announce
 udp://tracker.skillindia.site:6969/announce
 https://tracker.pmman.tech:443/announce
-http://open.trackerlist.xyz:80/announce
 udp://tracker.valete.tf:9999/announce
+http://open.trackerlist.xyz:80/announce
 http://shubt.net:2710/announce
-http://tracker.tritan.gg:8080/announce
 https://t.213891.xyz:443/announce
+http://tracker.tritan.gg:8080/announce
 http://ns3109441.mypdns.org:6969/announce
 http://0123456789nonexistent.com:80/announce
 udp://t.overflow.biz:6969/announce
 http://torrent.hificode.in:6969/announce
 https://tracker.aburaya.live:443/announce
 https://tracker.zhuqiy.top:443/announce
-udp://wepzone.net:6969/announce
