@@ -60,3 +60,4 @@ http://torrent.hificode.in:6969/announce
 https://tracker.bjut.jp:443/announce
 udp://t.overflow.biz:6969/announce
 https://tracker.zhuqiy.top:443/announce
+udp://retracker.hotplug.ru:2710/announce
