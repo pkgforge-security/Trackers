@@ -56,7 +56,7 @@ http://shubt.net:2710/announce
 udp://tracker.valete.tf:9999/announce
 http://tracker.tritan.gg:8080/announce
 http://0123456789nonexistent.com:80/announce
-https://tracker.bjut.jp:443/announce
 http://torrent.hificode.in:6969/announce
+https://tracker.bjut.jp:443/announce
 udp://t.overflow.biz:6969/announce
 https://tracker.zhuqiy.top:443/announce
