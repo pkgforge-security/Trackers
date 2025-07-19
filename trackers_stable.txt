@@ -37,8 +37,8 @@ udp://tracker-udp.gbitt.info:80/announce
 https://tracker.yemekyedim.com:443/announce
 udp://tracker.yume-hatsuyuki.moe:6969/announce
 udp://udp.tracker.projectk.org:23333/announce
-https://tracker.ghostchu-services.top:443/announce
 udp://retracker01-msk-virt.corbina.net:80/announce
+https://tracker.ghostchu-services.top:443/announce
 udp://tracker.hifimarket.in:2710/announce
 udp://1c.premierzal.ru:6969/announce
 udp://tracker.gigantino.net:6969/announce
