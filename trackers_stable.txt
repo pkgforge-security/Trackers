@@ -1,4 +1,5 @@
 udp://tracker.opentrackr.org:1337/announce
+udp://p4p.arenabg.com:1337/announce
 udp://retracker.hotplug.ru:2710/announce
 http://tracker.bt4g.com:2095/announce
 http://bt.okmp3.ru:2710/announce
@@ -21,7 +22,6 @@ udp://tracker.plx.im:6969/announce
 udp://tracker.tvunderground.org.ru:3218/announce
 https://t.213891.xyz:443/announce
 udp://tracker.kmzs123.cn:17272/announce
-udp://p4p.arenabg.com:1337/announce
 udp://open.stealth.si:80/announce
 udp://tracker.srv00.com:6969/announce
 https://tracker.moeblog.cn:443/announce
@@ -49,8 +49,8 @@ udp://tracker.bitcoinindia.space:6969/announce
 udp://tracker.hifitechindia.com:6969/announce
 udp://tracker.skillindia.site:6969/announce
 http://tracker.ipv6tracker.ru:80/announce
-udp://tracker.tryhackx.org:6969/announce
 udp://tracker.gmi.gd:6969/announce
+udp://tracker.tryhackx.org:6969/announce
 http://open.trackerlist.xyz:80/announce
 http://torrent.hificode.in:6969/announce
 http://taciturn-shadow.spb.ru:6969/announce
