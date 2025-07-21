@@ -22,6 +22,7 @@ udp://tracker.plx.im:6969/announce
 udp://tracker.tvunderground.org.ru:3218/announce
 https://t.213891.xyz:443/announce
 udp://tracker.kmzs123.cn:17272/announce
+http://tracker.internetwarriors.net:1337/announce
 udp://open.stealth.si:80/announce
 udp://tracker.srv00.com:6969/announce
 https://tracker.moeblog.cn:443/announce
