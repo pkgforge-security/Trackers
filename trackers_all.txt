@@ -202,6 +202,7 @@ http://anidex.moe:6969/announce+
 http://anisource.spb.ru/announce
 http://announce.partis.si/announce
 http://announce.partis.si:80/announce
+http://asiatorrent.giize.com:51413/announce
 http://atrack.pow7.com/announce
 http://atrack.pow7.com:80/announce
 http://baibako.tv/announce
@@ -710,7 +711,6 @@ https://opentracker.xyz/announce
 https://opentracker.xyz:443/announce
 https://seeders-paradise.org/announce
 https://sparkle.ghostchu-services.top:443/announce
-https://t.213891.xyz:443/announce
 https://t.btcland.xyz/announce
 https://t.btcland.xyz:443/announce
 https://t.quic.ws/announce
