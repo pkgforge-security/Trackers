@@ -39,8 +39,8 @@ udp://1c.premierzal.ru:6969/announce
 udp://tracker.fnix.net:6969/announce
 udp://tracker.kmzs123.cn:17272/announce
 https://tracker.home.kmzs123.cn:4443/announce
-udp://tracker.torrust-demo.com:6969/announce
 udp://tracker-udp.gbitt.info:80/announce
+udp://tracker.torrust-demo.com:6969/announce
 udp://tracker.hifimarket.in:2710/announce
 udp://retracker01-msk-virt.corbina.net:80/announce
 https://tracker.ghostchu-services.top:443/announce
