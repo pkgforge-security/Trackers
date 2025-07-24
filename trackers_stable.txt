@@ -45,8 +45,8 @@ udp://retracker01-msk-virt.corbina.net:80/announce
 udp://1c.premierzal.ru:6969/announce
 udp://tracker.hifimarket.in:2710/announce
 https://tracker.ghostchu-services.top:443/announce
-udp://open.dstud.io:6969/announce
 udp://tracker.therarbg.to:6969/announce
+udp://open.dstud.io:6969/announce
 udp://www.torrent.eu.org:451/announce
 udp://tracker.bitcoinindia.space:6969/announce
 udp://tracker.hifitechindia.com:6969/announce
@@ -55,8 +55,8 @@ udp://tracker.gmi.gd:6969/announce
 http://tracker.ipv6tracker.ru:80/announce
 udp://tracker.tryhackx.org:6969/announce
 http://torrent.hificode.in:6969/announce
-http://0123456789nonexistent.com:80/announce
 http://open.trackerlist.xyz:80/announce
+http://0123456789nonexistent.com:80/announce
 http://taciturn-shadow.spb.ru:6969/announce
 http://shubt.net:2710/announce
 udp://tracker.valete.tf:9999/announce
