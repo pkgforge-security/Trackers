@@ -22,7 +22,6 @@ http://ipv4.rer.lol:2710/announce
 udp://tracker.plx.im:6969/announce
 udp://tracker.tvunderground.org.ru:3218/announce
 http://tracker.tricitytorrents.com:2710/announce
-https://tracker.home.kmzs123.cn:4443/announce
 http://asiatorrent.giize.com:51413/announce
 udp://open.stealth.si:80/announce
 udp://tracker.dler.com:6969/announce
@@ -40,6 +39,7 @@ udp://open.demonii.com:1337/announce
 udp://tracker.fnix.net:6969/announce
 https://tracker.aburaya.live:443/announce
 udp://tracker.torrust-demo.com:6969/announce
+https://tracker.home.kmzs123.cn:4443/announce
 udp://tracker-udp.gbitt.info:80/announce
 udp://retracker01-msk-virt.corbina.net:80/announce
 udp://1c.premierzal.ru:6969/announce
