@@ -58,7 +58,7 @@ http://open.trackerlist.xyz:80/announce
 http://0123456789nonexistent.com:80/announce
 http://shubt.net:2710/announce
 udp://tracker.valete.tf:9999/announce
-https://tracker.zhuqiy.top:443/announce
 https://tracker.leechshield.link:443/announce
+https://tracker.zhuqiy.top:443/announce
 https://tracker.itscraftsoftware.my.id:443/announce
 udp://t.overflow.biz:6969/announce
