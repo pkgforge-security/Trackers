@@ -41,10 +41,10 @@ udp://tracker-udp.gbitt.info:80/announce
 udp://retracker01-msk-virt.corbina.net:80/announce
 udp://tracker.hifimarket.in:2710/announce
 https://tracker.ghostchu-services.top:443/announce
-udp://tracker.ducks.party:1984/announce
 udp://tracker.therarbg.to:6969/announce
 udp://open.dstud.io:6969/announce
 http://taciturn-shadow.spb.ru:6969/announce
+udp://tracker.ducks.party:1984/announce
 udp://www.torrent.eu.org:451/announce
 udp://tracker.bitcoinindia.space:6969/announce
 udp://tracker.hifitechindia.com:6969/announce
