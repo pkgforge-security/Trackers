@@ -39,9 +39,9 @@ https://tracker.aburaya.live:443/announce
 udp://tracker.fnix.net:6969/announce
 udp://tracker.torrust-demo.com:6969/announce
 udp://tracker.kmzs123.cn:17272/announce
+udp://retracker01-msk-virt.corbina.net:80/announce
 udp://tracker.hifimarket.in:2710/announce
 udp://tracker-udp.gbitt.info:80/announce
-udp://retracker01-msk-virt.corbina.net:80/announce
 http://taciturn-shadow.spb.ru:6969/announce
 https://tracker.ghostchu-services.top:443/announce
 udp://tracker.therarbg.to:6969/announce
@@ -55,9 +55,9 @@ udp://tracker.skillindia.site:6969/announce
 http://tracker.ipv6tracker.ru:80/announce
 udp://tracker.gmi.gd:6969/announce
 http://open.trackerlist.xyz:80/announce
-udp://tracker.tryhackx.org:6969/announce
 http://0123456789nonexistent.com:80/announce
 http://shubt.net:2710/announce
+udp://tracker.tryhackx.org:6969/announce
 udp://tracker.valete.tf:9999/announce
 https://tracker.zhuqiy.top:443/announce
 https://tracker.leechshield.link:443/announce
