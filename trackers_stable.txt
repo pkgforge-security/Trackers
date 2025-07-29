@@ -41,8 +41,8 @@ udp://1c.premierzal.ru:6969/announce
 udp://tracker.torrust-demo.com:6969/announce
 https://tracker.aburaya.live:443/announce
 udp://retracker01-msk-virt.corbina.net:80/announce
-udp://tracker.fnix.net:6969/announce
 http://taciturn-shadow.spb.ru:6969/announce
+udp://tracker.fnix.net:6969/announce
 udp://tracker.kmzs123.cn:17272/announce
 udp://tracker-udp.gbitt.info:80/announce
 udp://tracker.srv00.com:6969/announce
