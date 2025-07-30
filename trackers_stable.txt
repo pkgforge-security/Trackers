@@ -54,9 +54,9 @@ udp://open.dstud.io:6969/announce
 http://torrent.hificode.in:6969/announce
 http://tracker.ipv6tracker.ru:80/announce
 http://open.trackerlist.xyz:80/announce
+https://pybittrack.retiolus.net:443/announce
 http://0123456789nonexistent.com:80/announce
 http://shubt.net:2710/announce
-https://pybittrack.retiolus.net:443/announce
 udp://tracker.tryhackx.org:6969/announce
 udp://tracker.gmi.gd:6969/announce
 udp://tracker.valete.tf:9999/announce
