@@ -30,14 +30,14 @@ https://tracker.moeblog.cn:443/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
 https://tracker.jdx3.org:443/announce
 http://ipv6.rer.lol:6969/announce
-udp://bandito.byterunner.io:6969/announce
 http://tracker.netmap.top:6969/announce
 udp://tracker.bitcoinindia.space:6969/announce
 udp://open.demonii.com:1337/announce
 udp://ttk2.nbaonlineservice.com:6969/announce
+udp://tracker.torrust-demo.com:6969/announce
+udp://bandito.byterunner.io:6969/announce
 udp://tracker.gigantino.net:6969/announce
 udp://tracker.rescuecrew7.com:1337/announce
-udp://tracker.torrust-demo.com:6969/announce
 udp://retracker01-msk-virt.corbina.net:80/announce
 udp://1c.premierzal.ru:6969/announce
 http://taciturn-shadow.spb.ru:6969/announce
