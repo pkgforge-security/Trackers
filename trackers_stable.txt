@@ -59,6 +59,6 @@ http://shubt.net:2710/announce
 udp://tracker.tryhackx.org:6969/announce
 udp://tracker.gmi.gd:6969/announce
 udp://tracker.valete.tf:9999/announce
+https://pybittrack.retiolus.net:443/announce
 https://tracker.zhuqiy.top:443/announce
 https://tracker.leechshield.link:443/announce
-https://pybittrack.retiolus.net:443/announce
