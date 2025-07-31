@@ -57,8 +57,8 @@ udp://tracker.kmzs123.cn:17272/announce
 http://0123456789nonexistent.com:80/announce
 http://shubt.net:2710/announce
 https://tracker.ghostchu-services.top:443/announce
+udp://tracker.gmi.gd:6969/announce
 udp://tracker.valete.tf:9999/announce
 udp://tracker.tryhackx.org:6969/announce
-udp://tracker.gmi.gd:6969/announce
 https://tracker.zhuqiy.top:443/announce
 https://tracker.leechshield.link:443/announce
