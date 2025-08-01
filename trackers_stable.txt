@@ -61,3 +61,4 @@ udp://tracker.gmi.gd:6969/announce
 https://tracker.zhuqiy.top:443/announce
 udp://tracker.kmzs123.cn:17272/announce
 https://tracker.ghostchu-services.top:443/announce
+http://tracker.tritan.gg:8080/announce
