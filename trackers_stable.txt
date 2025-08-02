@@ -33,10 +33,10 @@ udp://tracker.gigantino.net:6969/announce
 http://tracker.netmap.top:6969/announce
 udp://open.demonii.com:1337/announce
 udp://ttk2.nbaonlineservice.com:6969/announce
-https://pybittrack.retiolus.net:443/announce
 udp://tracker.bitcoinindia.space:6969/announce
 udp://tracker.rescuecrew7.com:1337/announce
 udp://tracker.torrust-demo.com:6969/announce
+https://pybittrack.retiolus.net:443/announce
 udp://bandito.byterunner.io:6969/announce
 udp://tracker.yume-hatsuyuki.moe:6969/announce
 udp://tracker-udp.gbitt.info:80/announce
