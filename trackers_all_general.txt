@@ -22,9 +22,9 @@ http://servandroidkino.ru:80/announce
 http://share.hkg-fansub.info:80/announce.php
 http://shubt.net:2710/announce
 http://t.jaekr.sh:6969/announce
-http://t.overflow.biz:6969/announce
 http://taciturn-shadow.spb.ru:6969/announce
 http://torrent.hificode.in:6969/announce
+http://tr.kxmp.cf:80/announce
 http://tracker.23794.top:6969/announce
 http://tracker.beeimg.com:6969/announce
 http://tracker.bittor.pw:1337/announce
@@ -80,8 +80,6 @@ udp://1c.premierzal.ru:6969/announce
 udp://bandito.byterunner.io:6969/announce
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 udp://bt.ktrackers.com:6666/announce
-udp://bt.rer.lol:2710/announce
-udp://bt.rer.lol:6969/announce
 udp://concen.org:6969/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
 udp://discord.heihachi.pw:6969/announce
@@ -108,7 +106,6 @@ udp://public.tracker.vraphim.com:6969/announce
 udp://retracker.hotplug.ru:2710/announce
 udp://retracker.lanta.me:2710/announce
 udp://retracker01-msk-virt.corbina.net:80/announce
-udp://t.overflow.biz:6969/announce
 udp://tr4ck3r.duckdns.org:6969/announce
 udp://tracker-udp.gbitt.info:80/announce
 udp://tracker.bitcoinindia.space:6969/announce
@@ -123,7 +120,6 @@ udp://tracker.healthcareindia.store:1337/announce
 udp://tracker.hifimarket.in:2710/announce
 udp://tracker.hifitechindia.com:6969/announce
 udp://tracker.kmzs123.cn:17272/announce
-udp://tracker.ololosh.space:6969/announce
 udp://tracker.opentrackr.org:1337/announce
 udp://tracker.plx.im:6969/announce
 udp://tracker.qu.ax:6969/announce
