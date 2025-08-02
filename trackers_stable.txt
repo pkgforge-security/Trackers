@@ -44,8 +44,8 @@ udp://retracker01-msk-virt.corbina.net:80/announce
 udp://1c.premierzal.ru:6969/announce
 http://taciturn-shadow.spb.ru:6969/announce
 udp://tracker.srv00.com:6969/announce
-udp://tracker.fnix.net:6969/announce
 udp://tracker.therarbg.to:6969/announce
+udp://tracker.fnix.net:6969/announce
 udp://tracker.hifimarket.in:2710/announce
 http://torrent.hificode.in:6969/announce
 udp://www.torrent.eu.org:451/announce
