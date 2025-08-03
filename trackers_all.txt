@@ -705,6 +705,7 @@ https://k3tracker.cc/announce/0b0b5b2bb71770aa0df56f80a4863f07
 https://nyaa.tracker.wf:7777/announce
 https://open.kickasstracker.com/announce
 https://open.kickasstracker.com:443/announce
+https://opentracker.8880085.xyz:443/announce
 https://opentracker.cc/announce
 https://opentracker.cc:443/announce
 https://opentracker.i2p.rocks/announce
