@@ -32,13 +32,13 @@ http://tracker.netmap.top:6969/announce
 udp://open.demonii.com:1337/announce
 https://tracker.moeblog.cn:443/announce
 udp://ttk2.nbaonlineservice.com:6969/announce
-http://tracker.privateseedbox.xyz:2710/announce
 https://tracker.yemekyedim.com:443/announce
 udp://tracker.bitcoinindia.space:6969/announce
 udp://tracker.rescuecrew7.com:1337/announce
+http://tracker.privateseedbox.xyz:2710/announce
 udp://bandito.byterunner.io:6969/announce
-udp://tracker.torrust-demo.com:6969/announce
 https://pybittrack.retiolus.net:443/announce
+udp://tracker.torrust-demo.com:6969/announce
 udp://1c.premierzal.ru:6969/announce
 http://taciturn-shadow.spb.ru:6969/announce
 udp://tracker-udp.gbitt.info:80/announce
