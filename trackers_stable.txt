@@ -47,8 +47,8 @@ udp://tracker-udp.gbitt.info:80/announce
 udp://tracker.srv00.com:6969/announce
 udp://www.torrent.eu.org:451/announce
 http://torrent.hificode.in:6969/announce
-http://tracker.ipv6tracker.ru:80/announce
 udp://tracker.valete.tf:9999/announce
+http://tracker.ipv6tracker.ru:80/announce
 http://open.trackerlist.xyz:80/announce
 udp://tracker.hifimarket.in:2710/announce
 http://0123456789nonexistent.com:80/announce
