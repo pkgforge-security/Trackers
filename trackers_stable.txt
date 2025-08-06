@@ -20,7 +20,6 @@ udp://tracker.plx.im:6969/announce
 udp://tracker.skillindia.site:6969/announce
 udp://tracker.tvunderground.org.ru:3218/announce
 https://t.213891.xyz:443/announce
-https://opentracker.8880085.xyz:443/announce
 udp://p4p.arenabg.com:1337/announce
 udp://tracker.dler.com:6969/announce
 udp://open.demonii.com:1337/announce
@@ -38,6 +37,7 @@ udp://tracker.rescuecrew7.com:1337/announce
 udp://tracker.hifitechindia.com:6969/announce
 http://tracker.privateseedbox.xyz:2710/announce
 https://pybittrack.retiolus.net:443/announce
+https://opentracker.8880085.xyz:443/announce
 udp://1c.premierzal.ru:6969/announce
 http://taciturn-shadow.spb.ru:6969/announce
 https://tr.nyacat.pw:443/announce
