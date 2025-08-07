@@ -31,9 +31,9 @@ udp://tracker.gigantino.net:6969/announce
 udp://tracker.valete.tf:9999/announce
 udp://ttk2.nbaonlineservice.com:6969/announce
 udp://bandito.byterunner.io:6969/announce
-http://tracker.netmap.top:6969/announce
 udp://tracker.bitcoinindia.space:6969/announce
 udp://tracker.rescuecrew7.com:1337/announce
+http://tracker.netmap.top:6969/announce
 udp://tracker.hifitechindia.com:6969/announce
 https://tr.nyacat.pw:443/announce
 udp://1c.premierzal.ru:6969/announce
