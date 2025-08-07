@@ -49,8 +49,8 @@ http://torrent.hificode.in:6969/announce
 udp://tracker-udp.gbitt.info:80/announce
 http://tracker.ipv6tracker.ru:80/announce
 http://open.trackerlist.xyz:80/announce
-http://0123456789nonexistent.com:80/announce
 http://shubt.net:2710/announce
+http://0123456789nonexistent.com:80/announce
 udp://tracker.hifimarket.in:2710/announce
 udp://tr4ck3r.duckdns.org:6969/announce
 udp://tracker.tryhackx.org:6969/announce
