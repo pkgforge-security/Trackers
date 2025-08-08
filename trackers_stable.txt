@@ -55,5 +55,5 @@ http://0123456789nonexistent.com:80/announce
 udp://tracker.hifimarket.in:2710/announce
 udp://tracker.tryhackx.org:6969/announce
 udp://tracker.gmi.gd:6969/announce
-https://tracker.zhuqiy.top:443/announce
 udp://opentracker.io:6969/announce
+https://tracker.zhuqiy.top:443/announce
