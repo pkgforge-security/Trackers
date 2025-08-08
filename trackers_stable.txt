@@ -45,8 +45,8 @@ udp://www.torrent.eu.org:451/announce
 http://torrent.hificode.in:6969/announce
 https://pybittrack.retiolus.net:443/announce
 http://tracker.privateseedbox.xyz:2710/announce
-http://taciturn-shadow.spb.ru:6969/announce
 http://tracker.ipv6tracker.ru:80/announce
+http://taciturn-shadow.spb.ru:6969/announce
 http://open.trackerlist.xyz:80/announce
 udp://tracker-udp.gbitt.info:80/announce
 http://shubt.net:2710/announce
