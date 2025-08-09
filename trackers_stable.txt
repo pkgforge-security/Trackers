@@ -53,7 +53,8 @@ http://shubt.net:2710/announce
 udp://tracker-udp.gbitt.info:80/announce
 https://pybittrack.retiolus.net:443/announce
 udp://tr4ck3r.duckdns.org:6969/announce
-udp://tracker.hifimarket.in:2710/announce
 udp://opentracker.io:6969/announce
+udp://tracker.hifimarket.in:2710/announce
 udp://tracker.gmi.gd:6969/announce
 https://tracker.zhuqiy.top:443/announce
+udp://bt.bontal.net:6969/announce
