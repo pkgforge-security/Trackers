@@ -50,9 +50,9 @@ http://tracker.privateseedbox.xyz:2710/announce
 http://0123456789nonexistent.com:80/announce
 http://shubt.net:2710/announce
 udp://tracker-udp.gbitt.info:80/announce
-https://t.213891.xyz:443/announce
-udp://tr4ck3r.duckdns.org:6969/announce
 https://tr.zukizuki.org:443/announce
+udp://tr4ck3r.duckdns.org:6969/announce
+https://t.213891.xyz:443/announce
 udp://tracker.hifimarket.in:2710/announce
 udp://opentracker.io:6969/announce
 udp://tracker.gmi.gd:6969/announce
