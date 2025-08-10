@@ -45,9 +45,9 @@ udp://tracker.fnix.net:6969/announce
 http://torrent.hificode.in:6969/announce
 udp://www.torrent.eu.org:451/announce
 https://tr.zukizuki.org:443/announce
-http://open.trackerlist.xyz:80/announce
 http://tracker.ipv6tracker.ru:80/announce
 http://0123456789nonexistent.com:80/announce
+http://open.trackerlist.xyz:80/announce
 http://shubt.net:2710/announce
 http://tracker.privateseedbox.xyz:2710/announce
 udp://opentracker.io:6969/announce
