@@ -1,5 +1,6 @@
 udp://tracker.opentrackr.org:1337/announce
 udp://open.stealth.si:80/announce
+udp://tracker.dler.com:6969/announce
 udp://retracker.hotplug.ru:2710/announce
 http://bt.okmp3.ru:2710/announce
 udp://tracker.torrent.eu.org:451/announce
@@ -21,7 +22,6 @@ udp://tracker.plx.im:6969/announce
 udp://tracker.tvunderground.org.ru:3218/announce
 udp://vps-dd0a0715.vps.ovh.net:6969/announce
 udp://p4p.arenabg.com:1337/announce
-udp://tracker.dler.com:6969/announce
 http://tracker.bt4g.com:2095/announce
 https://tracker.moeblog.cn:443/announce
 udp://martin-gebhardt.eu:25/announce
