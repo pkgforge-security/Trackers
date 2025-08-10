@@ -136,5 +136,6 @@ udp://tracker.zupix.online:6969/announce
 udp://tracker2.dler.org:80/announce
 udp://ttk2.nbaonlineservice.com:6969/announce
 udp://udp.tracker.projectk.org:23333/announce
+udp://vps-dd0a0715.vps.ovh.net:6969/announce
 udp://wepzone.net:6969/announce
 udp://www.torrent.eu.org:451/announce
