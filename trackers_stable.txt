@@ -56,5 +56,5 @@ udp://tracker-udp.gbitt.info:80/announce
 udp://bt.bontal.net:6969/announce
 udp://tracker.gmi.gd:6969/announce
 udp://tr4ck3r.duckdns.org:6969/announce
-https://pybittrack.retiolus.net:443/announce
 https://tracker.zhuqiy.top:443/announce
+https://pybittrack.retiolus.net:443/announce
