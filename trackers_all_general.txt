@@ -24,6 +24,7 @@ http://shubt.net:2710/announce
 http://t.jaekr.sh:6969/announce
 http://t.overflow.biz:6969/announce
 http://torrent.hificode.in:6969/announce
+http://tr.kxmp.cf:80/announce
 http://tracker.23794.top:6969/announce
 http://tracker.beeimg.com:6969/announce
 http://tracker.bittor.pw:1337/announce
@@ -32,6 +33,7 @@ http://tracker.bt4g.com:2095/announce
 http://tracker.bz:80/announce
 http://tracker.corpscorp.online:80/announce
 http://tracker.cutie.dating:80/announce
+http://tracker.darkness.services:6969/announce
 http://tracker.dler.org:6969/announce
 http://tracker.dmcomic.org:2710/announce
 http://tracker.ghostchu-services.top:80/announce
@@ -83,7 +85,6 @@ udp://bt.rer.lol:2710/announce
 udp://bt.rer.lol:6969/announce
 udp://concen.org:6969/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
-udp://discord.heihachi.pw:6969/announce
 udp://evan.im:6969/announce
 udp://exodus.desync.com:6969/announce
 udp://explodie.org:6969/announce
@@ -92,14 +93,13 @@ udp://glotorrents.pw:6969/announce
 udp://hificode.in:6969/announce
 udp://ipv4.rer.lol:2710/announce
 udp://ipv4announce.sktorrent.eu:6969/announce
-udp://isk.richardsw.club:6969/announce
-udp://leet-tracker.moe:1337/announce
 udp://martin-gebhardt.eu:25/announce
 udp://ns-1.x-fins.com:6969/announce
 udp://open.demonii.com:1337/announce
 udp://open.dstud.io:6969/announce
 udp://open.free-tracker.ga:6969/announce
 udp://open.stealth.si:80/announce
+udp://open.tracker.cl:1337/announce
 udp://opentracker.io:6969/announce
 udp://p4p.arenabg.com:1337/announce
 udp://public.tracker.vraphim.com:6969/announce
@@ -120,7 +120,6 @@ udp://tracker.gmi.gd:6969/announce
 udp://tracker.healthcareindia.store:1337/announce
 udp://tracker.hifimarket.in:2710/announce
 udp://tracker.hifitechindia.com:6969/announce
-udp://tracker.ololosh.space:6969/announce
 udp://tracker.opentrackr.org:1337/announce
 udp://tracker.plx.im:6969/announce
 udp://tracker.qu.ax:6969/announce
@@ -129,6 +128,7 @@ udp://tracker.skillindia.site:6969/announce
 udp://tracker.srv00.com:6969/announce
 udp://tracker.therarbg.to:6969/announce
 udp://tracker.torrent.eu.org:451/announce
+udp://tracker.torrust-demo.com:6969/announce
 udp://tracker.tryhackx.org:6969/announce
 udp://tracker.tvunderground.org.ru:3218/announce
 udp://tracker.valete.tf:9999/announce
