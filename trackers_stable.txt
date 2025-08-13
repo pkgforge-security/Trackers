@@ -34,8 +34,8 @@ https://tr.zukizuki.org:443/announce
 udp://1c.premierzal.ru:6969/announce
 udp://tracker.skillindia.site:6969/announce
 udp://retracker01-msk-virt.corbina.net:80/announce
-udp://tracker.bitcoinindia.space:6969/announce
 udp://tracker.srv00.com:6969/announce
+udp://tracker.bitcoinindia.space:6969/announce
 udp://tracker.hifitechindia.com:6969/announce
 udp://tracker.gigantino.net:6969/announce
 udp://www.torrent.eu.org:451/announce
