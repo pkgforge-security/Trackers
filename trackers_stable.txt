@@ -16,6 +16,7 @@ http://tracker.beeimg.com:6969/announce
 udp://tracker.valete.tf:9999/announce
 http://tracker.renfei.net:8080/announce
 https://tracker.expli.top:443/announce
+https://tr.nyacat.pw:443/announce
 udp://extracker.dahrkael.net:6969/announce
 http://ipv4.rer.lol:2710/announce
 udp://tracker.tvunderground.org.ru:3218/announce
@@ -24,7 +25,6 @@ udp://p4p.arenabg.com:1337/announce
 http://tracker.bt4g.com:2095/announce
 udp://open.demonii.com:1337/announce
 https://tracker.moeblog.cn:443/announce
-https://tr.nyacat.pw:443/announce
 udp://tracker.plx.im:6969/announce
 udp://martin-gebhardt.eu:25/announce
 udp://bandito.byterunner.io:6969/announce
@@ -42,13 +42,13 @@ udp://tracker.bitcoinindia.space:6969/announce
 udp://tracker.hifitechindia.com:6969/announce
 udp://tracker.fnix.net:6969/announce
 udp://tracker.therarbg.to:6969/announce
-http://tracker.netmap.top:6969/announce
 udp://opentracker.io:6969/announce
+http://tracker.netmap.top:6969/announce
 http://0123456789nonexistent.com:80/announce
 http://open.trackerlist.xyz:80/announce
 http://shubt.net:2710/announce
-https://tr.zukizuki.org:443/announce
 http://tracker.ipv6tracker.ru:80/announce
+https://tr.zukizuki.org:443/announce
 udp://bt.bontal.net:6969/announce
 udp://ttk2.nbaonlineservice.com:6969/announce
 udp://tracker-udp.gbitt.info:80/announce
