@@ -41,11 +41,11 @@ http://torrent.hificode.in:6969/announce
 udp://tracker.bitcoinindia.space:6969/announce
 udp://tracker.hifitechindia.com:6969/announce
 udp://tracker.fnix.net:6969/announce
-https://tr.zukizuki.org:443/announce
 http://tracker.netmap.top:6969/announce
 udp://tracker.therarbg.to:6969/announce
-udp://opentracker.io:6969/announce
+https://tr.zukizuki.org:443/announce
 udp://bt.bontal.net:6969/announce
+udp://opentracker.io:6969/announce
 http://open.trackerlist.xyz:80/announce
 http://shubt.net:2710/announce
 http://0123456789nonexistent.com:80/announce
