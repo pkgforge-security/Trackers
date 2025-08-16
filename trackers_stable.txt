@@ -49,8 +49,8 @@ http://open.trackerlist.xyz:80/announce
 udp://bt.bontal.net:6969/announce
 http://shubt.net:2710/announce
 http://tracker.ipv6tracker.ru:80/announce
-http://tracker.netmap.top:6969/announce
 udp://tracker.zupix.online:1333/announce
+http://tracker.netmap.top:6969/announce
 udp://ttk2.nbaonlineservice.com:6969/announce
 udp://tracker-udp.gbitt.info:80/announce
 http://tracker.privateseedbox.xyz:2710/announce
