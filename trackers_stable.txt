@@ -48,9 +48,9 @@ udp://tracker.therarbg.to:6969/announce
 udp://tracker.bitcoinindia.space:6969/announce
 udp://tracker.hifitechindia.com:6969/announce
 http://open.trackerlist.xyz:80/announce
+http://0123456789nonexistent.com:80/announce
 http://shubt.net:2710/announce
 udp://bt.bontal.net:6969/announce
-http://0123456789nonexistent.com:80/announce
 http://tracker.ipv6tracker.ru:80/announce
 http://tracker.netmap.top:6969/announce
 udp://ttk2.nbaonlineservice.com:6969/announce
