@@ -42,8 +42,8 @@ udp://tracker.fnix.net:6969/announce
 udp://tracker.zupix.online:1333/announce
 udp://tracker.skillindia.site:6969/announce
 udp://opentracker.io:6969/announce
-udp://tracker.therarbg.to:6969/announce
 udp://bt.bontal.net:6969/announce
+udp://tracker.therarbg.to:6969/announce
 http://0123456789nonexistent.com:80/announce
 udp://tracker.hifitechindia.com:6969/announce
 http://open.trackerlist.xyz:80/announce
