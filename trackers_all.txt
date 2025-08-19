@@ -993,6 +993,7 @@ udp://fe.dealclub.de:6969/announce
 udp://fh2.cmp-gaming.com:6969/announce
 udp://free.publictracker.xyz:6969/announce
 udp://freedom.1776.ga:6969/announce
+udp://glotorrents.pw:6969/announce
 udp://hificode.in:6969/announce
 udp://http://www.peckservers.com:9000/announce
 udp://htz3.noho.st:6969/announce
@@ -1063,7 +1064,6 @@ udp://ssb14.nohost.me:6969/announce
 udp://stargrave.org:6969/announce
 udp://static.54.161.216.95.clients.your-server.de:6969/announce
 udp://su-data.com:6969/announce
-udp://t.overflow.biz:6969/announce
 udp://t.zerg.pw:6969/announce
 udp://tamas3.ynh.fr:6969/announce
 udp://thagoat.rocks:6969/announce
@@ -1134,6 +1134,7 @@ udp://tracker.torrent.eu.org:451/announce
 udp://tracker.torrust-demo.com:6969/announce
 udp://tracker.trackerfix.com:80/announce
 udp://tracker.trackerfix.com:82/announce
+udp://tracker.tryhackx.org:6969/announce
 udp://tracker.tvunderground.org.ru:3218/announce
 udp://tracker.valete.tf:9999/announce
 udp://tracker.wepzone.net:6969/announce
@@ -1155,6 +1156,7 @@ udp://tsundere.pw:6969/announce
 udp://ttk2.nbaonlineservice.com:6969/announce
 udp://udp.tracker.projectk.org:23333/announce
 udp://uploads.gamecoast.net:6969/announce
+udp://utracker.ghostchu-services.top:6969/announce
 udp://v1046920.hosted-by-vdsina.ru:6969/announce
 udp://v2.iperson.xyz:6969/announce
 udp://vibe.sleepyinternetfun.xyz:1738/announce
