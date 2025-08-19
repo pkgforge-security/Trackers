@@ -62,6 +62,7 @@ http://tracker810.xyz:11450/announce
 http://wepzone.net:6969/announce
 http://www.genesis-sp.org:2710/announce
 http://www.torrentsnipe.info:2701/announce
+https://shahidrazi.online:443/announce
 https://tr.nyacat.pw:443/announce
 https://tracker.aburaya.live:443/announce
 https://tracker.bt4g.com:443/announce
