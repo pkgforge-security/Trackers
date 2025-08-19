@@ -54,9 +54,9 @@ http://shubt.net:2710/announce
 http://tracker.ipv6tracker.ru:80/announce
 udp://ttk2.nbaonlineservice.com:6969/announce
 udp://tracker.gmi.gd:6969/announce
+http://lucke.fenesisu.moe:6969/announce
 http://tracker.netmap.top:6969/announce
 https://tracker.zhuqiy.top:443/announce
-http://lucke.fenesisu.moe:6969/announce
 http://tracker.privateseedbox.xyz:2710/announce
 https://shahidrazi.online:443/announce
 udp://tr4ck3r.duckdns.org:6969/announce
