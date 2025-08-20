@@ -22,11 +22,11 @@ udp://tracker.cloudbase.store:1333/announce
 udp://open.stealth.si:80/announce
 http://tracker.bt4g.com:2095/announce
 http://bt.okmp3.ru:2710/announce
-udp://open.demonii.com:1337/announce
 https://tracker.yemekyedim.com:443/announce
 udp://tracker.valete.tf:9999/announce
 udp://extracker.dahrkael.net:6969/announce
 udp://tracker.plx.im:6969/announce
+udp://open.demonii.com:1337/announce
 https://tracker.moeblog.cn:443/announce
 https://tracker.cutie.dating:443/announce
 udp://martin-gebhardt.eu:25/announce
@@ -40,10 +40,10 @@ udp://tracker.zupix.online:1333/announce
 udp://tracker.rescuecrew7.com:1337/announce
 udp://opentracker.io:6969/announce
 http://torrent.hificode.in:6969/announce
+http://lucke.fenesisu.moe:6969/announce
 udp://tracker.gigantino.net:6969/announce
 udp://www.torrent.eu.org:451/announce
 udp://bt.bontal.net:6969/announce
-http://lucke.fenesisu.moe:6969/announce
 udp://tracker.skillindia.site:6969/announce
 udp://tracker.startwork.cv:1337/announce
 http://0123456789nonexistent.com:80/announce
