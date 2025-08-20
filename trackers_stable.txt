@@ -35,9 +35,9 @@ udp://udp.tracker.projectk.org:23333/announce
 udp://1c.premierzal.ru:6969/announce
 udp://tracker.srv00.com:6969/announce
 udp://tracker.fnix.net:6969/announce
+http://lucke.fenesisu.moe:6969/announce
 udp://retracker01-msk-virt.corbina.net:80/announce
 udp://tracker.zupix.online:1333/announce
-http://lucke.fenesisu.moe:6969/announce
 udp://tracker.rescuecrew7.com:1337/announce
 udp://opentracker.io:6969/announce
 http://torrent.hificode.in:6969/announce
@@ -59,5 +59,5 @@ https://tracker.zhuqiy.top:443/announce
 udp://tr4ck3r.duckdns.org:6969/announce
 http://tracker.privateseedbox.xyz:2710/announce
 https://shahidrazi.online:443/announce
-http://tracker.netmap.top:6969/announce
 https://tracker.aburaya.live:443/announce
+http://tracker.netmap.top:6969/announce
