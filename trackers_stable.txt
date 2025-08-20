@@ -29,11 +29,11 @@ udp://tracker.plx.im:6969/announce
 udp://open.demonii.com:1337/announce
 https://tracker.moeblog.cn:443/announce
 udp://bandito.byterunner.io:6969/announce
+http://lucke.fenesisu.moe:6969/announce
 https://tracker.cutie.dating:443/announce
 udp://udp.tracker.projectk.org:23333/announce
 udp://1c.premierzal.ru:6969/announce
 udp://martin-gebhardt.eu:25/announce
-http://lucke.fenesisu.moe:6969/announce
 udp://tracker.srv00.com:6969/announce
 udp://tracker.fnix.net:6969/announce
 udp://tracker.zupix.online:1333/announce
