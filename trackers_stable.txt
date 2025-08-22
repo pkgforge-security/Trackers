@@ -25,12 +25,12 @@ udp://tracker.dler.com:6969/announce
 http://tracker.bt4g.com:2095/announce
 http://bt.okmp3.ru:2710/announce
 https://tracker.yemekyedim.com:443/announce
-udp://tracker.valete.tf:9999/announce
 udp://udp.tracker.projectk.org:23333/announce
 udp://tracker.plx.im:6969/announce
 udp://open.stealth.si:80/announce
 udp://open.demonii.com:1337/announce
 udp://bandito.byterunner.io:6969/announce
+udp://tracker.valete.tf:9999/announce
 https://tracker.moeblog.cn:443/announce
 udp://martin-gebhardt.eu:25/announce
 udp://tracker.fnix.net:6969/announce
@@ -49,9 +49,9 @@ http://shubt.net:2710/announce
 udp://tracker.rescuecrew7.com:1337/announce
 http://tracker.ipv6tracker.ru:80/announce
 udp://tracker.skillindia.site:6969/announce
+udp://tracker.cloudbase.store:1333/announce
 udp://tracker.gmi.gd:6969/announce
 udp://tracker.hifitechindia.com:6969/announce
-udp://tracker.cloudbase.store:1333/announce
 udp://tracker.bitcoinindia.space:6969/announce
 udp://ttk2.nbaonlineservice.com:6969/announce
 udp://tracker.startwork.cv:1337/announce
