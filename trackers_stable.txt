@@ -1,6 +1,7 @@
 udp://tracker.opentrackr.org:1337/announce
 udp://p4p.arenabg.com:1337/announce
 udp://retracker.hotplug.ru:2710/announce
+http://tracker.bt4g.com:2095/announce
 http://tracker.mywaifu.best:6969/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
 udp://evan.im:6969/announce
@@ -21,7 +22,6 @@ http://speedtest.iperson.xyz:6969/announce
 udp://tracker.kmzs123.cn:17272/announce
 https://tracker.alaskantf.com:443/announce
 udp://tracker.dler.com:6969/announce
-http://tracker.bt4g.com:2095/announce
 http://bt.okmp3.ru:2710/announce
 udp://tracker.torrent.eu.org:451/announce
 https://tracker.yemekyedim.com:443/announce
@@ -33,9 +33,9 @@ udp://extracker.dahrkael.net:6969/announce
 https://tracker.moeblog.cn:443/announce
 udp://tracker.valete.tf:9999/announce
 udp://martin-gebhardt.eu:25/announce
-udp://tracker.srv00.com:6969/announce
 udp://tracker.fnix.net:6969/announce
 udp://retracker01-msk-virt.corbina.net:80/announce
+udp://tracker.srv00.com:6969/announce
 udp://www.torrent.eu.org:451/announce
 http://0123456789nonexistent.com:80/announce
 http://open.trackerlist.xyz:80/announce
@@ -48,12 +48,12 @@ udp://tracker.therarbg.to:6969/announce
 http://shubt.net:2710/announce
 udp://tracker.rescuecrew7.com:1337/announce
 http://tracker.ipv6tracker.ru:80/announce
-udp://tracker.skillindia.site:6969/announce
 udp://tracker.cloudbase.store:1333/announce
+udp://tracker.skillindia.site:6969/announce
 udp://tracker.gmi.gd:6969/announce
 udp://tracker.hifitechindia.com:6969/announce
-udp://tracker.bitcoinindia.space:6969/announce
 udp://tracker.zupix.online:1333/announce
+udp://tracker.bitcoinindia.space:6969/announce
 udp://ttk2.nbaonlineservice.com:6969/announce
 udp://tracker.startwork.cv:1337/announce
 https://tracker.zhuqiy.top:443/announce
