@@ -54,8 +54,8 @@ udp://tracker.gmi.gd:6969/announce
 udp://tracker.hifitechindia.com:6969/announce
 udp://tracker.bitcoinindia.space:6969/announce
 udp://ttk2.nbaonlineservice.com:6969/announce
-udp://tracker.startwork.cv:1337/announce
 udp://tracker.zupix.online:1333/announce
+udp://tracker.startwork.cv:1337/announce
 https://tracker.zhuqiy.top:443/announce
 udp://tr4ck3r.duckdns.org:6969/announce
 udp://tracker.hifimarket.in:2710/announce
