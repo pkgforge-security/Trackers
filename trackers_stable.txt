@@ -13,7 +13,6 @@ http://tracker.beeimg.com:6969/announce
 http://lucke.fenesisu.moe:6969/announce
 http://tracker.renfei.net:8080/announce
 https://tracker.expli.top:443/announce
-https://tr.nyacat.pw:443/announce
 udp://tracker.ducks.party:1984/announce
 http://ipv4.rer.lol:2710/announce
 udp://tracker.tvunderground.org.ru:3218/announce
@@ -43,6 +42,7 @@ udp://tracker.gigantino.net:6969/announce
 udp://1c.premierzal.ru:6969/announce
 udp://bt.bontal.net:6969/announce
 udp://tracker.therarbg.to:6969/announce
+https://tr.nyacat.pw:443/announce
 http://shubt.net:2710/announce
 http://speedtest.iperson.xyz:6969/announce
 udp://tracker.cloudbase.store:1333/announce
@@ -59,3 +59,4 @@ https://tracker.zhuqiy.top:443/announce
 udp://tr4ck3r.duckdns.org:6969/announce
 https://2.tracker.eu.org:443/announce
 https://3.tracker.eu.org:443/announce
+udp://6ahddutb1ucc3cp.ru:6969/announce
