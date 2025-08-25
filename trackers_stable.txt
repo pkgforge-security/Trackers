@@ -31,8 +31,8 @@ udp://tracker.valete.tf:9999/announce
 udp://open.demonii.com:1337/announce
 udp://martin-gebhardt.eu:25/announce
 udp://retracker01-msk-virt.corbina.net:80/announce
-udp://tracker.srv00.com:6969/announce
 udp://tracker.fnix.net:6969/announce
+udp://tracker.srv00.com:6969/announce
 udp://www.torrent.eu.org:451/announce
 http://0123456789nonexistent.com:80/announce
 http://open.trackerlist.xyz:80/announce
