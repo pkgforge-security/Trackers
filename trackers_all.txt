@@ -674,7 +674,6 @@ http://xtremewrestlingtorrents.net:80/announce.php
 https://1337.abcvg.info/announce
 https://1337.abcvg.info:443/announce
 https://2.tracker.eu.org:443/announce
-https://3.tracker.eu.org:443/announce
 https://337hhh.xyz/announce
 https://aaa.army:8866/announce
 https://abir0dev.github.io/announce
@@ -748,7 +747,6 @@ https://tr.highstar.shop/announce
 https://tr.highstar.shop:443/announce
 https://tr.kxmp.cf:80/announce
 https://tr.nyacat.pw/announce
-https://tr.nyacat.pw:443/announce
 https://tr.ready4.icu/announce
 https://tr.ready4.icu:443/announce
 https://tr.torland.ga/announce
