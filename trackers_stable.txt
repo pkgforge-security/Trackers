@@ -47,8 +47,8 @@ http://speedtest.iperson.xyz:6969/announce
 udp://tracker.cloudbase.store:1333/announce
 udp://tracker.rescuecrew7.com:1337/announce
 http://tracker.ipv6tracker.ru:80/announce
-udp://tracker.gmi.gd:6969/announce
 udp://tracker.skillindia.site:6969/announce
+udp://tracker.gmi.gd:6969/announce
 udp://tracker.zupix.online:1333/announce
 udp://tracker.hifitechindia.com:6969/announce
 udp://tracker.startwork.cv:1337/announce
