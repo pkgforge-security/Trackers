@@ -59,3 +59,4 @@ https://4.tracker.eu.org:443/announce
 https://3.tracker.eu.org:443/announce
 udp://6ahddutb1ucc3cp.ru:6969/announce
 udp://tr4ck3r.duckdns.org:6969/announce
+https://tr.nyacat.pw:443/announce
