@@ -15,6 +15,7 @@ http://tracker.renfei.net:8080/announce
 https://tracker.expli.top:443/announce
 https://tr.nyacat.pw:443/announce
 udp://tracker.ducks.party:1984/announce
+udp://extracker.dahrkael.net:6969/announce
 http://ipv4.rer.lol:2710/announce
 udp://tracker.tvunderground.org.ru:3218/announce
 https://tracker.cutie.dating:443/announce
@@ -24,7 +25,6 @@ udp://tracker.dler.com:6969/announce
 http://bt.okmp3.ru:2710/announce
 udp://tracker.torrent.eu.org:451/announce
 udp://bandito.byterunner.io:6969/announce
-udp://extracker.dahrkael.net:6969/announce
 udp://tracker.plx.im:6969/announce
 udp://open.stealth.si:80/announce
 https://tracker.moeblog.cn:443/announce
@@ -56,7 +56,7 @@ udp://ttk2.nbaonlineservice.com:6969/announce
 https://2.tracker.eu.org:443/announce
 udp://tracker.gmi.gd:6969/announce
 https://tracker.zhuqiy.top:443/announce
+udp://tr4ck3r.duckdns.org:6969/announce
 https://4.tracker.eu.org:443/announce
 https://3.tracker.eu.org:443/announce
 udp://6ahddutb1ucc3cp.ru:6969/announce
-udp://tr4ck3r.duckdns.org:6969/announce
