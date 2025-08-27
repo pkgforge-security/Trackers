@@ -55,8 +55,8 @@ udp://tracker.bitcoinindia.space:6969/announce
 udp://ttk2.nbaonlineservice.com:6969/announce
 https://2.tracker.eu.org:443/announce
 https://tracker.zhuqiy.top:443/announce
-udp://tr4ck3r.duckdns.org:6969/announce
 https://4.tracker.eu.org:443/announce
 https://3.tracker.eu.org:443/announce
+udp://tr4ck3r.duckdns.org:6969/announce
 udp://6ahddutb1ucc3cp.ru:6969/announce
 udp://tracker.gmi.gd:6969/announce
