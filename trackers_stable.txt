@@ -33,9 +33,9 @@ udp://retracker01-msk-virt.corbina.net:80/announce
 udp://tracker.srv00.com:6969/announce
 udp://open.demonii.com:1337/announce
 udp://tracker.fnix.net:6969/announce
-https://tracker.cutie.dating:443/announce
 http://0123456789nonexistent.com:80/announce
 udp://www.torrent.eu.org:451/announce
+https://tracker.cutie.dating:443/announce
 http://open.trackerlist.xyz:80/announce
 udp://opentracker.io:6969/announce
 http://torrent.hificode.in:6969/announce
