@@ -33,7 +33,6 @@ http://tracker.bt4g.com:2095/announce
 http://tracker.bz:80/announce
 http://tracker.corpscorp.online:80/announce
 http://tracker.darkness.services:6969/announce
-http://tracker.dhitechnical.com:6969/announce
 http://tracker.dler.org:6969/announce
 http://tracker.dmcomic.org:2710/announce
 http://tracker.ghostchu-services.top:80/announce

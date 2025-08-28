@@ -62,4 +62,3 @@ https://3.tracker.eu.org:443/announce
 udp://tr4ck3r.duckdns.org:6969/announce
 https://shahidrazi.online:443/announce
 udp://6ahddutb1ucc3cp.ru:6969/announce
-http://tracker.dhitechnical.com:6969/announce
