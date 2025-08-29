@@ -25,8 +25,8 @@ http://tracker.beeimg.com:6969/announce
 udp://tracker.plx.im:6969/announce
 udp://open.stealth.si:80/announce
 https://tracker.moeblog.cn:443/announce
-https://tracker.yemekyedim.com:443/announce
 udp://tracker.fnix.net:6969/announce
+https://tracker.yemekyedim.com:443/announce
 udp://martin-gebhardt.eu:25/announce
 udp://tracker.valete.tf:9999/announce
 http://tracker.bt4g.com:2095/announce
