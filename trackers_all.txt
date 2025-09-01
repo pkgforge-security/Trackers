@@ -670,6 +670,7 @@ http://www.zone-torrent.net/announce.php
 http://www.zone-torrent.net:80/announce.php
 http://xtremewrestlingtorrents.net/announce.php
 http://xtremewrestlingtorrents.net:80/announce.php
+https://1.tracker.eu.org:443/announce
 https://1337.abcvg.info/announce
 https://1337.abcvg.info:443/announce
 https://2.tracker.eu.org:443/announce
