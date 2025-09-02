@@ -20,10 +20,10 @@ http://bt.okmp3.ru:2710/announce
 udp://tracker.torrent.eu.org:451/announce
 http://tracker.mywaifu.best:6969/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
+udp://ttk2.nbaonlineservice.com:6969/announce
 http://tracker.beeimg.com:6969/announce
 udp://tracker.plx.im:6969/announce
 udp://open.stealth.si:80/announce
-udp://ttk2.nbaonlineservice.com:6969/announce
 udp://tracker.fnix.net:6969/announce
 udp://bandito.byterunner.io:6969/announce
 udp://6ahddutb1ucc3cp.ru:6969/announce
