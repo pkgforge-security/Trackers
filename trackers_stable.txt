@@ -58,7 +58,7 @@ udp://tracker.bitcoinindia.space:6969/announce
 https://2.tracker.eu.org:443/announce
 https://4.tracker.eu.org:443/announce
 https://3.tracker.eu.org:443/announce
-udp://tr4ck3r.duckdns.org:6969/announce
 https://torrent.tracker.durukanbal.com:443/announce
+udp://tr4ck3r.duckdns.org:6969/announce
 udp://udp.tracker.projectk.org:23333/announce
 https://1.tracker.eu.org:443/announce
