@@ -49,8 +49,8 @@ http://0123456789nonexistent.com:80/announce
 udp://opentracker.io:6969/announce
 udp://tracker.startwork.cv:1337/announce
 http://tracker.ipv6tracker.ru:80/announce
-http://shubt.net:2710/announce
 https://tracker.zhuqiy.top:443/announce
+http://shubt.net:2710/announce
 udp://tracker.rescuecrew7.com:1337/announce
 udp://tracker.skillindia.site:6969/announce
 udp://tracker.hifitechindia.com:6969/announce
