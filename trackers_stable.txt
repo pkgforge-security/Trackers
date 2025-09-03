@@ -6,6 +6,7 @@ udp://evan.im:6969/announce
 https://tracker.jdx3.org:443/announce
 udp://retracker.lanta.me:2710/announce
 http://ipv6.rer.lol:6969/announce
+udp://udp.tracker.projectk.org:23333/announce
 http://lucke.fenesisu.moe:6969/announce
 http://tracker.renfei.net:8080/announce
 https://tracker.expli.top:443/announce
@@ -35,7 +36,6 @@ http://tracker.bt4g.com:2095/announce
 udp://open.demonii.com:1337/announce
 https://tracker.moeblog.cn:443/announce
 https://tracker.yemekyedim.com:443/announce
-udp://udp.tracker.projectk.org:23333/announce
 udp://tracker.therarbg.to:6969/announce
 udp://tracker.srv00.com:6969/announce
 udp://tracker.gigantino.net:6969/announce
