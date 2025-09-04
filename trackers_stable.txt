@@ -6,6 +6,7 @@ udp://evan.im:6969/announce
 https://tracker.jdx3.org:443/announce
 udp://retracker.lanta.me:2710/announce
 http://ipv6.rer.lol:6969/announce
+udp://tracker.valete.tf:9999/announce
 udp://udp.tracker.projectk.org:23333/announce
 http://lucke.fenesisu.moe:6969/announce
 http://tracker.renfei.net:8080/announce
@@ -28,7 +29,6 @@ udp://tracker.plx.im:6969/announce
 udp://open.stealth.si:80/announce
 udp://martin-gebhardt.eu:25/announce
 udp://bandito.byterunner.io:6969/announce
-udp://tracker.valete.tf:9999/announce
 udp://6ahddutb1ucc3cp.ru:6969/announce
 udp://retracker01-msk-virt.corbina.net:80/announce
 udp://tracker.tryhackx.org:6969/announce
@@ -47,12 +47,12 @@ udp://tracker.cloudbase.store:1333/announce
 udp://1c.premierzal.ru:6969/announce
 udp://tracker.zupix.online:1333/announce
 http://0123456789nonexistent.com:80/announce
+https://torrent.tracker.durukanbal.com:443/announce
 https://tracker.zhuqiy.top:443/announce
 http://shubt.net:2710/announce
 udp://tracker.startwork.cv:1337/announce
 udp://opentracker.io:6969/announce
 udp://tracker.skillindia.site:6969/announce
-https://torrent.tracker.durukanbal.com:443/announce
 http://tracker.ipv6tracker.ru:80/announce
 udp://tracker.hifitechindia.com:6969/announce
 udp://tracker.rescuecrew7.com:1337/announce
