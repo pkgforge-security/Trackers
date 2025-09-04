@@ -1,6 +1,7 @@
 udp://tracker.opentrackr.org:1337/announce
 udp://p4p.arenabg.com:1337/announce
 udp://retracker.hotplug.ru:2710/announce
+http://bt.okmp3.ru:2710/announce
 udp://ttk2.nbaonlineservice.com:6969/announce
 udp://evan.im:6969/announce
 https://tracker.yemekyedim.com:443/announce
@@ -12,6 +13,7 @@ udp://udp.tracker.projectk.org:23333/announce
 http://lucke.fenesisu.moe:6969/announce
 http://tracker.renfei.net:8080/announce
 https://tracker.expli.top:443/announce
+https://tr.nyacat.pw:443/announce
 udp://tracker.ducks.party:1984/announce
 udp://extracker.dahrkael.net:6969/announce
 http://ipv4.rer.lol:2710/announce
@@ -20,13 +22,11 @@ udp://tracker.tvunderground.org.ru:3218/announce
 https://tracker.alaskantf.com:443/announce
 udp://tracker-de-2.cutie.dating:1337/announce
 udp://tracker.dler.com:6969/announce
-http://bt.okmp3.ru:2710/announce
 udp://tracker.torrent.eu.org:451/announce
 http://tracker.mywaifu.best:6969/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
 udp://tracker.fnix.net:6969/announce
 http://tracker.beeimg.com:6969/announce
-https://tr.nyacat.pw:443/announce
 udp://open.stealth.si:80/announce
 udp://martin-gebhardt.eu:25/announce
 udp://bandito.byterunner.io:6969/announce
