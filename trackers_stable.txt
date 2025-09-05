@@ -56,8 +56,8 @@ udp://tracker.skillindia.site:6969/announce
 http://tracker.ipv6tracker.ru:80/announce
 udp://tracker.rescuecrew7.com:1337/announce
 udp://tracker.bitcoinindia.space:6969/announce
-udp://tracker.hifitechindia.com:6969/announce
 https://2.tracker.eu.org:443/announce
+udp://tracker.hifitechindia.com:6969/announce
 https://4.tracker.eu.org:443/announce
 https://3.tracker.eu.org:443/announce
 udp://tr4ck3r.duckdns.org:6969/announce
