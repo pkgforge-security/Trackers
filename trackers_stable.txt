@@ -4,7 +4,6 @@ udp://retracker.hotplug.ru:2710/announce
 http://bt.okmp3.ru:2710/announce
 udp://ttk2.nbaonlineservice.com:6969/announce
 udp://evan.im:6969/announce
-https://tracker.yemekyedim.com:443/announce
 https://tracker.jdx3.org:443/announce
 udp://retracker.lanta.me:2710/announce
 http://ipv6.rer.lol:6969/announce
@@ -25,6 +24,7 @@ http://tracker.mywaifu.best:6969/announce
 udp://tracker.tryhackx.org:6969/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
 udp://tracker.fnix.net:6969/announce
+https://tracker.yemekyedim.com:443/announce
 udp://bandito.byterunner.io:6969/announce
 http://tracker.beeimg.com:6969/announce
 udp://udp.tracker.projectk.org:23333/announce
@@ -53,8 +53,8 @@ http://shubt.net:2710/announce
 udp://opentracker.io:6969/announce
 https://torrent.tracker.durukanbal.com:443/announce
 http://tracker.ipv6tracker.ru:80/announce
-udp://tracker.skillindia.site:6969/announce
 udp://tracker.rescuecrew7.com:1337/announce
+udp://tracker.skillindia.site:6969/announce
 https://2.tracker.eu.org:443/announce
 udp://tracker.bitcoinindia.space:6969/announce
 udp://tracker.hifitechindia.com:6969/announce
