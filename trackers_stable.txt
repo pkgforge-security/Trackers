@@ -29,8 +29,8 @@ udp://bandito.byterunner.io:6969/announce
 http://tracker.beeimg.com:6969/announce
 udp://extracker.dahrkael.net:6969/announce
 udp://open.stealth.si:80/announce
-udp://6ahddutb1ucc3cp.ru:6969/announce
 udp://retracker01-msk-virt.corbina.net:80/announce
+udp://6ahddutb1ucc3cp.ru:6969/announce
 udp://tracker.tryhackx.org:6969/announce
 udp://martin-gebhardt.eu:25/announce
 http://tracker.bt4g.com:2095/announce
