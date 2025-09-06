@@ -31,9 +31,9 @@ udp://extracker.dahrkael.net:6969/announce
 udp://open.stealth.si:80/announce
 udp://retracker01-msk-virt.corbina.net:80/announce
 udp://udp.tracker.projectk.org:23333/announce
-udp://tracker.therarbg.to:6969/announce
 udp://6ahddutb1ucc3cp.ru:6969/announce
 udp://martin-gebhardt.eu:25/announce
+udp://tracker.therarbg.to:6969/announce
 http://tracker.bt4g.com:2095/announce
 udp://tracker.srv00.com:6969/announce
 udp://open.demonii.com:1337/announce
@@ -42,8 +42,8 @@ udp://tracker.gigantino.net:6969/announce
 udp://bt.bontal.net:6969/announce
 http://open.trackerlist.xyz:80/announce
 udp://www.torrent.eu.org:451/announce
-http://torrent.hificode.in:6969/announce
 https://tracker.zhuqiy.top:443/announce
+http://torrent.hificode.in:6969/announce
 udp://tracker.cloudbase.store:1333/announce
 udp://1c.premierzal.ru:6969/announce
 http://0123456789nonexistent.com:80/announce
