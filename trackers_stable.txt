@@ -12,7 +12,6 @@ http://lucke.fenesisu.moe:6969/announce
 http://tracker.renfei.net:8080/announce
 https://tracker.expli.top:443/announce
 https://tr.nyacat.pw:443/announce
-udp://tracker.ducks.party:1984/announce
 http://ipv4.rer.lol:2710/announce
 udp://tracker.plx.im:6969/announce
 udp://tracker.tvunderground.org.ru:3218/announce
@@ -26,6 +25,7 @@ udp://tracker.tryhackx.org:6969/announce
 udp://tracker.fnix.net:6969/announce
 https://tracker.yemekyedim.com:443/announce
 http://tracker.beeimg.com:6969/announce
+udp://tracker.ducks.party:1984/announce
 udp://extracker.dahrkael.net:6969/announce
 udp://open.stealth.si:80/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
@@ -52,8 +52,8 @@ http://shubt.net:2710/announce
 udp://tracker.startwork.cv:1337/announce
 https://torrent.tracker.durukanbal.com:443/announce
 udp://opentracker.io:6969/announce
-udp://tracker.rescuecrew7.com:1337/announce
 http://tracker.ipv6tracker.ru:80/announce
+udp://tracker.rescuecrew7.com:1337/announce
 udp://tracker.skillindia.site:6969/announce
 https://2.tracker.eu.org:443/announce
 udp://tracker.bitcoinindia.space:6969/announce
