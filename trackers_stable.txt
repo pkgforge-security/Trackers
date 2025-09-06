@@ -40,8 +40,8 @@ udp://open.demonii.com:1337/announce
 https://tracker.moeblog.cn:443/announce
 udp://tracker.gigantino.net:6969/announce
 udp://bt.bontal.net:6969/announce
-http://open.trackerlist.xyz:80/announce
 udp://www.torrent.eu.org:451/announce
+http://open.trackerlist.xyz:80/announce
 https://tracker.zhuqiy.top:443/announce
 http://torrent.hificode.in:6969/announce
 udp://tracker.cloudbase.store:1333/announce
