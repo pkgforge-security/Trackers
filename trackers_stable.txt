@@ -39,8 +39,8 @@ udp://tracker.tvunderground.org.ru:3218/announce
 https://tracker.moeblog.cn:443/announce
 udp://tracker.therarbg.to:6969/announce
 udp://bt.bontal.net:6969/announce
-udp://www.torrent.eu.org:451/announce
 udp://tracker.gigantino.net:6969/announce
+udp://www.torrent.eu.org:451/announce
 http://open.trackerlist.xyz:80/announce
 http://torrent.hificode.in:6969/announce
 udp://1c.premierzal.ru:6969/announce

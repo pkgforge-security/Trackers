@@ -600,7 +600,6 @@ http://tracker.yoshi210.com:6969/announce
 http://tracker.yuelili.com/announce
 http://tracker.yuelili.com:80/announce
 http://tracker.zerobytes.xyz:1337/announce
-http://tracker.zhuqiy.top:80/announce
 http://tracker1.bt.moack.co.kr/announce
 http://tracker1.bt.moack.co.kr:80/announce
 http://tracker1.itzmx.com:8080/announce
