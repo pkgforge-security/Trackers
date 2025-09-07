@@ -40,8 +40,8 @@ https://tracker.moeblog.cn:443/announce
 udp://tracker.therarbg.to:6969/announce
 udp://bt.bontal.net:6969/announce
 udp://www.torrent.eu.org:451/announce
-http://open.trackerlist.xyz:80/announce
 udp://tracker.gigantino.net:6969/announce
+http://open.trackerlist.xyz:80/announce
 http://torrent.hificode.in:6969/announce
 udp://1c.premierzal.ru:6969/announce
 http://0123456789nonexistent.com:80/announce
@@ -60,5 +60,5 @@ https://4.tracker.eu.org:443/announce
 https://3.tracker.eu.org:443/announce
 udp://tracker.bitcoinindia.space:6969/announce
 udp://tr4ck3r.duckdns.org:6969/announce
-udp://tracker.hifitechindia.com:6969/announce
 https://1.tracker.eu.org:443/announce
+udp://tracker.hifitechindia.com:6969/announce
