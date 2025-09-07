@@ -28,11 +28,11 @@ http://tracker.beeimg.com:6969/announce
 http://lucke.fenesisu.moe:6969/announce
 udp://extracker.dahrkael.net:6969/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
-udp://bandito.byterunner.io:6969/announce
 udp://udp.tracker.projectk.org:23333/announce
 udp://tracker.ducks.party:1984/announce
 udp://6ahddutb1ucc3cp.ru:6969/announce
 udp://martin-gebhardt.eu:25/announce
+udp://bandito.byterunner.io:6969/announce
 http://tracker.bt4g.com:2095/announce
 udp://tracker.srv00.com:6969/announce
 udp://open.demonii.com:1337/announce
