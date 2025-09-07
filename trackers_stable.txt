@@ -51,8 +51,8 @@ udp://tracker.zupix.online:1333/announce
 http://shubt.net:2710/announce
 udp://tracker.startwork.cv:1337/announce
 https://torrent.tracker.durukanbal.com:443/announce
-udp://opentracker.io:6969/announce
 http://tracker.ipv6tracker.ru:80/announce
+udp://opentracker.io:6969/announce
 udp://tracker.rescuecrew7.com:1337/announce
 udp://tracker.skillindia.site:6969/announce
 https://2.tracker.eu.org:443/announce
