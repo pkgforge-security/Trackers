@@ -46,9 +46,9 @@ https://tracker.zhuqiy.top:443/announce
 http://0123456789nonexistent.com:80/announce
 udp://tracker.cloudbase.store:1333/announce
 udp://1c.premierzal.ru:6969/announce
-udp://tracker.gigantino.net:6969/announce
 http://shubt.net:2710/announce
 https://torrent.tracker.durukanbal.com:443/announce
+udp://tracker.gigantino.net:6969/announce
 udp://tracker.startwork.cv:1337/announce
 udp://tracker.rescuecrew7.com:1337/announce
 udp://tracker.zupix.online:1333/announce
