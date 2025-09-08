@@ -22,11 +22,11 @@ udp://tracker.dler.com:6969/announce
 udp://retracker01-msk-virt.corbina.net:80/announce
 udp://tracker.torrent.eu.org:451/announce
 http://tracker.mywaifu.best:6969/announce
-udp://tracker.fnix.net:6969/announce
 https://tracker.yemekyedim.com:443/announce
 http://tracker.beeimg.com:6969/announce
 http://lucke.fenesisu.moe:6969/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
+udp://tracker.fnix.net:6969/announce
 udp://udp.tracker.projectk.org:23333/announce
 udp://tracker.ducks.party:1984/announce
 udp://6ahddutb1ucc3cp.ru:6969/announce
