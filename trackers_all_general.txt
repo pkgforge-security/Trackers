@@ -60,8 +60,6 @@ http://wepzone.net:6969/announce
 http://www.genesis-sp.org:2710/announce
 http://www.torrentsnipe.info:2701/announce
 https://2.tracker.eu.org:443/announce
-https://3.tracker.eu.org:443/announce
-https://4.tracker.eu.org:443/announce
 https://api.ipv4online.uk:443/announce
 https://t1.hloli.org:443/announce
 https://torrent.tracker.durukanbal.com:443/announce
