@@ -36,8 +36,8 @@ udp://tracker.srv00.com:6969/announce
 udp://tracker.tvunderground.org.ru:3218/announce
 udp://tracker.therarbg.to:6969/announce
 udp://extracker.dahrkael.net:6969/announce
-udp://bt.bontal.net:6969/announce
 https://tr.zukizuki.org:443/announce
+udp://bt.bontal.net:6969/announce
 udp://www.torrent.eu.org:451/announce
 http://open.trackerlist.xyz:80/announce
 https://tracker.moeblog.cn:443/announce
