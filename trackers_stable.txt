@@ -48,8 +48,8 @@ udp://tracker.rescuecrew7.com:1337/announce
 udp://tracker.startwork.cv:1337/announce
 udp://tracker.zupix.online:1333/announce
 https://tracker.moeblog.cn:443/announce
-https://tracker.zhuqiy.top:443/announce
 udp://1c.premierzal.ru:6969/announce
+https://tracker.zhuqiy.top:443/announce
 http://shubt.net:2710/announce
 http://torrent.hificode.in:6969/announce
 http://0123456789nonexistent.com:80/announce
