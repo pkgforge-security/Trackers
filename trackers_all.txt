@@ -445,7 +445,6 @@ http://torrentzilla.org:80/announce.php
 http://tr.bangumi.moe/announce
 http://tr.bangumi.moe:6969/announce
 http://tr.cili001.com:8070/announce
-http://tr.highstar.shop:80/announce
 http://tr.kxmp.cf/announce
 http://tr.kxmp.cf:80/announce
 http://tr.nyacat.pw/announce
@@ -754,7 +753,6 @@ https://tr.torland.ga:443/announce
 https://tr.zukizuki.org:443/announce
 https://tracker.4.babico.name.tr/announce
 https://tracker.aburaya.live:443/announce
-https://tracker.alaskantf.com:443/announce
 https://tracker.baka.ink/announce
 https://tracker.baka.ink:443/announce
 https://tracker.bangumi.zip/announce
