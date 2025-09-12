@@ -698,7 +698,6 @@ https://grifon.info:80/announce
 https://hcbt.pp.ua/announce
 https://inferno.demonoid.is/announce
 https://k.avc.cx/announce.php
-https://k.avc.cx:443/announce
 https://k.avc.cx:443/announce.php
 https://k3tracker.cc/announce/0b0b5b2bb71770aa0df56f80a4863f07
 https://nyaa.tracker.wf:7777/announce
