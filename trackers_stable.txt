@@ -16,7 +16,6 @@ http://ipv6.rer.lol:6969/announce
 udp://tracker.valete.tf:9999/announce
 http://tracker.renfei.net:8080/announce
 https://tracker.expli.top:443/announce
-https://tr.nyacat.pw:443/announce
 http://ipv4.rer.lol:2710/announce
 udp://tracker.plx.im:6969/announce
 http://tracker.mywaifu.best:6969/announce
@@ -24,6 +23,7 @@ udp://martin-gebhardt.eu:25/announce
 http://tracker.beeimg.com:6969/announce
 https://tr.zukizuki.org:443/announce
 http://lucke.fenesisu.moe:6969/announce
+https://tr.nyacat.pw:443/announce
 udp://tracker-de-2.cutie.dating:1337/announce
 udp://tracker.dler.com:6969/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
@@ -44,9 +44,9 @@ udp://tracker.cloudbase.store:1333/announce
 udp://1c.premierzal.ru:6969/announce
 udp://tracker.rescuecrew7.com:1337/announce
 udp://tracker.startwork.cv:1337/announce
-https://tracker.aburaya.live:443/announce
 udp://tracker.zupix.online:1333/announce
 https://tracker.moeblog.cn:443/announce
+https://tracker.aburaya.live:443/announce
 https://tracker.leechshield.link:443/announce
 https://tracker.zhuqiy.top:443/announce
 https://torrent.tracker.durukanbal.com:443/announce
