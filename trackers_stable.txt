@@ -54,9 +54,9 @@ https://torrent.tracker.durukanbal.com:443/announce
 http://torrent.hificode.in:6969/announce
 http://0123456789nonexistent.com:80/announce
 udp://tracker.skillindia.site:6969/announce
-https://k.avc.cx:443/announce
 udp://tracker.bitcoinindia.space:6969/announce
 http://tracker.ipv6tracker.ru:80/announce
 udp://opentracker.io:6969/announce
 udp://tracker.hifitechindia.com:6969/announce
 udp://tr4ck3r.duckdns.org:6969/announce
+https://k.avc.cx:443/announce
