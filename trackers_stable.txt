@@ -39,12 +39,12 @@ udp://tracker.therarbg.to:6969/announce
 udp://extracker.dahrkael.net:6969/announce
 udp://bt.bontal.net:6969/announce
 udp://www.torrent.eu.org:451/announce
-https://tracker.aburaya.live:443/announce
 http://open.trackerlist.xyz:80/announce
 udp://tracker.cloudbase.store:1333/announce
 udp://1c.premierzal.ru:6969/announce
 udp://tracker.rescuecrew7.com:1337/announce
 udp://tracker.startwork.cv:1337/announce
+https://tracker.aburaya.live:443/announce
 udp://tracker.zupix.online:1333/announce
 https://tracker.moeblog.cn:443/announce
 https://tracker.leechshield.link:443/announce
