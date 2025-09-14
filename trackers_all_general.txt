@@ -71,6 +71,7 @@ https://tracker.leechshield.link:443/announce
 https://tracker.moeblog.cn:443/announce
 https://tracker.pmman.tech:443/announce
 https://tracker.yemekyedim.com:443/announce
+https://tracker.zhuqiy.com:443/announce
 https://tracker.zhuqiy.top:443/announce
 udp://1c.premierzal.ru:6969/announce
 udp://6ahddutb1ucc3cp.ru:6969/announce
