@@ -59,4 +59,5 @@ udp://opentracker.io:6969/announce
 http://0123456789nonexistent.com:80/announce
 http://torrent.hificode.in:6969/announce
 udp://tracker.hifitechindia.com:6969/announce
+udp://tracker.torrust-demo.com:6969/announce
 udp://tr4ck3r.duckdns.org:6969/announce
