@@ -27,10 +27,10 @@ http://lucke.fenesisu.moe:6969/announce
 udp://extracker.dahrkael.net:6969/announce
 udp://tracker-de-2.cutie.dating:1337/announce
 udp://tracker.dler.com:6969/announce
-udp://tracker.srv00.com:6969/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
 udp://evan.im:6969/announce
 udp://tracker.ducks.party:1984/announce
+udp://tracker.srv00.com:6969/announce
 udp://open.demonii.com:1337/announce
 udp://bandito.byterunner.io:6969/announce
 udp://bt.bontal.net:6969/announce
@@ -60,4 +60,3 @@ http://0123456789nonexistent.com:80/announce
 udp://tracker.torrust-demo.com:6969/announce
 http://torrent.hificode.in:6969/announce
 udp://tracker.hifitechindia.com:6969/announce
-udp://tr4ck3r.duckdns.org:6969/announce
