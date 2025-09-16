@@ -62,3 +62,4 @@ udp://tracker.hifitechindia.com:6969/announce
 http://shubt.net:2710/announce
 http://0123456789nonexistent.com:80/announce
 udp://tracker.gmi.gd:6969/announce
+udp://tracker.qu.ax:6969/announce
