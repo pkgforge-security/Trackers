@@ -31,10 +31,10 @@ udp://evan.im:6969/announce
 http://tracker.beeimg.com:6969/announce
 udp://udp.tracker.projectk.org:23333/announce
 udp://tracker.ducks.party:1984/announce
-http://bt.okmp3.ru:2710/announce
 udp://bandito.byterunner.io:6969/announce
 udp://bt.bontal.net:6969/announce
 udp://6ahddutb1ucc3cp.ru:6969/announce
+http://bt.okmp3.ru:2710/announce
 udp://tracker.tvunderground.org.ru:3218/announce
 udp://tracker.fnix.net:6969/announce
 udp://tracker.therarbg.to:6969/announce
