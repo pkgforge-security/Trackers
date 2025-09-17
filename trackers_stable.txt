@@ -27,12 +27,12 @@ https://tr.zukizuki.org:443/announce
 http://lucke.fenesisu.moe:6969/announce
 udp://tracker-de-2.cutie.dating:1337/announce
 udp://tracker.dler.com:6969/announce
-udp://tracker.srv00.com:6969/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
 udp://evan.im:6969/announce
 http://tracker.beeimg.com:6969/announce
 udp://udp.tracker.projectk.org:23333/announce
 https://tracker.ghostchu-services.top:443/announce
+udp://tracker.srv00.com:6969/announce
 udp://bandito.byterunner.io:6969/announce
 udp://tracker.ducks.party:1984/announce
 udp://6ahddutb1ucc3cp.ru:6969/announce
@@ -47,8 +47,8 @@ udp://www.torrent.eu.org:451/announce
 udp://bt.bontal.net:6969/announce
 udp://tracker.qu.ax:6969/announce
 udp://tracker.torrust-demo.com:6969/announce
-udp://tracker.cloudbase.store:1333/announce
 udp://tracker.startwork.cv:1337/announce
+udp://tracker.cloudbase.store:1333/announce
 udp://tracker.zupix.online:1333/announce
 https://torrent.tracker.durukanbal.com:443/announce
 udp://tracker.bitcoinindia.space:6969/announce
@@ -61,7 +61,7 @@ udp://opentracker.io:6969/announce
 udp://tracker.hifitechindia.com:6969/announce
 http://open.trackerlist.xyz:80/announce
 http://torrent.hificode.in:6969/announce
-https://tracker.zhuqiy.top:443/announce
 https://tracker.leechshield.link:443/announce
+https://tracker.zhuqiy.top:443/announce
 http://shubt.net:2710/announce
 http://0123456789nonexistent.com:80/announce
