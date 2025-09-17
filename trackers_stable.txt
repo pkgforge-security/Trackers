@@ -50,8 +50,8 @@ udp://tracker.startwork.cv:1337/announce
 udp://tracker.zupix.online:1333/announce
 https://torrent.tracker.durukanbal.com:443/announce
 udp://tracker.bitcoinindia.space:6969/announce
-udp://tracker.gmi.gd:6969/announce
 https://tracker.aburaya.live:443/announce
+udp://tracker.gmi.gd:6969/announce
 udp://tracker.skillindia.site:6969/announce
 https://tracker.moeblog.cn:443/announce
 http://tracker.ipv6tracker.ru:80/announce
