@@ -59,8 +59,8 @@ https://tracker.moeblog.cn:443/announce
 http://tracker.ipv6tracker.ru:80/announce
 udp://opentracker.io:6969/announce
 udp://tracker.hifitechindia.com:6969/announce
-http://torrent.hificode.in:6969/announce
 http://open.trackerlist.xyz:80/announce
+http://torrent.hificode.in:6969/announce
 http://shubt.net:2710/announce
 https://tracker.leechshield.link:443/announce
 https://tracker.zhuqiy.top:443/announce
