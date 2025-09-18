@@ -2,6 +2,7 @@ udp://tracker.opentrackr.org:1337/announce
 udp://retracker.hotplug.ru:2710/announce
 http://tracker.bt4g.com:2095/announce
 udp://tracker.torrent.eu.org:451/announce
+http://tracker.mywaifu.best:6969/announce
 udp://tracker.tryhackx.org:6969/announce
 udp://ttk2.nbaonlineservice.com:6969/announce
 https://tracker.yemekyedim.com:443/announce
@@ -19,7 +20,6 @@ udp://yuki.bt.bontal.net:6969/announce
 udp://p4p.arenabg.com:1337/announce
 udp://open.stealth.si:80/announce
 udp://retracker01-msk-virt.corbina.net:80/announce
-http://tracker.mywaifu.best:6969/announce
 udp://open.demonii.com:1337/announce
 udp://evan.im:6969/announce
 udp://retracker.lanta.me:2710/announce
@@ -48,8 +48,8 @@ udp://tracker.startwork.cv:1337/announce
 udp://tracker.cloudbase.store:1333/announce
 udp://tracker.zupix.online:1333/announce
 udp://tracker.torrust-demo.com:6969/announce
-udp://tracker.tnl.one:8000/announce
 https://torrent.tracker.durukanbal.com:443/announce
+udp://tracker.tnl.one:8000/announce
 udp://anna.bt.bontal.net:6969/announce
 udp://tracker.bitcoinindia.space:6969/announce
 udp://tracker.gmi.gd:6969/announce
