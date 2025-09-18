@@ -13,6 +13,7 @@ https://tr.nyacat.pw:443/announce
 udp://extracker.dahrkael.net:6969/announce
 http://ipv4.rer.lol:2710/announce
 udp://tracker.plx.im:6969/announce
+udp://tracker.tvunderground.org.ru:3218/announce
 https://tracker.zhuqiy.com:443/announce
 udp://anna.bt.bontal.net:6969/announce
 udp://yuki.bt.bontal.net:6969/announce
@@ -31,7 +32,6 @@ udp://tracker-de-2.cutie.dating:1337/announce
 udp://tracker.dler.com:6969/announce
 udp://udp.tracker.projectk.org:23333/announce
 https://tracker.ghostchu-services.top:443/announce
-udp://tracker.tvunderground.org.ru:3218/announce
 udp://6ahddutb1ucc3cp.ru:6969/announce
 udp://tracker.srv00.com:6969/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
