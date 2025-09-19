@@ -50,8 +50,8 @@ udp://tracker.cloudbase.store:1333/announce
 udp://anna.bt.bontal.net:6969/announce
 udp://tracker.zupix.online:1333/announce
 https://torrent.tracker.durukanbal.com:443/announce
-udp://tracker.torrust-demo.com:6969/announce
 udp://tracker.gmi.gd:6969/announce
+udp://tracker.torrust-demo.com:6969/announce
 udp://tracker.bitcoinindia.space:6969/announce
 udp://tracker.skillindia.site:6969/announce
 udp://tracker.tnl.one:8000/announce
@@ -61,6 +61,6 @@ https://tracker.moeblog.cn:443/announce
 udp://opentracker.io:6969/announce
 udp://tracker.hifitechindia.com:6969/announce
 http://open.trackerlist.xyz:80/announce
-http://torrent.hificode.in:6969/announce
 http://0123456789nonexistent.com:80/announce
+http://torrent.hificode.in:6969/announce
 http://shubt.net:2710/announce
