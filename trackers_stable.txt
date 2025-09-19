@@ -51,8 +51,8 @@ udp://tracker.torrust-demo.com:6969/announce
 udp://anna.bt.bontal.net:6969/announce
 https://torrent.tracker.durukanbal.com:443/announce
 udp://tracker.tnl.one:8000/announce
-udp://tracker.bitcoinindia.space:6969/announce
 udp://tracker.gmi.gd:6969/announce
+udp://tracker.bitcoinindia.space:6969/announce
 udp://tracker.skillindia.site:6969/announce
 https://tracker.aburaya.live:443/announce
 http://tracker.ipv6tracker.ru:80/announce
