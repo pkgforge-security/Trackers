@@ -9,7 +9,6 @@ https://tracker.yemekyedim.com:443/announce
 https://tracker.jdx3.org:443/announce
 http://ipv6.rer.lol:6969/announce
 https://tr.zukizuki.org:443/announce
-udp://tracker.valete.tf:9999/announce
 http://tracker.renfei.net:8080/announce
 https://tr.nyacat.pw:443/announce
 udp://extracker.dahrkael.net:6969/announce
@@ -38,6 +37,7 @@ udp://d40969.acod.regrucolo.ru:6969/announce
 udp://tracker.ducks.party:1984/announce
 udp://tracker.fnix.net:6969/announce
 udp://bandito.byterunner.io:6969/announce
+udp://tracker.valete.tf:9999/announce
 udp://1c.premierzal.ru:6969/announce
 udp://tracker.therarbg.to:6969/announce
 udp://tracker.rescuecrew7.com:1337/announce
@@ -51,8 +51,8 @@ udp://anna.bt.bontal.net:6969/announce
 udp://tracker.zupix.online:1333/announce
 https://torrent.tracker.durukanbal.com:443/announce
 udp://tracker.gmi.gd:6969/announce
-udp://tracker.torrust-demo.com:6969/announce
 udp://tracker.bitcoinindia.space:6969/announce
+udp://tracker.torrust-demo.com:6969/announce
 udp://tracker.skillindia.site:6969/announce
 udp://tracker.tnl.one:8000/announce
 http://tracker.ipv6tracker.ru:80/announce
