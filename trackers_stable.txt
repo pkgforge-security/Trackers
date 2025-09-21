@@ -61,4 +61,3 @@ https://tracker.aburaya.live:443/announce
 http://torrent.hificode.in:6969/announce
 http://0123456789nonexistent.com:80/announce
 http://open.trackerlist.xyz:80/announce
-udp://tracker.tnl.one:8000/announce
