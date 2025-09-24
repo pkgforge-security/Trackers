@@ -57,5 +57,5 @@ http://tracker.ipv6tracker.ru:80/announce
 https://tracker.moeblog.cn:443/announce
 udp://tracker.hifitechindia.com:6969/announce
 http://open-v6.demonoid.ch:6969/announce
-udp://udp.tracker.projectk.org:23333/announce
 https://tracker.aburaya.live:443/announce
+udp://udp.tracker.projectk.org:23333/announce
