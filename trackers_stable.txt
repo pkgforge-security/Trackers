@@ -24,9 +24,9 @@ http://lucke.fenesisu.moe:6969/announce
 udp://extracker.dahrkael.net:6969/announce
 http://ipv4.rer.lol:2710/announce
 udp://tracker-de-2.cutie.dating:1337/announce
+udp://tracker.srv00.com:6969/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
 https://tracker.ghostchu-services.top:443/announce
-udp://tracker.srv00.com:6969/announce
 https://torrent.tracker.durukanbal.com:443/announce
 udp://bandito.byterunner.io:6969/announce
 udp://www.torrent.eu.org:451/announce
@@ -43,9 +43,9 @@ udp://tracker.cloudbase.store:1333/announce
 http://bt.okmp3.ru:2710/announce
 udp://tracker.startwork.cv:1337/announce
 udp://tracker.zupix.online:1333/announce
-udp://open.demonii.com:1337/announce
 udp://tracker.qu.ax:6969/announce
 udp://tracker.valete.tf:9999/announce
+udp://open.demonii.com:1337/announce
 udp://tracker.gmi.gd:6969/announce
 udp://bt.bontal.net:6969/announce
 http://tracker.bt4g.com:2095/announce
