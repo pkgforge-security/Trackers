@@ -53,6 +53,6 @@ udp://yuki.bt.bontal.net:6969/announce
 udp://tracker.skillindia.site:6969/announce
 udp://tracker.bitcoinindia.space:6969/announce
 udp://opentracker.io:6969/announce
-http://tracker.ipv6tracker.ru:80/announce
 udp://tracker.hifitechindia.com:6969/announce
+http://tracker.ipv6tracker.ru:80/announce
 https://tracker.moeblog.cn:443/announce
