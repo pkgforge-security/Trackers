@@ -15,6 +15,7 @@ udp://tracker.tvunderground.org.ru:3218/announce
 https://tracker.zhuqiy.com:443/announce
 https://tracker.belmult.online:443/announce
 udp://burmese.app:6969/announce
+https://t.213891.xyz:443/announce
 udp://p4p.arenabg.com:1337/announce
 udp://open.stealth.si:80/announce
 udp://retracker.hotplug.ru:2710/announce
