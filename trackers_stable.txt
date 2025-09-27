@@ -47,8 +47,8 @@ http://bt.okmp3.ru:2710/announce
 udp://tracker.zupix.online:1333/announce
 udp://tracker.qu.ax:6969/announce
 udp://tracker.valete.tf:9999/announce
-http://tracker.bt4g.com:2095/announce
 udp://tracker.skillindia.site:6969/announce
+http://tracker.bt4g.com:2095/announce
 udp://yuki.bt.bontal.net:6969/announce
 udp://bt.bontal.net:6969/announce
 udp://tracker.gmi.gd:6969/announce
