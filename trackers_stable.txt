@@ -30,11 +30,11 @@ udp://retracker.lanta.me:2710/announce
 http://tracker.beeimg.com:6969/announce
 udp://tracker.ducks.party:1984/announce
 http://ipv4.rer.lol:2710/announce
+udp://bandito.byterunner.io:6969/announce
 udp://tracker.rescuecrew7.com:1337/announce
 udp://tracker-de-2.cutie.dating:1337/announce
 udp://tracker.srv00.com:6969/announce
 https://torrent.tracker.durukanbal.com:443/announce
-udp://bandito.byterunner.io:6969/announce
 udp://www.torrent.eu.org:451/announce
 udp://tracker.dler.com:6969/announce
 udp://6ahddutb1ucc3cp.ru:6969/announce
@@ -49,9 +49,9 @@ udp://1c.premierzal.ru:6969/announce
 udp://tracker.qu.ax:6969/announce
 udp://tracker.valete.tf:9999/announce
 udp://tracker.skillindia.site:6969/announce
-udp://tracker.hifitechindia.com:6969/announce
 udp://yuki.bt.bontal.net:6969/announce
 http://tracker.bt4g.com:2095/announce
+udp://tracker.hifitechindia.com:6969/announce
 udp://tracker.bitcoinindia.space:6969/announce
 udp://bt.bontal.net:6969/announce
 udp://tracker.gmi.gd:6969/announce
