@@ -47,7 +47,6 @@ http://tracker.sbsub.com:2710/announce
 http://tracker.tritan.gg:8080/announce
 http://tracker.valete.tf:9999/announce
 http://tracker.vanitycore.co:6969/announce
-http://tracker.waaa.moe:6969/announce
 http://tracker.xiaoduola.xyz:6969/announce
 http://tracker.zhuqiy.top:80/announce
 http://tracker1.bt.moack.co.kr:80/announce
@@ -87,15 +86,12 @@ udp://bt.rer.lol:6969/announce
 udp://burmese.app:6969/announce
 udp://concen.org:6969/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
-udp://discord.heihachi.pw:6969/announce
 udp://evan.im:6969/announce
 udp://explodie.org:6969/announce
 udp://extracker.dahrkael.net:6969/announce
-udp://glotorrents.pw:6969/announce
 udp://ipv4.rer.lol:2710/announce
 udp://ipv4announce.sktorrent.eu:6969/announce
 udp://martin-gebhardt.eu:25/announce
-udp://ns-1.x-fins.com:6969/announce
 udp://open-tracker.demonoid.ch:6969/announce
 udp://open.demonii.com:1337/announce
 udp://open.demonoid.ch:6969/announce
@@ -112,6 +108,7 @@ udp://run.publictracker.xyz:6969/announce
 udp://t.overflow.biz:6969/announce
 udp://tr4ck3r.duckdns.org:6969/announce
 udp://tracker-de-2.cutie.dating:1337/announce
+udp://tracker-udp.gbitt.info:80/announce
 udp://tracker.bitcoinindia.space:6969/announce
 udp://tracker.cloudbase.store:1333/announce
 udp://tracker.dler.com:6969/announce
@@ -123,7 +120,6 @@ udp://tracker.gmi.gd:6969/announce
 udp://tracker.healthcareindia.store:1337/announce
 udp://tracker.hifimarket.in:2710/announce
 udp://tracker.hifitechindia.com:6969/announce
-udp://tracker.ololosh.space:6969/announce
 udp://tracker.opentrackr.org:1337/announce
 udp://tracker.plx.im:6969/announce
 udp://tracker.qu.ax:6969/announce
