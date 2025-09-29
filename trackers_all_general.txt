@@ -56,6 +56,7 @@ http://tracker810.xyz:11450/announce
 http://wepzone.net:6969/announce
 http://www.genesis-sp.org:2710/announce
 http://www.torrentsnipe.info:2701/announce
+https://2.tracker.eu.org:443/announce
 https://t.213891.xyz:443/announce
 https://torrent.tracker.durukanbal.com:443/announce
 https://tr.nyacat.pw:443/announce
