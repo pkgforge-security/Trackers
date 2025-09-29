@@ -6,7 +6,6 @@ udp://evan.im:6969/announce
 https://tracker.jdx3.org:443/announce
 http://ipv6.rer.lol:6969/announce
 udp://martin-gebhardt.eu:25/announce
-http://lucke.fenesisu.moe:6969/announce
 https://tracker.ghostchu-services.top:443/announce
 http://tracker.renfei.net:8080/announce
 https://tr.nyacat.pw:443/announce
@@ -25,6 +24,7 @@ udp://d40969.acod.regrucolo.ru:6969/announce
 udp://ttk2.nbaonlineservice.com:6969/announce
 https://tracker.yemekyedim.com:443/announce
 http://tracker.beeimg.com:6969/announce
+http://lucke.fenesisu.moe:6969/announce
 udp://tracker.ducks.party:1984/announce
 http://ipv4.rer.lol:2710/announce
 udp://tracker.zupix.online:1333/announce
@@ -46,8 +46,8 @@ http://bt.okmp3.ru:2710/announce
 udp://tracker.qu.ax:6969/announce
 udp://1c.premierzal.ru:6969/announce
 https://tracker.uraniumhexafluori.de:443/announce
-udp://tracker.skillindia.site:6969/announce
 udp://tracker.valete.tf:9999/announce
+udp://tracker.skillindia.site:6969/announce
 udp://yuki.bt.bontal.net:6969/announce
 http://tracker.bt4g.com:2095/announce
 udp://tracker.hifitechindia.com:6969/announce
