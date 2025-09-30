@@ -51,8 +51,8 @@ udp://tracker.valete.tf:9999/announce
 udp://yuki.bt.bontal.net:6969/announce
 http://tracker.bt4g.com:2095/announce
 udp://tracker.hifitechindia.com:6969/announce
-udp://tracker.bitcoinindia.space:6969/announce
 udp://bt.bontal.net:6969/announce
+udp://tracker.bitcoinindia.space:6969/announce
 udp://tracker.gmi.gd:6969/announce
 udp://opentracker.io:6969/announce
 http://tracker.ipv6tracker.ru:80/announce
