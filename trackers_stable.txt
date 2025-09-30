@@ -14,6 +14,7 @@ udp://extracker.dahrkael.net:6969/announce
 udp://tracker.plx.im:6969/announce
 udp://tracker.rescuecrew7.com:1337/announce
 udp://tracker.tvunderground.org.ru:3218/announce
+udp://tracker.zupix.online:1333/announce
 https://tracker.zhuqiy.com:443/announce
 https://tracker.belmult.online:443/announce
 udp://burmese.app:6969/announce
@@ -28,7 +29,6 @@ http://tracker.beeimg.com:6969/announce
 http://lucke.fenesisu.moe:6969/announce
 udp://tracker.ducks.party:1984/announce
 http://ipv4.rer.lol:2710/announce
-udp://tracker.zupix.online:1333/announce
 udp://p4p.arenabg.com:1337/announce
 udp://retracker.lanta.me:2710/announce
 https://torrent.tracker.durukanbal.com:443/announce
@@ -45,9 +45,9 @@ udp://tracker.startwork.cv:1337/announce
 udp://tracker.therarbg.to:6969/announce
 http://bt.okmp3.ru:2710/announce
 udp://tracker.qu.ax:6969/announce
-https://tracker.uraniumhexafluori.de:443/announce
 udp://tracker.skillindia.site:6969/announce
 udp://1c.premierzal.ru:6969/announce
+https://tracker.uraniumhexafluori.de:443/announce
 udp://yuki.bt.bontal.net:6969/announce
 http://tracker.bt4g.com:2095/announce
 udp://tracker.hifitechindia.com:6969/announce
