@@ -56,5 +56,6 @@ udp://opentracker.io:6969/announce
 udp://tracker.gmi.gd:6969/announce
 https://tracker.moeblog.cn:443/announce
 http://tracker.ipv6tracker.ru:80/announce
-udp://retracker.hotplug.ru:2710/announce
 https://2.tracker.eu.org:443/announce
+udp://retracker.hotplug.ru:2710/announce
+udp://tr4ck3r.duckdns.org:6969/announce
