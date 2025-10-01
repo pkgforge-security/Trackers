@@ -45,10 +45,10 @@ udp://tracker.therarbg.to:6969/announce
 http://bt.okmp3.ru:2710/announce
 udp://tracker.qu.ax:6969/announce
 udp://tracker.skillindia.site:6969/announce
-udp://retracker.hotplug.ru:2710/announce
-https://tracker.uraniumhexafluori.de:443/announce
 udp://1c.premierzal.ru:6969/announce
+https://tracker.uraniumhexafluori.de:443/announce
 udp://yuki.bt.bontal.net:6969/announce
+udp://retracker.hotplug.ru:2710/announce
 http://tracker.bt4g.com:2095/announce
 udp://tracker.hifitechindia.com:6969/announce
 udp://bt.bontal.net:6969/announce
