@@ -53,8 +53,8 @@ udp://tracker.hifitechindia.com:6969/announce
 udp://bt.bontal.net:6969/announce
 udp://tracker.bitcoinindia.space:6969/announce
 udp://opentracker.io:6969/announce
-udp://retracker.hotplug.ru:2710/announce
 udp://tracker.gmi.gd:6969/announce
+udp://retracker.hotplug.ru:2710/announce
 https://tracker.moeblog.cn:443/announce
 http://tracker.ipv6tracker.ru:80/announce
 https://2.tracker.eu.org:443/announce
