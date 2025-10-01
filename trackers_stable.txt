@@ -37,10 +37,10 @@ udp://tracker-de-2.cutie.dating:1337/announce
 udp://tracker.srv00.com:6969/announce
 udp://tracker.fnix.net:6969/announce
 udp://www.torrent.eu.org:451/announce
+udp://tracker.startwork.cv:1337/announce
 udp://anna.bt.bontal.net:6969/announce
 udp://tracker.dler.com:6969/announce
 udp://6ahddutb1ucc3cp.ru:6969/announce
-udp://tracker.startwork.cv:1337/announce
 udp://tracker.therarbg.to:6969/announce
 http://bt.okmp3.ru:2710/announce
 udp://tracker.qu.ax:6969/announce
@@ -49,9 +49,9 @@ udp://1c.premierzal.ru:6969/announce
 https://tracker.uraniumhexafluori.de:443/announce
 udp://yuki.bt.bontal.net:6969/announce
 http://tracker.bt4g.com:2095/announce
-udp://retracker.hotplug.ru:2710/announce
 udp://tracker.hifitechindia.com:6969/announce
 udp://bt.bontal.net:6969/announce
+udp://retracker.hotplug.ru:2710/announce
 udp://tracker.bitcoinindia.space:6969/announce
 udp://opentracker.io:6969/announce
 udp://tracker.gmi.gd:6969/announce
