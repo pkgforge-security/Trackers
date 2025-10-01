@@ -58,3 +58,5 @@ https://tracker.moeblog.cn:443/announce
 http://tracker.ipv6tracker.ru:80/announce
 https://2.tracker.eu.org:443/announce
 udp://tr4ck3r.duckdns.org:6969/announce
+https://4.tracker.eu.org:443/announce
+https://3.tracker.eu.org:443/announce
