@@ -33,10 +33,10 @@ https://torrent.tracker.durukanbal.com:443/announce
 udp://bandito.byterunner.io:6969/announce
 udp://tracker.cloudbase.store:1333/announce
 udp://tracker-de-2.cutie.dating:1337/announce
-udp://tracker.srv00.com:6969/announce
 udp://tracker.fnix.net:6969/announce
 udp://www.torrent.eu.org:451/announce
 udp://tracker.startwork.cv:1337/announce
+udp://tracker.srv00.com:6969/announce
 udp://anna.bt.bontal.net:6969/announce
 udp://tracker.dler.com:6969/announce
 udp://6ahddutb1ucc3cp.ru:6969/announce
@@ -57,5 +57,4 @@ udp://tracker.gmi.gd:6969/announce
 https://tracker.moeblog.cn:443/announce
 http://tracker.ipv6tracker.ru:80/announce
 https://2.tracker.eu.org:443/announce
-udp://retracker.hotplug.ru:2710/announce
 udp://tr4ck3r.duckdns.org:6969/announce
