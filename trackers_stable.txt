@@ -57,8 +57,8 @@ udp://tracker.bitcoinindia.space:6969/announce
 udp://opentracker.io:6969/announce
 udp://tracker.gmi.gd:6969/announce
 http://tracker.ipv6tracker.ru:80/announce
-http://tracker.dhitechnical.com:6969/announce
 https://tracker.leechshield.link:443/announce
+http://tracker.dhitechnical.com:6969/announce
 https://2.tracker.eu.org:443/announce
 udp://tr4ck3r.duckdns.org:6969/announce
 https://4.tracker.eu.org:443/announce
