@@ -8,6 +8,7 @@ http://bt1.xxxxbt.cc:6969/announce
 http://buny.uk:6969/announce
 http://bvarf.tracker.sh:2086/announce
 http://ch3oh.ru:6969/announce
+http://extracker.dahrkael.net:6969/announce
 http://home.yxgz.club:6969/announce
 http://ipv4.rer.lol:2710/announce
 http://ipv6.rer.lol:6969/announce
@@ -34,7 +35,6 @@ http://tracker.corpscorp.online:80/announce
 http://tracker.cutie.dating:80/announce
 http://tracker.darkness.services:6969/announce
 http://tracker.dhitechnical.com:6969/announce
-http://tracker.dler.org:6969/announce
 http://tracker.dmcomic.org:2710/announce
 http://tracker.ghostchu-services.top:80/announce
 http://tracker.ipv6tracker.org:80/announce
@@ -53,6 +53,7 @@ http://tracker.waaa.moe:6969/announce
 http://tracker.xiaoduola.xyz:6969/announce
 http://tracker.zhuqiy.top:80/announce
 http://tracker1.bt.moack.co.kr:80/announce
+http://tracker1.itzmx.com:8080/announce
 http://tracker2.dler.org:80/announce
 http://tracker810.xyz:11450/announce
 http://wepzone.net:6969/announce
@@ -92,11 +93,10 @@ udp://d40969.acod.regrucolo.ru:6969/announce
 udp://evan.im:6969/announce
 udp://explodie.org:6969/announce
 udp://extracker.dahrkael.net:6969/announce
-udp://glotorrents.pw:6969/announce
+udp://hificode.in:6969/announce
 udp://ipv4.rer.lol:2710/announce
 udp://ipv4announce.sktorrent.eu:6969/announce
 udp://martin-gebhardt.eu:25/announce
-udp://ns-1.x-fins.com:6969/announce
 udp://open-tracker.demonoid.ch:6969/announce
 udp://open.demonii.com:1337/announce
 udp://open.demonoid.ch:6969/announce
@@ -113,8 +113,8 @@ udp://t.overflow.biz:6969/announce
 udp://torrentclub.online:54123/announce
 udp://tr4ck3r.duckdns.org:6969/announce
 udp://tracker-de-2.cutie.dating:1337/announce
+udp://tracker-udp.gbitt.info:80/announce
 udp://tracker.bitcoinindia.space:6969/announce
-udp://tracker.bittor.pw:1337/announce
 udp://tracker.cloudbase.store:1333/announce
 udp://tracker.dler.com:6969/announce
 udp://tracker.dler.org:6969/announce
