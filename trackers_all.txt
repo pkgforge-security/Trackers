@@ -280,7 +280,6 @@ http://ehtracker.org/1226599/1080494xo5eXcwFOBq/announce
 http://ehtracker.org/2496841/announce
 http://ehtracker.org/2541477/announce
 http://ehtracker.org/2566145/1159106xUfsJkT9Btg/announce
-http://extracker.dahrkael.net:6969/announce
 http://fe.dealclub.de:6969/announce
 http://finbytes.org/announce.php
 http://finbytes.org:80/announce.php
@@ -405,6 +404,7 @@ http://siambit.com:80/announce.php
 http://siambit.org/announce.php
 http://smurfsoft.com:6969/announce
 http://sukebei.tracker.wf:8888/announce
+http://t-backup.213891.xyz:80/announce
 http://t.acg.rip:6699/announce
 http://t.jaekr.sh:6969/announce
 http://t.nyaatracker.com/announce
@@ -997,7 +997,7 @@ udp://fe.dealclub.de:6969/announce
 udp://fh2.cmp-gaming.com:6969/announce
 udp://free.publictracker.xyz:6969/announce
 udp://freedom.1776.ga:6969/announce
-udp://hificode.in:6969/announce
+udp://glotorrents.pw:6969/announce
 udp://http://www.peckservers.com:9000/announce
 udp://htz3.noho.st:6969/announce
 udp://ipv4.rer.lol:2710/announce
