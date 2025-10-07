@@ -602,7 +602,7 @@ http://tracker.yoshi210.com:6969/announce
 http://tracker.yuelili.com/announce
 http://tracker.yuelili.com:80/announce
 http://tracker.zerobytes.xyz:1337/announce
-http://tracker.zhuqiy.top:80/announce
+http://tracker.zhuqiy.com:80/announce
 http://tracker1.bt.moack.co.kr/announce
 http://tracker1.bt.moack.co.kr:80/announce
 http://tracker1.itzmx.com:8080/announce
@@ -688,6 +688,7 @@ https://bittorrent.gongt.net:443/announce
 https://bt.080609.xyz/announce
 https://bt.080609.xyz:443/announce
 https://bt.beatrice-raws.org/announce
+https://bt.bontal.net:443/announce
 https://bt.endpot.com/announce
 https://bt.nfshost.com/announce
 https://carapax.net/announce
@@ -861,7 +862,6 @@ https://tracker.vectahosting.eu/announce
 https://tracker.vectahosting.eu:443/announce
 https://tracker.yemekyedim.com:443/announce
 https://tracker.zhuqiy.com:443/announce
-https://tracker.zhuqiy.top:443/announce
 https://tracker1.520.jp/announce
 https://tracker1.520.jp:443/announce
 https://tracker1.ctix.cn/announce
@@ -888,6 +888,7 @@ https://www.wareztorrent.com:443/announce
 https://x7x.up.railway.app/announce
 https://xtremex.herokuapp.com/announce
 https://xtremex.herokuapp.com:443/announce
+https://yuki.bt.bontal.net:443/announce
 https://zer0day.000webhostapp.com/announce
 udp://10.rarbg.com/announce
 udp://103.122.21.50:6969/announce
@@ -1051,6 +1052,7 @@ udp://pow7.com:80/announce
 udp://private.anonseed.com:6969/announce
 udp://psyco.fr:6969/announce
 udp://public-tracker.cf:6969/announce
+udp://public.demonoid.ch:6969/announce
 udp://public.publictracker.xyz:6969/announce
 udp://public.tracker.vraphim.com:6969/announce
 udp://qtstm32fan.ru:6969/announce
