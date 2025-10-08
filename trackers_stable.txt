@@ -26,7 +26,6 @@ udp://ttk2.nbaonlineservice.com:6969/announce
 udp://evan.im:6969/announce
 https://tracker.yemekyedim.com:443/announce
 http://tracker.beeimg.com:6969/announce
-http://lucke.fenesisu.moe:6969/announce
 udp://tracker.ducks.party:1984/announce
 http://ipv4.rer.lol:2710/announce
 udp://p4p.arenabg.com:1337/announce
@@ -34,6 +33,7 @@ udp://tracker.fnix.net:6969/announce
 udp://retracker.lanta.me:2710/announce
 https://torrent.tracker.durukanbal.com:443/announce
 udp://bandito.byterunner.io:6969/announce
+http://lucke.fenesisu.moe:6969/announce
 udp://www.torrent.eu.org:451/announce
 udp://tracker.cloudbase.store:1333/announce
 udp://tracker.dler.com:6969/announce
@@ -45,8 +45,8 @@ udp://6ahddutb1ucc3cp.ru:6969/announce
 udp://tracker.qu.ax:6969/announce
 http://bt.okmp3.ru:2710/announce
 udp://tracker.skillindia.site:6969/announce
-udp://yuki.bt.bontal.net:6969/announce
 udp://retracker01-msk-virt.corbina.net:80/announce
+udp://yuki.bt.bontal.net:6969/announce
 udp://tracker.therarbg.to:6969/announce
 https://tracker.uraniumhexafluori.de:443/announce
 udp://1c.premierzal.ru:6969/announce
@@ -57,10 +57,8 @@ https://tracker.moeblog.cn:443/announce
 udp://tracker.bitcoinindia.space:6969/announce
 udp://opentracker.io:6969/announce
 udp://tracker.gmi.gd:6969/announce
-http://tracker.ipv6tracker.ru:80/announce
 http://tracker.dhitechnical.com:6969/announce
+http://tracker.ipv6tracker.ru:80/announce
 https://tracker.leechshield.link:443/announce
 https://2.tracker.eu.org:443/announce
 udp://tr4ck3r.duckdns.org:6969/announce
-https://4.tracker.eu.org:443/announce
-https://3.tracker.eu.org:443/announce
