@@ -23,13 +23,13 @@ http://t-backup.213891.xyz:80/announce
 udp://open.stealth.si:80/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
 udp://ttk2.nbaonlineservice.com:6969/announce
+udp://tracker.fnix.net:6969/announce
 udp://evan.im:6969/announce
 https://tracker.yemekyedim.com:443/announce
 http://tracker.beeimg.com:6969/announce
 udp://tracker.ducks.party:1984/announce
 http://ipv4.rer.lol:2710/announce
 udp://p4p.arenabg.com:1337/announce
-udp://tracker.fnix.net:6969/announce
 udp://retracker.lanta.me:2710/announce
 https://torrent.tracker.durukanbal.com:443/announce
 udp://bandito.byterunner.io:6969/announce
@@ -39,8 +39,8 @@ udp://tracker.dler.com:6969/announce
 udp://tracker.startwork.cv:1337/announce
 udp://tracker.srv00.com:6969/announce
 udp://anna.bt.bontal.net:6969/announce
-udp://6ahddutb1ucc3cp.ru:6969/announce
 udp://tracker.qu.ax:6969/announce
+udp://6ahddutb1ucc3cp.ru:6969/announce
 http://lucke.fenesisu.moe:6969/announce
 udp://tracker-de-2.cutie.dating:1337/announce
 http://bt.okmp3.ru:2710/announce
@@ -60,5 +60,4 @@ http://tracker.dhitechnical.com:6969/announce
 udp://tracker.gmi.gd:6969/announce
 http://tracker.ipv6tracker.ru:80/announce
 https://tracker.leechshield.link:443/announce
-https://2.tracker.eu.org:443/announce
 udp://tr4ck3r.duckdns.org:6969/announce
