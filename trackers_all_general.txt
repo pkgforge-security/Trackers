@@ -146,4 +146,3 @@ udp://ttk2.nbaonlineservice.com:6969/announce
 udp://udp.tracker.projectk.org:23333/announce
 udp://wepzone.net:6969/announce
 udp://www.torrent.eu.org:451/announce
-udp://yuki.bt.bontal.net:6969/announce
