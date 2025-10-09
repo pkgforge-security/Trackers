@@ -5,7 +5,6 @@ udp://tracker.tryhackx.org:6969/announce
 https://tracker.yemekyedim.com:443/announce
 https://tracker.jdx3.org:443/announce
 udp://martin-gebhardt.eu:25/announce
-udp://tracker.valete.tf:9999/announce
 https://tracker.ghostchu-services.top:443/announce
 http://tracker.renfei.net:8080/announce
 https://tr.nyacat.pw:443/announce
@@ -26,6 +25,7 @@ udp://ttk2.nbaonlineservice.com:6969/announce
 udp://tracker.fnix.net:6969/announce
 http://ipv6.rer.lol:6969/announce
 http://tracker.beeimg.com:6969/announce
+udp://tracker.valete.tf:9999/announce
 udp://tracker.ducks.party:1984/announce
 http://ipv4.rer.lol:2710/announce
 udp://p4p.arenabg.com:1337/announce
