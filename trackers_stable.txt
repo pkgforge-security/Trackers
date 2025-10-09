@@ -48,9 +48,9 @@ udp://1c.premierzal.ru:6969/announce
 udp://tracker.therarbg.to:6969/announce
 udp://tracker.skillindia.site:6969/announce
 https://tracker.moeblog.cn:443/announce
+https://tracker.leechshield.link:443/announce
 udp://tracker-de-2.cutie.dating:1337/announce
 http://tracker.bt4g.com:2095/announce
-https://tracker.leechshield.link:443/announce
 udp://opentracker.io:6969/announce
 udp://tracker.hifitechindia.com:6969/announce
 udp://tracker.bitcoinindia.space:6969/announce
