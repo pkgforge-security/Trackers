@@ -57,5 +57,5 @@ udp://tracker.bitcoinindia.space:6969/announce
 udp://tracker.gmi.gd:6969/announce
 http://tracker.ipv6tracker.ru:80/announce
 http://lucke.fenesisu.moe:6969/announce
-udp://6ahddutb1ucc3cp.ru:6969/announce
 udp://tr4ck3r.duckdns.org:6969/announce
+udp://6ahddutb1ucc3cp.ru:6969/announce
