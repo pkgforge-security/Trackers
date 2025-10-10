@@ -17,7 +17,6 @@ http://tracker.dhitechnical.com:6969/announce
 https://tracker.belmult.online:443/announce
 udp://burmese.app:6969/announce
 https://t.213891.xyz:443/announce
-udp://torrentclub.online:54123/announce
 http://t-backup.213891.xyz:80/announce
 udp://rekcart.duckdns.org:15480/announce
 udp://open.stealth.si:80/announce
@@ -42,6 +41,7 @@ https://tracker.leechshield.link:443/announce
 udp://www.torrent.eu.org:451/announce
 udp://tracker.qu.ax:6969/announce
 udp://evan.im:6969/announce
+udp://torrentclub.online:54123/announce
 http://tracker.bt4g.com:2095/announce
 https://torrent.tracker.durukanbal.com:443/announce
 udp://retracker01-msk-virt.corbina.net:80/announce
