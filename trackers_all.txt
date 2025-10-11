@@ -759,6 +759,7 @@ https://tr.torland.ga/announce
 https://tr.torland.ga:443/announce
 https://tr.zukizuki.org:443/announce
 https://tracker.4.babico.name.tr/announce
+https://tracker.alaskantf.com:443/announce
 https://tracker.baka.ink/announce
 https://tracker.baka.ink:443/announce
 https://tracker.bangumi.zip/announce

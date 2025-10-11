@@ -58,3 +58,4 @@ http://tracker.ipv6tracker.ru:80/announce
 udp://tracker.bitcoinindia.space:6969/announce
 udp://tr4ck3r.duckdns.org:6969/announce
 udp://tracker-de-2.cutie.dating:1337/announce
+https://tracker.alaskantf.com:443/announce
