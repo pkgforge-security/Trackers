@@ -16,6 +16,7 @@ http://tracker.dhitechnical.com:6969/announce
 https://tracker.belmult.online:443/announce
 https://t.213891.xyz:443/announce
 udp://rekcart.duckdns.org:15480/announce
+http://tracker.chaoz.li:2710/announce
 udp://open.stealth.si:80/announce
 udp://tracker.tryhackx.org:6969/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
