@@ -48,8 +48,8 @@ udp://retracker01-msk-virt.corbina.net:80/announce
 https://tracker.uraniumhexafluori.de:443/announce
 udp://1c.premierzal.ru:6969/announce
 http://bt.okmp3.ru:2710/announce
-udp://tracker.dler.com:6969/announce
 https://tracker.moeblog.cn:443/announce
+udp://tracker.dler.com:6969/announce
 udp://opentracker.io:6969/announce
 udp://tracker.skillindia.site:6969/announce
 udp://tracker.gmi.gd:6969/announce
