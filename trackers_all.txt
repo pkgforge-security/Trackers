@@ -480,7 +480,6 @@ http://tracker.btzero.net:8080/announce
 http://tracker.bz/announce
 http://tracker.bz:80/announce
 http://tracker.ccc.de/announce
-http://tracker.chaoz.li:2710/announce
 http://tracker.computel.fr/announce
 http://tracker.computel.fr:80/announce
 http://tracker.coppersurfer.site:2710/announce
