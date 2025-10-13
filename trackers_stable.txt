@@ -49,8 +49,8 @@ udp://retracker01-msk-virt.corbina.net:80/announce
 https://tracker.uraniumhexafluori.de:443/announce
 http://bt.okmp3.ru:2710/announce
 udp://1c.premierzal.ru:6969/announce
-https://tracker.moeblog.cn:443/announce
 udp://udp.tracker.projectk.org:23333/announce
+https://tracker.moeblog.cn:443/announce
 udp://opentracker.io:6969/announce
 udp://tracker.dler.com:6969/announce
 udp://tracker.skillindia.site:6969/announce
@@ -58,4 +58,5 @@ udp://tracker.gmi.gd:6969/announce
 udp://tr4ck3r.duckdns.org:6969/announce
 http://tracker.ipv6tracker.ru:80/announce
 udp://tracker.bitcoinindia.space:6969/announce
+udp://tracker.torrust-demo.com:6969/announce
 udp://tracker.hifitechindia.com:6969/announce
