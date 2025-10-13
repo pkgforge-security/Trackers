@@ -43,10 +43,10 @@ udp://evan.im:6969/announce
 https://tracker.leechshield.link:443/announce
 udp://www.torrent.eu.org:451/announce
 udp://torrentclub.online:54123/announce
-udp://ttk2.nbaonlineservice.com:6969/announce
 https://torrent.tracker.durukanbal.com:443/announce
-http://tracker.bt4g.com:2095/announce
+udp://ttk2.nbaonlineservice.com:6969/announce
 udp://retracker01-msk-virt.corbina.net:80/announce
+http://tracker.bt4g.com:2095/announce
 http://bt.okmp3.ru:2710/announce
 https://tracker.uraniumhexafluori.de:443/announce
 udp://1c.premierzal.ru:6969/announce
