@@ -10,6 +10,7 @@ http://tracker.beeimg.com:6969/announce
 https://tracker.ghostchu-services.top:443/announce
 http://tracker.renfei.net:8080/announce
 https://tr.nyacat.pw:443/announce
+udp://tracker.ducks.party:1984/announce
 udp://extracker.dahrkael.net:6969/announce
 udp://tracker.plx.im:6969/announce
 udp://tracker.tvunderground.org.ru:3218/announce
@@ -24,7 +25,6 @@ udp://d40969.acod.regrucolo.ru:6969/announce
 udp://tracker.fnix.net:6969/announce
 http://ipv6.rer.lol:6969/announce
 udp://tracker.valete.tf:9999/announce
-udp://tracker.ducks.party:1984/announce
 http://ipv4.rer.lol:2710/announce
 udp://tracker.rescuecrew7.com:1337/announce
 udp://burmese.app:6969/announce
@@ -51,8 +51,8 @@ udp://1c.premierzal.ru:6969/announce
 udp://opentracker.io:6969/announce
 udp://tracker.dler.com:6969/announce
 udp://tracker.skillindia.site:6969/announce
-udp://ttk2.nbaonlineservice.com:6969/announce
 udp://tracker.gmi.gd:6969/announce
+udp://ttk2.nbaonlineservice.com:6969/announce
 http://tracker.ipv6tracker.ru:80/announce
 udp://tracker.torrust-demo.com:6969/announce
 udp://tr4ck3r.duckdns.org:6969/announce
