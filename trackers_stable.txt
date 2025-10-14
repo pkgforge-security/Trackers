@@ -41,8 +41,8 @@ udp://anna.bt.bontal.net:6969/announce
 https://tracker.zhuqiy.com:443/announce
 udp://torrentclub.online:54123/announce
 https://tracker.leechshield.link:443/announce
-udp://www.torrent.eu.org:451/announce
 https://torrent.tracker.durukanbal.com:443/announce
+udp://www.torrent.eu.org:451/announce
 https://tracker.moeblog.cn:443/announce
 udp://retracker01-msk-virt.corbina.net:80/announce
 http://bt.okmp3.ru:2710/announce
@@ -56,6 +56,7 @@ udp://tracker.gmi.gd:6969/announce
 http://tracker.ipv6tracker.ru:80/announce
 udp://tracker.torrust-demo.com:6969/announce
 udp://tr4ck3r.duckdns.org:6969/announce
-http://tracker.bt4g.com:2095/announce
 udp://tracker.bitcoinindia.space:6969/announce
+http://tracker.bt4g.com:2095/announce
+http://tracker.chaoz.li:2710/announce
 udp://tracker.hifitechindia.com:6969/announce
