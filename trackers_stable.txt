@@ -22,7 +22,6 @@ udp://rekcart.duckdns.org:15480/announce
 udp://p4p.arenabg.com:1337/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
 udp://tracker.fnix.net:6969/announce
-udp://retracker.lanta.me:2710/announce
 http://ipv6.rer.lol:6969/announce
 udp://tracker.valete.tf:9999/announce
 udp://tracker.ducks.party:1984/announce
@@ -32,6 +31,7 @@ udp://burmese.app:6969/announce
 http://t-backup.213891.xyz:80/announce
 udp://tracker.tryhackx.org:6969/announce
 udp://tracker.qu.ax:6969/announce
+udp://retracker.lanta.me:2710/announce
 udp://tracker.startwork.cv:1337/announce
 udp://tracker.cloudbase.store:1333/announce
 udp://tracker.srv00.com:6969/announce
