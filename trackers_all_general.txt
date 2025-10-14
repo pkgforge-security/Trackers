@@ -13,7 +13,7 @@ http://extracker.dahrkael.net:6969/announce
 http://home.yxgz.club:6969/announce
 http://ipv4.rer.lol:2710/announce
 http://ipv6.rer.lol:6969/announce
-http://open.acgtracker.com:1096/announce
+http://open.tracker.cl:1337/announce
 http://open.trackerlist.xyz:80/announce
 http://p4p.arenabg.com:1337/announce
 http://public.tracker.vraphim.com:6969/announce
@@ -27,6 +27,7 @@ http://t.overflow.biz:6969/announce
 http://torrent.hificode.in:6969/announce
 http://tr.kxmp.cf:80/announce
 http://tr.nyacat.pw:80/announce
+http://tracker.23794.top:6969/announce
 http://tracker.beeimg.com:6969/announce
 http://tracker.bittor.pw:1337/announce
 http://tracker.bt-hash.com:80/announce
@@ -92,13 +93,12 @@ udp://evan.im:6969/announce
 udp://exodus.desync.com:6969/announce
 udp://explodie.org:6969/announce
 udp://extracker.dahrkael.net:6969/announce
+udp://hificode.in:6969/announce
 udp://ipv4announce.sktorrent.eu:6969/announce
 udp://martin-gebhardt.eu:25/announce
-udp://ns-1.x-fins.com:6969/announce
 udp://open.demonii.com:1337/announce
 udp://open.demonoid.ch:6969/announce
 udp://open.dstud.io:6969/announce
-udp://open.free-tracker.ga:6969/announce
 udp://open.stealth.si:80/announce
 udp://opentracker.io:6969/announce
 udp://p4p.arenabg.com:1337/announce
@@ -106,7 +106,6 @@ udp://public.tracker.vraphim.com:6969/announce
 udp://rekcart.duckdns.org:15480/announce
 udp://retracker.lanta.me:2710/announce
 udp://retracker01-msk-virt.corbina.net:80/announce
-udp://run.publictracker.xyz:6969/announce
 udp://t.overflow.biz:6969/announce
 udp://torrentclub.online:54123/announce
 udp://tr4ck3r.duckdns.org:6969/announce
