@@ -37,8 +37,8 @@ http://t-backup.213891.xyz:80/announce
 udp://tracker.srv00.com:6969/announce
 udp://retracker.lanta.me:2710/announce
 udp://bandito.byterunner.io:6969/announce
-https://tracker.zhuqiy.com:443/announce
 https://tracker.uraniumhexafluori.de:443/announce
+https://tracker.zhuqiy.com:443/announce
 udp://torrentclub.online:54123/announce
 https://tracker.moeblog.cn:443/announce
 https://tracker.leechshield.link:443/announce
@@ -47,8 +47,8 @@ https://torrent.tracker.durukanbal.com:443/announce
 udp://www.torrent.eu.org:451/announce
 udp://retracker01-msk-virt.corbina.net:80/announce
 http://bt.okmp3.ru:2710/announce
-udp://1c.premierzal.ru:6969/announce
 udp://tracker.torrust-demo.com:6969/announce
+udp://1c.premierzal.ru:6969/announce
 udp://opentracker.io:6969/announce
 udp://tracker.dler.com:6969/announce
 udp://tracker.skillindia.site:6969/announce
