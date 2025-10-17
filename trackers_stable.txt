@@ -8,6 +8,7 @@ udp://evan.im:6969/announce
 https://tracker.yemekyedim.com:443/announce
 https://tracker.jdx3.org:443/announce
 udp://martin-gebhardt.eu:25/announce
+https://tracker.uraniumhexafluori.de:443/announce
 http://tracker.beeimg.com:6969/announce
 http://tracker.renfei.net:8080/announce
 https://tr.nyacat.pw:443/announce
@@ -22,7 +23,6 @@ https://t.213891.xyz:443/announce
 udp://rekcart.duckdns.org:15480/announce
 udp://p4p.arenabg.com:1337/announce
 http://ipv6.rer.lol:6969/announce
-https://tracker.uraniumhexafluori.de:443/announce
 udp://udp.tracker.projectk.org:23333/announce
 https://tracker.ghostchu-services.top:443/announce
 http://ipv4.rer.lol:2710/announce
@@ -39,9 +39,9 @@ https://tracker.zhuqiy.com:443/announce
 udp://tracker.srv00.com:6969/announce
 udp://bandito.byterunner.io:6969/announce
 https://tracker.moeblog.cn:443/announce
-udp://retracker.lanta.me:2710/announce
 https://tracker.leechshield.link:443/announce
 udp://torrentclub.online:54123/announce
+udp://retracker.lanta.me:2710/announce
 udp://anna.bt.bontal.net:6969/announce
 https://torrent.tracker.durukanbal.com:443/announce
 udp://www.torrent.eu.org:451/announce
