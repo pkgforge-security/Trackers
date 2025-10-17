@@ -22,6 +22,7 @@ https://t.213891.xyz:443/announce
 udp://rekcart.duckdns.org:15480/announce
 udp://p4p.arenabg.com:1337/announce
 http://ipv6.rer.lol:6969/announce
+https://tracker.uraniumhexafluori.de:443/announce
 https://tracker.ghostchu-services.top:443/announce
 http://ipv4.rer.lol:2710/announce
 udp://tracker.rescuecrew7.com:1337/announce
@@ -29,7 +30,6 @@ http://tracker.dhitechnical.com:6969/announce
 udp://burmese.app:6969/announce
 udp://tracker.tryhackx.org:6969/announce
 udp://tracker.fnix.net:6969/announce
-https://tracker.uraniumhexafluori.de:443/announce
 udp://tracker.valete.tf:9999/announce
 udp://udp.tracker.projectk.org:23333/announce
 udp://tracker.startwork.cv:1337/announce
