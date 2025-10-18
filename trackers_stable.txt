@@ -44,13 +44,13 @@ udp://anna.bt.bontal.net:6969/announce
 udp://retracker.lanta.me:2710/announce
 https://torrent.tracker.durukanbal.com:443/announce
 udp://www.torrent.eu.org:451/announce
-udp://retracker01-msk-virt.corbina.net:80/announce
 http://echostar.ddnsfree.com:8080/announce
-https://tracker.leechshield.link:443/announce
+udp://retracker01-msk-virt.corbina.net:80/announce
 http://bt.okmp3.ru:2710/announce
-udp://tracker.torrust-demo.com:6969/announce
+https://tracker.leechshield.link:443/announce
 udp://1c.premierzal.ru:6969/announce
 udp://opentracker.io:6969/announce
+udp://tracker.torrust-demo.com:6969/announce
 udp://tracker.dler.com:6969/announce
 udp://tracker.skillindia.site:6969/announce
 udp://ttk2.nbaonlineservice.com:6969/announce
