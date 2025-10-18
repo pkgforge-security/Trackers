@@ -38,9 +38,9 @@ http://t-backup.213891.xyz:80/announce
 https://tracker.zhuqiy.com:443/announce
 udp://tracker.srv00.com:6969/announce
 udp://bandito.byterunner.io:6969/announce
+udp://torrentclub.online:54123/announce
 https://tracker.moeblog.cn:443/announce
 https://tracker.leechshield.link:443/announce
-udp://torrentclub.online:54123/announce
 udp://retracker.lanta.me:2710/announce
 udp://anna.bt.bontal.net:6969/announce
 https://torrent.tracker.durukanbal.com:443/announce
