@@ -51,9 +51,9 @@ http://bt.okmp3.ru:2710/announce
 udp://1c.premierzal.ru:6969/announce
 udp://opentracker.io:6969/announce
 udp://tracker.dler.com:6969/announce
+http://echostar.ddnsfree.com:8080/announce
 udp://tracker.skillindia.site:6969/announce
 udp://ttk2.nbaonlineservice.com:6969/announce
-http://echostar.ddnsfree.com:8080/announce
 http://tracker.ipv6tracker.ru:80/announce
 udp://tracker.gmi.gd:6969/announce
 https://tracker.tamersunion.org:443/announce
