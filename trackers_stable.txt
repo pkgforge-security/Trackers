@@ -59,4 +59,3 @@ http://tracker.ipv6tracker.ru:80/announce
 udp://tracker.gmi.gd:6969/announce
 udp://tracker.bitcoinindia.space:6969/announce
 udp://tracker.hifitechindia.com:6969/announce
-https://tracker.tamersunion.org:443/announce
