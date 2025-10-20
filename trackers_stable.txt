@@ -1,6 +1,7 @@
 udp://tracker.opentrackr.org:1337/announce
 udp://open.stealth.si:80/announce
 http://tracker.mywaifu.best:6969/announce
+https://tracker.moeblog.cn:443/announce
 udp://tracker.qu.ax:6969/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
 udp://evan.im:6969/announce
@@ -30,7 +31,6 @@ udp://tracker.rescuecrew7.com:1337/announce
 udp://tracker.startwork.cv:1337/announce
 udp://burmese.app:6969/announce
 udp://p4p.arenabg.com:1337/announce
-https://tracker.moeblog.cn:443/announce
 udp://tracker.tryhackx.org:6969/announce
 udp://tracker.fnix.net:6969/announce
 udp://tracker.cloudbase.store:1333/announce
@@ -44,8 +44,8 @@ https://tr.nyacat.pw:443/announce
 udp://retracker.lanta.me:2710/announce
 udp://www.torrent.eu.org:451/announce
 http://echostar.ddnsfree.com:8080/announce
-http://t-backup.213891.xyz:80/announce
 https://torrent.tracker.durukanbal.com:443/announce
+http://t-backup.213891.xyz:80/announce
 udp://retracker01-msk-virt.corbina.net:80/announce
 http://bt.okmp3.ru:2710/announce
 udp://opentracker.io:6969/announce
@@ -60,3 +60,4 @@ udp://tr4ck3r.duckdns.org:6969/announce
 udp://tracker.bitcoinindia.space:6969/announce
 udp://tracker.hifimarket.in:2710/announce
 udp://tracker.hifitechindia.com:6969/announce
+https://tr.zukizuki.org:443/announce
