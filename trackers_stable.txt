@@ -1,6 +1,5 @@
 udp://tracker.opentrackr.org:1337/announce
 udp://open.stealth.si:80/announce
-udp://tracker.torrent.eu.org:451/announce
 http://tracker.mywaifu.best:6969/announce
 udp://tracker.qu.ax:6969/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
@@ -21,6 +20,7 @@ https://tracker.alaskantf.com:443/announce
 https://tracker.belmult.online:443/announce
 https://t.213891.xyz:443/announce
 udp://rekcart.duckdns.org:15480/announce
+udp://tracker.torrent.eu.org:451/announce
 http://ipv6.rer.lol:6969/announce
 udp://tracker.valete.tf:9999/announce
 https://tracker.ghostchu-services.top:443/announce
