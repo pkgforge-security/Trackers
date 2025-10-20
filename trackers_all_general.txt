@@ -60,6 +60,7 @@ http://wepzone.net:6969/announce
 http://www.genesis-sp.org:2710/announce
 http://www.torrentsnipe.info:2701/announce
 https://bt.bontal.net:443/announce
+https://cny.fan:443/announce
 https://shahidrazi.online:443/announce
 https://t.213891.xyz:443/announce
 https://torrent.tracker.durukanbal.com:443/announce

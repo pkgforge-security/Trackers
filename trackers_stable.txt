@@ -20,6 +20,7 @@ https://tracker.alaskantf.com:443/announce
 https://tracker.belmult.online:443/announce
 https://t.213891.xyz:443/announce
 udp://rekcart.duckdns.org:15480/announce
+https://cny.fan:443/announce
 udp://tracker.torrent.eu.org:451/announce
 http://ipv6.rer.lol:6969/announce
 udp://tracker.valete.tf:9999/announce
@@ -52,8 +53,8 @@ udp://1c.premierzal.ru:6969/announce
 https://tracker.leechshield.link:443/announce
 udp://tracker.dler.com:6969/announce
 udp://tracker.skillindia.site:6969/announce
-udp://ttk2.nbaonlineservice.com:6969/announce
 udp://tracker.gmi.gd:6969/announce
+udp://ttk2.nbaonlineservice.com:6969/announce
 http://tracker.ipv6tracker.ru:80/announce
 udp://tr4ck3r.duckdns.org:6969/announce
 udp://tracker.bitcoinindia.space:6969/announce
