@@ -40,8 +40,8 @@ udp://torrentclub.online:54123/announce
 udp://bandito.byterunner.io:6969/announce
 udp://tracker.srv00.com:6969/announce
 udp://anna.bt.bontal.net:6969/announce
-https://tr.nyacat.pw:443/announce
 https://tr.zukizuki.org:443/announce
+https://tr.nyacat.pw:443/announce
 udp://retracker.lanta.me:2710/announce
 udp://www.torrent.eu.org:451/announce
 udp://retracker01-msk-virt.corbina.net:80/announce
