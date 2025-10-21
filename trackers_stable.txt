@@ -46,14 +46,14 @@ udp://www.torrent.eu.org:451/announce
 udp://retracker01-msk-virt.corbina.net:80/announce
 https://torrent.tracker.durukanbal.com:443/announce
 http://echostar.ddnsfree.com:8080/announce
-http://t-backup.213891.xyz:80/announce
 http://bt.okmp3.ru:2710/announce
+http://t-backup.213891.xyz:80/announce
 udp://opentracker.io:6969/announce
 udp://1c.premierzal.ru:6969/announce
 https://tracker.leechshield.link:443/announce
 udp://tracker.dler.com:6969/announce
-udp://tracker.skillindia.site:6969/announce
 https://tr.zukizuki.org:443/announce
+udp://tracker.skillindia.site:6969/announce
 udp://tracker.gmi.gd:6969/announce
 udp://ttk2.nbaonlineservice.com:6969/announce
 http://tracker.ipv6tracker.ru:80/announce
