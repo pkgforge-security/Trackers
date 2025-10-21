@@ -43,8 +43,8 @@ udp://anna.bt.bontal.net:6969/announce
 https://tr.nyacat.pw:443/announce
 udp://retracker.lanta.me:2710/announce
 udp://www.torrent.eu.org:451/announce
-https://torrent.tracker.durukanbal.com:443/announce
 udp://retracker01-msk-virt.corbina.net:80/announce
+https://torrent.tracker.durukanbal.com:443/announce
 http://echostar.ddnsfree.com:8080/announce
 http://t-backup.213891.xyz:80/announce
 http://bt.okmp3.ru:2710/announce
@@ -59,6 +59,6 @@ udp://ttk2.nbaonlineservice.com:6969/announce
 http://tracker.ipv6tracker.ru:80/announce
 udp://tr4ck3r.duckdns.org:6969/announce
 udp://tracker.bitcoinindia.space:6969/announce
-udp://tracker.hifimarket.in:2710/announce
 udp://tracker.hifitechindia.com:6969/announce
+udp://tracker.hifimarket.in:2710/announce
 udp://open.dstud.io:6969/announce
