@@ -9,7 +9,6 @@ https://tracker.yemekyedim.com:443/announce
 https://tracker.jdx3.org:443/announce
 udp://martin-gebhardt.eu:25/announce
 http://tracker.beeimg.com:6969/announce
-https://tr.zukizuki.org:443/announce
 udp://udp.tracker.projectk.org:23333/announce
 http://tracker.renfei.net:8080/announce
 https://tr.nyacat.pw:443/announce
@@ -34,6 +33,7 @@ udp://burmese.app:6969/announce
 udp://p4p.arenabg.com:1337/announce
 udp://tracker.tryhackx.org:6969/announce
 udp://tracker.fnix.net:6969/announce
+https://tr.zukizuki.org:443/announce
 udp://tracker.cloudbase.store:1333/announce
 http://tracker.dhitechnical.com:6969/announce
 https://tracker.zhuqiy.com:443/announce
@@ -54,8 +54,8 @@ http://t-backup.213891.xyz:80/announce
 udp://tracker.dler.com:6969/announce
 udp://tracker.skillindia.site:6969/announce
 https://tracker.leechshield.link:443/announce
-udp://opentracker.io:6969/announce
 udp://tracker.bitcoinindia.space:6969/announce
+udp://opentracker.io:6969/announce
 udp://ttk2.nbaonlineservice.com:6969/announce
 http://tracker.ipv6tracker.ru:80/announce
 udp://tr4ck3r.duckdns.org:6969/announce
