@@ -51,8 +51,8 @@ http://echostar.ddnsfree.com:8080/announce
 udp://1c.premierzal.ru:6969/announce
 https://tracker.leechshield.link:443/announce
 http://t-backup.213891.xyz:80/announce
-udp://tracker.dler.com:6969/announce
 udp://opentracker.io:6969/announce
+udp://tracker.dler.com:6969/announce
 udp://tracker.skillindia.site:6969/announce
 udp://tracker.gmi.gd:6969/announce
 udp://ttk2.nbaonlineservice.com:6969/announce
