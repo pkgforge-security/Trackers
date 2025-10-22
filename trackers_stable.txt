@@ -25,7 +25,6 @@ udp://rekcart.duckdns.org:15480/announce
 https://cny.fan:443/announce
 udp://tracker.torrent.eu.org:451/announce
 http://ipv6.rer.lol:6969/announce
-https://tracker.uraniumhexafluori.de:443/announce
 udp://tracker.valete.tf:9999/announce
 https://tracker.ghostchu-services.top:443/announce
 http://ipv4.rer.lol:2710/announce
@@ -40,6 +39,7 @@ http://tracker.dhitechnical.com:6969/announce
 https://tracker.zhuqiy.com:443/announce
 udp://torrentclub.online:54123/announce
 udp://bandito.byterunner.io:6969/announce
+https://tracker.uraniumhexafluori.de:443/announce
 udp://tracker.srv00.com:6969/announce
 udp://anna.bt.bontal.net:6969/announce
 udp://retracker.lanta.me:2710/announce
