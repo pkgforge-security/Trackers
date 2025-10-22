@@ -61,3 +61,4 @@ http://tracker.ipv6tracker.ru:80/announce
 udp://tr4ck3r.duckdns.org:6969/announce
 udp://open.dstud.io:6969/announce
 udp://tracker.hifitechindia.com:6969/announce
+udp://tracker.hifimarket.in:2710/announce
