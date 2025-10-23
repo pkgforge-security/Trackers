@@ -62,6 +62,6 @@ http://tracker.ipv6tracker.ru:80/announce
 https://tr.zukizuki.org:443/announce
 udp://tr4ck3r.duckdns.org:6969/announce
 udp://tracker.hifitechindia.com:6969/announce
+udp://tracker.hifimarket.in:2710/announce
 udp://opentracker.io:6969/announce
 http://tracker.tritan.gg:8080/announce
-udp://tracker.hifimarket.in:2710/announce
