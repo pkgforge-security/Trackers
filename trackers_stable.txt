@@ -37,10 +37,10 @@ udp://tracker.fnix.net:6969/announce
 http://tracker.dhitechnical.com:6969/announce
 https://tracker.zhuqiy.com:443/announce
 udp://torrentclub.online:54123/announce
+udp://tracker.srv00.com:6969/announce
 udp://bandito.byterunner.io:6969/announce
 https://tracker.uraniumhexafluori.de:443/announce
 udp://anna.bt.bontal.net:6969/announce
-udp://tracker.srv00.com:6969/announce
 udp://burmese.app:6969/announce
 udp://retracker.lanta.me:2710/announce
 udp://www.torrent.eu.org:451/announce
@@ -54,10 +54,12 @@ udp://tracker.dler.com:6969/announce
 udp://open.dstud.io:6969/announce
 https://tracker.leechshield.link:443/announce
 udp://tracker.skillindia.site:6969/announce
-udp://1c.premierzal.ru:6969/announce
 udp://ttk2.nbaonlineservice.com:6969/announce
 udp://tracker.bitcoinindia.space:6969/announce
+udp://1c.premierzal.ru:6969/announce
 http://tracker.ipv6tracker.ru:80/announce
 udp://tr4ck3r.duckdns.org:6969/announce
 udp://tracker.hifimarket.in:2710/announce
 udp://tracker.hifitechindia.com:6969/announce
+http://tracker.tritan.gg:8080/announce
+udp://tracker.1h.is:1337/announce
