@@ -35,8 +35,8 @@ udp://p4p.arenabg.com:1337/announce
 udp://tracker.tryhackx.org:6969/announce
 udp://tracker.fnix.net:6969/announce
 http://tracker.dhitechnical.com:6969/announce
-https://tracker.zhuqiy.com:443/announce
 udp://torrentclub.online:54123/announce
+https://tracker.zhuqiy.com:443/announce
 udp://bandito.byterunner.io:6969/announce
 https://tracker.uraniumhexafluori.de:443/announce
 udp://anna.bt.bontal.net:6969/announce
@@ -48,8 +48,8 @@ udp://retracker01-msk-virt.corbina.net:80/announce
 https://tracker.leechshield.link:443/announce
 https://torrent.tracker.durukanbal.com:443/announce
 http://bt.okmp3.ru:2710/announce
-http://echostar.ddnsfree.com:8080/announce
 udp://tracker.1h.is:1337/announce
+http://echostar.ddnsfree.com:8080/announce
 udp://tracker.gmi.gd:6969/announce
 http://t-backup.213891.xyz:80/announce
 udp://tracker.dler.com:6969/announce
