@@ -9,6 +9,7 @@ https://tracker.yemekyedim.com:443/announce
 https://tracker.jdx3.org:443/announce
 udp://martin-gebhardt.eu:25/announce
 http://tracker.beeimg.com:6969/announce
+udp://tracker.valete.tf:9999/announce
 udp://udp.tracker.projectk.org:23333/announce
 http://tracker.renfei.net:8080/announce
 https://tr.nyacat.pw:443/announce
@@ -26,7 +27,6 @@ https://cny.fan:443/announce
 https://tracker.qingwa.pro:443/announce
 udp://tracker.torrent.eu.org:451/announce
 http://ipv6.rer.lol:6969/announce
-udp://tracker.valete.tf:9999/announce
 https://tracker.ghostchu-services.top:443/announce
 http://ipv4.rer.lol:2710/announce
 udp://tracker.rescuecrew7.com:1337/announce
@@ -49,9 +49,9 @@ https://torrent.tracker.durukanbal.com:443/announce
 http://bt.okmp3.ru:2710/announce
 http://echostar.ddnsfree.com:8080/announce
 udp://tracker.gmi.gd:6969/announce
+udp://tracker.1h.is:1337/announce
 https://tracker.leechshield.link:443/announce
 http://t-backup.213891.xyz:80/announce
-udp://tracker.1h.is:1337/announce
 udp://tracker.dler.com:6969/announce
 udp://open.dstud.io:6969/announce
 udp://tracker.skillindia.site:6969/announce
