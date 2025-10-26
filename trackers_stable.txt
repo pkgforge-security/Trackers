@@ -42,8 +42,8 @@ udp://anna.bt.bontal.net:6969/announce
 udp://tracker.srv00.com:6969/announce
 udp://burmese.app:6969/announce
 udp://retracker.lanta.me:2710/announce
-udp://tracker.valete.tf:9999/announce
 udp://www.torrent.eu.org:451/announce
+udp://tracker.valete.tf:9999/announce
 udp://retracker01-msk-virt.corbina.net:80/announce
 https://tracker.leechshield.link:443/announce
 udp://tracker.1h.is:1337/announce
