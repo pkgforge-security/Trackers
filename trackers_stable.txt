@@ -48,8 +48,8 @@ udp://retracker01-msk-virt.corbina.net:80/announce
 udp://tracker.1h.is:1337/announce
 https://torrent.tracker.durukanbal.com:443/announce
 udp://tracker.gmi.gd:6969/announce
-udp://tracker.valete.tf:9999/announce
 udp://tracker.bitcoinindia.space:6969/announce
+udp://tracker.valete.tf:9999/announce
 udp://tracker.skillindia.site:6969/announce
 udp://tracker.dler.com:6969/announce
 http://bt.okmp3.ru:2710/announce
@@ -60,7 +60,7 @@ http://echostar.ddnsfree.com:8080/announce
 udp://tracker.hifitechindia.com:6969/announce
 http://t-backup.213891.xyz:80/announce
 udp://tr4ck3r.duckdns.org:6969/announce
-http://torrent.hificode.in:6969/announce
 http://taciturn-shadow.spb.ru:6969/announce
 udp://1c.premierzal.ru:6969/announce
+http://torrent.hificode.in:6969/announce
 udp://tracker.hifimarket.in:2710/announce
