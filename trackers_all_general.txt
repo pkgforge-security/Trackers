@@ -25,6 +25,7 @@ http://share.hkg-fansub.info:80/announce.php
 http://shubt.net:2710/announce
 http://t-backup.213891.xyz:80/announce
 http://t.overflow.biz:6969/announce
+http://taciturn-shadow.spb.ru:6969/announce
 http://torrent.hificode.in:6969/announce
 http://tr.nyacat.pw:80/announce
 http://tracker.23794.top:6969/announce
