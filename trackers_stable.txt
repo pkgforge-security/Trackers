@@ -48,8 +48,8 @@ udp://retracker01-msk-virt.corbina.net:80/announce
 https://tracker.leechshield.link:443/announce
 udp://tracker.1h.is:1337/announce
 https://torrent.tracker.durukanbal.com:443/announce
-http://bt.okmp3.ru:2710/announce
 http://echostar.ddnsfree.com:8080/announce
+http://bt.okmp3.ru:2710/announce
 udp://tracker.gmi.gd:6969/announce
 udp://tracker.bitcoinindia.space:6969/announce
 udp://tracker.dler.com:6969/announce
