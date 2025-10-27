@@ -54,9 +54,9 @@ udp://tracker.dler.com:6969/announce
 http://bt.okmp3.ru:2710/announce
 udp://ttk2.nbaonlineservice.com:6969/announce
 http://tr.highstar.shop:80/announce
-http://taciturn-shadow.spb.ru:6969/announce
 http://tracker.ipv6tracker.ru:80/announce
 udp://tracker.skillindia.site:6969/announce
+http://taciturn-shadow.spb.ru:6969/announce
 udp://tr4ck3r.duckdns.org:6969/announce
 http://echostar.ddnsfree.com:8080/announce
 udp://tracker.hifitechindia.com:6969/announce
