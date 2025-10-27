@@ -34,10 +34,10 @@ udp://torrentclub.online:54123/announce
 https://tracker.zhuqiy.com:443/announce
 udp://bandito.byterunner.io:6969/announce
 https://tracker.uraniumhexafluori.de:443/announce
-udp://tracker.rescuecrew7.com:1337/announce
 udp://tracker.cloudbase.store:1333/announce
 udp://anna.bt.bontal.net:6969/announce
 udp://tracker.srv00.com:6969/announce
+udp://tracker.rescuecrew7.com:1337/announce
 udp://burmese.app:6969/announce
 https://tracker.jdx3.org:443/announce
 udp://tracker.startwork.cv:1337/announce
