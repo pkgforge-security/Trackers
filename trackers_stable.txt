@@ -37,9 +37,9 @@ https://tracker.uraniumhexafluori.de:443/announce
 udp://tracker.cloudbase.store:1333/announce
 udp://anna.bt.bontal.net:6969/announce
 udp://retracker01-msk-virt.corbina.net:80/announce
+https://tracker.leechshield.link:443/announce
 udp://tracker.rescuecrew7.com:1337/announce
 udp://burmese.app:6969/announce
-https://tracker.leechshield.link:443/announce
 udp://tracker.srv00.com:6969/announce
 udp://tracker.startwork.cv:1337/announce
 udp://retracker.lanta.me:2710/announce
