@@ -13,7 +13,6 @@ http://extracker.dahrkael.net:6969/announce
 http://home.yxgz.club:6969/announce
 http://ipv4.rer.lol:2710/announce
 http://ipv6.rer.lol:6969/announce
-http://open.acgtracker.com:1096/announce
 http://open.trackerlist.xyz:80/announce
 http://p4p.arenabg.com:1337/announce
 http://public.tracker.vraphim.com:6969/announce
@@ -47,9 +46,9 @@ http://tracker.opentrackr.org:1337/announce
 http://tracker.qu.ax:6969/announce
 http://tracker.renfei.net:8080/announce
 http://tracker.sbsub.com:2710/announce
+http://tracker.skyts.net:6969/announce
 http://tracker.tritan.gg:8080/announce
 http://tracker.vanitycore.co:6969/announce
-http://tracker.waaa.moe:6969/announce
 http://tracker.xiaoduola.xyz:6969/announce
 http://tracker.zhuqiy.com:80/announce
 http://tracker1.bt.moack.co.kr:80/announce
@@ -64,7 +63,6 @@ https://shahidrazi.online:443/announce
 https://t.213891.xyz:443/announce
 https://torrent.tracker.durukanbal.com:443/announce
 https://tr.nyacat.pw:443/announce
-https://tracker.aburaya.live:443/announce
 https://tracker.alaskantf.com:443/announce
 https://tracker.belmult.online:443/announce
 https://tracker.bt4g.com:443/announce
@@ -96,11 +94,13 @@ udp://explodie.org:6969/announce
 udp://extracker.dahrkael.net:6969/announce
 udp://hificode.in:6969/announce
 udp://ipv4announce.sktorrent.eu:6969/announce
-udp://leet-tracker.moe:1337/announce
+udp://isk.richardsw.club:6969/announce
 udp://martin-gebhardt.eu:25/announce
+udp://ns-1.x-fins.com:6969/announce
 udp://open.demonii.com:1337/announce
 udp://open.demonoid.ch:6969/announce
 udp://open.dstud.io:6969/announce
+udp://open.free-tracker.ga:6969/announce
 udp://open.stealth.si:80/announce
 udp://opentracker.io:6969/announce
 udp://p4p.arenabg.com:1337/announce
@@ -119,7 +119,6 @@ udp://tracker.cloudbase.store:1333/announce
 udp://tracker.dler.com:6969/announce
 udp://tracker.dler.org:6969/announce
 udp://tracker.ducks.party:1984/announce
-udp://tracker.filemail.com:6969/announce
 udp://tracker.fnix.net:6969/announce
 udp://tracker.gmi.gd:6969/announce
 udp://tracker.hifimarket.in:2710/announce
