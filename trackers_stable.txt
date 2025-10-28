@@ -59,4 +59,3 @@ udp://tracker.skillindia.site:6969/announce
 udp://retracker.hotplug.ru:2710/announce
 udp://tr4ck3r.duckdns.org:6969/announce
 udp://tracker.hifitechindia.com:6969/announce
-https://tracker.jdx3.org:443/announce
