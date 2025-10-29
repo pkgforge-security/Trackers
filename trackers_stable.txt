@@ -59,6 +59,6 @@ http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
 http://tracker.ipv6tracker.ru:80/announce
 udp://tracker.skillindia.site:6969/announce
 udp://tr4ck3r.duckdns.org:6969/announce
-udp://tracker.hifitechindia.com:6969/announce
 http://torrent.hificode.in:6969/announce
+udp://tracker.hifitechindia.com:6969/announce
 http://tracker.tritan.gg:8080/announce
