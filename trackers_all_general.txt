@@ -102,6 +102,7 @@ udp://open.dstud.io:6969/announce
 udp://open.stealth.si:80/announce
 udp://opentracker.io:6969/announce
 udp://p4p.arenabg.com:1337/announce
+udp://public.demonoid.ch:6969/announce
 udp://public.tracker.vraphim.com:6969/announce
 udp://rekcart.duckdns.org:15480/announce
 udp://retracker.hotplug.ru:2710/announce
