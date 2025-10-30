@@ -49,9 +49,9 @@ udp://www.torrent.eu.org:451/announce
 udp://tracker.startwork.cv:1337/announce
 udp://tracker.1h.is:1337/announce
 udp://tracker.gmi.gd:6969/announce
-udp://tracker.bitcoinindia.space:6969/announce
 http://tr.highstar.shop:80/announce
 https://torrent.tracker.durukanbal.com:443/announce
+udp://tracker.bitcoinindia.space:6969/announce
 udp://open.dstud.io:6969/announce
 http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
 udp://tracker.dler.com:6969/announce
@@ -62,9 +62,9 @@ udp://open-tracker.demonoid.ch:6969/announce
 http://tracker.ipv6tracker.ru:80/announce
 https://shahidrazi.online:443/announce
 udp://public.demonoid.ch:6969/announce
-udp://tr4ck3r.duckdns.org:6969/announce
 udp://tracker.hifitechindia.com:6969/announce
 udp://open.demonii.com:1337/announce
+udp://tr4ck3r.duckdns.org:6969/announce
 http://torrent.hificode.in:6969/announce
 http://tracker.tritan.gg:8080/announce
 udp://open.demonoid.ch:6969/announce
