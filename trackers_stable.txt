@@ -54,8 +54,8 @@ udp://tracker.bitcoinindia.space:6969/announce
 http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
 udp://tracker.gmi.gd:6969/announce
 https://torrent.tracker.durukanbal.com:443/announce
-udp://open.dstud.io:6969/announce
 https://shahidrazi.online:443/announce
+udp://open.dstud.io:6969/announce
 http://bt.okmp3.ru:2710/announce
 udp://open-tracker.demonoid.ch:6969/announce
 udp://tracker.skillindia.site:6969/announce
@@ -69,3 +69,4 @@ udp://open.demonoid.ch:6969/announce
 http://torrent.hificode.in:6969/announce
 http://tracker.tritan.gg:8080/announce
 udp://tr4ck3r.duckdns.org:6969/announce
+http://t-backup.213891.xyz:80/announce
