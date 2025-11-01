@@ -58,8 +58,8 @@ udp://tracker.dler.com:6969/announce
 https://torrent.tracker.durukanbal.com:443/announce
 udp://tracker.skillindia.site:6969/announce
 udp://open-tracker.demonoid.ch:6969/announce
-udp://open.demonii.com:1337/announce
 udp://tracker.hifitechindia.com:6969/announce
+udp://open.demonii.com:1337/announce
 http://t-backup.213891.xyz:80/announce
 http://bt.okmp3.ru:2710/announce
 udp://ttk2.nbaonlineservice.com:6969/announce
