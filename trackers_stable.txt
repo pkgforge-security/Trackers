@@ -5,7 +5,6 @@ http://tracker.bt4g.com:2095/announce
 http://tracker.mywaifu.best:6969/announce
 https://tracker.moeblog.cn:443/announce
 udp://tracker.qu.ax:6969/announce
-udp://d40969.acod.regrucolo.ru:6969/announce
 https://tracker.yemekyedim.com:443/announce
 udp://martin-gebhardt.eu:25/announce
 http://tracker.beeimg.com:6969/announce
@@ -22,6 +21,7 @@ https://tracker.qingwa.pro:443/announce
 udp://tracker.playground.ru:6969/announce
 udp://p4p.arenabg.com:1337/announce
 udp://tracker.torrent.eu.org:451/announce
+udp://d40969.acod.regrucolo.ru:6969/announce
 udp://tracker.fnix.net:6969/announce
 http://ipv6.rer.lol:6969/announce
 https://tracker.ghostchu-services.top:443/announce
@@ -39,17 +39,17 @@ udp://evan.im:6969/announce
 udp://bandito.byterunner.io:6969/announce
 https://tracker.uraniumhexafluori.de:443/announce
 http://tracker.dhitechnical.com:6969/announce
+http://tr.highstar.shop:80/announce
 udp://anna.bt.bontal.net:6969/announce
 udp://retracker01-msk-virt.corbina.net:80/announce
-http://tr.highstar.shop:80/announce
 udp://tracker.cloudbase.store:1333/announce
 udp://tracker.srv00.com:6969/announce
 udp://tracker.rescuecrew7.com:1337/announce
 udp://burmese.app:6969/announce
 udp://www.torrent.eu.org:451/announce
 http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
-udp://tracker.startwork.cv:1337/announce
 https://shahidrazi.online:443/announce
+udp://tracker.startwork.cv:1337/announce
 udp://retracker.lanta.me:2710/announce
 udp://tracker.bitcoinindia.space:6969/announce
 udp://tracker.1h.is:1337/announce
@@ -67,6 +67,6 @@ udp://public.demonoid.ch:6969/announce
 http://tracker.ipv6tracker.ru:80/announce
 udp://open.dstud.io:6969/announce
 udp://open.demonoid.ch:6969/announce
+udp://tr4ck3r.duckdns.org:6969/announce
 http://torrent.hificode.in:6969/announce
 http://tracker.tritan.gg:8080/announce
-udp://tr4ck3r.duckdns.org:6969/announce
