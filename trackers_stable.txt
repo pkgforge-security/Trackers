@@ -45,9 +45,9 @@ udp://retracker01-msk-virt.corbina.net:80/announce
 udp://tracker.cloudbase.store:1333/announce
 udp://tracker.srv00.com:6969/announce
 udp://tracker.rescuecrew7.com:1337/announce
+http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
 udp://www.torrent.eu.org:451/announce
 udp://burmese.app:6969/announce
-http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
 https://shahidrazi.online:443/announce
 udp://tracker.startwork.cv:1337/announce
 udp://retracker.lanta.me:2710/announce
@@ -66,7 +66,7 @@ udp://ttk2.nbaonlineservice.com:6969/announce
 udp://public.demonoid.ch:6969/announce
 http://tracker.ipv6tracker.ru:80/announce
 udp://open.demonoid.ch:6969/announce
-udp://open.dstud.io:6969/announce
 udp://tr4ck3r.duckdns.org:6969/announce
 http://tracker.tritan.gg:8080/announce
+udp://open.dstud.io:6969/announce
 http://torrent.hificode.in:6969/announce
