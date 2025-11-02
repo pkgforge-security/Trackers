@@ -66,6 +66,6 @@ http://bt.okmp3.ru:2710/announce
 udp://ttk2.nbaonlineservice.com:6969/announce
 udp://open.demonoid.ch:6969/announce
 http://tracker.ipv6tracker.ru:80/announce
-http://tracker.tritan.gg:8080/announce
-udp://tr4ck3r.duckdns.org:6969/announce
 udp://6ahddutb1ucc3cp.ru:6969/announce
+udp://tr4ck3r.duckdns.org:6969/announce
+http://tracker.tritan.gg:8080/announce
