@@ -45,9 +45,9 @@ http://tracker.dhitechnical.com:6969/announce
 udp://tracker.dler.com:6969/announce
 udp://www.torrent.eu.org:451/announce
 udp://tracker.srv00.com:6969/announce
-udp://tracker.zupix.online:1333/announce
-udp://tracker.1h.is:1337/announce
 udp://ttk2.nbaonlineservice.com:6969/announce
+udp://tracker.1h.is:1337/announce
+udp://tracker.zupix.online:1333/announce
 udp://burmese.app:6969/announce
 udp://6ahddutb1ucc3cp.ru:6969/announce
 udp://tracker.gmi.gd:6969/announce
@@ -58,10 +58,10 @@ udp://tracker.rescuecrew7.com:1337/announce
 udp://open-tracker.demonoid.ch:6969/announce
 udp://public.demonoid.ch:6969/announce
 https://torrent.tracker.durukanbal.com:443/announce
-udp://tracker.kmzs123.cn:17272/announce
 udp://open.demonoid.ch:6969/announce
 udp://tracker.startwork.cv:1337/announce
 udp://tracker.bitcoinindia.space:6969/announce
+udp://tracker.kmzs123.cn:17272/announce
 http://bt.okmp3.ru:2710/announce
 http://t-backup.213891.xyz:80/announce
 udp://tracker.skillindia.site:6969/announce
