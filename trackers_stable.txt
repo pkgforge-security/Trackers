@@ -23,6 +23,7 @@ udp://torrentclub.online:54123/announce
 udp://rekcart.duckdns.org:15480/announce
 https://tracker.qingwa.pro:443/announce
 udp://tracker.playground.ru:6969/announce
+udp://tracker.home.kmzs123.cn:17272/announce
 udp://tracker.torrent.eu.org:451/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
 udp://tracker.fnix.net:6969/announce
@@ -67,5 +68,5 @@ http://bt.okmp3.ru:2710/announce
 udp://open.demonoid.ch:6969/announce
 udp://ttk2.nbaonlineservice.com:6969/announce
 udp://tr4ck3r.duckdns.org:6969/announce
-http://tracker.ipv6tracker.ru:80/announce
 http://tracker.tritan.gg:8080/announce
+http://tracker.ipv6tracker.ru:80/announce
