@@ -127,7 +127,6 @@ udp://tracker.filemail.com:6969/announce
 udp://tracker.fnix.net:6969/announce
 udp://tracker.gmi.gd:6969/announce
 udp://tracker.hifimarket.in:2710/announce
-udp://tracker.hifitechindia.com:6969/announce
 udp://tracker.kmzs123.cn:17272/announce
 udp://tracker.ololosh.space:6969/announce
 udp://tracker.opentrackr.org:1337/announce
