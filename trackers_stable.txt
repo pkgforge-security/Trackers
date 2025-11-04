@@ -62,10 +62,10 @@ udp://open.demonoid.ch:6969/announce
 udp://tracker.startwork.cv:1337/announce
 udp://tracker.bitcoinindia.space:6969/announce
 http://bt.okmp3.ru:2710/announce
-http://t-backup.213891.xyz:80/announce
 udp://tr4ck3r.duckdns.org:6969/announce
+http://t-backup.213891.xyz:80/announce
 http://tracker.ipv6tracker.ru:80/announce
 http://tracker.tritan.gg:8080/announce
-udp://tracker.hifitechindia.com:6969/announce
 udp://tracker.skillindia.site:6969/announce
+udp://tracker.hifitechindia.com:6969/announce
 http://wegkxfcivgx.ydns.eu:80/announce
