@@ -51,8 +51,8 @@ udp://www.torrent.eu.org:451/announce
 udp://tracker.gmi.gd:6969/announce
 udp://6ahddutb1ucc3cp.ru:6969/announce
 udp://retracker.lanta.me:2710/announce
-udp://burmese.app:6969/announce
 udp://open.demonii.com:1337/announce
+udp://burmese.app:6969/announce
 udp://public.demonoid.ch:6969/announce
 udp://open-tracker.demonoid.ch:6969/announce
 https://torrent.tracker.durukanbal.com:443/announce
@@ -64,5 +64,5 @@ udp://tracker.rescuecrew7.com:1337/announce
 udp://tracker.startwork.cv:1337/announce
 http://tracker.ipv6tracker.ru:80/announce
 http://tracker.tritan.gg:8080/announce
-udp://tracker.cloudbase.store:1333/announce
 udp://tracker.bitcoinindia.space:6969/announce
+udp://tracker.cloudbase.store:1333/announce
