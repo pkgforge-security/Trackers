@@ -13,6 +13,7 @@ http://extracker.dahrkael.net:6969/announce
 http://home.yxgz.club:6969/announce
 http://ipv4.rer.lol:2710/announce
 http://ipv6.rer.lol:6969/announce
+http://lucke.fenesisu.moe:6969/announce
 http://open.acgtracker.com:1096/announce
 http://open.trackerlist.xyz:80/announce
 http://p4p.arenabg.com:1337/announce
