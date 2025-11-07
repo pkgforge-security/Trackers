@@ -60,8 +60,8 @@ udp://tracker.zupix.online:1333/announce
 udp://run.publictracker.xyz:6969/announce
 http://bt.okmp3.ru:2710/announce
 udp://tr4ck3r.duckdns.org:6969/announce
-udp://6ahddutb1ucc3cp.ru:6969/announce
 http://lucke.fenesisu.moe:6969/announce
+udp://6ahddutb1ucc3cp.ru:6969/announce
 http://tracker.tritan.gg:8080/announce
 http://tracker.ipv6tracker.ru:80/announce
 udp://tracker.therarbg.to:6969/announce
