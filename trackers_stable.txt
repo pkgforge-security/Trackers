@@ -44,8 +44,8 @@ udp://tracker.ducks.party:1984/announce
 udp://open.demonii.com:1337/announce
 udp://tracker.dler.com:6969/announce
 udp://tracker.1h.is:1337/announce
-udp://torrentclub.online:54123/announce
 udp://tracker.gmi.gd:6969/announce
+udp://torrentclub.online:54123/announce
 udp://tracker.srv00.com:6969/announce
 udp://ttk2.nbaonlineservice.com:6969/announce
 udp://www.torrent.eu.org:451/announce
