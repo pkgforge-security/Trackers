@@ -10,6 +10,7 @@ https://shahidrazi.online:443/announce
 https://tracker.uraniumhexafluori.de:443/announce
 http://wegkxfcivgx.ydns.eu:80/announce
 udp://udp.tracker.projectk.org:23333/announce
+http://lucke.fenesisu.moe:6969/announce
 http://tracker.renfei.net:8080/announce
 https://tr.nyacat.pw:443/announce
 udp://extracker.dahrkael.net:6969/announce
@@ -30,7 +31,6 @@ https://tracker.yemekyedim.com:443/announce
 http://ipv6.rer.lol:6969/announce
 https://tracker.leechshield.link:443/announce
 http://tracker.beeimg.com:6969/announce
-http://lucke.fenesisu.moe:6969/announce
 https://tracker.ghostchu-services.top:443/announce
 http://ipv4.rer.lol:2710/announce
 udp://tracker.tvunderground.org.ru:3218/announce
