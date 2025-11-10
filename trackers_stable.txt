@@ -63,4 +63,3 @@ http://tracker.tritan.gg:8080/announce
 udp://t.overflow.biz:6969/announce
 udp://tracker.therarbg.to:6969/announce
 udp://tr4ck3r.duckdns.org:6969/announce
-http://tracker.ipv6tracker.ru:80/announce
