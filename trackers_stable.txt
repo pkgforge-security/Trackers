@@ -1,5 +1,6 @@
 udp://tracker.opentrackr.org:1337/announce
 udp://open.stealth.si:80/announce
+udp://tracker.torrent.eu.org:451/announce
 https://tracker.moeblog.cn:443/announce
 udp://tracker.qu.ax:6969/announce
 udp://tracker.fnix.net:6969/announce
@@ -25,7 +26,6 @@ udp://rekcart.duckdns.org:15480/announce
 https://tracker.qingwa.pro:443/announce
 udp://tracker.playground.ru:6969/announce
 udp://p4p.arenabg.com:1337/announce
-udp://tracker.torrent.eu.org:451/announce
 udp://tracker.tryhackx.org:6969/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
 http://tracker.beeimg.com:6969/announce
