@@ -37,8 +37,8 @@ http://tracker.dhitechnical.com:6969/announce
 https://tracker.pmman.tech:443/announce
 udp://open.demonii.com:1337/announce
 http://ipv6.rer.lol:6969/announce
-udp://udp.tracker.projectk.org:23333/announce
 udp://tracker.dler.com:6969/announce
+udp://udp.tracker.projectk.org:23333/announce
 http://tracker.mywaifu.best:6969/announce
 udp://tracker.gmi.gd:6969/announce
 udp://tracker.ducks.party:1984/announce
