@@ -66,6 +66,7 @@ https://shahidrazi.online:443/announce
 https://t.213891.xyz:443/announce
 https://torrent.tracker.durukanbal.com:443/announce
 https://tr.nyacat.pw:443/announce
+https://tr.zukizuki.org:443/announce
 https://tracker.alaskantf.com:443/announce
 https://tracker.belmult.online:443/announce
 https://tracker.bt4g.com:443/announce
@@ -79,7 +80,7 @@ https://tracker.qingwa.pro:443/announce
 https://tracker.uraniumhexafluori.de:443/announce
 https://tracker.yemekyedim.com:443/announce
 https://tracker.zhuqiy.com:443/announce
-udp://1c.premierzal.ru:6969/announce
+https://yuki.bt.bontal.net:443/announce
 udp://6ahddutb1ucc3cp.ru:6969/announce
 udp://anna.bt.bontal.net:6969/announce
 udp://bandito.byterunner.io:6969/announce
@@ -119,7 +120,6 @@ udp://tracker.filemail.com:6969/announce
 udp://tracker.fnix.net:6969/announce
 udp://tracker.gmi.gd:6969/announce
 udp://tracker.hifimarket.in:2710/announce
-udp://tracker.ololosh.space:6969/announce
 udp://tracker.opentrackr.org:1337/announce
 udp://tracker.playground.ru:6969/announce
 udp://tracker.plx.im:6969/announce
@@ -129,7 +129,6 @@ udp://tracker.startwork.cv:1337/announce
 udp://tracker.theoks.net:6969/announce
 udp://tracker.therarbg.to:6969/announce
 udp://tracker.torrent.eu.org:451/announce
-udp://tracker.torrust-demo.com:6969/announce
 udp://tracker.tryhackx.org:6969/announce
 udp://tracker.tvunderground.org.ru:3218/announce
 udp://tracker.zupix.online:6969/announce
