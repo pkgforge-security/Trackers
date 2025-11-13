@@ -21,7 +21,6 @@ https://t.213891.xyz:443/announce
 udp://rekcart.duckdns.org:15480/announce
 https://tracker.qingwa.pro:443/announce
 udp://tracker.playground.ru:6969/announce
-udp://open.stealth.si:80/announce
 udp://retracker01-msk-virt.corbina.net:80/announce
 udp://tracker.tryhackx.org:6969/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
@@ -32,6 +31,7 @@ https://tracker.ghostchu-services.top:443/announce
 http://ipv4.rer.lol:2710/announce
 udp://tracker.tvunderground.org.ru:3218/announce
 https://cny.fan:443/announce
+udp://open.stealth.si:80/announce
 udp://bandito.byterunner.io:6969/announce
 http://tracker.dhitechnical.com:6969/announce
 https://tracker.pmman.tech:443/announce
@@ -48,8 +48,8 @@ udp://open.demonoid.ch:6969/announce
 udp://tracker.srv00.com:6969/announce
 udp://public.demonoid.ch:6969/announce
 udp://www.torrent.eu.org:451/announce
-udp://open-tracker.demonoid.ch:6969/announce
 udp://retracker.lanta.me:2710/announce
+udp://open-tracker.demonoid.ch:6969/announce
 udp://anna.bt.bontal.net:6969/announce
 udp://run.publictracker.xyz:6969/announce
 https://torrent.tracker.durukanbal.com:443/announce
