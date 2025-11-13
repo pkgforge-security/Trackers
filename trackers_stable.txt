@@ -46,10 +46,10 @@ udp://torrentclub.online:54123/announce
 https://tracker.zhuqiy.com:443/announce
 udp://open.demonoid.ch:6969/announce
 udp://tracker.srv00.com:6969/announce
-udp://public.demonoid.ch:6969/announce
 udp://www.torrent.eu.org:451/announce
-udp://retracker.lanta.me:2710/announce
+udp://public.demonoid.ch:6969/announce
 udp://open-tracker.demonoid.ch:6969/announce
+udp://retracker.lanta.me:2710/announce
 udp://anna.bt.bontal.net:6969/announce
 udp://run.publictracker.xyz:6969/announce
 https://torrent.tracker.durukanbal.com:443/announce
