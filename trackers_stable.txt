@@ -38,9 +38,9 @@ http://ipv6.rer.lol:6969/announce
 https://tracker.pmman.tech:443/announce
 udp://tracker.dler.com:6969/announce
 udp://open.demonii.com:1337/announce
-udp://udp.tracker.projectk.org:23333/announce
 http://tracker.mywaifu.best:6969/announce
 udp://tracker.gmi.gd:6969/announce
+udp://udp.tracker.projectk.org:23333/announce
 udp://tracker.ducks.party:1984/announce
 https://tracker.zhuqiy.com:443/announce
 udp://torrentclub.online:54123/announce
@@ -59,5 +59,5 @@ http://bt.okmp3.ru:2710/announce
 udp://burmese.app:6969/announce
 udp://tracker.therarbg.to:6969/announce
 http://tracker.tritan.gg:8080/announce
-udp://t.overflow.biz:6969/announce
 udp://tr4ck3r.duckdns.org:6969/announce
+udp://t.overflow.biz:6969/announce
