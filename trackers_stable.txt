@@ -30,13 +30,13 @@ http://tracker.beeimg.com:6969/announce
 https://tracker.ghostchu-services.top:443/announce
 http://ipv4.rer.lol:2710/announce
 udp://tracker.tvunderground.org.ru:3218/announce
-https://cny.fan:443/announce
 udp://open.stealth.si:80/announce
 udp://bandito.byterunner.io:6969/announce
 http://tracker.dhitechnical.com:6969/announce
-https://tracker.pmman.tech:443/announce
+https://cny.fan:443/announce
 udp://open.demonii.com:1337/announce
 http://ipv6.rer.lol:6969/announce
+https://tracker.pmman.tech:443/announce
 udp://tracker.dler.com:6969/announce
 udp://udp.tracker.projectk.org:23333/announce
 http://tracker.mywaifu.best:6969/announce
