@@ -31,8 +31,8 @@ udp://rekcart.duckdns.org:15480/announce
 udp://open.stealth.si:80/announce
 udp://bandito.byterunner.io:6969/announce
 udp://tracker.tvunderground.org.ru:3218/announce
-http://tracker.dhitechnical.com:6969/announce
 https://cny.fan:443/announce
+http://tracker.dhitechnical.com:6969/announce
 http://ipv6.rer.lol:6969/announce
 https://tracker.pmman.tech:443/announce
 udp://tracker.dler.com:6969/announce
