@@ -33,9 +33,9 @@ udp://bandito.byterunner.io:6969/announce
 udp://tracker.tvunderground.org.ru:3218/announce
 http://tracker.dhitechnical.com:6969/announce
 https://cny.fan:443/announce
-https://tracker.leechshield.link:443/announce
 http://ipv6.rer.lol:6969/announce
 https://tracker.pmman.tech:443/announce
+https://tracker.leechshield.link:443/announce
 udp://tracker.dler.com:6969/announce
 udp://open.demonii.com:1337/announce
 http://tracker.mywaifu.best:6969/announce
