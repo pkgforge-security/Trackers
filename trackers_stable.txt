@@ -1,4 +1,5 @@
 udp://tracker.opentrackr.org:1337/announce
+udp://retracker01-msk-virt.corbina.net:80/announce
 udp://tracker.torrent.eu.org:451/announce
 https://tracker.moeblog.cn:443/announce
 udp://tracker.qu.ax:6969/announce
@@ -20,7 +21,6 @@ https://tracker.belmult.online:443/announce
 https://t.213891.xyz:443/announce
 https://tracker.qingwa.pro:443/announce
 udp://tracker.playground.ru:6969/announce
-udp://retracker01-msk-virt.corbina.net:80/announce
 udp://tracker.tryhackx.org:6969/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
 https://tracker.uraniumhexafluori.de:443/announce
