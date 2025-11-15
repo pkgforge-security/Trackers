@@ -42,9 +42,9 @@ http://tracker.mywaifu.best:6969/announce
 udp://tracker.gmi.gd:6969/announce
 udp://tracker.ducks.party:1984/announce
 https://tracker.zhuqiy.com:443/announce
-udp://open.demonoid.ch:6969/announce
 udp://torrentclub.online:54123/announce
 udp://tracker.srv00.com:6969/announce
+udp://open.demonoid.ch:6969/announce
 udp://udp.tracker.projectk.org:23333/announce
 udp://www.torrent.eu.org:451/announce
 udp://public.demonoid.ch:6969/announce
@@ -55,10 +55,10 @@ https://torrent.tracker.durukanbal.com:443/announce
 udp://retracker.hotplug.ru:2710/announce
 http://tracker.bt4g.com:2095/announce
 http://bt.okmp3.ru:2710/announce
-udp://run.publictracker.xyz:6969/announce
 udp://burmese.app:6969/announce
+udp://run.publictracker.xyz:6969/announce
 udp://tracker.therarbg.to:6969/announce
 http://tracker.tritan.gg:8080/announce
+http://t-backup.213891.xyz:80/announce
 udp://t.overflow.biz:6969/announce
 udp://tr4ck3r.duckdns.org:6969/announce
-http://t-backup.213891.xyz:80/announce
