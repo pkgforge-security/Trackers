@@ -41,10 +41,10 @@ udp://open.demonii.com:1337/announce
 udp://tracker.gmi.gd:6969/announce
 http://tracker.mywaifu.best:6969/announce
 udp://tracker.ducks.party:1984/announce
-https://tracker.leechshield.link:443/announce
 https://tracker.zhuqiy.com:443/announce
 udp://torrentclub.online:54123/announce
 udp://tracker.srv00.com:6969/announce
+https://tracker.leechshield.link:443/announce
 udp://www.torrent.eu.org:451/announce
 udp://open.demonoid.ch:6969/announce
 udp://public.demonoid.ch:6969/announce
