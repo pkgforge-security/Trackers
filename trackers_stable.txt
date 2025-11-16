@@ -27,10 +27,10 @@ https://tracker.uraniumhexafluori.de:443/announce
 http://tracker.beeimg.com:6969/announce
 https://tracker.ghostchu-services.top:443/announce
 http://ipv4.rer.lol:2710/announce
+udp://tracker.tvunderground.org.ru:3218/announce
 udp://rekcart.duckdns.org:15480/announce
 udp://open.stealth.si:80/announce
 udp://bandito.byterunner.io:6969/announce
-udp://tracker.tvunderground.org.ru:3218/announce
 https://cny.fan:443/announce
 http://tracker.dhitechnical.com:6969/announce
 udp://tracker.tryhackx.org:6969/announce
