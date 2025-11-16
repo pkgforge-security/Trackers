@@ -53,8 +53,8 @@ udp://anna.bt.bontal.net:6969/announce
 udp://udp.tracker.projectk.org:23333/announce
 https://torrent.tracker.durukanbal.com:443/announce
 http://t-backup.213891.xyz:80/announce
-udp://retracker.hotplug.ru:2710/announce
 http://bt.okmp3.ru:2710/announce
+udp://retracker.hotplug.ru:2710/announce
 http://tracker.bt4g.com:2095/announce
 udp://tracker.therarbg.to:6969/announce
 http://tracker.tritan.gg:8080/announce
