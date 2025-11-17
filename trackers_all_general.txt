@@ -61,6 +61,7 @@ http://wegkxfcivgx.ydns.eu:80/announce
 http://wepzone.net:6969/announce
 http://www.genesis-sp.org:2710/announce
 http://www.torrentsnipe.info:2701/announce
+https://bittracker.nekosunevr.co.uk:443/announce
 https://bt.bontal.net:443/announce
 https://cny.fan:443/announce
 https://shahidrazi.online:443/announce

@@ -682,6 +682,7 @@ https://abir0dev.github.io/announce
 https://abir0dev.github.io:443/announce
 https://bittorrent.gongt.net/announce
 https://bittorrent.gongt.net:443/announce
+https://bittracker.nekosunevr.co.uk:443/announce
 https://bt.080609.xyz/announce
 https://bt.080609.xyz:443/announce
 https://bt.beatrice-raws.org/announce
