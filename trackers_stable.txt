@@ -49,8 +49,8 @@ udp://open.demonoid.ch:6969/announce
 https://tracker.leechshield.link:443/announce
 udp://retracker.lanta.me:2710/announce
 udp://public.demonoid.ch:6969/announce
-http://bt.okmp3.ru:2710/announce
 http://t-backup.213891.xyz:80/announce
+http://bt.okmp3.ru:2710/announce
 udp://open-tracker.demonoid.ch:6969/announce
 udp://anna.bt.bontal.net:6969/announce
 https://torrent.tracker.durukanbal.com:443/announce
