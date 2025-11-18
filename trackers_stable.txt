@@ -20,7 +20,6 @@ https://t.213891.xyz:443/announce
 https://tracker.qingwa.pro:443/announce
 udp://tracker.playground.ru:6969/announce
 udp://tracker.skynetcloud.site:6969/announce
-https://bittracker.nekosunevr.co.uk:443/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
 https://tracker.uraniumhexafluori.de:443/announce
 http://tracker.beeimg.com:6969/announce
@@ -44,6 +43,7 @@ http://tracker.mywaifu.best:6969/announce
 udp://tracker.ducks.party:1984/announce
 http://t-backup.213891.xyz:80/announce
 https://tracker.zhuqiy.com:443/announce
+https://bittracker.nekosunevr.co.uk:443/announce
 udp://torrentclub.online:54123/announce
 udp://tracker.srv00.com:6969/announce
 udp://www.torrent.eu.org:451/announce
