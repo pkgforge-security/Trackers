@@ -979,7 +979,6 @@ udp://bt1.archive.org:6969/announce
 udp://bt2.archive.org:6969/announce
 udp://bubu.mapfactor.com:6969/announce
 udp://buddyfly.top:6969/announce
-udp://burmese.app:6969/announce
 udp://camera.lei001.com:6969/announce
 udp://carr.codes:6969/announce
 udp://chouchou.top:8080/announce
