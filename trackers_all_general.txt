@@ -23,6 +23,7 @@ http://servandroidkino.ru:80/announce
 http://share.hkg-fansub.info:80/announce.php
 http://shubt.net:2710/announce
 http://t-backup.213891.xyz:80/announce
+http://taciturn-shadow.spb.ru:6969/announce
 http://torrent.hificode.in:6969/announce
 http://tr.highstar.shop:80/announce
 http://tr.kxmp.cf:80/announce
