@@ -51,8 +51,8 @@ udp://public.demonoid.ch:6969/announce
 udp://anna.bt.bontal.net:6969/announce
 udp://open-tracker.demonoid.ch:6969/announce
 https://torrent.tracker.durukanbal.com:443/announce
-http://tracker.tritan.gg:8080/announce
 http://echostar.ddnsfree.com:8080/announce
+http://tracker.tritan.gg:8080/announce
 udp://retracker.hotplug.ru:2710/announce
 https://tracker.yemekyedim.com:443/announce
 https://tracker.leechshield.link:443/announce
