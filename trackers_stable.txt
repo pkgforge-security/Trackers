@@ -27,10 +27,10 @@ https://tracker.moeblog.cn:443/announce
 udp://bandito.byterunner.io:6969/announce
 https://tracker.ghostchu-services.top:443/announce
 http://t-backup.213891.xyz:80/announce
+http://tracker.dhitechnical.com:6969/announce
 udp://tracker.tryhackx.org:6969/announce
 http://ipv6.rer.lol:6969/announce
 udp://tracker.gmi.gd:6969/announce
-http://tracker.dhitechnical.com:6969/announce
 https://tracker.belmult.online:443/announce
 udp://tracker.dler.com:6969/announce
 https://cny.fan:443/announce
