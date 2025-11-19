@@ -58,6 +58,6 @@ https://tracker.yemekyedim.com:443/announce
 https://tracker.leechshield.link:443/announce
 http://tracker.bt4g.com:2095/announce
 udp://udp.tracker.projectk.org:23333/announce
+http://taciturn-shadow.spb.ru:6969/announce
 udp://tracker.therarbg.to:6969/announce
 udp://tr4ck3r.duckdns.org:6969/announce
-http://taciturn-shadow.spb.ru:6969/announce
