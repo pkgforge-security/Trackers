@@ -46,9 +46,9 @@ https://t.213891.xyz:443/announce
 udp://open.demonoid.ch:6969/announce
 udp://www.torrent.eu.org:451/announce
 http://bt.okmp3.ru:2710/announce
-udp://retracker.lanta.me:2710/announce
 udp://public.demonoid.ch:6969/announce
 http://echostar.ddnsfree.com:8080/announce
+udp://retracker.lanta.me:2710/announce
 udp://anna.bt.bontal.net:6969/announce
 udp://open-tracker.demonoid.ch:6969/announce
 https://torrent.tracker.durukanbal.com:443/announce
