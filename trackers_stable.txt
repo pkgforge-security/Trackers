@@ -7,6 +7,7 @@ udp://martin-gebhardt.eu:25/announce
 http://taciturn-shadow.spb.ru:6969/announce
 http://wegkxfcivgx.ydns.eu:80/announce
 http://lucke.fenesisu.moe:6969/announce
+https://tr.nyacat.pw:443/announce
 udp://extracker.dahrkael.net:6969/announce
 https://tracker.alaskantf.com:443/announce
 http://t-backup.213891.xyz:80/announce
@@ -16,7 +17,6 @@ udp://tracker.skynetcloud.site:6969/announce
 https://shahidrazi.online:443/announce
 http://tracker.beeimg.com:6969/announce
 http://tracker.renfei.net:8080/announce
-https://tr.nyacat.pw:443/announce
 http://ipv4.rer.lol:2710/announce
 udp://tracker.plx.im:6969/announce
 udp://tracker.tvunderground.org.ru:3218/announce
@@ -44,9 +44,9 @@ http://echostar.ddnsfree.com:8080/announce
 udp://tracker.ducks.party:1984/announce
 https://tracker.zhuqiy.com:443/announce
 udp://torrentclub.online:54123/announce
+udp://www.torrent.eu.org:451/announce
 https://t.213891.xyz:443/announce
 udp://open.demonoid.ch:6969/announce
-udp://www.torrent.eu.org:451/announce
 http://bt.okmp3.ru:2710/announce
 udp://retracker.lanta.me:2710/announce
 udp://public.demonoid.ch:6969/announce
@@ -56,8 +56,8 @@ https://torrent.tracker.durukanbal.com:443/announce
 udp://retracker.hotplug.ru:2710/announce
 https://tracker.yemekyedim.com:443/announce
 http://tracker.tritan.gg:8080/announce
-https://cny.fan:443/announce
 http://tracker.bt4g.com:2095/announce
+https://cny.fan:443/announce
 udp://udp.tracker.projectk.org:23333/announce
 https://tracker.leechshield.link:443/announce
 udp://tr4ck3r.duckdns.org:6969/announce
