@@ -35,6 +35,7 @@ https://tracker.belmult.online:443/announce
 https://cny.fan:443/announce
 udp://tracker.dler.com:6969/announce
 udp://open.demonii.com:1337/announce
+https://tr.nyacat.pw:443/announce
 https://tracker.pmman.tech:443/announce
 https://tracker.uraniumhexafluori.de:443/announce
 http://tracker.mywaifu.best:6969/announce
@@ -52,7 +53,6 @@ udp://public.demonoid.ch:6969/announce
 udp://anna.bt.bontal.net:6969/announce
 udp://open-tracker.demonoid.ch:6969/announce
 https://torrent.tracker.durukanbal.com:443/announce
-https://tr.nyacat.pw:443/announce
 http://tracker.tritan.gg:8080/announce
 udp://retracker.hotplug.ru:2710/announce
 https://tracker.yemekyedim.com:443/announce
