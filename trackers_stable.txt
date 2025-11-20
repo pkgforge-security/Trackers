@@ -34,15 +34,15 @@ http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
 udp://tracker.gmi.gd:6969/announce
 http://tracker.dhitechnical.com:6969/announce
 https://tracker.belmult.online:443/announce
-udp://open.demonii.com:1337/announce
 udp://tracker.dler.com:6969/announce
+udp://open.demonii.com:1337/announce
 udp://tracker.srv00.com:6969/announce
 https://tracker.pmman.tech:443/announce
 https://tracker.uraniumhexafluori.de:443/announce
 http://tracker.mywaifu.best:6969/announce
+http://echostar.ddnsfree.com:8080/announce
 udp://tracker.ducks.party:1984/announce
 https://tracker.zhuqiy.com:443/announce
-http://echostar.ddnsfree.com:8080/announce
 udp://torrentclub.online:54123/announce
 https://t.213891.xyz:443/announce
 udp://open.demonoid.ch:6969/announce
