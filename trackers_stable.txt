@@ -57,8 +57,8 @@ https://tracker.yemekyedim.com:443/announce
 http://tracker.tritan.gg:8080/announce
 http://tracker.bt4g.com:2095/announce
 udp://udp.tracker.projectk.org:23333/announce
-udp://rekcart.duckdns.org:15480/announce
 http://open.acgtracker.com:1096/announce
+udp://rekcart.duckdns.org:15480/announce
 udp://tr4ck3r.duckdns.org:6969/announce
 https://cny.fan:443/announce
 https://tracker.leechshield.link:443/announce
