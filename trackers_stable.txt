@@ -61,4 +61,5 @@ udp://udp.tracker.projectk.org:23333/announce
 https://tracker.leechshield.link:443/announce
 udp://tr4ck3r.duckdns.org:6969/announce
 https://cny.fan:443/announce
+http://open.acgtracker.com:1096/announce
 udp://tracker.therarbg.to:6969/announce
