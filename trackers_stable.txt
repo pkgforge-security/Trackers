@@ -48,9 +48,9 @@ udp://open.demonoid.ch:6969/announce
 http://bt.okmp3.ru:2710/announce
 udp://torrentclub.online:54123/announce
 https://t.213891.xyz:443/announce
+udp://public.demonoid.ch:6969/announce
 udp://www.torrent.eu.org:451/announce
 udp://open-tracker.demonoid.ch:6969/announce
-udp://public.demonoid.ch:6969/announce
 udp://retracker.lanta.me:2710/announce
 udp://anna.bt.bontal.net:6969/announce
 http://open.acgtracker.com:1096/announce
