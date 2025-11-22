@@ -59,4 +59,3 @@ udp://retracker.hotplug.ru:2710/announce
 http://tracker.tritan.gg:8080/announce
 udp://udp.tracker.projectk.org:23333/announce
 udp://tr4ck3r.duckdns.org:6969/announce
-udp://tracker.therarbg.to:6969/announce
