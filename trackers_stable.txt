@@ -55,7 +55,7 @@ udp://public.demonoid.ch:6969/announce
 udp://anna.bt.bontal.net:6969/announce
 http://open.acgtracker.com:1096/announce
 https://torrent.tracker.durukanbal.com:443/announce
-udp://retracker.hotplug.ru:2710/announce
 http://tracker.tritan.gg:8080/announce
+udp://retracker.hotplug.ru:2710/announce
 udp://udp.tracker.projectk.org:23333/announce
 udp://tr4ck3r.duckdns.org:6969/announce
