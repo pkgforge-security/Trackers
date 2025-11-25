@@ -47,8 +47,8 @@ udp://tracker.ducks.party:1984/announce
 https://tracker.zhuqiy.com:443/announce
 http://tracker.mywaifu.best:6969/announce
 udp://torrentclub.online:54123/announce
-udp://retracker.lanta.me:2710/announce
 udp://www.torrent.eu.org:451/announce
+udp://retracker.lanta.me:2710/announce
 udp://open-tracker.demonoid.ch:6969/announce
 udp://public.demonoid.ch:6969/announce
 udp://anna.bt.bontal.net:6969/announce
