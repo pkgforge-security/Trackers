@@ -35,10 +35,10 @@ http://tr.highstar.shop:80/announce
 https://tracker.belmult.online:443/announce
 udp://tracker.tryhackx.org:6969/announce
 udp://tracker.dler.com:6969/announce
+http://bt.okmp3.ru:2710/announce
 udp://tracker.srv00.com:6969/announce
 udp://open.demonii.com:1337/announce
 http://echostar.ddnsfree.com:8080/announce
-http://bt.okmp3.ru:2710/announce
 udp://open.demonoid.ch:6969/announce
 udp://tracker.gmi.gd:6969/announce
 https://tracker.uraniumhexafluori.de:443/announce
