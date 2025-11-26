@@ -46,13 +46,13 @@ https://tracker.pmman.tech:443/announce
 udp://torrentclub.online:54123/announce
 https://tracker.zhuqiy.com:443/announce
 http://tracker.mywaifu.best:6969/announce
-https://tracker.uraniumhexafluori.de:443/announce
 udp://www.torrent.eu.org:451/announce
 udp://open-tracker.demonoid.ch:6969/announce
 udp://retracker.lanta.me:2710/announce
 udp://public.demonoid.ch:6969/announce
-udp://anna.bt.bontal.net:6969/announce
+https://tracker.uraniumhexafluori.de:443/announce
 http://open.acgtracker.com:1096/announce
+udp://anna.bt.bontal.net:6969/announce
 https://torrent.tracker.durukanbal.com:443/announce
 udp://retracker.hotplug.ru:2710/announce
 udp://udp.tracker.projectk.org:23333/announce
