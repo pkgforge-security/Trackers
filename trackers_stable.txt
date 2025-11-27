@@ -24,13 +24,13 @@ https://tracker.moeblog.cn:443/announce
 udp://evan.im:6969/announce
 https://shahidrazi.online:443/announce
 https://tracker.ghostchu-services.top:443/announce
+https://tr.nyacat.pw:443/announce
 udp://tracker.tvunderground.org.ru:3218/announce
 udp://open.stealth.si:80/announce
 udp://tracker.plx.im:6969/announce
 udp://tracker.srv00.com:6969/announce
 http://ipv6.rer.lol:6969/announce
 http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
-https://tr.nyacat.pw:443/announce
 http://tracker.dhitechnical.com:6969/announce
 http://tr.highstar.shop:80/announce
 https://tracker.belmult.online:443/announce
