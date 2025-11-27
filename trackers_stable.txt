@@ -12,6 +12,7 @@ https://tracker.alaskantf.com:443/announce
 https://t.213891.xyz:443/announce
 http://t-backup.213891.xyz:80/announce
 https://tracker.qingwa.pro:443/announce
+https://tracker.iochimari.moe:443/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
 udp://bandito.byterunner.io:6969/announce
 http://tracker.beeimg.com:6969/announce
