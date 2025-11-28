@@ -20,13 +20,13 @@ http://tracker.renfei.net:8080/announce
 http://ipv4.rer.lol:2710/announce
 udp://tracker.playground.ru:6969/announce
 udp://retracker01-msk-virt.corbina.net:80/announce
+http://bt.okmp3.ru:2710/announce
 https://tracker.moeblog.cn:443/announce
 udp://evan.im:6969/announce
 https://shahidrazi.online:443/announce
 https://tracker.ghostchu-services.top:443/announce
 udp://tracker.tvunderground.org.ru:3218/announce
 udp://open.stealth.si:80/announce
-http://bt.okmp3.ru:2710/announce
 udp://tracker.srv00.com:6969/announce
 http://ipv6.rer.lol:6969/announce
 http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
