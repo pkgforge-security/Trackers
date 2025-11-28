@@ -15,7 +15,6 @@ https://t.213891.xyz:443/announce
 http://t-backup.213891.xyz:80/announce
 https://tracker.qingwa.pro:443/announce
 udp://tracker.flatuslifir.is:6969/announce
-udp://d40969.acod.regrucolo.ru:6969/announce
 https://tracker.yemekyedim.com:443/announce
 udp://bandito.byterunner.io:6969/announce
 http://tracker.renfei.net:8080/announce
@@ -23,6 +22,7 @@ http://ipv4.rer.lol:2710/announce
 udp://tracker.playground.ru:6969/announce
 udp://retracker01-msk-virt.corbina.net:80/announce
 https://tracker.moeblog.cn:443/announce
+udp://d40969.acod.regrucolo.ru:6969/announce
 https://tracker.ghostchu-services.top:443/announce
 udp://tracker.tvunderground.org.ru:3218/announce
 udp://open.stealth.si:80/announce
