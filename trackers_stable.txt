@@ -34,9 +34,9 @@ udp://tracker.plx.im:6969/announce
 http://tr.highstar.shop:80/announce
 https://tracker.belmult.online:443/announce
 udp://tracker.dler.com:6969/announce
-udp://open.demonii.com:1337/announce
 udp://tracker.tryhackx.org:6969/announce
 http://tracker.dhitechnical.com:6969/announce
+udp://open.demonii.com:1337/announce
 udp://evan.im:6969/announce
 https://tracker.pmman.tech:443/announce
 udp://tracker.ducks.party:1984/announce
@@ -56,6 +56,6 @@ http://open.acgtracker.com:1096/announce
 udp://anna.bt.bontal.net:6969/announce
 https://torrent.tracker.durukanbal.com:443/announce
 udp://retracker.hotplug.ru:2710/announce
-udp://udp.tracker.projectk.org:23333/announce
 udp://tr4ck3r.duckdns.org:6969/announce
+udp://udp.tracker.projectk.org:23333/announce
 http://tracker.tritan.gg:8080/announce
