@@ -20,7 +20,6 @@ udp://bandito.byterunner.io:6969/announce
 http://tracker.renfei.net:8080/announce
 http://ipv4.rer.lol:2710/announce
 udp://tracker.playground.ru:6969/announce
-udp://retracker01-msk-virt.corbina.net:80/announce
 udp://tracker.srv00.com:6969/announce
 https://tracker.moeblog.cn:443/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
@@ -28,6 +27,7 @@ https://tracker.ghostchu-services.top:443/announce
 udp://tracker.ducks.party:1984/announce
 udp://tracker.tvunderground.org.ru:3218/announce
 udp://open.stealth.si:80/announce
+udp://retracker01-msk-virt.corbina.net:80/announce
 udp://torrentclub.online:54123/announce
 http://ipv6.rer.lol:6969/announce
 http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
@@ -46,10 +46,10 @@ udp://tracker.gmi.gd:6969/announce
 udp://tracker.plx.im:6969/announce
 http://tracker.mywaifu.best:6969/announce
 udp://open.demonoid.ch:6969/announce
+udp://www.torrent.eu.org:451/announce
 https://tracker.zhuqiy.com:443/announce
 https://tracker.uraniumhexafluori.de:443/announce
 http://echostar.ddnsfree.com:8080/announce
-udp://www.torrent.eu.org:451/announce
 udp://open-tracker.demonoid.ch:6969/announce
 udp://public.demonoid.ch:6969/announce
 http://open.acgtracker.com:1096/announce
@@ -58,6 +58,6 @@ https://torrent.tracker.durukanbal.com:443/announce
 udp://retracker.hotplug.ru:2710/announce
 udp://tr4ck3r.duckdns.org:6969/announce
 http://tracker.tritan.gg:8080/announce
-udp://udp.tracker.projectk.org:23333/announce
 http://tracker.zhuqiy.dgj055.icu:80/announce
+udp://udp.tracker.projectk.org:23333/announce
 http://tracker-zhuqiy.dgj055.icu:80/announce
