@@ -26,9 +26,9 @@ udp://d40969.acod.regrucolo.ru:6969/announce
 https://tracker.ghostchu-services.top:443/announce
 udp://tracker.ducks.party:1984/announce
 udp://tracker.tvunderground.org.ru:3218/announce
+udp://torrentclub.online:54123/announce
 udp://open.stealth.si:80/announce
 udp://retracker01-msk-virt.corbina.net:80/announce
-udp://torrentclub.online:54123/announce
 http://ipv6.rer.lol:6969/announce
 http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
 https://shahidrazi.online:443/announce
