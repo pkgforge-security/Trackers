@@ -18,13 +18,13 @@ https://tracker.yemekyedim.com:443/announce
 udp://bandito.byterunner.io:6969/announce
 http://tracker.beeimg.com:6969/announce
 http://tracker.renfei.net:8080/announce
+udp://tracker.ducks.party:1984/announce
 http://ipv4.rer.lol:2710/announce
 udp://tracker.playground.ru:6969/announce
 udp://tracker.srv00.com:6969/announce
 https://tracker.moeblog.cn:443/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
 https://tracker.ghostchu-services.top:443/announce
-udp://tracker.ducks.party:1984/announce
 udp://tracker.tvunderground.org.ru:3218/announce
 udp://torrentclub.online:54123/announce
 udp://open.stealth.si:80/announce
