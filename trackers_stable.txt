@@ -59,4 +59,3 @@ https://torrent.tracker.durukanbal.com:443/announce
 udp://tr4ck3r.duckdns.org:6969/announce
 http://tracker.zhuqiy.dgj055.icu:80/announce
 http://tracker-zhuqiy.dgj055.icu:80/announce
-http://tracker.tritan.gg:8080/announce
