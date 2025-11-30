@@ -8,6 +8,7 @@ http://taciturn-shadow.spb.ru:6969/announce
 http://wegkxfcivgx.ydns.eu:80/announce
 http://lucke.fenesisu.moe:6969/announce
 https://tr.nyacat.pw:443/announce
+udp://tracker.ducks.party:1984/announce
 udp://extracker.dahrkael.net:6969/announce
 https://tracker.alaskantf.com:443/announce
 https://t.213891.xyz:443/announce
@@ -18,7 +19,6 @@ https://tracker.yemekyedim.com:443/announce
 udp://bandito.byterunner.io:6969/announce
 http://tracker.beeimg.com:6969/announce
 http://tracker.renfei.net:8080/announce
-udp://tracker.ducks.party:1984/announce
 http://ipv4.rer.lol:2710/announce
 udp://torrentclub.online:54123/announce
 udp://tracker.playground.ru:6969/announce
