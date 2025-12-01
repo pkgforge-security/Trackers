@@ -43,8 +43,8 @@ https://tracker.pmman.tech:443/announce
 http://tracker.bt4g.com:2095/announce
 http://tracker.beeimg.com:6969/announce
 udp://open.demonoid.ch:6969/announce
-udp://evan.im:6969/announce
 udp://www.torrent.eu.org:451/announce
+udp://evan.im:6969/announce
 https://tracker.zhuqiy.com:443/announce
 https://tracker.uraniumhexafluori.de:443/announce
 udp://public.demonoid.ch:6969/announce
@@ -57,5 +57,6 @@ udp://anna.bt.bontal.net:6969/announce
 http://tracker.zhuqiy.dgj055.icu:80/announce
 http://tracker-zhuqiy.dgj055.icu:80/announce
 https://torrent.tracker.durukanbal.com:443/announce
-https://tracker.yemekyedim.com:443/announce
 udp://tr4ck3r.duckdns.org:6969/announce
+https://tracker.yemekyedim.com:443/announce
+https://tracker.leechshield.link:443/announce
