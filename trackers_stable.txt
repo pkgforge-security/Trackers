@@ -38,13 +38,13 @@ http://tracker.mywaifu.best:6969/announce
 udp://tracker.tryhackx.org:6969/announce
 http://tracker.dhitechnical.com:6969/announce
 udp://open.demonii.com:1337/announce
-https://tracker.yemekyedim.com:443/announce
 udp://retracker.lanta.me:2710/announce
 https://tracker.pmman.tech:443/announce
 http://tracker.bt4g.com:2095/announce
 http://tracker.beeimg.com:6969/announce
 udp://open.demonoid.ch:6969/announce
 udp://evan.im:6969/announce
+https://tracker.yemekyedim.com:443/announce
 udp://www.torrent.eu.org:451/announce
 https://tracker.zhuqiy.com:443/announce
 https://tracker.uraniumhexafluori.de:443/announce
