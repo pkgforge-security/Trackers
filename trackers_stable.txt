@@ -54,8 +54,8 @@ http://echostar.ddnsfree.com:8080/announce
 udp://open-tracker.demonoid.ch:6969/announce
 http://open.acgtracker.com:1096/announce
 http://tracker-zhuqiy.dgj055.icu:80/announce
-http://tracker.zhuqiy.dgj055.icu:80/announce
 udp://anna.bt.bontal.net:6969/announce
+http://tracker.zhuqiy.dgj055.icu:80/announce
 https://torrent.tracker.durukanbal.com:443/announce
 udp://tr4ck3r.duckdns.org:6969/announce
 https://tracker.leechshield.link:443/announce
