@@ -45,8 +45,8 @@ udp://tracker.srv00.com:6969/announce
 http://tracker.beeimg.com:6969/announce
 udp://www.torrent.eu.org:451/announce
 https://tracker.zhuqiy.com:443/announce
-http://tracker.bt4g.com:2095/announce
 udp://open.demonoid.ch:6969/announce
+http://tracker.bt4g.com:2095/announce
 udp://open-tracker.demonoid.ch:6969/announce
 udp://public.demonoid.ch:6969/announce
 https://tracker.uraniumhexafluori.de:443/announce
@@ -60,3 +60,4 @@ http://tracker.zhuqiy.dgj055.icu:80/announce
 udp://tr4ck3r.duckdns.org:6969/announce
 udp://tracker.1h.is:1337/announce
 udp://tracker.t-1.org:6969/announce
+https://tracker.yemekyedim.com:443/announce
