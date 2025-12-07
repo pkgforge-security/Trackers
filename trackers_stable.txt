@@ -19,6 +19,7 @@ https://tracker.belmult.online:443/announce
 https://t.213891.xyz:443/announce
 udp://torrentclub.online:54123/announce
 http://t-backup.213891.xyz:80/announce
+udp://tracker.1h.is:1337/announce
 https://tracker.qingwa.pro:443/announce
 udp://tracker.flatuslifir.is:6969/announce
 http://play.aimisayo.com:6969/announce
@@ -27,7 +28,6 @@ udp://retracker.hotplug.ru:2710/announce
 udp://bandito.byterunner.io:6969/announce
 https://tracker.uraniumhexafluori.de:443/announce
 http://tracker.renfei.net:8080/announce
-udp://tracker.1h.is:1337/announce
 udp://tracker.playground.ru:6969/announce
 https://tracker.moeblog.cn:443/announce
 https://tracker.yemekyedim.com:443/announce
@@ -35,11 +35,11 @@ udp://retracker.lanta.me:2710/announce
 udp://tracker1.t-1.org:6969/announce
 udp://tracker3.t-1.org:6969/announce
 http://ipv4.rer.lol:2710/announce
+udp://tracker.tryhackx.org:6969/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
 https://tracker.ghostchu-services.top:443/announce
 udp://anna.bt.bontal.net:6969/announce
 udp://open.demonii.com:1337/announce
-udp://tracker.tryhackx.org:6969/announce
 http://ipv6.rer.lol:6969/announce
 http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
 https://shahidrazi.online:443/announce
@@ -57,8 +57,8 @@ https://tracker.zhuqiy.com:443/announce
 udp://open-tracker.demonoid.ch:6969/announce
 udp://tracker.gmi.gd:6969/announce
 http://tracker.bt4g.com:2095/announce
-http://open.acgtracker.com:1096/announce
 https://tracker.moeking.me:443/announce
+http://open.acgtracker.com:1096/announce
 http://echostar.ddnsfree.com:8080/announce
 https://torrent.tracker.durukanbal.com:443/announce
 udp://tr4ck3r.duckdns.org:6969/announce
