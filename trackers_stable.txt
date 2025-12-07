@@ -36,7 +36,6 @@ udp://tracker3.t-1.org:6969/announce
 http://ipv4.rer.lol:2710/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
 https://tracker.ghostchu-services.top:443/announce
-https://tracker.belmult.online:443/announce
 udp://open.demonii.com:1337/announce
 http://ipv6.rer.lol:6969/announce
 http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
@@ -45,6 +44,7 @@ udp://anna.bt.bontal.net:6969/announce
 https://tracker.pmman.tech:443/announce
 http://tracker.dhitechnical.com:6969/announce
 http://tr.highstar.shop:80/announce
+https://tracker.belmult.online:443/announce
 udp://open.demonoid.ch:6969/announce
 udp://www.torrent.eu.org:451/announce
 udp://retracker01-msk-virt.corbina.net:80/announce
@@ -54,13 +54,12 @@ udp://public.demonoid.ch:6969/announce
 https://tracker.zhuqiy.com:443/announce
 udp://tracker.srv00.com:6969/announce
 udp://open-tracker.demonoid.ch:6969/announce
-udp://tracker.gmi.gd:6969/announce
 https://tracker.moeking.me:443/announce
+udp://tracker.gmi.gd:6969/announce
 http://tracker.bt4g.com:2095/announce
 http://open.acgtracker.com:1096/announce
 http://echostar.ddnsfree.com:8080/announce
 https://torrent.tracker.durukanbal.com:443/announce
-http://play.aimisayo.com:6969/announce
 udp://tr4ck3r.duckdns.org:6969/announce
 udp://tracker.plx.im:6969/announce
 http://tracker-zhuqiy.dgj055.icu:80/announce
