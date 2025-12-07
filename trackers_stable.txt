@@ -60,8 +60,8 @@ http://tracker.bt4g.com:2095/announce
 http://open.acgtracker.com:1096/announce
 http://echostar.ddnsfree.com:8080/announce
 https://torrent.tracker.durukanbal.com:443/announce
-udp://tr4ck3r.duckdns.org:6969/announce
 http://tracker-zhuqiy.dgj055.icu:80/announce
+udp://tr4ck3r.duckdns.org:6969/announce
 https://tracker.moeking.me:443/announce
 udp://tracker.plx.im:6969/announce
 http://tracker.zhuqiy.dgj055.icu:80/announce
