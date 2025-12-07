@@ -39,10 +39,10 @@ udp://d40969.acod.regrucolo.ru:6969/announce
 https://tracker.ghostchu-services.top:443/announce
 udp://anna.bt.bontal.net:6969/announce
 udp://open.demonii.com:1337/announce
+udp://tracker.tryhackx.org:6969/announce
 http://ipv6.rer.lol:6969/announce
 http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
 https://shahidrazi.online:443/announce
-udp://tracker.tryhackx.org:6969/announce
 https://tracker.pmman.tech:443/announce
 http://tracker.dhitechnical.com:6969/announce
 http://tr.highstar.shop:80/announce
@@ -65,3 +65,4 @@ udp://tr4ck3r.duckdns.org:6969/announce
 udp://tracker.plx.im:6969/announce
 http://tracker.zhuqiy.dgj055.icu:80/announce
 https://tracker.moeking.me:443/announce
+udp://tracker-de-2.cutie.dating:1337/announce
