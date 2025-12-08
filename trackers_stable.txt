@@ -53,8 +53,8 @@ https://tracker.zhuqiy.com:443/announce
 udp://tracker.dler.com:6969/announce
 udp://tracker.srv00.com:6969/announce
 udp://open-tracker.demonoid.ch:6969/announce
-udp://tracker.gmi.gd:6969/announce
 http://open.acgtracker.com:1096/announce
+udp://tracker.gmi.gd:6969/announce
 http://tracker.bt4g.com:2095/announce
 http://echostar.ddnsfree.com:8080/announce
 https://torrent.tracker.durukanbal.com:443/announce
