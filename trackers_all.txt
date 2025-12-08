@@ -994,7 +994,6 @@ udp://discord.heihachi.pw:6969/announce
 udp://download.nerocloud.me:6969/announce
 udp://elementsbrowser.com:6969/announce
 udp://epider.me:6969/announce
-udp://evan.im:6969/announce
 udp://exodus.desync.com:6969/announce
 udp://explodie.org:6969/announce
 udp://extracker.dahrkael.net:6969/announce

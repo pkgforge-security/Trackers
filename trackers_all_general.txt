@@ -92,7 +92,6 @@ udp://bt.rer.lol:6969/announce
 udp://concen.org:6969/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
 udp://discord.heihachi.pw:6969/announce
-udp://evan.im:6969/announce
 udp://exodus.desync.com:6969/announce
 udp://explodie.org:6969/announce
 udp://extracker.dahrkael.net:6969/announce
