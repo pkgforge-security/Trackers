@@ -61,6 +61,6 @@ https://torrent.tracker.durukanbal.com:443/announce
 udp://tr4ck3r.duckdns.org:6969/announce
 udp://tracker.plx.im:6969/announce
 http://tracker-zhuqiy.dgj055.icu:80/announce
-https://tracker.belmult.online:443/announce
 udp://tracker-de-2.cutie.dating:1337/announce
+https://tracker.belmult.online:443/announce
 http://tracker.zhuqiy.dgj055.icu:80/announce
