@@ -14,7 +14,6 @@ http://lucke.fenesisu.moe:6969/announce
 https://tr.nyacat.pw:443/announce
 udp://tracker.ducks.party:1984/announce
 udp://extracker.dahrkael.net:6969/announce
-udp://tracker.tvunderground.org.ru:3218/announce
 https://tracker.alaskantf.com:443/announce
 https://t.213891.xyz:443/announce
 udp://torrentclub.online:54123/announce
@@ -29,6 +28,7 @@ udp://retracker.hotplug.ru:2710/announce
 udp://retracker.lanta.me:2710/announce
 https://tracker.uraniumhexafluori.de:443/announce
 http://tracker.renfei.net:8080/announce
+udp://tracker.tvunderground.org.ru:3218/announce
 udp://tracker.playground.ru:6969/announce
 https://tracker.moeblog.cn:443/announce
 udp://tracker.tryhackx.org:6969/announce
