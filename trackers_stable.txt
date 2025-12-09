@@ -39,12 +39,12 @@ udp://tracker3.t-1.org:6969/announce
 http://ipv4.rer.lol:2710/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
 http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
+https://tracker.moeking.me:443/announce
 https://tracker.ghostchu-services.top:443/announce
 udp://open.demonii.com:1337/announce
 http://ipv6.rer.lol:6969/announce
 https://shahidrazi.online:443/announce
 udp://anna.bt.bontal.net:6969/announce
-https://tracker.moeking.me:443/announce
 udp://www.torrent.eu.org:451/announce
 http://tracker.dhitechnical.com:6969/announce
 http://tr.highstar.shop:80/announce
