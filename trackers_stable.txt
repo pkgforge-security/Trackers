@@ -33,12 +33,12 @@ https://tracker.moeking.me:443/announce
 http://tracker.renfei.net:8080/announce
 udp://tracker.tvunderground.org.ru:3218/announce
 udp://tracker.playground.ru:6969/announce
+udp://tracker1.myporn.club:9337/announce
 udp://tracker.tryhackx.org:6969/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
 udp://tracker1.t-1.org:6969/announce
 udp://tracker3.t-1.org:6969/announce
 http://ipv4.rer.lol:2710/announce
-udp://tracker1.myporn.club:9337/announce
 udp://bandito.byterunner.io:6969/announce
 https://tracker.ghostchu-services.top:443/announce
 udp://open.demonii.com:1337/announce
@@ -64,3 +64,4 @@ https://torrent.tracker.durukanbal.com:443/announce
 http://echostar.ddnsfree.com:8080/announce
 udp://tr4ck3r.duckdns.org:6969/announce
 udp://tracker.plx.im:6969/announce
+udp://tracker.torrust-demo.com:6969/announce
