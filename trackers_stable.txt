@@ -45,10 +45,10 @@ udp://bandito.byterunner.io:6969/announce
 https://tracker.ghostchu-services.top:443/announce
 udp://open.demonii.com:1337/announce
 http://ipv6.rer.lol:6969/announce
+udp://tracker.dler.com:6969/announce
 udp://www.torrent.eu.org:451/announce
 http://tracker.dhitechnical.com:6969/announce
 udp://anna.bt.bontal.net:6969/announce
-udp://tracker.dler.com:6969/announce
 udp://open-tracker.demonoid.ch:6969/announce
 udp://open.demonoid.ch:6969/announce
 udp://public.demonoid.ch:6969/announce
