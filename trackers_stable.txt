@@ -1,5 +1,6 @@
 udp://tracker.opentrackr.org:1337/announce
 http://open.acgtracker.com:1096/announce
+udp://open.stealth.si:80/announce
 udp://tracker1.myporn.club:9337/announce
 http://bt.okmp3.ru:2710/announce
 udp://tracker.torrent.eu.org:451/announce
@@ -23,7 +24,6 @@ http://t-backup.213891.xyz:80/announce
 udp://tracker.1h.is:1337/announce
 https://tracker.qingwa.pro:443/announce
 udp://tracker.x6c.co:6969/announce
-udp://open.stealth.si:80/announce
 udp://retracker.hotplug.ru:2710/announce
 http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
 https://tracker.pmman.tech:443/announce
@@ -55,8 +55,8 @@ udp://public.demonoid.ch:6969/announce
 udp://tracker.dler.com:6969/announce
 http://tracker.beeimg.com:6969/announce
 udp://retracker01-msk-virt.corbina.net:80/announce
-https://tracker.zhuqiy.com:443/announce
 udp://tracker-de-2.cutie.dating:1337/announce
+https://tracker.zhuqiy.com:443/announce
 udp://tracker.gmi.gd:6969/announce
 https://torrent.tracker.durukanbal.com:443/announce
 http://tracker.bt4g.com:2095/announce
