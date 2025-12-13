@@ -77,6 +77,7 @@ https://tracker.qingwa.pro:443/announce
 https://tracker.uraniumhexafluori.de:443/announce
 https://tracker.yemekyedim.com:443/announce
 https://tracker.zhuqiy.com:443/announce
+https://yuki.bt.bontal.net:443/announce
 udp://6ahddutb1ucc3cp.ru:6969/announce
 udp://anna.bt.bontal.net:6969/announce
 udp://bandito.byterunner.io:6969/announce
@@ -87,15 +88,13 @@ udp://concen.org:6969/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
 udp://explodie.org:6969/announce
 udp://extracker.dahrkael.net:6969/announce
-udp://glotorrents.pw:6969/announce
 udp://ipv4announce.sktorrent.eu:6969/announce
 udp://laestrygonian.ooguy.com:9001/announce
+udp://leet-tracker.moe:1337/announce
 udp://martin-gebhardt.eu:25/announce
 udp://open-tracker.demonoid.ch:6969/announce
 udp://open.demonii.com:1337/announce
 udp://open.demonoid.ch:6969/announce
-udp://open.dstud.io:6969/announce
-udp://open.free-tracker.ga:6969/announce
 udp://open.stealth.si:80/announce
 udp://opentracker.io:6969/announce
 udp://p4p.arenabg.com:1337/announce
@@ -103,14 +102,12 @@ udp://public.demonoid.ch:6969/announce
 udp://retracker.hotplug.ru:2710/announce
 udp://retracker.lanta.me:2710/announce
 udp://retracker01-msk-virt.corbina.net:80/announce
-udp://run.publictracker.xyz:6969/announce
 udp://torrentclub.online:54123/announce
 udp://tr4ck3r.duckdns.org:6969/announce
 udp://tracker-de-2.cutie.dating:1337/announce
 udp://tracker-udp.gbitt.info:80/announce
 udp://tracker.0x7c0.com:6969/announce
 udp://tracker.1h.is:1337/announce
-udp://tracker.bittor.pw:1337/announce
 udp://tracker.cloudbase.store:1333/announce
 udp://tracker.dler.com:6969/announce
 udp://tracker.dler.org:6969/announce
@@ -125,7 +122,6 @@ udp://tracker.plx.im:6969/announce
 udp://tracker.qu.ax:6969/announce
 udp://tracker.srv00.com:6969/announce
 udp://tracker.t-1.org:6969/announce
-udp://tracker.theoks.net:6969/announce
 udp://tracker.therarbg.to:6969/announce
 udp://tracker.torrent.eu.org:451/announce
 udp://tracker.torrust-demo.com:6969/announce
