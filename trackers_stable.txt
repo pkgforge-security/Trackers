@@ -27,13 +27,13 @@ https://tracker.qingwa.pro:443/announce
 udp://tracker.playground.ru:6969/announce
 udp://tracker.opentorrent.top:6969/announce
 udp://retracker.hotplug.ru:2710/announce
+udp://tracker.tryhackx.org:6969/announce
 udp://retracker.lanta.me:2710/announce
 http://taciturn-shadow.spb.ru:6969/announce
 https://tracker.moeking.me:443/announce
 http://tracker.renfei.net:8080/announce
 udp://tracker.tvunderground.org.ru:3218/announce
 udp://tracker.flatuslifir.is:6969/announce
-udp://tracker.tryhackx.org:6969/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
 udp://tracker1.t-1.org:6969/announce
 udp://tracker3.t-1.org:6969/announce
@@ -45,11 +45,11 @@ udp://bandito.byterunner.io:6969/announce
 https://tracker.ghostchu-services.top:443/announce
 udp://tracker.dler.com:6969/announce
 udp://www.torrent.eu.org:451/announce
+udp://laestrygonian.ooguy.com:9001/announce
 http://ipv6.rer.lol:6969/announce
 udp://open.demonoid.ch:6969/announce
 udp://public.demonoid.ch:6969/announce
 udp://anna.bt.bontal.net:6969/announce
-udp://laestrygonian.ooguy.com:9001/announce
 udp://open-tracker.demonoid.ch:6969/announce
 http://tracker.dhitechnical.com:6969/announce
 udp://tracker-de-2.cutie.dating:1337/announce
