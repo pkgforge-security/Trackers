@@ -41,9 +41,9 @@ http://ipv4.rer.lol:2710/announce
 http://tr.highstar.shop:80/announce
 udp://open.demonii.com:1337/announce
 https://shahidrazi.online:443/announce
-udp://bandito.byterunner.io:6969/announce
 https://tracker.ghostchu-services.top:443/announce
 udp://tracker.dler.com:6969/announce
+udp://bandito.byterunner.io:6969/announce
 udp://www.torrent.eu.org:451/announce
 udp://laestrygonian.ooguy.com:9001/announce
 http://ipv6.rer.lol:6969/announce
