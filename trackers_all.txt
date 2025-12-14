@@ -1006,7 +1006,6 @@ udp://ipv6.tracker.harry.lu/announce
 udp://jutone.com:6969/announce
 udp://keke.re:6969/announce
 udp://kokodayo.site:6969/announce
-udp://laestrygonian.ooguy.com:9001/announce
 udp://laze.cc:6969/announce
 udp://leefafa.tk:6969/announce
 udp://leet-tracker.moe:1337/announce
