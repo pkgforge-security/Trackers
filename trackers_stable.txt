@@ -25,7 +25,7 @@ http://t-backup.213891.xyz:80/announce
 udp://tracker.1h.is:1337/announce
 https://tracker.qingwa.pro:443/announce
 udp://tracker.playground.ru:6969/announce
-udp://lotus-eater.mywire.org:9001/announce
+udp://ns575949.ip-51-222-82.net:6969/announce
 http://tracker.mywaifu.best:6969/announce
 udp://retracker.lanta.me:2710/announce
 http://taciturn-shadow.spb.ru:6969/announce
