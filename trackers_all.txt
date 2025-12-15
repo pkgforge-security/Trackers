@@ -1011,6 +1011,7 @@ udp://laze.cc:6969/announce
 udp://leefafa.tk:6969/announce
 udp://leet-tracker.moe:1337/announce
 udp://ln.mtahost.co:6969/announce
+udp://lotus-eater.mywire.org:9001/announce
 udp://mail.artixlinux.org:6969/announce
 udp://mail.segso.net:6969/announce
 udp://mail.zasaonsk.ga:6969/announce

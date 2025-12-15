@@ -90,6 +90,7 @@ udp://explodie.org:6969/announce
 udp://extracker.dahrkael.net:6969/announce
 udp://ipv4announce.sktorrent.eu:6969/announce
 udp://leet-tracker.moe:1337/announce
+udp://lotus-eater.mywire.org:9001/announce
 udp://martin-gebhardt.eu:25/announce
 udp://ns-1.x-fins.com:6969/announce
 udp://open-tracker.demonoid.ch:6969/announce
