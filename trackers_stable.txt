@@ -9,7 +9,6 @@ https://tracker.moeblog.cn:443/announce
 udp://tracker.tryhackx.org:6969/announce
 udp://tracker.qu.ax:6969/announce
 udp://tracker.fnix.net:6969/announce
-https://tracker.yemekyedim.com:443/announce
 udp://martin-gebhardt.eu:25/announce
 http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
 udp://tracker.t-1.org:6969/announce
@@ -34,6 +33,7 @@ http://tracker.renfei.net:8080/announce
 http://tr.highstar.shop:80/announce
 udp://tracker.flatuslifir.is:6969/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
+https://tracker.yemekyedim.com:443/announce
 https://shahidrazi.online:443/announce
 udp://tracker1.t-1.org:6969/announce
 udp://tracker3.t-1.org:6969/announce
