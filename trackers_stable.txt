@@ -57,8 +57,8 @@ udp://retracker01-msk-virt.corbina.net:80/announce
 udp://open.demonoid.ch:6969/announce
 udp://tracker.gmi.gd:6969/announce
 https://tracker.pmman.tech:443/announce
-https://tracker.yemekyedim.com:443/announce
 https://torrent.tracker.durukanbal.com:443/announce
+https://tracker.yemekyedim.com:443/announce
 https://tr.zukizuki.org:443/announce
 udp://node01.trackerstatus.live:42069/announce
 https://tracker.leechshield.link:443/announce
