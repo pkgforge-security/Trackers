@@ -25,6 +25,7 @@ udp://tracker.1h.is:1337/announce
 https://tracker.qingwa.pro:443/announce
 udp://tracker.playground.ru:6969/announce
 udp://ns575949.ip-51-222-82.net:6969/announce
+udp://node01.trackerstatus.live:42069/announce
 http://tracker.mywaifu.best:6969/announce
 udp://tracker.qu.ax:6969/announce
 udp://retracker.lanta.me:2710/announce
@@ -46,10 +47,10 @@ http://ipv6.rer.lol:6969/announce
 udp://open.demonii.com:1337/announce
 udp://open-tracker.demonoid.ch:6969/announce
 https://tracker.yemekyedim.com:443/announce
+udp://public.demonoid.ch:6969/announce
 udp://bandito.byterunner.io:6969/announce
 http://tracker.dhitechnical.com:6969/announce
 udp://anna.bt.bontal.net:6969/announce
-udp://public.demonoid.ch:6969/announce
 udp://open.demonoid.ch:6969/announce
 http://tracker.beeimg.com:6969/announce
 https://tracker.zhuqiy.com:443/announce
