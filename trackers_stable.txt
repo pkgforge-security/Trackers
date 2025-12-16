@@ -27,7 +27,6 @@ udp://tracker.1h.is:1337/announce
 https://tracker.qingwa.pro:443/announce
 udp://tracker.playground.ru:6969/announce
 udp://ns575949.ip-51-222-82.net:6969/announce
-udp://node01.trackerstatus.live:42069/announce
 http://tracker.mywaifu.best:6969/announce
 udp://tracker.qu.ax:6969/announce
 udp://retracker.lanta.me:2710/announce
@@ -55,11 +54,12 @@ http://tracker.beeimg.com:6969/announce
 https://tracker.zhuqiy.com:443/announce
 udp://open.demonoid.ch:6969/announce
 udp://tracker-de-2.cutie.dating:1337/announce
-udp://retracker01-msk-virt.corbina.net:80/announce
 udp://tracker.opentorrent.top:6969/announce
+udp://retracker01-msk-virt.corbina.net:80/announce
 https://tr.zukizuki.org:443/announce
 udp://tracker.gmi.gd:6969/announce
 https://tracker.pmman.tech:443/announce
 https://torrent.tracker.durukanbal.com:443/announce
 https://tracker.leechshield.link:443/announce
 http://echostar.ddnsfree.com:8080/announce
+udp://node01.trackerstatus.live:42069/announce
