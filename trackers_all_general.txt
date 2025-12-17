@@ -75,7 +75,6 @@ https://tracker.moeking.me:443/announce
 https://tracker.pmman.tech:443/announce
 https://tracker.qingwa.pro:443/announce
 https://tracker.uraniumhexafluori.de:443/announce
-https://tracker.yemekyedim.com:443/announce
 https://tracker.zhuqiy.com:443/announce
 udp://anna.bt.bontal.net:6969/announce
 udp://bandito.byterunner.io:6969/announce
