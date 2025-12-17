@@ -61,4 +61,3 @@ http://t-backup.213891.xyz:80/announce
 https://tracker.leechshield.link:443/announce
 http://echostar.ddnsfree.com:8080/announce
 http://bvarf.tracker.sh:2086/announce
-https://tr.zukizuki.org:443/announce
