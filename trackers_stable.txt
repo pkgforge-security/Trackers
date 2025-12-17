@@ -59,8 +59,8 @@ udp://tracker.gmi.gd:6969/announce
 https://tracker.pmman.tech:443/announce
 https://torrent.tracker.durukanbal.com:443/announce
 https://tr.zukizuki.org:443/announce
-udp://node01.trackerstatus.live:42069/announce
 https://tracker.leechshield.link:443/announce
 https://tracker.yemekyedim.com:443/announce
 http://echostar.ddnsfree.com:8080/announce
+udp://node01.trackerstatus.live:42069/announce
 http://bvarf.tracker.sh:2086/announce
