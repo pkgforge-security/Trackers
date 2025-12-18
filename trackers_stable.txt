@@ -57,6 +57,6 @@ udp://open.demonoid.ch:6969/announce
 udp://tracker.gmi.gd:6969/announce
 https://torrent.tracker.durukanbal.com:443/announce
 https://tracker.pmman.tech:443/announce
-udp://retracker.hotplug.ru:2710/announce
 http://bvarf.tracker.sh:2086/announce
+udp://retracker.hotplug.ru:2710/announce
 http://echostar.ddnsfree.com:8080/announce
