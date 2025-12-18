@@ -60,4 +60,3 @@ https://tracker.pmman.tech:443/announce
 udp://retracker.hotplug.ru:2710/announce
 http://bvarf.tracker.sh:2086/announce
 http://echostar.ddnsfree.com:8080/announce
-https://tracker.leechshield.link:443/announce
