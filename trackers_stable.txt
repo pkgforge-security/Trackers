@@ -2,7 +2,6 @@ udp://tracker.opentrackr.org:1337/announce
 udp://p4p.arenabg.com:1337/announce
 http://open.acgtracker.com:1096/announce
 udp://open.stealth.si:80/announce
-udp://retracker.hotplug.ru:2710/announce
 udp://tracker1.myporn.club:9337/announce
 udp://tracker.torrent.eu.org:451/announce
 https://tracker.moeblog.cn:443/announce
@@ -14,7 +13,6 @@ udp://tracker.t-1.org:6969/announce
 https://tracker.moeking.me:443/announce
 http://wegkxfcivgx.ydns.eu:80/announce
 http://lucke.fenesisu.moe:6969/announce
-udp://www.torrent.eu.org:451/announce
 https://tr.nyacat.pw:443/announce
 udp://tracker.ducks.party:1984/announce
 udp://extracker.dahrkael.net:6969/announce
@@ -29,8 +27,10 @@ http://tracker.mywaifu.best:6969/announce
 udp://retracker.lanta.me:2710/announce
 https://tracker.uraniumhexafluori.de:443/announce
 http://tracker.renfei.net:8080/announce
+udp://www.torrent.eu.org:451/announce
 http://ipv4.rer.lol:2710/announce
 http://tr.highstar.shop:80/announce
+udp://retracker.hotplug.ru:2710/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
 https://shahidrazi.online:443/announce
 udp://tracker1.t-1.org:6969/announce
@@ -43,8 +43,8 @@ udp://tracker.dler.com:6969/announce
 http://bt.okmp3.ru:2710/announce
 http://ipv6.rer.lol:6969/announce
 udp://public.demonoid.ch:6969/announce
-udp://bandito.byterunner.io:6969/announce
 http://tracker.dhitechnical.com:6969/announce
+udp://bandito.byterunner.io:6969/announce
 udp://anna.bt.bontal.net:6969/announce
 udp://open.demonii.com:1337/announce
 udp://tracker.opentorrent.top:6969/announce
@@ -59,5 +59,5 @@ https://torrent.tracker.durukanbal.com:443/announce
 https://tracker.pmman.tech:443/announce
 https://tracker.leechshield.link:443/announce
 http://echostar.ddnsfree.com:8080/announce
-http://t-backup.213891.xyz:80/announce
 http://bvarf.tracker.sh:2086/announce
+http://t-backup.213891.xyz:80/announce
