@@ -407,7 +407,6 @@ http://siambit.com:80/announce.php
 http://siambit.org/announce.php
 http://smurfsoft.com:6969/announce
 http://sukebei.tracker.wf:8888/announce
-http://t-backup.213891.xyz:80/announce
 http://t.acg.rip:6699/announce
 http://t.jaekr.sh:6969/announce
 http://t.nyaatracker.com/announce
@@ -1023,6 +1022,7 @@ udp://mserver.link:6969/announce
 udp://mts.tvbit.co:6969/announce
 udp://nagios.tks.sumy.ua:80/announce
 udp://new-line.net:6969/announce
+udp://node02.torrentonline.cc:42069/announce
 udp://ns-1.x-fins.com:6969/announce
 udp://ns1.monolithindustries.com:6969/announce
 udp://ns575949.ip-51-222-82.net:6969/announce
