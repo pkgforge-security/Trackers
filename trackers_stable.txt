@@ -59,3 +59,4 @@ https://tracker.pmman.tech:443/announce
 udp://tracker1.myporn.club:9337/announce
 http://echostar.ddnsfree.com:8080/announce
 http://taciturn-shadow.spb.ru:6969/announce
+udp://tracker.0x7c0.com:6969/announce
