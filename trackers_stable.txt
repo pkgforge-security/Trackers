@@ -25,7 +25,6 @@ udp://node02.torrentonline.cc:42069/announce
 udp://p4p.arenabg.com:1337/announce
 http://tracker.mywaifu.best:6969/announce
 udp://retracker.lanta.me:2710/announce
-https://tracker.uraniumhexafluori.de:443/announce
 http://tracker.renfei.net:8080/announce
 http://ipv4.rer.lol:2710/announce
 http://tr.highstar.shop:80/announce
@@ -33,6 +32,7 @@ udp://d40969.acod.regrucolo.ru:6969/announce
 https://shahidrazi.online:443/announce
 udp://tracker1.t-1.org:6969/announce
 udp://tracker3.t-1.org:6969/announce
+https://tracker.uraniumhexafluori.de:443/announce
 udp://www.torrent.eu.org:451/announce
 udp://tracker.qu.ax:6969/announce
 https://tracker.ghostchu-services.top:443/announce
@@ -54,8 +54,8 @@ udp://tracker-de-2.cutie.dating:1337/announce
 udp://open.demonoid.ch:6969/announce
 udp://tracker.gmi.gd:6969/announce
 https://torrent.tracker.durukanbal.com:443/announce
-udp://tracker1.myporn.club:9337/announce
 https://tracker.pmman.tech:443/announce
+udp://tracker1.myporn.club:9337/announce
 http://bvarf.tracker.sh:2086/announce
 http://taciturn-shadow.spb.ru:6969/announce
 http://echostar.ddnsfree.com:8080/announce
