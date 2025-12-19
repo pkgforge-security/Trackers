@@ -20,7 +20,6 @@ udp://tracker.1h.is:1337/announce
 https://tracker.qingwa.pro:443/announce
 udp://tracker.playground.ru:6969/announce
 udp://ns575949.ip-51-222-82.net:6969/announce
-udp://node02.torrentonline.cc:42069/announce
 udp://p4p.arenabg.com:1337/announce
 https://tracker.moeblog.cn:443/announce
 udp://retracker.lanta.me:2710/announce
@@ -52,11 +51,12 @@ udp://open-tracker.demonoid.ch:6969/announce
 udp://retracker01-msk-virt.corbina.net:80/announce
 udp://open.demonoid.ch:6969/announce
 udp://tracker-de-2.cutie.dating:1337/announce
+udp://node02.torrentonline.cc:42069/announce
 udp://tracker.gmi.gd:6969/announce
-https://torrent.tracker.durukanbal.com:443/announce
 http://bvarf.tracker.sh:2086/announce
+https://torrent.tracker.durukanbal.com:443/announce
 https://tracker.pmman.tech:443/announce
-udp://tracker1.myporn.club:9337/announce
 http://echostar.ddnsfree.com:8080/announce
+udp://tracker1.myporn.club:9337/announce
 http://taciturn-shadow.spb.ru:6969/announce
 udp://tracker.0x7c0.com:6969/announce
