@@ -54,8 +54,8 @@ udp://open.demonoid.ch:6969/announce
 udp://tracker-de-2.cutie.dating:1337/announce
 udp://tracker.gmi.gd:6969/announce
 https://torrent.tracker.durukanbal.com:443/announce
-https://tracker.pmman.tech:443/announce
 http://bvarf.tracker.sh:2086/announce
+https://tracker.pmman.tech:443/announce
 udp://tracker1.myporn.club:9337/announce
-http://taciturn-shadow.spb.ru:6969/announce
 http://echostar.ddnsfree.com:8080/announce
+http://taciturn-shadow.spb.ru:6969/announce
