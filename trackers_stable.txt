@@ -53,8 +53,8 @@ udp://open.demonoid.ch:6969/announce
 udp://tracker-de-2.cutie.dating:1337/announce
 udp://tracker.gmi.gd:6969/announce
 http://bvarf.tracker.sh:2086/announce
+udp://tracker.0x7c0.com:6969/announce
 https://torrent.tracker.durukanbal.com:443/announce
 https://tracker.pmman.tech:443/announce
-udp://tracker.0x7c0.com:6969/announce
 http://echostar.ddnsfree.com:8080/announce
 udp://node02.torrentonline.cc:42069/announce
