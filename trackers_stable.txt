@@ -42,8 +42,8 @@ http://tracker.dhitechnical.com:6969/announce
 http://ipv6.rer.lol:6969/announce
 udp://public.demonoid.ch:6969/announce
 udp://tracker.opentorrent.top:6969/announce
-udp://bandito.byterunner.io:6969/announce
 udp://anna.bt.bontal.net:6969/announce
+udp://bandito.byterunner.io:6969/announce
 udp://open.demonii.com:1337/announce
 http://tracker.beeimg.com:6969/announce
 https://tracker.zhuqiy.com:443/announce
