@@ -36,9 +36,9 @@ udp://www.torrent.eu.org:451/announce
 udp://tracker.qu.ax:6969/announce
 https://tracker.ghostchu-services.top:443/announce
 udp://tracker.flatuslifir.is:6969/announce
-udp://tracker.dler.com:6969/announce
 http://bt.okmp3.ru:2710/announce
 http://tracker.dhitechnical.com:6969/announce
+udp://tracker.dler.com:6969/announce
 http://ipv6.rer.lol:6969/announce
 udp://public.demonoid.ch:6969/announce
 udp://tracker.opentorrent.top:6969/announce
