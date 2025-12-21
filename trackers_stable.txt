@@ -18,7 +18,6 @@ https://tracker.alaskantf.com:443/announce
 https://t.213891.xyz:443/announce
 udp://torrentclub.online:54123/announce
 udp://tracker.1h.is:1337/announce
-https://tracker.qingwa.pro:443/announce
 udp://tracker.playground.ru:6969/announce
 udp://ns575949.ip-51-222-82.net:6969/announce
 udp://p4p.arenabg.com:1337/announce
@@ -28,6 +27,7 @@ udp://retracker.lanta.me:2710/announce
 http://tracker.renfei.net:8080/announce
 http://ipv4.rer.lol:2710/announce
 http://tr.highstar.shop:80/announce
+https://tracker.qingwa.pro:443/announce
 udp://tracker1.t-1.org:6969/announce
 udp://tracker3.t-1.org:6969/announce
 https://tracker.uraniumhexafluori.de:443/announce
