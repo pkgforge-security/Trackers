@@ -58,3 +58,4 @@ https://tracker.pmman.tech:443/announce
 https://torrent.tracker.durukanbal.com:443/announce
 http://echostar.ddnsfree.com:8080/announce
 https://tracker.leechshield.link:443/announce
+udp://tracker.plx.im:6969/announce
