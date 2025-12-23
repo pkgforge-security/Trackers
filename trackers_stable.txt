@@ -51,9 +51,9 @@ udp://open.demonii.com:1337/announce
 https://tracker.zhuqiy.com:443/announce
 udp://open-tracker.demonoid.ch:6969/announce
 udp://open.demonoid.ch:6969/announce
-udp://tracker.gmi.gd:6969/announce
 udp://tracker-de-2.cutie.dating:1337/announce
 http://bvarf.tracker.sh:2086/announce
+udp://tracker.gmi.gd:6969/announce
 udp://retracker01-msk-virt.corbina.net:80/announce
 https://tracker.pmman.tech:443/announce
 https://torrent.tracker.durukanbal.com:443/announce
