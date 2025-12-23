@@ -19,6 +19,7 @@ udp://tracker.1h.is:1337/announce
 udp://tracker.playground.ru:6969/announce
 udp://ns575949.ip-51-222-82.net:6969/announce
 https://tracker.moeblog.cn:443/announce
+udp://d40969.acod.regrucolo.ru:6969/announce
 https://tracker.yemekyedim.com:443/announce
 udp://tracker1.t-1.org:6969/announce
 udp://tracker3.t-1.org:6969/announce
@@ -28,7 +29,6 @@ http://tracker.renfei.net:8080/announce
 http://ipv4.rer.lol:2710/announce
 http://tr.highstar.shop:80/announce
 udp://p4p.arenabg.com:1337/announce
-udp://d40969.acod.regrucolo.ru:6969/announce
 https://tracker.uraniumhexafluori.de:443/announce
 udp://www.torrent.eu.org:451/announce
 https://tracker.qingwa.pro:443/announce
