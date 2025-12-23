@@ -40,11 +40,11 @@ udp://tracker.opentorrent.top:6969/announce
 http://bt.okmp3.ru:2710/announce
 udp://tracker.qu.ax:6969/announce
 http://tracker.mywaifu.best:6969/announce
+https://tracker.yemekyedim.com:443/announce
 http://ipv6.rer.lol:6969/announce
 https://tracker.alaskantf.com:443/announce
 udp://anna.bt.bontal.net:6969/announce
 udp://tracker.dler.com:6969/announce
-https://tracker.yemekyedim.com:443/announce
 udp://public.demonoid.ch:6969/announce
 udp://bandito.byterunner.io:6969/announce
 udp://open.demonii.com:1337/announce
