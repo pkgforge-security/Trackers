@@ -7,6 +7,7 @@ https://tracker.yemekyedim.com:443/announce
 udp://martin-gebhardt.eu:25/announce
 http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
 https://shahidrazi.online:443/announce
+udp://tracker1.t-1.org:6969/announce
 udp://tracker.t-1.org:6969/announce
 https://tracker.moeking.me:443/announce
 http://wegkxfcivgx.ydns.eu:80/announce
@@ -20,7 +21,6 @@ udp://tracker.playground.ru:6969/announce
 udp://ns575949.ip-51-222-82.net:6969/announce
 https://tracker.moeblog.cn:443/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
-udp://tracker1.t-1.org:6969/announce
 udp://tracker3.t-1.org:6969/announce
 http://tracker.beeimg.com:6969/announce
 http://lucke.fenesisu.moe:6969/announce
