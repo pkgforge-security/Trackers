@@ -1,5 +1,4 @@
 udp://tracker.opentrackr.org:1337/announce
-http://open.acgtracker.com:1096/announce
 udp://open.stealth.si:80/announce
 udp://tracker.torrent.eu.org:451/announce
 udp://tracker.tryhackx.org:6969/announce
@@ -19,6 +18,7 @@ udp://torrentclub.online:54123/announce
 udp://tracker.1h.is:1337/announce
 udp://tracker.playground.ru:6969/announce
 udp://ns575949.ip-51-222-82.net:6969/announce
+http://open.acgtracker.com:1096/announce
 https://tracker.moeblog.cn:443/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
 udp://tracker1.t-1.org:6969/announce
@@ -57,7 +57,7 @@ udp://tracker.gmi.gd:6969/announce
 udp://retracker01-msk-virt.corbina.net:80/announce
 https://tracker.pmman.tech:443/announce
 https://torrent.tracker.durukanbal.com:443/announce
-http://echostar.ddnsfree.com:8080/announce
 https://tracker.leechshield.link:443/announce
+http://echostar.ddnsfree.com:8080/announce
 https://tracker.iochimari.moe:443/announce
 udp://tracker.plx.im:6969/announce
