@@ -14,6 +14,7 @@ http://wegkxfcivgx.ydns.eu:80/announce
 https://tr.nyacat.pw:443/announce
 udp://tracker.ducks.party:1984/announce
 udp://extracker.dahrkael.net:6969/announce
+udp://tracker.tvunderground.org.ru:3218/announce
 https://t.213891.xyz:443/announce
 udp://torrentclub.online:54123/announce
 udp://tracker.1h.is:1337/announce
@@ -39,7 +40,6 @@ http://tracker.dhitechnical.com:6969/announce
 udp://tracker.flatuslifir.is:6969/announce
 udp://tracker.opentorrent.top:6969/announce
 http://bt.okmp3.ru:2710/announce
-udp://tracker.tvunderground.org.ru:3218/announce
 udp://tracker.qu.ax:6969/announce
 http://ipv6.rer.lol:6969/announce
 udp://anna.bt.bontal.net:6969/announce
