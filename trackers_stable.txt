@@ -45,9 +45,9 @@ udp://anna.bt.bontal.net:6969/announce
 udp://tracker.dler.com:6969/announce
 http://tracker.mywaifu.best:6969/announce
 udp://bandito.byterunner.io:6969/announce
+udp://tracker.tvunderground.org.ru:3218/announce
 https://tracker.zhuqiy.com:443/announce
 udp://open.demonii.com:1337/announce
-udp://tracker.tvunderground.org.ru:3218/announce
 udp://public.demonoid.ch:6969/announce
 udp://tracker.gmi.gd:6969/announce
 udp://tracker-de-2.cutie.dating:1337/announce
