@@ -34,12 +34,12 @@ udp://tracker.flatuslifir.is:6969/announce
 https://tracker.qingwa.pro:443/announce
 http://open.acgtracker.com:1096/announce
 udp://tracker.0x7c0.com:6969/announce
-udp://retracker.lanta.me:2710/announce
 https://tracker.ghostchu-services.top:443/announce
 udp://www.torrent.eu.org:451/announce
 http://tracker.dhitechnical.com:6969/announce
 udp://tracker.opentorrent.top:6969/announce
 http://bt.okmp3.ru:2710/announce
+udp://retracker.lanta.me:2710/announce
 udp://tracker.qu.ax:6969/announce
 http://ipv6.rer.lol:6969/announce
 udp://anna.bt.bontal.net:6969/announce
