@@ -14,6 +14,7 @@ https://tr.nyacat.pw:443/announce
 udp://tracker.ducks.party:1984/announce
 udp://extracker.dahrkael.net:6969/announce
 udp://tracker.tvunderground.org.ru:3218/announce
+http://tr.highstar.shop:80/announce
 https://t.213891.xyz:443/announce
 udp://torrentclub.online:54123/announce
 udp://tracker.1h.is:1337/announce
@@ -27,7 +28,6 @@ http://tracker.beeimg.com:6969/announce
 http://lucke.fenesisu.moe:6969/announce
 http://tracker.renfei.net:8080/announce
 http://ipv4.rer.lol:2710/announce
-http://tr.highstar.shop:80/announce
 udp://p4p.arenabg.com:1337/announce
 https://tracker.uraniumhexafluori.de:443/announce
 https://tracker.qingwa.pro:443/announce
