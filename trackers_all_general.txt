@@ -16,7 +16,6 @@ http://t.overflow.biz:6969/announce
 http://tr.highstar.shop:80/announce
 http://tr.kxmp.cf:80/announce
 http://tr.nyacat.pw:80/announce
-http://tracker.23794.top:6969/announce
 http://tracker.beeimg.com:6969/announce
 http://tracker.bt4g.com:2095/announce
 http://tracker.cutie.dating:80/announce
@@ -50,7 +49,6 @@ https://tracker.qingwa.pro:443/announce
 https://tracker.uraniumhexafluori.de:443/announce
 https://tracker.yemekyedim.com:443/announce
 https://tracker.zhuqiy.com:443/announce
-udp://6ahddutb1ucc3cp.ru:6969/announce
 udp://anna.bt.bontal.net:6969/announce
 udp://bandito.byterunner.io:6969/announce
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
@@ -68,6 +66,7 @@ udp://ns575949.ip-51-222-82.net:6969/announce
 udp://open-tracker.demonoid.ch:6969/announce
 udp://open.demonii.com:1337/announce
 udp://open.demonoid.ch:6969/announce
+udp://open.dstud.io:6969/announce
 udp://open.stealth.si:80/announce
 udp://open.tracker.cl:1337/announce
 udp://opentracker.io:6969/announce
@@ -76,6 +75,7 @@ udp://public.demonoid.ch:6969/announce
 udp://retracker.lanta.me:2710/announce
 udp://retracker01-msk-virt.corbina.net:80/announce
 udp://run.publictracker.xyz:6969/announce
+udp://t.overflow.biz:6969/announce
 udp://torrentclub.online:54123/announce
 udp://tr4ck3r.duckdns.org:6969/announce
 udp://tracker-de-2.cutie.dating:1337/announce
@@ -87,6 +87,7 @@ udp://tracker.cloudbase.store:1333/announce
 udp://tracker.dler.com:6969/announce
 udp://tracker.dler.org:6969/announce
 udp://tracker.ducks.party:1984/announce
+udp://tracker.filemail.com:6969/announce
 udp://tracker.flatuslifir.is:6969/announce
 udp://tracker.fnix.net:6969/announce
 udp://tracker.gmi.gd:6969/announce
@@ -95,6 +96,7 @@ udp://tracker.opentrackr.org:1337/announce
 udp://tracker.playground.ru:6969/announce
 udp://tracker.plx.im:6969/announce
 udp://tracker.qu.ax:6969/announce
+udp://tracker.skynetcloud.site:6969/announce
 udp://tracker.startwork.cv:1337/announce
 udp://tracker.t-1.org:6969/announce
 udp://tracker.therarbg.to:6969/announce
@@ -108,3 +110,4 @@ udp://tracker3.t-1.org:6969/announce
 udp://udp.tracker.projectk.org:23333/announce
 udp://www.2600.com:6969/announce
 udp://www.torrent.eu.org:451/announce
+udp://yuki.bt.bontal.net:6969/announce
