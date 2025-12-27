@@ -24,12 +24,12 @@ udp://tracker.skynetcloud.site:6969/announce
 https://tracker.moeblog.cn:443/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
 https://shahidrazi.online:443/announce
+https://tracker.uraniumhexafluori.de:443/announce
 http://tracker.beeimg.com:6969/announce
 http://lucke.fenesisu.moe:6969/announce
 http://tracker.renfei.net:8080/announce
 http://ipv4.rer.lol:2710/announce
 udp://p4p.arenabg.com:1337/announce
-https://tracker.uraniumhexafluori.de:443/announce
 https://tracker.qingwa.pro:443/announce
 udp://tracker.opentorrent.top:6969/announce
 http://open.acgtracker.com:1096/announce
