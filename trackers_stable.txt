@@ -41,10 +41,10 @@ http://tracker.dhitechnical.com:6969/announce
 udp://anna.bt.bontal.net:6969/announce
 http://bt.okmp3.ru:2710/announce
 udp://tracker.qu.ax:6969/announce
-udp://retracker.lanta.me:2710/announce
 http://ipv6.rer.lol:6969/announce
 https://tracker.leechshield.link:443/announce
 udp://tracker.dler.com:6969/announce
+udp://retracker.lanta.me:2710/announce
 http://tracker.mywaifu.best:6969/announce
 udp://bandito.byterunner.io:6969/announce
 https://tracker.zhuqiy.com:443/announce
@@ -52,9 +52,9 @@ udp://open.demonii.com:1337/announce
 udp://tracker-de-2.cutie.dating:1337/announce
 udp://tracker.gmi.gd:6969/announce
 udp://open-tracker.demonoid.ch:6969/announce
-udp://retracker01-msk-virt.corbina.net:80/announce
 http://bvarf.tracker.sh:2086/announce
 udp://public.demonoid.ch:6969/announce
+udp://retracker01-msk-virt.corbina.net:80/announce
 udp://open.demonoid.ch:6969/announce
 https://tracker.alaskantf.com:443/announce
 https://tracker.pmman.tech:443/announce
