@@ -38,11 +38,11 @@ http://open.acgtracker.com:1096/announce
 https://tracker.ghostchu-services.top:443/announce
 udp://anna.bt.bontal.net:6969/announce
 udp://tracker.flatuslifir.is:6969/announce
-https://tracker.leechshield.link:443/announce
 http://tracker.dhitechnical.com:6969/announce
 http://bt.okmp3.ru:2710/announce
 udp://tracker.qu.ax:6969/announce
 http://ipv6.rer.lol:6969/announce
+https://tracker.leechshield.link:443/announce
 udp://www.torrent.eu.org:451/announce
 udp://tracker.dler.com:6969/announce
 udp://retracker.lanta.me:2710/announce
