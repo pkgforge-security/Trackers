@@ -42,8 +42,8 @@ http://tracker.dhitechnical.com:6969/announce
 udp://tracker.dler.com:6969/announce
 udp://tracker.qu.ax:6969/announce
 http://ipv6.rer.lol:6969/announce
-https://tracker.leechshield.link:443/announce
 udp://retracker.lanta.me:2710/announce
+https://tracker.leechshield.link:443/announce
 udp://www.torrent.eu.org:451/announce
 udp://bandito.byterunner.io:6969/announce
 https://tracker.zhuqiy.com:443/announce
