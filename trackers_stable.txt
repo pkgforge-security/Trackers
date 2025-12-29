@@ -23,6 +23,7 @@ udp://tracker.skynetcloud.site:6969/announce
 udp://tracker.bluefrog.pw:2710/announce
 https://tracker.moeblog.cn:443/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
+udp://tracker.0x7c0.com:6969/announce
 udp://tracker.fnix.net:6969/announce
 https://tracker.uraniumhexafluori.de:443/announce
 http://tracker.beeimg.com:6969/announce
@@ -30,7 +31,6 @@ http://lucke.fenesisu.moe:6969/announce
 http://tracker.renfei.net:8080/announce
 http://ipv4.rer.lol:2710/announce
 udp://p4p.arenabg.com:1337/announce
-udp://tracker.0x7c0.com:6969/announce
 https://shahidrazi.online:443/announce
 udp://tracker.flatuslifir.is:6969/announce
 udp://tracker.opentorrent.top:6969/announce
@@ -49,8 +49,8 @@ udp://bandito.byterunner.io:6969/announce
 https://tracker.zhuqiy.com:443/announce
 http://tracker.mywaifu.best:6969/announce
 udp://open.demonii.com:1337/announce
-udp://tracker.gmi.gd:6969/announce
 udp://tracker-de-2.cutie.dating:1337/announce
+udp://tracker.gmi.gd:6969/announce
 udp://open-tracker.demonoid.ch:6969/announce
 udp://public.demonoid.ch:6969/announce
 udp://open.demonoid.ch:6969/announce
