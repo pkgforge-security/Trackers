@@ -63,4 +63,3 @@ https://torrent.tracker.durukanbal.com:443/announce
 https://cny.fan:443/announce
 https://tracker.iochimari.moe:443/announce
 http://echostar.ddnsfree.com:8080/announce
-udp://tracker.skynetcloud.site:6969/announce
