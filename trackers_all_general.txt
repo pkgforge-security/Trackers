@@ -4,7 +4,6 @@ http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 http://bt.okmp3.ru:2710/announce
 http://bt.rer.lol:2710/announce
 http://bvarf.tracker.sh:2086/announce
-http://echostar.ddnsfree.com:8080/announce
 http://extracker.dahrkael.net:6969/announce
 http://ipv4.rer.lol:2710/announce
 http://ipv6.rer.lol:6969/announce
