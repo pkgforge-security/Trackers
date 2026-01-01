@@ -843,6 +843,7 @@ https://tracker.sakurato.art:23334/announce
 https://tracker.shittyurl.org/announce
 https://tracker.shittyurl.org:443/announce
 https://tracker.skynetcloud.site:8443/announce
+https://tracker.soshifanclub.com:443/announce
 https://tracker.srv00.com/announce
 https://tracker.srv00.com:443/announce
 https://tracker.tamersunion.org/announce
