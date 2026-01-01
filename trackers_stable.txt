@@ -57,8 +57,8 @@ udp://public.demonoid.ch:6969/announce
 http://tracker.bt4g.com:2095/announce
 udp://open.demonoid.ch:6969/announce
 https://t.213891.xyz:443/announce
-udp://open-tracker.demonoid.ch:6969/announce
 https://tracker.pmman.tech:443/announce
+udp://open-tracker.demonoid.ch:6969/announce
 udp://tracker.plx.im:6969/announce
 https://cny.fan:443/announce
 https://torrent.tracker.durukanbal.com:443/announce
