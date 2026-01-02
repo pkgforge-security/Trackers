@@ -17,7 +17,6 @@ udp://tracker.1h.is:1337/announce
 udp://tracker.playground.ru:6969/announce
 udp://ns575949.ip-51-222-82.net:6969/announce
 udp://tracker.bluefrog.pw:2710/announce
-udp://tracker.skynetcloud.site:6969/announce
 https://tracker.soshifanclub.com:443/announce
 https://tracker.moeblog.cn:443/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
@@ -48,6 +47,7 @@ https://tracker.zhuqiy.com:443/announce
 udp://tracker.dler.com:6969/announce
 udp://www.torrent.eu.org:451/announce
 udp://tracker.gmi.gd:6969/announce
+udp://tracker.skynetcloud.site:6969/announce
 https://tracker.pmman.tech:443/announce
 http://bt.okmp3.ru:2710/announce
 http://bvarf.tracker.sh:2086/announce
