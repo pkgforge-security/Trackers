@@ -44,8 +44,8 @@ https://tracker.leechshield.link:443/announce
 udp://tracker.opentorrent.top:6969/announce
 http://tracker.mywaifu.best:6969/announce
 https://tracker.zhuqiy.com:443/announce
-udp://tracker.dler.com:6969/announce
 udp://www.torrent.eu.org:451/announce
+udp://tracker.dler.com:6969/announce
 udp://tracker.gmi.gd:6969/announce
 udp://tracker.skynetcloud.site:6969/announce
 https://tracker.pmman.tech:443/announce
@@ -56,9 +56,9 @@ udp://retracker01-msk-virt.corbina.net:80/announce
 udp://tracker.plx.im:6969/announce
 udp://open.demonii.com:1337/announce
 https://cny.fan:443/announce
+udp://open-tracker.demonoid.ch:6969/announce
 udp://open.demonoid.ch:6969/announce
 udp://public.demonoid.ch:6969/announce
-udp://open-tracker.demonoid.ch:6969/announce
 https://tracker.iochimari.moe:443/announce
 https://torrent.tracker.durukanbal.com:443/announce
 udp://bandito.byterunner.io:6969/announce
