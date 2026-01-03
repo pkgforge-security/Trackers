@@ -62,5 +62,5 @@ udp://open-tracker.demonoid.ch:6969/announce
 https://torrent.tracker.durukanbal.com:443/announce
 udp://public.demonoid.ch:6969/announce
 https://t.213891.xyz:443/announce
-udp://bandito.byterunner.io:6969/announce
 udp://tr4ck3r.duckdns.org:6969/announce
+udp://bandito.byterunner.io:6969/announce
