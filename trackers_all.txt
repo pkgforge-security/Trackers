@@ -958,7 +958,6 @@ udp://anna.bt.bontal.net:6969/announce
 udp://app.icon256.com:8000/announce
 udp://astrr.ru:6969/announce
 udp://bananas.space:6969/announce
-udp://bandito.byterunner.io:6969/announce
 udp://bedro.cloud:6969/announce
 udp://ben.kerbertools.xyz:6969/announce
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
