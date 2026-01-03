@@ -2,11 +2,13 @@ udp://tracker.opentrackr.org:1337/announce
 udp://open.stealth.si:80/announce
 udp://tracker.torrent.eu.org:451/announce
 udp://tracker.tryhackx.org:6969/announce
+udp://evan.im:6969/announce
 http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
 udp://tracker1.t-1.org:6969/announce
 udp://tracker3.t-1.org:6969/announce
 udp://tracker.t-1.org:6969/announce
 https://tracker.uraniumhexafluori.de:443/announce
+http://tracker.beeimg.com:6969/announce
 https://tracker.moeking.me:443/announce
 http://wegkxfcivgx.ydns.eu:80/announce
 https://tr.nyacat.pw:443/announce
@@ -22,7 +24,6 @@ udp://d40969.acod.regrucolo.ru:6969/announce
 udp://tracker.0x7c0.com:6969/announce
 udp://tracker.fnix.net:6969/announce
 udp://martin-gebhardt.eu:25/announce
-http://tracker.beeimg.com:6969/announce
 http://lucke.fenesisu.moe:6969/announce
 http://tracker.renfei.net:8080/announce
 http://ipv4.rer.lol:2710/announce
@@ -34,7 +35,6 @@ http://tr.highstar.shop:80/announce
 udp://tracker.flatuslifir.is:6969/announce
 https://tracker.qingwa.pro:443/announce
 http://open.acgtracker.com:1096/announce
-udp://evan.im:6969/announce
 udp://anna.bt.bontal.net:6969/announce
 udp://tracker.bluefrog.pw:2710/announce
 http://ipv6.rer.lol:6969/announce
