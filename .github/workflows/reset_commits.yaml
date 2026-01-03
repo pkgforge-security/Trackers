@@ -1,0 +1,143 @@
+name: ♻️☢️ Reset ☢️🗑️
+concurrency:
+  group: "${{ github.workflow }}-${{ github.ref }}"
+  cancel-in-progress: true
+
+on:
+  #push:
+  workflow_dispatch:
+  schedule:
+    - cron: "15 0 * * 6" #12:15 AM UTC --> 06:00 AM NPT Sat
+
+jobs:
+#------------------------------------------------------------------------------------#
+  reset:
+    runs-on: ubuntu-latest
+    
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          path: main
+          fetch-depth: "1"
+          filter: "blob:none"
+
+      - name: Setup Env
+        run: |
+          ##presets
+          set +x ; set +e
+          #-------------#
+          ##CoreUtils
+          sudo apt update -y
+          sudo apt install bc coreutils curl dos2unix fdupes jq moreutils wget -y
+          sudo apt-get install apt-transport-https apt-utils ca-certificates coreutils dos2unix gnupg2 jq moreutils p7zip-full rename rsync software-properties-common texinfo tmux util-linux wget -y 2>/dev/null ; sudo apt-get update -y 2>/dev/null
+          #temp
+          SYSTMP="$(dirname $(mktemp -u))" && export SYSTMP="${SYSTMP}"
+          echo "SYSTMP=${SYSTMP}" >> "${GITHUB_ENV}"
+          echo "GH_PAGER=" >> "${GITHUB_ENV}"
+          echo "GIT_TERMINAL_PROMPT=0" >> "${GITHUB_ENV}"
+          echo "GIT_ASKPASS=/bin/echo" >> "${GITHUB_ENV}"
+          gh config set prompt disabled
+          git config --global "user.email" "AjamX101@gmail.com"
+          git config --global "user.name" "Azathothas"
+          ##User-Agent
+          USER_AGENT="$(curl -qfsSL 'https://raw.githubusercontent.com/pkgforge/devscripts/refs/heads/main/Misc/User-Agents/ua_firefox_macos_latest.txt')" && export USER_AGENT="${USER_AGENT}"
+          echo "USER_AGENT=${USER_AGENT}" >> "${GITHUB_ENV}"
+        continue-on-error: true
+
+      #- name: Install Addons
+      #  run: |
+      #    #presets
+      #    set +x ; set +e
+      #    #-------------#
+      #    bash <(curl -qfsSL "https://raw.githubusercontent.com/pkgforge/devscripts/refs/heads/main/Linux/install_bins_curl.sh")
+      #  continue-on-error: true
+
+      - name: Ensure Healthy Commit Nums (RESET ON >= 5000)
+        run: |
+          #Presets
+          set +x ; set +e
+          #--------------#
+          pushd "$(mktemp -d)" &>/dev/null && git clone --filter="blob:none" "${GITHUB_SERVER_URL}/${GITHUB_REPOSITORY}" "TEMPREPO" &>/dev/null
+          cd "./TEMPREPO" && CLONED_DIR="$(realpath "." | tr -d '[:space:]')" || exit 1
+          export CLONED_DIR="${CLONED_DIR}"
+          COMMIT_NUMS="$(git rev-list --count HEAD | tr -d '[:space:]')"
+          export COMMIT_NUMS="${COMMIT_NUMS}"
+          echo "COMMIT_NUMS=${COMMIT_NUMS}" >> "${GITHUB_ENV}"
+          rm -rf "${CLONED_DIR}" 2>/dev/null && popd &>/dev/null
+          cd "${GITHUB_WORKSPACE}/main" || exit 1
+          if [ "${COMMIT_NUMS}" -gt 5000 ]; then
+              echo -e "\n[+] Total number of commits exceeds 5000. (${COMMIT_NUMS})\n"
+              echo "${COMMIT_NUMS}" > "/tmp/COMMIT_NUM"
+              echo "RESET_HISTORY=YES" >> "${GITHUB_ENV}"
+          else
+              echo -e "\n[+] Total number of commits looks healthy. (${COMMIT_NUMS})\n"
+              echo "RESET_HISTORY=NO" >> "${GITHUB_ENV}"
+          fi
+          pushd "${GITHUB_WORKSPACE}/main" &>/dev/null &&\
+           git pull origin main --no-edit 2>/dev/null
+           git pull origin main --ff-only ; git merge --no-ff -m "Merge & Sync"
+          popd &>/dev/null
+        continue-on-error: true
+
+      - name: Get DateTime & Purge files (=> 95 MB)
+        if: env.RESET_HISTORY == 'YES'
+        run: |
+          #Presets
+          set +x ; set +e
+          #--------------#
+          UTC_TIME="$(TZ='UTC' date +'%Y-%m-%d_%I_%M_%S_%p' | tr -d '[:space:]')"
+          echo "UTC_TIME=${UTC_TIME}" >> "${GITHUB_ENV}"
+        continue-on-error: true
+
+      - name: Releaser (Resetter)
+        if: env.RESET_HISTORY == 'YES'
+        uses: softprops/action-gh-release@v2.2.1
+        with:
+          name: "reset-${{ env.UTC_TIME }}"
+          tag_name: "reset-${{ env.UTC_TIME }}"
+          prerelease: true
+          draft: false
+          generate_release_notes: false
+          files: |
+            /tmp/COMMIT_NUM
+        continue-on-error: false
+
+      - name: Ensure Healthy Commit Nums (RESET ON >= 5000)
+        if: env.RESET_HISTORY == 'YES'
+        run: |
+          #Presets
+          set +x ; set +e
+          #--------------#
+          cd "${GITHUB_WORKSPACE}/main" || exit 1
+          git pull origin main --no-edit 2>/dev/null
+          git pull origin main --ff-only ; git merge --no-ff -m "Merge & Sync"
+          git checkout --orphan temp
+          git add --all --verbose && git commit -m "✅ Commits Reset (${COMMIT_NUMS} Exceeded > 5000) ☢️"
+          git branch -D "main"
+          git branch -m "main"
+          git push --set-upstream origin main --force
+        continue-on-error: true
+
+      - name: Purge files (=> 95 MB)
+        if: env.RESET_HISTORY == 'YES'
+        run: |
+          #Presets
+          set +x ; set +e
+          #--------------#
+          #Purge
+          find "${GITHUB_WORKSPACE}/main" -path "${GITHUB_WORKSPACE}/main/.git" -prune -o -type f -size +95M -exec rm -rvf "{}" + 2>/dev/null
+        continue-on-error: true
+
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        if: env.RESET_HISTORY == 'YES'
+        with:
+          repository: ./main
+          commit_user_name: Azathothas
+          commit_user_email: AjamX101@gmail.com
+          #commit_message: "‎‎‏‏‎ ‎"
+          commit_message: "✅ Commits Reset (Exceeded > 5000) ☢️"
+          #push_options: '--force'
+        continue-on-error: true

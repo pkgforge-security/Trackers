@@ -1,0 +1,99 @@
+name: 💾 Fetch || ⏫ Update Torrent Trackers 🧲
+concurrency:
+  group: "${{ github.workflow }}-${{ github.ref }}"
+  cancel-in-progress: true
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 */1 * * *"  # Every 1 Hr
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    
+    permissions:
+      contents: write
+      
+    steps:        
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          path: "main"
+          fetch-depth: "1"
+          filter: "blob:none"
+          
+      - name: Setup Env
+        run: |
+          ##presets
+          set +x ; set +e
+          #-------------#
+          #Create Output Dir
+          mkdir -pv "${GITHUB_WORKSPACE}/main/Trackers"
+        continue-on-error: true
+     
+      - name: Download @Latest Trackers
+        run: |
+          ##presets
+          set -x ; set +e
+          #-------------#       
+          #@latest_Trackers: https://github.com/ngosang/trackerslist 
+          curl -qfSL "https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all.txt" -o "${GITHUB_WORKSPACE}/main/trackers_general.txt"
+          #@latest_Trackers(Anime+Manga): https://github.com/DeSireFire/animeTrackerList
+          curl -qfSL "https://newtrackon.com/api/stable" -o "${GITHUB_WORKSPACE}/main/trackers_stable.txt"
+          #@Stable_Trackers: https://newtrackon.com/list
+          curl -qfSL "https://raw.githubusercontent.com/DeSireFire/animeTrackerList/master/AT_all.txt" -o "${GITHUB_WORKSPACE}/main/trackers_anime.txt"
+        continue-on-error: true
+        
+      - name: Filter & Sort Trackers
+        run: |
+          ##presets
+          set +x ; set +e
+          #-------------#
+          cat "${GITHUB_WORKSPACE}/main/trackers_general.txt" "${GITHUB_WORKSPACE}/main/trackers_stable.txt" | sort -u -o "${GITHUB_WORKSPACE}/main/trackers_all_general.txt"
+          cat "${GITHUB_WORKSPACE}/main/trackers_general.txt" "${GITHUB_WORKSPACE}/main/trackers_stable.txt" "${GITHUB_WORKSPACE}/main/trackers_anime.txt" | sort -u -o "${GITHUB_WORKSPACE}/main/trackers_all.txt"
+          find "${GITHUB_WORKSPACE}/main/Trackers" -type f -name "*.txt" -exec sort -u {} -o {} \;
+          find "${GITHUB_WORKSPACE}/main/Trackers" -type f -name "*.txt" -exec sed -i '/^[[:space:]]*$/d' {} \;
+        continue-on-error: true
+
+      - name: Clean
+        run: |
+          ##presets
+          set +x ; set +e
+          #-------------#
+          find "${GITHUB_WORKSPACE}/main" -type f -iname "*trackers*.txt" -exec sed -E '/^[[:space:]]*$/d' -i "{}" \;
+        continue-on-error: true
+
+      - name: Dos2Unix Everything
+        run: |
+          ##presets
+          set +x ; set +e
+          #-------------#       
+          find "${GITHUB_WORKSPACE}/main" -type f -name '*.txt' -exec dos2unix "{}" \;
+        continue-on-error: true
+  
+      - name: Get DateTime
+        run: |
+          ##presets
+          set +x ; set +e
+          #-------------#         
+          #Date Time
+          NEPALI_TIME="$(TZ='Asia/Kathmandu' date +'%Y-%m-%d (%I:%M:%S %p)')"
+          echo "NEPALI_TIME=${NEPALI_TIME}" >> "${GITHUB_ENV}"
+        continue-on-error: true
+
+      - name: Git Pull & Update
+        run: |
+          #Presets
+          set +x ; set +e
+          #--------------#
+          cd "${GITHUB_WORKSPACE}/main" && git pull origin main || git pull origin main --ff-only || git merge --no-ff -m "Merge & Sync"
+        continue-on-error: true
+        
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          repository: ./main        
+          commit_user_name: Azathothas # defaults to "github-actions[bot]"
+          commit_user_email: AjamX101@gmail.com # defaults to "41898282+github-actions[bot]@users.noreply.github.com"
+          #commit_message: "‎‎‏‏‎ ‎"
+          commit_message: "✅ Fetch latest Trackers 🧲 <-- ${{ env.NEPALI_TIME }} ⌚"
+          #push_options: '--force'
