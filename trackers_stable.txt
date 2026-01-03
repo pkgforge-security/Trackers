@@ -34,6 +34,7 @@ http://tr.highstar.shop:80/announce
 udp://tracker.flatuslifir.is:6969/announce
 https://tracker.qingwa.pro:443/announce
 http://open.acgtracker.com:1096/announce
+udp://evan.im:6969/announce
 udp://anna.bt.bontal.net:6969/announce
 udp://tracker.bluefrog.pw:2710/announce
 http://ipv6.rer.lol:6969/announce
@@ -43,7 +44,6 @@ https://tracker.ghostchu-services.top:443/announce
 https://tracker.leechshield.link:443/announce
 udp://tracker.opentorrent.top:6969/announce
 http://tracker.mywaifu.best:6969/announce
-udp://evan.im:6969/announce
 https://tracker.zhuqiy.com:443/announce
 udp://www.torrent.eu.org:451/announce
 udp://tracker.gmi.gd:6969/announce
