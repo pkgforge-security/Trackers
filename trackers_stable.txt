@@ -3,7 +3,6 @@ udp://open.stealth.si:80/announce
 udp://tracker.torrent.eu.org:451/announce
 udp://tracker.tryhackx.org:6969/announce
 udp://evan.im:6969/announce
-http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
 udp://tracker1.t-1.org:6969/announce
 udp://tracker3.t-1.org:6969/announce
 udp://tracker.t-1.org:6969/announce
@@ -24,6 +23,7 @@ udp://d40969.acod.regrucolo.ru:6969/announce
 udp://tracker.0x7c0.com:6969/announce
 udp://tracker.fnix.net:6969/announce
 udp://martin-gebhardt.eu:25/announce
+http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
 http://lucke.fenesisu.moe:6969/announce
 http://tracker.renfei.net:8080/announce
 http://ipv4.rer.lol:2710/announce
@@ -54,13 +54,13 @@ http://bvarf.tracker.sh:2086/announce
 http://tracker.bt4g.com:2095/announce
 udp://retracker01-msk-virt.corbina.net:80/announce
 udp://tracker.plx.im:6969/announce
-udp://open.demonii.com:1337/announce
 https://cny.fan:443/announce
+udp://open.demonii.com:1337/announce
 udp://open.demonoid.ch:6969/announce
 https://tracker.iochimari.moe:443/announce
 udp://open-tracker.demonoid.ch:6969/announce
-udp://public.demonoid.ch:6969/announce
 https://torrent.tracker.durukanbal.com:443/announce
+udp://public.demonoid.ch:6969/announce
 https://t.213891.xyz:443/announce
 udp://bandito.byterunner.io:6969/announce
 udp://tr4ck3r.duckdns.org:6969/announce
