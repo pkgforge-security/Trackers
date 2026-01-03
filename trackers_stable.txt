@@ -46,8 +46,8 @@ udp://tracker.opentorrent.top:6969/announce
 http://tracker.mywaifu.best:6969/announce
 https://tracker.zhuqiy.com:443/announce
 udp://www.torrent.eu.org:451/announce
-udp://tracker.gmi.gd:6969/announce
 udp://tracker.dler.com:6969/announce
+udp://tracker.gmi.gd:6969/announce
 https://tracker.pmman.tech:443/announce
 http://bt.okmp3.ru:2710/announce
 http://bvarf.tracker.sh:2086/announce
