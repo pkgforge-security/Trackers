@@ -18,6 +18,7 @@ udp://torrentclub.online:54123/announce
 udp://tracker.1h.is:1337/announce
 udp://tracker.playground.ru:6969/announce
 udp://ns575949.ip-51-222-82.net:6969/announce
+udp://colivioo.com:6969/announce
 https://tracker.moeblog.cn:443/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
 udp://martin-gebhardt.eu:25/announce
