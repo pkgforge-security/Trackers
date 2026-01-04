@@ -58,5 +58,5 @@ https://torrent.tracker.durukanbal.com:443/announce
 https://t.213891.xyz:443/announce
 udp://open.demonoid.ch:6969/announce
 udp://open.demonii.com:1337/announce
-udp://open-tracker.demonoid.ch:6969/announce
 udp://tr4ck3r.duckdns.org:6969/announce
+udp://open-tracker.demonoid.ch:6969/announce
