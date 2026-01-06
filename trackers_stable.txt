@@ -16,6 +16,7 @@ udp://extracker.dahrkael.net:6969/announce
 udp://torrentclub.online:54123/announce
 udp://tracker.playground.ru:6969/announce
 udp://ns575949.ip-51-222-82.net:6969/announce
+udp://tracker.ixuexi.click:6969/announce
 https://tracker.moeblog.cn:443/announce
 udp://martin-gebhardt.eu:25/announce
 http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
@@ -36,9 +37,9 @@ http://open.acgtracker.com:1096/announce
 http://tr.highstar.shop:80/announce
 http://ipv6.rer.lol:6969/announce
 https://tracker.leechshield.link:443/announce
+udp://tracker.qu.ax:6969/announce
 udp://retracker.lanta.me:2710/announce
 https://tracker.ghostchu-services.top:443/announce
-udp://tracker.qu.ax:6969/announce
 udp://tracker.opentorrent.top:6969/announce
 udp://tracker.gmi.gd:6969/announce
 http://tracker.mywaifu.best:6969/announce
