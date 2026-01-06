@@ -58,5 +58,5 @@ https://tracker.iochimari.moe:443/announce
 udp://colivioo.com:6969/announce
 https://torrent.tracker.durukanbal.com:443/announce
 udp://tr4ck3r.duckdns.org:6969/announce
-https://t.213891.xyz:443/announce
 http://echostar.ddnsfree.com:8080/announce
+https://t.213891.xyz:443/announce
