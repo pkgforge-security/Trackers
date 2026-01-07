@@ -56,6 +56,7 @@ http://tracker.xiaoduola.xyz:6969/announce
 http://tracker.zhuqiy.com:80/announce
 http://tracker2.dler.org:80/announce
 http://tracker810.xyz:11450/announce
+http://trackr.appolon.dev:6969/announce
 http://wegkxfcivgx.ydns.eu:80/announce
 http://www.genesis-sp.org:2710/announce
 http://www.torrentsnipe.info:2701/announce

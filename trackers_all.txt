@@ -623,6 +623,7 @@ http://trackers.ibzu.me/announce.php
 http://trackers.ydns.eu:10036/announce
 http://trackme.theom.nz/announce
 http://trackme.theom.nz:80/announce
+http://trackr.appolon.dev:6969/announce
 http://trun.tom.ru/announce
 http://trun.tom.ru:80/announce
 http://uatracker.net/announce.php
