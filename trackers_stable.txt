@@ -12,6 +12,8 @@ udp://torrentclub.online:54123/announce
 udp://ns575949.ip-51-222-82.net:6969/announce
 udp://tracker.ixuexi.click:6969/announce
 http://trackr.appolon.dev:6969/announce
+https://tracker.bug38.com:443/announce
+http://tracker.file09.com:80/announce
 https://tracker.moeblog.cn:443/announce
 udp://tracker.tryhackx.org:6969/announce
 udp://martin-gebhardt.eu:25/announce
