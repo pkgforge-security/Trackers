@@ -48,8 +48,8 @@ https://tracker.zhuqiy.com:443/announce
 udp://tracker.gmi.gd:6969/announce
 udp://tracker.dler.com:6969/announce
 http://bt.okmp3.ru:2710/announce
-udp://p4p.arenabg.com:1337/announce
 udp://www.torrent.eu.org:451/announce
+udp://p4p.arenabg.com:1337/announce
 http://bvarf.tracker.sh:2086/announce
 https://cny.fan:443/announce
 https://t.213891.xyz:443/announce
