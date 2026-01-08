@@ -60,4 +60,3 @@ udp://p4p.arenabg.com:1337/announce
 udp://tracker.srv00.com:6969/announce
 https://torrent.tracker.durukanbal.com:443/announce
 udp://tr4ck3r.duckdns.org:6969/announce
-http://tracker.beeimg.com:6969/announce
