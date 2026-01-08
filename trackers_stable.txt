@@ -42,9 +42,9 @@ https://tracker.pmman.tech:443/announce
 http://tr.highstar.shop:80/announce
 udp://tracker.opentorrent.top:6969/announce
 http://tracker.mywaifu.best:6969/announce
-udp://p4p.arenabg.com:1337/announce
 https://tracker.zhuqiy.com:443/announce
 udp://tracker.gmi.gd:6969/announce
+udp://p4p.arenabg.com:1337/announce
 udp://tracker.dler.com:6969/announce
 http://bt.okmp3.ru:2710/announce
 udp://www.torrent.eu.org:451/announce
