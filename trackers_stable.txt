@@ -43,7 +43,6 @@ http://tr.highstar.shop:80/announce
 udp://tracker.opentorrent.top:6969/announce
 http://tracker.mywaifu.best:6969/announce
 https://tracker.zhuqiy.com:443/announce
-https://tracker.bug38.com:443/announce
 udp://tracker.gmi.gd:6969/announce
 https://t.213891.xyz:443/announce
 udp://tracker.dler.com:6969/announce
@@ -58,3 +57,4 @@ udp://tracker.plx.im:6969/announce
 https://torrent.tracker.durukanbal.com:443/announce
 udp://tracker.srv00.com:6969/announce
 udp://tr4ck3r.duckdns.org:6969/announce
+https://tracker.bug38.com:443/announce
