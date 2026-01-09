@@ -109,6 +109,7 @@ udp://tracker.gmi.gd:6969/announce
 udp://tracker.ixuexi.click:6969/announce
 udp://tracker.opentorrent.top:6969/announce
 udp://tracker.opentrackr.org:1337/announce
+udp://tracker.orsvarn.com:6969/announce
 udp://tracker.playground.ru:6969/announce
 udp://tracker.plx.im:6969/announce
 udp://tracker.qu.ax:6969/announce
