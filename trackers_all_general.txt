@@ -58,7 +58,6 @@ https://t.213891.xyz:443/announce
 https://torrent.tracker.durukanbal.com:443/announce
 https://tr.nyacat.pw:443/announce
 https://tracker.bt4g.com:443/announce
-https://tracker.bug38.com:443/announce
 https://tracker.cutie.dating:443/announce
 https://tracker.gcrenwp.top:443/announce
 https://tracker.ghostchu-services.top:443/announce
