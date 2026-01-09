@@ -504,7 +504,6 @@ http://tracker.ex.ua:80/announce
 http://tracker.fansub.id/announce
 http://tracker.fansub.id:80/announce
 http://tracker.fdn.fr:6969/announce
-http://tracker.file09.com:80/announce
 http://tracker.filemail.com:6969/announce
 http://tracker.files.fm:6969/announce
 http://tracker.frozen-layer.com:6969/announce

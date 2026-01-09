@@ -58,4 +58,3 @@ udp://retracker01-msk-virt.corbina.net:80/announce
 https://torrent.tracker.durukanbal.com:443/announce
 udp://tracker.srv00.com:6969/announce
 udp://tr4ck3r.duckdns.org:6969/announce
-http://tracker.file09.com:80/announce
