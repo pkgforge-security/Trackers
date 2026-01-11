@@ -11,6 +11,7 @@ http://lucke.fenesisu.moe:6969/announce
 http://open.acgtracker.com:1096/announce
 http://open.tracker.cl:1337/announce
 http://t.overflow.biz:6969/announce
+http://taciturn-shadow.spb.ru:6969/announce
 http://tr.highstar.shop:80/announce
 http://tr.kxmp.cf:80/announce
 http://tr.nyacat.pw:80/announce
