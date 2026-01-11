@@ -9,6 +9,7 @@ https://tr.nyacat.pw:443/announce
 udp://tracker.ducks.party:1984/announce
 udp://extracker.dahrkael.net:6969/announce
 udp://torrentclub.online:54123/announce
+udp://tracker.flatuslifir.is:6969/announce
 udp://ns575949.ip-51-222-82.net:6969/announce
 udp://tracker.ixuexi.click:6969/announce
 http://trackr.appolon.dev:6969/announce
@@ -23,7 +24,6 @@ http://tracker.renfei.net:8080/announce
 http://ipv4.rer.lol:2710/announce
 udp://tracker.tvunderground.org.ru:3218/announce
 udp://tracker.playground.ru:6969/announce
-udp://tracker.flatuslifir.is:6969/announce
 udp://tracker.bluefrog.pw:2710/announce
 udp://tracker.qu.ax:6969/announce
 udp://tracker.fnix.net:6969/announce
@@ -53,8 +53,8 @@ http://bvarf.tracker.sh:2086/announce
 https://cny.fan:443/announce
 udp://www.torrent.eu.org:451/announce
 https://tracker.iochimari.moe:443/announce
-udp://retracker01-msk-virt.corbina.net:80/announce
 udp://tracker.plx.im:6969/announce
+udp://retracker01-msk-virt.corbina.net:80/announce
 https://torrent.tracker.durukanbal.com:443/announce
 udp://tracker.srv00.com:6969/announce
 udp://tr4ck3r.duckdns.org:6969/announce
