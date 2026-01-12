@@ -44,6 +44,7 @@ http://tracker.skyts.net:6969/announce
 http://tracker.tritan.gg:8080/announce
 http://tracker.vanitycore.co:6969/announce
 http://tracker.waaa.moe:6969/announce
+http://tracker.xn--djrq4gl4hvoi.top:80/announce
 http://tracker.zhuqiy.com:80/announce
 http://tracker2.dler.org:80/announce
 http://tracker810.xyz:11450/announce
