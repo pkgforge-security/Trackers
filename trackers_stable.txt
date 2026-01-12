@@ -48,8 +48,8 @@ udp://tracker.gmi.gd:6969/announce
 https://tracker.zhuqiy.com:443/announce
 http://tr.highstar.shop:80/announce
 udp://tracker.dler.com:6969/announce
-http://bt.okmp3.ru:2710/announce
 http://taciturn-shadow.spb.ru:6969/announce
+http://bt.okmp3.ru:2710/announce
 https://cny.fan:443/announce
 http://bvarf.tracker.sh:2086/announce
 https://tracker.iochimari.moe:443/announce
