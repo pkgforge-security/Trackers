@@ -42,8 +42,8 @@ udp://tracker.1h.is:1337/announce
 https://shahidrazi.online:443/announce
 https://tracker.pmman.tech:443/announce
 https://tracker.ghostchu-services.top:443/announce
-https://t.213891.xyz:443/announce
 http://tracker.mywaifu.best:6969/announce
+https://t.213891.xyz:443/announce
 udp://tracker.opentorrent.top:6969/announce
 udp://tracker.gmi.gd:6969/announce
 https://tracker.zhuqiy.com:443/announce
