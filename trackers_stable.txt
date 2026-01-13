@@ -2,7 +2,6 @@ udp://tracker.opentrackr.org:1337/announce
 udp://open.stealth.si:80/announce
 udp://tracker.torrent.eu.org:451/announce
 https://tracker.moeblog.cn:443/announce
-udp://tracker.0x7c0.com:6969/announce
 http://wegkxfcivgx.ydns.eu:80/announce
 http://lucke.fenesisu.moe:6969/announce
 https://tr.nyacat.pw:443/announce
@@ -26,6 +25,7 @@ http://ipv4.rer.lol:2710/announce
 udp://tracker.playground.ru:6969/announce
 udp://tracker.qu.ax:6969/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
+udp://tracker.0x7c0.com:6969/announce
 udp://tracker.t-1.org:6969/announce
 http://tracker.xn--djrq4gl4hvoi.top:80/announce
 https://tracker.qingwa.pro:443/announce
