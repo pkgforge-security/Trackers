@@ -38,13 +38,13 @@ udp://tracker.1h.is:1337/announce
 http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
 https://tracker.pmman.tech:443/announce
 https://tracker.ghostchu-services.top:443/announce
+http://tracker.mywaifu.best:6969/announce
 https://shahidrazi.online:443/announce
 http://tracker.dhitechnical.com:6969/announce
-http://tracker.mywaifu.best:6969/announce
 https://t.213891.xyz:443/announce
 udp://tracker.opentorrent.top:6969/announce
-udp://tracker.gmi.gd:6969/announce
 http://trackr.appolon.dev:6969/announce
+udp://tracker.gmi.gd:6969/announce
 udp://tracker.dler.com:6969/announce
 https://tracker.zhuqiy.com:443/announce
 http://tr.highstar.shop:80/announce
@@ -54,8 +54,8 @@ https://tracker.iochimari.moe:443/announce
 https://cny.fan:443/announce
 https://tracker.leechshield.link:443/announce
 http://bvarf.tracker.sh:2086/announce
-udp://tracker.0x7c0.com:6969/announce
 udp://www.torrent.eu.org:451/announce
+udp://tracker.0x7c0.com:6969/announce
 udp://retracker01-msk-virt.corbina.net:80/announce
 udp://tracker.plx.im:6969/announce
 https://torrent.tracker.durukanbal.com:443/announce
