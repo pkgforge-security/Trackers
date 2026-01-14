@@ -49,8 +49,8 @@ udp://tracker.dler.com:6969/announce
 https://tracker.zhuqiy.com:443/announce
 http://tr.highstar.shop:80/announce
 http://bt.okmp3.ru:2710/announce
-udp://tr4ck3r.duckdns.org:6969/announce
 https://tracker.iochimari.moe:443/announce
+udp://tr4ck3r.duckdns.org:6969/announce
 https://cny.fan:443/announce
 https://tracker.leechshield.link:443/announce
 http://bvarf.tracker.sh:2086/announce
