@@ -40,8 +40,8 @@ https://tracker.ghostchu-services.top:443/announce
 http://tracker.mywaifu.best:6969/announce
 http://tracker.dhitechnical.com:6969/announce
 https://tracker.pmman.tech:443/announce
-https://shahidrazi.online:443/announce
 udp://tracker.gmi.gd:6969/announce
+https://shahidrazi.online:443/announce
 udp://tracker.opentorrent.top:6969/announce
 http://trackr.appolon.dev:6969/announce
 udp://tracker.dler.com:6969/announce
