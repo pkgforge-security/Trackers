@@ -25,10 +25,10 @@ http://tracker.xn--djrq4gl4hvoi.top:80/announce
 udp://tracker.playground.ru:6969/announce
 udp://tracker.qu.ax:6969/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
+udp://retracker.lanta.me:2710/announce
 udp://tracker3.t-1.org:6969/announce
 https://tracker.qingwa.pro:443/announce
 udp://tracker.bluefrog.pw:2710/announce
-udp://retracker.lanta.me:2710/announce
 udp://tracker.t-1.org:6969/announce
 http://ipv6.rer.lol:6969/announce
 udp://martin-gebhardt.eu:25/announce
@@ -45,8 +45,8 @@ udp://tracker.gmi.gd:6969/announce
 udp://tracker.opentorrent.top:6969/announce
 udp://tracker.dler.com:6969/announce
 http://tr.highstar.shop:80/announce
-https://tracker.zhuqiy.com:443/announce
 http://trackr.appolon.dev:6969/announce
+https://tracker.zhuqiy.com:443/announce
 http://bt.okmp3.ru:2710/announce
 https://tracker.iochimari.moe:443/announce
 udp://tr4ck3r.duckdns.org:6969/announce
