@@ -30,11 +30,11 @@ udp://tracker3.t-1.org:6969/announce
 https://tracker.qingwa.pro:443/announce
 udp://tracker.bluefrog.pw:2710/announce
 udp://tracker.t-1.org:6969/announce
+http://tracker.mywaifu.best:6969/announce
 http://ipv6.rer.lol:6969/announce
 udp://martin-gebhardt.eu:25/announce
 https://tracker.moeking.me:443/announce
 udp://tracker.1h.is:1337/announce
-http://tracker.mywaifu.best:6969/announce
 udp://tracker.fnix.net:6969/announce
 https://tracker.ghostchu-services.top:443/announce
 http://tracker.dhitechnical.com:6969/announce
