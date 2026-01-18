@@ -42,9 +42,9 @@ https://shahidrazi.online:443/announce
 udp://tracker.gmi.gd:6969/announce
 https://tracker.qingwa.pro:443/announce
 udp://tracker.dler.com:6969/announce
+udp://public.demonoid.ch:6969/announce
 http://tr.highstar.shop:80/announce
 http://bt.okmp3.ru:2710/announce
-udp://public.demonoid.ch:6969/announce
 https://tracker.iochimari.moe:443/announce
 http://trackr.appolon.dev:6969/announce
 https://tracker.zhuqiy.com:443/announce
