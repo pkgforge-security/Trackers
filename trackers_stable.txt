@@ -34,8 +34,8 @@ udp://martin-gebhardt.eu:25/announce
 https://tracker.moeking.me:443/announce
 https://tracker.ghostchu-services.top:443/announce
 udp://tracker.1h.is:1337/announce
-http://tracker.dhitechnical.com:6969/announce
 https://tracker.pmman.tech:443/announce
+http://tracker.dhitechnical.com:6969/announce
 http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
 udp://tracker.opentorrent.top:6969/announce
 https://shahidrazi.online:443/announce
@@ -48,9 +48,9 @@ http://bt.okmp3.ru:2710/announce
 https://tracker.iochimari.moe:443/announce
 udp://open.demonoid.ch:6969/announce
 https://tracker.zhuqiy.com:443/announce
-http://trackr.appolon.dev:6969/announce
 udp://open.demonii.com:1337/announce
 udp://tr4ck3r.duckdns.org:6969/announce
+http://trackr.appolon.dev:6969/announce
 udp://open-tracker.demonoid.ch:6969/announce
 http://bvarf.tracker.sh:2086/announce
 https://cny.fan:443/announce
