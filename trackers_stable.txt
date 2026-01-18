@@ -42,13 +42,13 @@ https://shahidrazi.online:443/announce
 udp://tracker.gmi.gd:6969/announce
 udp://tracker.dler.com:6969/announce
 udp://public.demonoid.ch:6969/announce
-https://tracker.qingwa.pro:443/announce
 http://tr.highstar.shop:80/announce
+https://tracker.qingwa.pro:443/announce
 udp://open.demonoid.ch:6969/announce
 http://bt.okmp3.ru:2710/announce
 https://tracker.iochimari.moe:443/announce
-https://tracker.zhuqiy.com:443/announce
 udp://open.demonii.com:1337/announce
+https://tracker.zhuqiy.com:443/announce
 udp://open-tracker.demonoid.ch:6969/announce
 udp://tr4ck3r.duckdns.org:6969/announce
 http://bvarf.tracker.sh:2086/announce
@@ -58,5 +58,5 @@ udp://www.torrent.eu.org:451/announce
 udp://retracker01-msk-virt.corbina.net:80/announce
 udp://tracker.srv00.com:6969/announce
 https://torrent.tracker.durukanbal.com:443/announce
-udp://tracker.plx.im:6969/announce
 https://tracker.cutie.dating:443/announce
+udp://tracker.plx.im:6969/announce
