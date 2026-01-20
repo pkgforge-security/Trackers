@@ -54,8 +54,8 @@ udp://tracker.srv00.com:6969/announce
 udp://6ahddutb1ucc3cp.ru:6969/announce
 http://bvarf.tracker.sh:2086/announce
 https://cny.fan:443/announce
-https://tracker.qingwa.pro:443/announce
 udp://www.torrent.eu.org:451/announce
+https://tracker.qingwa.pro:443/announce
 http://trackr.appolon.dev:6969/announce
 udp://retracker01-msk-virt.corbina.net:80/announce
 https://torrent.tracker.durukanbal.com:443/announce
