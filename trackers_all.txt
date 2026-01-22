@@ -311,7 +311,6 @@ http://ipv6.rer.lol:6969/announce
 http://irrenhaus.dyndns.dk/announce.php
 http://irrenhaus.dyndns.dk:80/announce.php
 http://jp.moeweb.pw:6969/announce
-http://jvavav.com:80/announce
 http://kamikazee.duckdns.org:7777/announce
 http://kinorun.com/announce.php
 http://kinorun.com:80/announce.php
@@ -395,7 +394,6 @@ http://seeders-paradise.org/announce
 http://servandroidkino.ru/announce
 http://share.camoe.cn:8080/announce
 http://share.hkg-fansub.info/announce.php
-http://share.hkg-fansub.info:80/announce.php
 http://shogiroom.com:6969/announce
 http://shubt.net:2710/announce
 http://siambit.com/announce.php
@@ -425,7 +423,6 @@ http://torrent-team.net:80/announce.php
 http://torrent-tracker.ru/announce.php
 http://torrent.arjlover.net:2710/announce
 http://torrent.fedoraproject.org:6969/announce
-http://torrent.hificode.in:6969/announce
 http://torrent.mp3quran.net/announce.php
 http://torrent.mp3quran.net:80/announce.php
 http://torrent.nwps.ws/announce
@@ -468,7 +465,6 @@ http://tracker.bittorrent.nibblepoker.lu:49227/announce
 http://tracker.breizh.pm:6969/announce
 http://tracker.bt-chat.com/announce
 http://tracker.bt-hash.com/announce
-http://tracker.bt-hash.com:80/announce
 http://tracker.bt4g.com:2095/announce
 http://tracker.btcake.com/announce
 http://tracker.btcake.com:80/announce
@@ -801,7 +797,6 @@ https://tracker.kitaujisub.site/announce.php?authkey=213|10003|j46n2q
 https://tracker.kitaujisub.site/announce.php?authkey=215|10003|j46n2q
 https://tracker.kuroy.me/announce
 https://tracker.kuroy.me:443/announce
-https://tracker.leechshield.link:443/announce
 https://tracker.lelux.fi/announce
 https://tracker.lelux.fi:443/announce
 https://tracker.lilithraws.cf/announce
@@ -985,7 +980,7 @@ udp://download.nerocloud.me:6969/announce
 udp://elementsbrowser.com:6969/announce
 udp://epider.me:6969/announce
 udp://evan.im:6969/announce
-udp://exodus.desync.com:6969/announce
+udp://explodie.org:6969/announce
 udp://extracker.dahrkael.net:6969/announce
 udp://f1sh.de:6969/announce
 udp://fe.dealclub.de:6969/announce
@@ -1157,7 +1152,6 @@ udp://v1046920.hosted-by-vdsina.ru:6969/announce
 udp://v2.iperson.xyz:6969/announce
 udp://vibe.sleepyinternetfun.xyz:1738/announce
 udp://wepzone.net:6969/announce
-udp://www.2600.com:6969/announce
 udp://www.peckservers.com:9000/announce
 udp://www.torrent.eu.org:451/announce
 udp://yahor.ftp.sh:6969/announce
