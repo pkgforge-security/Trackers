@@ -3,7 +3,6 @@ udp://open.stealth.si:80/announce
 http://bt.okmp3.ru:2710/announce
 udp://tracker.torrent.eu.org:451/announce
 udp://open-tracker.demonoid.ch:6969/announce
-udp://public.demonoid.ch:6969/announce
 http://lucke.fenesisu.moe:6969/announce
 udp://tracker.ducks.party:1984/announce
 udp://extracker.dahrkael.net:6969/announce
@@ -19,6 +18,7 @@ http://open.acgtracker.com:1096/announce
 udp://open.demonii.com:1337/announce
 https://tracker.moeblog.cn:443/announce
 udp://tracker.tryhackx.org:6969/announce
+udp://public.demonoid.ch:6969/announce
 http://taciturn-shadow.spb.ru:6969/announce
 http://wegkxfcivgx.ydns.eu:80/announce
 http://tracker.renfei.net:8080/announce
