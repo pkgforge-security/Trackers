@@ -50,8 +50,8 @@ http://tr.highstar.shop:80/announce
 udp://6ahddutb1ucc3cp.ru:6969/announce
 https://tracker.zhuqiy.com:443/announce
 udp://tracker.srv00.com:6969/announce
-https://cny.fan:443/announce
 http://bvarf.tracker.sh:2086/announce
+https://cny.fan:443/announce
 udp://tr4ck3r.duckdns.org:6969/announce
 udp://www.torrent.eu.org:451/announce
 udp://retracker01-msk-virt.corbina.net:80/announce
