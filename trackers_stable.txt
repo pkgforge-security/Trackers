@@ -29,12 +29,12 @@ udp://tracker1.t-1.org:6969/announce
 udp://tracker3.t-1.org:6969/announce
 http://taciturn-shadow.spb.ru:6969/announce
 udp://tracker.bluefrog.pw:2710/announce
+udp://tracker.dler.com:6969/announce
 http://tracker.mywaifu.best:6969/announce
 udp://tracker.qu.ax:6969/announce
 udp://martin-gebhardt.eu:25/announce
 udp://tracker.t-1.org:6969/announce
 udp://tracker.playground.ru:6969/announce
-udp://tracker.dler.com:6969/announce
 udp://tracker.fnix.net:6969/announce
 http://ipv6.rer.lol:6969/announce
 http://tracker.dhitechnical.com:6969/announce
