@@ -2,6 +2,7 @@ udp://tracker.opentrackr.org:1337/announce
 udp://open.stealth.si:80/announce
 udp://tracker.torrent.eu.org:451/announce
 http://lucke.fenesisu.moe:6969/announce
+https://tr.nyacat.pw:443/announce
 udp://tracker.ducks.party:1984/announce
 udp://extracker.dahrkael.net:6969/announce
 udp://tracker.tvunderground.org.ru:3218/announce
@@ -43,7 +44,6 @@ https://tracker.pmman.tech:443/announce
 https://tracker.ghostchu-services.top:443/announce
 udp://tracker.gmi.gd:6969/announce
 https://tracker.moeking.me:443/announce
-https://tr.nyacat.pw:443/announce
 http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
 udp://6ahddutb1ucc3cp.ru:6969/announce
 https://shahidrazi.online:443/announce
