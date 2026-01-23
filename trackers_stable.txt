@@ -14,6 +14,7 @@ udp://tracker.ixuexi.click:6969/announce
 udp://tracker.corpscorp.online:80/announce
 http://open.acgtracker.com:1096/announce
 http://bt.okmp3.ru:2710/announce
+udp://open.demonii.com:1337/announce
 https://tracker.moeblog.cn:443/announce
 udp://tracker.tryhackx.org:6969/announce
 udp://open-tracker.demonoid.ch:6969/announce
@@ -23,7 +24,6 @@ http://wegkxfcivgx.ydns.eu:80/announce
 http://tracker.renfei.net:8080/announce
 http://ipv4.rer.lol:2710/announce
 https://tracker.iochimari.moe:443/announce
-udp://open.demonii.com:1337/announce
 udp://tracker.qu.ax:6969/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
 udp://open.demonoid.ch:6969/announce
