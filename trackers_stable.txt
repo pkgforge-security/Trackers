@@ -23,7 +23,6 @@ http://wegkxfcivgx.ydns.eu:80/announce
 http://tracker.renfei.net:8080/announce
 http://ipv4.rer.lol:2710/announce
 https://tracker.iochimari.moe:443/announce
-udp://tracker.qu.ax:6969/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
 udp://open.demonoid.ch:6969/announce
 udp://tracker1.t-1.org:6969/announce
@@ -31,6 +30,7 @@ udp://tracker3.t-1.org:6969/announce
 http://taciturn-shadow.spb.ru:6969/announce
 udp://tracker.bluefrog.pw:2710/announce
 http://tracker.mywaifu.best:6969/announce
+udp://tracker.qu.ax:6969/announce
 udp://martin-gebhardt.eu:25/announce
 udp://tracker.t-1.org:6969/announce
 udp://tracker.playground.ru:6969/announce
