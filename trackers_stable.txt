@@ -45,8 +45,8 @@ udp://tracker.gmi.gd:6969/announce
 https://tracker.ghostchu-services.top:443/announce
 https://tracker.moeking.me:443/announce
 https://tr.nyacat.pw:443/announce
-udp://6ahddutb1ucc3cp.ru:6969/announce
 http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
+udp://6ahddutb1ucc3cp.ru:6969/announce
 https://shahidrazi.online:443/announce
 http://tr.highstar.shop:80/announce
 https://tracker.zhuqiy.com:443/announce
