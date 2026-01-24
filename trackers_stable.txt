@@ -57,6 +57,6 @@ http://bvarf.tracker.sh:2086/announce
 udp://tr4ck3r.duckdns.org:6969/announce
 https://t.213891.xyz:443/announce
 udp://www.torrent.eu.org:451/announce
-https://torrent.tracker.durukanbal.com:443/announce
 udp://retracker01-msk-virt.corbina.net:80/announce
+https://torrent.tracker.durukanbal.com:443/announce
 udp://tracker.plx.im:6969/announce
