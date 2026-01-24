@@ -12,6 +12,7 @@ udp://tracker.opentorrent.top:6969/announce
 udp://ns575949.ip-51-222-82.net:6969/announce
 udp://tracker.ixuexi.click:6969/announce
 udp://tracker.corpscorp.online:80/announce
+udp://anna.bt.bontal.net:6969/announce
 http://open.acgtracker.com:1096/announce
 http://bt.okmp3.ru:2710/announce
 https://tracker.moeblog.cn:443/announce
@@ -56,6 +57,5 @@ https://t.213891.xyz:443/announce
 http://bvarf.tracker.sh:2086/announce
 udp://tr4ck3r.duckdns.org:6969/announce
 udp://www.torrent.eu.org:451/announce
-udp://tracker.torrust-demo.com:6969/announce
 https://torrent.tracker.durukanbal.com:443/announce
 udp://tracker.plx.im:6969/announce
