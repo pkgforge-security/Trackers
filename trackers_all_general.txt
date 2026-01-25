@@ -48,7 +48,6 @@ https://tracker.pmman.tech:443/announce
 https://tracker.uraniumhexafluori.de:443/announce
 https://tracker.zhuqiy.com:443/announce
 udp://6ahddutb1ucc3cp.ru:6969/announce
-udp://anna.bt.bontal.net:6969/announce
 udp://bandito.byterunner.io:6969/announce
 udp://bt.bontal.net:6969/announce
 udp://bt.rer.lol:6969/announce
