@@ -57,4 +57,5 @@ http://bvarf.tracker.sh:2086/announce
 udp://tr4ck3r.duckdns.org:6969/announce
 udp://www.torrent.eu.org:451/announce
 udp://tracker.plx.im:6969/announce
+udp://tracker.torrust-demo.com:6969/announce
 https://torrent.tracker.durukanbal.com:443/announce
