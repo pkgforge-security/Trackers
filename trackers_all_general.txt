@@ -8,7 +8,6 @@ http://buny.uk:6969/announce
 http://bvarf.tracker.sh:2086/announce
 http://extracker.dahrkael.net:6969/announce
 http://home.yxgz.club:6969/announce
-http://ipv4.rer.lol:2710/announce
 http://ipv6.rer.lol:6969/announce
 http://lucke.fenesisu.moe:6969/announce
 http://open.acgtracker.com:1096/announce
