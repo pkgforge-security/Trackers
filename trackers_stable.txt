@@ -53,7 +53,7 @@ udp://retracker.lanta.me:2710/announce
 https://cny.fan:443/announce
 udp://www.torrent.eu.org:451/announce
 udp://tr4ck3r.duckdns.org:6969/announce
-udp://6ahddutb1ucc3cp.ru:6969/announce
 http://bvarf.tracker.sh:2086/announce
+udp://6ahddutb1ucc3cp.ru:6969/announce
 udp://tracker.plx.im:6969/announce
 https://torrent.tracker.durukanbal.com:443/announce
