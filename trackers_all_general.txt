@@ -8,6 +8,8 @@ http://bt.rer.lol:2710/announce
 http://bt1.xxxxbt.cc:6969/announce
 http://bvarf.tracker.sh:2086/announce
 http://extracker.dahrkael.net:6969/announce
+http://ipv4.rer.lol:2710/announce
+http://ipv6.rer.lol:6969/announce
 http://jvavav.com:80/announce
 http://lucke.fenesisu.moe:6969/announce
 http://open.acgtracker.com:1096/announce
