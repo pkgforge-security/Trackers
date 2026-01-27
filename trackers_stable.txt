@@ -1,4 +1,5 @@
 udp://tracker.opentrackr.org:1337/announce
+http://open.acgtracker.com:1096/announce
 udp://open.stealth.si:80/announce
 udp://tracker.torrent.eu.org:451/announce
 http://lucke.fenesisu.moe:6969/announce
@@ -13,7 +14,6 @@ udp://tracker.ixuexi.click:6969/announce
 udp://tracker.corpscorp.online:80/announce
 http://ipv6.rer.lol:6969/announce
 http://ipv4.rer.lol:2710/announce
-http://open.acgtracker.com:1096/announce
 http://bt.okmp3.ru:2710/announce
 https://tracker.moeblog.cn:443/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
