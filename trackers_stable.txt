@@ -34,8 +34,8 @@ udp://martin-gebhardt.eu:25/announce
 http://tracker.mywaifu.best:6969/announce
 http://tracker.dhitechnical.com:6969/announce
 udp://open.demonii.com:1337/announce
-https://tracker.ghostchu-services.top:443/announce
 udp://tracker.gmi.gd:6969/announce
+https://tracker.ghostchu-services.top:443/announce
 udp://tracker.srv00.com:6969/announce
 https://tracker.pmman.tech:443/announce
 udp://evan.im:6969/announce
