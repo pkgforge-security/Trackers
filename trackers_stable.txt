@@ -32,8 +32,8 @@ udp://tracker.fnix.net:6969/announce
 udp://martin-gebhardt.eu:25/announce
 udp://tracker.playground.ru:6969/announce
 http://tracker.mywaifu.best:6969/announce
-udp://open.demonii.com:1337/announce
 http://tracker.dhitechnical.com:6969/announce
+udp://open.demonii.com:1337/announce
 https://tracker.ghostchu-services.top:443/announce
 udp://tracker.gmi.gd:6969/announce
 https://tracker.pmman.tech:443/announce
@@ -46,5 +46,4 @@ udp://www.torrent.eu.org:451/announce
 udp://tracker.plx.im:6969/announce
 http://bvarf.tracker.sh:2086/announce
 udp://tr4ck3r.duckdns.org:6969/announce
-udp://tracker.torrust-demo.com:6969/announce
 https://torrent.tracker.durukanbal.com:443/announce
