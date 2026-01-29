@@ -31,8 +31,8 @@ udp://tracker.t-1.org:6969/announce
 http://tracker.mywaifu.best:6969/announce
 http://tracker.dhitechnical.com:6969/announce
 udp://evan.im:6969/announce
-udp://tracker.gmi.gd:6969/announce
 udp://open.demonii.com:1337/announce
+udp://tracker.gmi.gd:6969/announce
 https://tracker.ghostchu-services.top:443/announce
 udp://tracker.srv00.com:6969/announce
 udp://tracker.dler.com:6969/announce
