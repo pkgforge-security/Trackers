@@ -45,4 +45,3 @@ udp://tracker.plx.im:6969/announce
 udp://retracker.lanta.me:2710/announce
 udp://www.torrent.eu.org:451/announce
 http://bvarf.tracker.sh:2086/announce
-https://tr.nyacat.pw:443/announce
