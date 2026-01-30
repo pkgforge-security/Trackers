@@ -11,6 +11,7 @@ udp://ns575949.ip-51-222-82.net:6969/announce
 udp://tracker.ixuexi.click:6969/announce
 http://ipv6.rer.lol:6969/announce
 http://ipv4.rer.lol:2710/announce
+udp://tracker.umunu.ru:6969/announce
 http://bt.okmp3.ru:2710/announce
 https://tracker.moeblog.cn:443/announce
 udp://tracker.tryhackx.org:6969/announce
@@ -23,9 +24,9 @@ udp://tracker.1h.is:1337/announce
 udp://tracker.bluefrog.pw:2710/announce
 udp://tracker.corpscorp.online:80/announce
 udp://tracker.qu.ax:6969/announce
+udp://evan.im:6969/announce
 udp://martin-gebhardt.eu:25/announce
 udp://tracker.playground.ru:6969/announce
-udp://evan.im:6969/announce
 udp://tracker.t-1.org:6969/announce
 http://tracker.xn--djrq4gl4hvoi.top:80/announce
 http://tracker.dhitechnical.com:6969/announce
