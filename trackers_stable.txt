@@ -11,6 +11,7 @@ udp://ns575949.ip-51-222-82.net:6969/announce
 udp://tracker.ixuexi.click:6969/announce
 http://ipv6.rer.lol:6969/announce
 http://ipv4.rer.lol:2710/announce
+udp://tracker.sharebro.in:6969/announce
 http://bt.okmp3.ru:2710/announce
 https://tracker.moeblog.cn:443/announce
 udp://tracker.tryhackx.org:6969/announce
