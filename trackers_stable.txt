@@ -2,6 +2,7 @@ udp://tracker.opentrackr.org:1337/announce
 http://open.acgtracker.com:1096/announce
 udp://open.stealth.si:80/announce
 udp://tracker.torrent.eu.org:451/announce
+udp://d40969.acod.regrucolo.ru:6969/announce
 http://lucke.fenesisu.moe:6969/announce
 udp://tracker.tvunderground.org.ru:3218/announce
 https://t.213891.xyz:443/announce
@@ -14,7 +15,6 @@ http://ipv4.rer.lol:2710/announce
 udp://tracker.umunu.ru:6969/announce
 https://tracker.moeblog.cn:443/announce
 udp://tracker.tryhackx.org:6969/announce
-udp://d40969.acod.regrucolo.ru:6969/announce
 http://taciturn-shadow.spb.ru:6969/announce
 http://wegkxfcivgx.ydns.eu:80/announce
 http://tracker.renfei.net:8080/announce
