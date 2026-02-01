@@ -47,3 +47,4 @@ udp://www.torrent.eu.org:451/announce
 udp://tracker.torrust-demo.com:6969/announce
 udp://retracker.lanta.me:2710/announce
 http://bvarf.tracker.sh:2086/announce
+udp://tracker.umunu.ru:6969/announce
