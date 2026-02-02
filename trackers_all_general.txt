@@ -63,6 +63,7 @@ http://www.torrentsnipe.info:2701/announce
 https://cny.fan:443/announce
 https://t.213891.xyz:443/announce
 https://torrent.tracker.durukanbal.com:443/announce
+https://tr.nyacat.pw:443/announce
 https://tr.zukizuki.org:443/announce
 https://tracker.bt4g.com:443/announce
 https://tracker.ghostchu-services.top:443/announce
