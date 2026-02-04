@@ -36,8 +36,8 @@ https://t.213891.xyz:443/announce
 https://tracker.ghostchu-services.top:443/announce
 udp://open.demonii.com:1337/announce
 http://tracker.dhitechnical.com:6969/announce
-udp://tracker.torrust-demo.com:6969/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
+udp://tracker.torrust-demo.com:6969/announce
 https://tracker.pmman.tech:443/announce
 https://tracker.zhuqiy.com:443/announce
 udp://tracker.gmi.gd:6969/announce
