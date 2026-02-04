@@ -15,6 +15,7 @@ http://ipv4.rer.lol:2710/announce
 http://open.acgtracker.com:1096/announce
 udp://tracker.tryhackx.org:6969/announce
 udp://evan.im:6969/announce
+udp://tracker.t-1.org:6969/announce
 http://wegkxfcivgx.ydns.eu:80/announce
 http://tracker.renfei.net:8080/announce
 udp://extracker.dahrkael.net:6969/announce
@@ -24,7 +25,6 @@ udp://tracker.corpscorp.online:80/announce
 http://bt.okmp3.ru:2710/announce
 https://tracker.moeblog.cn:443/announce
 udp://tracker.qu.ax:6969/announce
-udp://tracker.t-1.org:6969/announce
 http://taciturn-shadow.spb.ru:6969/announce
 udp://tracker.waaa.moe:6969/announce
 udp://udp.tracker.projectk.org:23333/announce
@@ -36,9 +36,9 @@ https://t.213891.xyz:443/announce
 https://tracker.ghostchu-services.top:443/announce
 udp://open.demonii.com:1337/announce
 http://tracker.dhitechnical.com:6969/announce
-udp://tracker.torrust-demo.com:6969/announce
 https://tracker.pmman.tech:443/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
+udp://tracker.torrust-demo.com:6969/announce
 https://tracker.zhuqiy.com:443/announce
 udp://tracker.gmi.gd:6969/announce
 udp://tracker.umunu.ru:6969/announce
