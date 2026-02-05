@@ -30,8 +30,8 @@ http://tracker.waaa.moe:6969/announce
 udp://udp.tracker.projectk.org:23333/announce
 udp://tracker.playground.ru:6969/announce
 udp://tracker.srv00.com:6969/announce
-udp://evan.im:6969/announce
 http://tracker.mywaifu.best:6969/announce
+udp://evan.im:6969/announce
 https://t.213891.xyz:443/announce
 https://tracker.ghostchu-services.top:443/announce
 udp://open.demonii.com:1337/announce
