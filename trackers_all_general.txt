@@ -37,6 +37,7 @@ http://tracker.renfei.net:8080/announce
 http://tracker.sbsub.com:2710/announce
 http://tracker.tritan.gg:8080/announce
 http://tracker.tvunderground.org.ru:3218/announce
+http://tracker.umunu.ru:6969/announce
 http://tracker.waaa.moe:6969/announce
 http://tracker.wepzone.net:6969/announce
 http://tracker.xn--djrq4gl4hvoi.top:80/announce
@@ -105,7 +106,6 @@ udp://tracker.torrust-demo.com:6969/announce
 udp://tracker.tryhackx.org:6969/announce
 udp://tracker.tvunderground.org.ru:3218/announce
 udp://tracker.umunu.ru:6969/announce
-udp://tracker.waaa.moe:6969/announce
 udp://tracker.zupix.online:6969/announce
 udp://tracker1.myporn.club:9337/announce
 udp://udp.tracker.projectk.org:23333/announce
