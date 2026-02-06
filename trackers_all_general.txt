@@ -38,7 +38,6 @@ http://tracker.renfei.net:8080/announce
 http://tracker.sbsub.com:2710/announce
 http://tracker.tritan.gg:8080/announce
 http://tracker.tvunderground.org.ru:3218/announce
-http://tracker.umunu.ru:6969/announce
 http://tracker.vanitycore.co:6969/announce
 http://tracker.waaa.moe:6969/announce
 http://tracker.wepzone.net:6969/announce
@@ -100,7 +99,6 @@ udp://tracker.opentrackr.org:1337/announce
 udp://tracker.playground.ru:6969/announce
 udp://tracker.plx.im:6969/announce
 udp://tracker.qu.ax:6969/announce
-udp://tracker.sharebro.in:6969/announce
 udp://tracker.srv00.com:6969/announce
 udp://tracker.t-1.org:6969/announce
 udp://tracker.theoks.net:6969/announce
