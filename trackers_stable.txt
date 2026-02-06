@@ -15,6 +15,7 @@ http://ipv6.rer.lol:6969/announce
 http://ipv4.rer.lol:2710/announce
 http://open.acgtracker.com:1096/announce
 udp://tracker.tryhackx.org:6969/announce
+udp://tracker.qu.ax:6969/announce
 udp://tracker.t-1.org:6969/announce
 http://wegkxfcivgx.ydns.eu:80/announce
 http://tracker.renfei.net:8080/announce
@@ -23,7 +24,6 @@ udp://tracker.bluefrog.pw:2710/announce
 udp://tracker.corpscorp.online:80/announce
 http://bt.okmp3.ru:2710/announce
 https://tracker.moeblog.cn:443/announce
-udp://tracker.qu.ax:6969/announce
 udp://tracker.fnix.net:6969/announce
 http://taciturn-shadow.spb.ru:6969/announce
 http://tracker.waaa.moe:6969/announce
