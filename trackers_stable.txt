@@ -33,8 +33,8 @@ udp://tracker.srv00.com:6969/announce
 https://t.213891.xyz:443/announce
 udp://evan.im:6969/announce
 https://tracker.ghostchu-services.top:443/announce
-http://tracker.mywaifu.best:6969/announce
 udp://open.demonii.com:1337/announce
+http://tracker.mywaifu.best:6969/announce
 https://tracker.zhuqiy.com:443/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
 https://tracker.pmman.tech:443/announce
