@@ -5,7 +5,6 @@ udp://martin-gebhardt.eu:25/announce
 http://wegkxfcivgx.ydns.eu:80/announce
 http://lucke.fenesisu.moe:6969/announce
 udp://tracker.tvunderground.org.ru:3218/announce
-http://tracker.xn--djrq4gl4hvoi.top:80/announce
 udp://tracker.1h.is:1337/announce
 https://tracker.iochimari.moe:443/announce
 udp://tracker.flatuslifir.is:6969/announce
@@ -20,6 +19,7 @@ udp://tracker.fnix.net:6969/announce
 udp://tracker.t-1.org:6969/announce
 http://tracker.renfei.net:8080/announce
 udp://extracker.dahrkael.net:6969/announce
+http://tracker.xn--djrq4gl4hvoi.top:80/announce
 udp://tracker.bluefrog.pw:2710/announce
 udp://tracker.corpscorp.online:80/announce
 http://open.acgtracker.com:1096/announce
