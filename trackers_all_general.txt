@@ -37,7 +37,6 @@ http://tracker.mywaifu.best:6969/announce
 http://tracker.qu.ax:6969/announce
 http://tracker.renfei.net:8080/announce
 http://tracker.tvunderground.org.ru:3218/announce
-http://tracker.umunu.ru:6969/announce
 http://tracker.waaa.moe:6969/announce
 http://tracker.xn--djrq4gl4hvoi.top:80/announce
 http://tracker.zhuqiy.com:80/announce
