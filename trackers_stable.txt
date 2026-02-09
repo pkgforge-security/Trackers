@@ -42,8 +42,8 @@ https://tracker.zhuqiy.com:443/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
 http://tracker.dhitechnical.com:6969/announce
 udp://tracker.gmi.gd:6969/announce
-http://tracker.umunu.ru:6969/announce
 udp://tracker.opentorrent.top:6969/announce
+http://tracker.umunu.ru:6969/announce
 udp://tracker.dler.com:6969/announce
 udp://tracker.sharebro.in:6969/announce
 udp://www.torrent.eu.org:451/announce
