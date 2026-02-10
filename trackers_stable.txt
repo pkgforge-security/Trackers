@@ -21,11 +21,11 @@ udp://tracker.playground.ru:6969/announce
 udp://tracker.bluefrog.pw:2710/announce
 udp://tracker.corpscorp.online:80/announce
 http://open.acgtracker.com:1096/announce
-udp://evan.im:6969/announce
 http://taciturn-shadow.spb.ru:6969/announce
 http://tracker.waaa.moe:6969/announce
 http://bt.okmp3.ru:2710/announce
 udp://tracker.qu.ax:6969/announce
+udp://evan.im:6969/announce
 http://wegkxfcivgx.ydns.eu:80/announce
 udp://udp.tracker.projectk.org:23333/announce
 https://tr.nyacat.pw:443/announce
