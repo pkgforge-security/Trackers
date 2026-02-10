@@ -28,8 +28,8 @@ http://bt.okmp3.ru:2710/announce
 udp://tracker.qu.ax:6969/announce
 http://wegkxfcivgx.ydns.eu:80/announce
 udp://udp.tracker.projectk.org:23333/announce
-udp://open.demonii.com:1337/announce
 https://tr.nyacat.pw:443/announce
+udp://open.demonii.com:1337/announce
 udp://tracker.srv00.com:6969/announce
 udp://tracker.plx.im:6969/announce
 https://t.213891.xyz:443/announce
