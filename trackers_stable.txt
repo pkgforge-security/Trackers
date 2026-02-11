@@ -44,7 +44,7 @@ http://tracker.dhitechnical.com:6969/announce
 udp://tracker.gmi.gd:6969/announce
 udp://tracker.opentorrent.top:6969/announce
 udp://tracker.dler.com:6969/announce
-udp://tracker.sharebro.in:6969/announce
 udp://www.torrent.eu.org:451/announce
+udp://tracker.sharebro.in:6969/announce
 http://bvarf.tracker.sh:2086/announce
 udp://retracker.lanta.me:2710/announce
