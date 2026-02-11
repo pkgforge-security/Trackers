@@ -33,9 +33,9 @@ https://tr.nyacat.pw:443/announce
 udp://open.demonii.com:1337/announce
 udp://tracker.srv00.com:6969/announce
 udp://tracker.torrust-demo.com:6969/announce
+https://tracker.ghostchu-services.top:443/announce
 udp://tracker.plx.im:6969/announce
 udp://tracker.flatuslifir.is:6969/announce
-https://tracker.ghostchu-services.top:443/announce
 http://tracker.mywaifu.best:6969/announce
 https://tracker.pmman.tech:443/announce
 https://tracker.zhuqiy.com:443/announce
