@@ -110,5 +110,4 @@ udp://tracker.zupix.online:6969/announce
 udp://udp.tracker.projectk.org:23333/announce
 udp://utracker.ghostchu-services.top:6969/announce
 udp://wepzone.net:6969/announce
-udp://www.torrent.eu.org:451/announce
 udp://zer0day.ch:1337/announce
