@@ -47,4 +47,3 @@ udp://tracker.dler.com:6969/announce
 udp://www.torrent.eu.org:451/announce
 udp://retracker.lanta.me:2710/announce
 http://bvarf.tracker.sh:2086/announce
-udp://tracker.sharebro.in:6969/announce
