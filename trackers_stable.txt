@@ -30,8 +30,8 @@ udp://evan.im:6969/announce
 udp://tracker.torrust-demo.com:6969/announce
 http://taciturn-shadow.spb.ru:6969/announce
 http://wegkxfcivgx.ydns.eu:80/announce
-udp://udp.tracker.projectk.org:23333/announce
 https://tracker.ghostchu-services.top:443/announce
+udp://udp.tracker.projectk.org:23333/announce
 udp://tracker.flatuslifir.is:6969/announce
 udp://tracker.srv00.com:6969/announce
 https://tr.nyacat.pw:443/announce
