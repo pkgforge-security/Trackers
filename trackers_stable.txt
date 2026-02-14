@@ -34,8 +34,8 @@ https://tracker.ghostchu-services.top:443/announce
 udp://udp.tracker.projectk.org:23333/announce
 udp://tracker.flatuslifir.is:6969/announce
 udp://tracker.srv00.com:6969/announce
-https://tr.nyacat.pw:443/announce
 http://tracker.mywaifu.best:6969/announce
+https://tr.nyacat.pw:443/announce
 https://tracker.zhuqiy.com:443/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
 udp://tracker.qu.ax:6969/announce
