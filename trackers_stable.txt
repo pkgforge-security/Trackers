@@ -1,6 +1,7 @@
 udp://tracker.opentrackr.org:1337/announce
 udp://open.stealth.si:80/announce
 udp://tracker.torrent.eu.org:451/announce
+udp://tracker.torrust-demo.com:6969/announce
 udp://martin-gebhardt.eu:25/announce
 http://lucke.fenesisu.moe:6969/announce
 http://tracker.renfei.net:8080/announce
@@ -20,7 +21,6 @@ https://tracker.moeblog.cn:443/announce
 udp://tracker.tryhackx.org:6969/announce
 udp://tracker.fnix.net:6969/announce
 udp://evan.im:6969/announce
-udp://tracker.torrust-demo.com:6969/announce
 udp://tracker.t-1.org:6969/announce
 udp://extracker.dahrkael.net:6969/announce
 udp://tracker.bluefrog.pw:2710/announce
