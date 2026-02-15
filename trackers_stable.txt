@@ -40,8 +40,8 @@ udp://d40969.acod.regrucolo.ru:6969/announce
 https://tr.nyacat.pw:443/announce
 udp://tracker.qu.ax:6969/announce
 http://tracker.dhitechnical.com:6969/announce
-https://tracker.pmman.tech:443/announce
 udp://tracker.gmi.gd:6969/announce
+https://tracker.pmman.tech:443/announce
 udp://tracker.opentorrent.top:6969/announce
 udp://retracker.lanta.me:2710/announce
 udp://tracker.dler.com:6969/announce
