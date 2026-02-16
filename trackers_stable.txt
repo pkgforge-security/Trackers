@@ -28,10 +28,10 @@ udp://tracker.corpscorp.online:80/announce
 http://tracker.waaa.moe:6969/announce
 http://open.acgtracker.com:1096/announce
 http://bt.okmp3.ru:2710/announce
-https://tracker.moeblog.cn:443/announce
 http://taciturn-shadow.spb.ru:6969/announce
 http://wegkxfcivgx.ydns.eu:80/announce
 udp://udp.tracker.projectk.org:23333/announce
+https://tracker.moeblog.cn:443/announce
 https://tracker.ghostchu-services.top:443/announce
 udp://tracker.flatuslifir.is:6969/announce
 udp://tracker.srv00.com:6969/announce
