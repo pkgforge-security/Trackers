@@ -1,6 +1,7 @@
 udp://tracker.opentrackr.org:1337/announce
 udp://open.stealth.si:80/announce
 udp://tracker.torrent.eu.org:451/announce
+udp://tracker.tryhackx.org:6969/announce
 udp://evan.im:6969/announce
 udp://tracker.torrust-demo.com:6969/announce
 udp://martin-gebhardt.eu:25/announce
@@ -19,7 +20,6 @@ udp://tracker.ixuexi.click:6969/announce
 http://ipv6.rer.lol:6969/announce
 http://ipv4.rer.lol:2710/announce
 udp://open.demonii.com:1337/announce
-udp://tracker.tryhackx.org:6969/announce
 udp://tracker.fnix.net:6969/announce
 udp://tracker.t-1.org:6969/announce
 udp://tracker.bluefrog.pw:2710/announce
@@ -34,10 +34,10 @@ udp://udp.tracker.projectk.org:23333/announce
 https://tracker.ghostchu-services.top:443/announce
 udp://tracker.flatuslifir.is:6969/announce
 udp://tracker.srv00.com:6969/announce
+https://tracker.uraniumhexafluori.de:443/announce
 http://tracker.mywaifu.best:6969/announce
 https://tracker.zhuqiy.com:443/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
-https://tracker.uraniumhexafluori.de:443/announce
 https://tr.nyacat.pw:443/announce
 udp://tracker.qu.ax:6969/announce
 http://tracker.dhitechnical.com:6969/announce
