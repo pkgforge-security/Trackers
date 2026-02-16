@@ -46,3 +46,4 @@ https://tracker.pmman.tech:443/announce
 udp://tracker.opentorrent.top:6969/announce
 udp://tracker.dler.com:6969/announce
 http://bvarf.tracker.sh:2086/announce
+https://tracker.uraniumhexafluori.de:443/announce
