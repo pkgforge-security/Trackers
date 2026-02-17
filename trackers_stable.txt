@@ -20,10 +20,10 @@ udp://tracker.ixuexi.click:6969/announce
 http://ipv6.rer.lol:6969/announce
 http://ipv4.rer.lol:2710/announce
 udp://open.demonii.com:1337/announce
-udp://tracker.fnix.net:6969/announce
 udp://tracker.t-1.org:6969/announce
 udp://tracker.bluefrog.pw:2710/announce
 udp://tracker.corpscorp.online:80/announce
+udp://tracker.fnix.net:6969/announce
 http://tracker.waaa.moe:6969/announce
 udp://udp.tracker.projectk.org:23333/announce
 http://open.acgtracker.com:1096/announce
@@ -43,8 +43,8 @@ udp://retracker.lanta.me:2710/announce
 http://tracker.dhitechnical.com:6969/announce
 udp://tracker.gmi.gd:6969/announce
 https://tracker.pmman.tech:443/announce
-udp://tracker.opentorrent.top:6969/announce
 udp://tracker-udp.gbitt.info:80/announce
+udp://tracker.opentorrent.top:6969/announce
 udp://tracker.dler.com:6969/announce
 http://bvarf.tracker.sh:2086/announce
 udp://tracker.therarbg.to:6969/announce
