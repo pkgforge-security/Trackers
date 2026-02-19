@@ -25,11 +25,11 @@ http://ipv4.rer.lol:2710/announce
 udp://open.demonii.com:1337/announce
 udp://tracker.bluefrog.pw:2710/announce
 http://tracker.waaa.moe:6969/announce
-udp://udp.tracker.projectk.org:23333/announce
 http://open.acgtracker.com:1096/announce
 http://bt.okmp3.ru:2710/announce
 http://taciturn-shadow.spb.ru:6969/announce
 http://wegkxfcivgx.ydns.eu:80/announce
+udp://udp.tracker.projectk.org:23333/announce
 https://tr.nyacat.pw:443/announce
 udp://tracker.flatuslifir.is:6969/announce
 udp://tracker.fnix.net:6969/announce
