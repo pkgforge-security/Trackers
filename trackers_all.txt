@@ -836,7 +836,6 @@ https://tracker.parrotlinux.org/announce
 https://tracker.parrotlinux.org:443/announce
 https://tracker.parrotsec.org/announce
 https://tracker.parrotsec.org:443/announce
-https://tracker.pmman.tech:443/announce
 https://tracker.pterclub.com/announce
 https://tracker.publictorrent.net/announce
 https://tracker.publictorrent.net:443/announce
