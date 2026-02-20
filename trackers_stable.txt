@@ -31,10 +31,10 @@ http://taciturn-shadow.spb.ru:6969/announce
 http://wegkxfcivgx.ydns.eu:80/announce
 udp://udp.tracker.projectk.org:23333/announce
 udp://tracker.fnix.net:6969/announce
+udp://tr4ck3r.duckdns.org:6969/announce
 udp://tracker.flatuslifir.is:6969/announce
 https://tracker.ghostchu-services.top:443/announce
 udp://retracker.lanta.me:2710/announce
-udp://tr4ck3r.duckdns.org:6969/announce
 https://tr.nyacat.pw:443/announce
 http://tracker.mywaifu.best:6969/announce
 udp://tracker-udp.gbitt.info:80/announce

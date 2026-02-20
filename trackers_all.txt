@@ -1,7 +1,6 @@
 http://00.mercax.com:443/announce
 http://00.xxtor.com:443/announce
 http://0123456789nonexistent.com/announce
-http://0123456789nonexistent.com:80/announce
 http://0d.kebhana.mx:443/announce
 http://104.143.10.186:8000/announce
 http://104.244.77.14:1337/announce
@@ -472,7 +471,6 @@ http://tracker.bittorrent.nibblepoker.lu:49227/announce
 http://tracker.breizh.pm:6969/announce
 http://tracker.bt-chat.com/announce
 http://tracker.bt-hash.com/announce
-http://tracker.bt-hash.com:80/announce
 http://tracker.bt4g.com:2095/announce
 http://tracker.btcake.com/announce
 http://tracker.btcake.com:80/announce
@@ -759,7 +757,6 @@ https://tr.ready4.icu/announce
 https://tr.ready4.icu:443/announce
 https://tr.torland.ga/announce
 https://tr.torland.ga:443/announce
-https://tr.zukizuki.org:443/announce
 https://tracker.4.babico.name.tr/announce
 https://tracker.baka.ink/announce
 https://tracker.baka.ink:443/announce
@@ -820,7 +817,6 @@ https://tracker.mlsub.net/announce
 https://tracker.mlsub.net:443/announce
 https://tracker.moeblog.cn/announce
 https://tracker.moeblog.cn:443/announce
-https://tracker.moeking.me:443/announce
 https://tracker.monikadesign.uk/announce/63ea34cb9815cd28d63fc75b2f2c5a56
 https://tracker.monikadesign.uk/announce/a46be21ab845cc0d534d06fea801f95a
 https://tracker.moxing.party:6969/announce
@@ -836,6 +832,7 @@ https://tracker.parrotlinux.org/announce
 https://tracker.parrotlinux.org:443/announce
 https://tracker.parrotsec.org/announce
 https://tracker.parrotsec.org:443/announce
+https://tracker.pmman.tech:443/announce
 https://tracker.pterclub.com/announce
 https://tracker.publictorrent.net/announce
 https://tracker.publictorrent.net:443/announce
@@ -983,7 +980,6 @@ udp://download.nerocloud.me:6969/announce
 udp://elementsbrowser.com:6969/announce
 udp://epider.me:6969/announce
 udp://evan.im:6969/announce
-udp://exodus.desync.com:6969/announce
 udp://explodie.org:6969/announce
 udp://extracker.dahrkael.net:6969/announce
 udp://f1sh.de:6969/announce
@@ -1074,7 +1070,6 @@ udp://torrents.artixlinux.org:6969/announce
 udp://tr.bangumi.moe:6969/announce
 udp://tr.cili001.com:8070/announce
 udp://tr4ck3r.duckdns.org:6969/announce
-udp://tracker-de-2.cutie.dating:1337/announce
 udp://tracker-udp.anirena.com:80/announce
 udp://tracker-udp.gbitt.info:80/announce
 udp://tracker.0x.tf:6969/announce
