@@ -23,10 +23,10 @@ http://ipv4.rer.lol:2710/announce
 udp://evan.im:6969/announce
 udp://tracker.torrust-demo.com:6969/announce
 udp://tracker.bluefrog.pw:2710/announce
+http://bt.okmp3.ru:2710/announce
 udp://open.demonii.com:1337/announce
 http://tracker.waaa.moe:6969/announce
 http://open.acgtracker.com:1096/announce
-http://bt.okmp3.ru:2710/announce
 http://taciturn-shadow.spb.ru:6969/announce
 http://wegkxfcivgx.ydns.eu:80/announce
 udp://udp.tracker.projectk.org:23333/announce
@@ -34,9 +34,9 @@ udp://tracker.fnix.net:6969/announce
 udp://tracker.flatuslifir.is:6969/announce
 https://tracker.ghostchu-services.top:443/announce
 udp://retracker.lanta.me:2710/announce
+udp://tr4ck3r.duckdns.org:6969/announce
 https://tr.nyacat.pw:443/announce
 http://tracker.mywaifu.best:6969/announce
-udp://tr4ck3r.duckdns.org:6969/announce
 udp://tracker-udp.gbitt.info:80/announce
 udp://tracker.srv00.com:6969/announce
 https://tracker.zhuqiy.com:443/announce
