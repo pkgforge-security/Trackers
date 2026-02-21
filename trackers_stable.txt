@@ -36,9 +36,9 @@ udp://tracker.fnix.net:6969/announce
 https://tracker.ghostchu-services.top:443/announce
 udp://tracker-udp.gbitt.info:80/announce
 http://tracker.mywaifu.best:6969/announce
+http://echostar.ddnsfree.com:8080/announce
 https://tr.nyacat.pw:443/announce
 udp://tracker.srv00.com:6969/announce
-http://echostar.ddnsfree.com:8080/announce
 udp://evan.im:6969/announce
 https://tracker.zhuqiy.com:443/announce
 udp://tracker.breizh.pm:6969/announce
