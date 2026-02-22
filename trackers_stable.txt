@@ -41,8 +41,8 @@ https://tr.nyacat.pw:443/announce
 udp://tracker.srv00.com:6969/announce
 udp://evan.im:6969/announce
 https://tracker.zhuqiy.com:443/announce
-udp://tracker.gmi.gd:6969/announce
 udp://tracker.breizh.pm:6969/announce
+udp://tracker.gmi.gd:6969/announce
 udp://tracker.qu.ax:6969/announce
 http://tracker.dhitechnical.com:6969/announce
 udp://tracker.dler.com:6969/announce
