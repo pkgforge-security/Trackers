@@ -34,8 +34,8 @@ http://open.acgtracker.com:1096/announce
 udp://retracker.lanta.me:2710/announce
 udp://udp.tracker.projectk.org:23333/announce
 https://tracker.manager.v6.navy:443/announce
-udp://tracker.fnix.net:6969/announce
 udp://tracker-udp.gbitt.info:80/announce
+udp://tracker.fnix.net:6969/announce
 https://tracker.ghostchu-services.top:443/announce
 http://tracker.mywaifu.best:6969/announce
 udp://tracker.srv00.com:6969/announce
