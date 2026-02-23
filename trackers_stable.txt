@@ -29,10 +29,10 @@ http://bt.okmp3.ru:2710/announce
 udp://open.demonii.com:1337/announce
 http://taciturn-shadow.spb.ru:6969/announce
 http://tracker.waaa.moe:6969/announce
+udp://tracker-udp.gbitt.info:80/announce
 http://wegkxfcivgx.ydns.eu:80/announce
 https://tracker.manager.v6.navy:443/announce
 http://open.acgtracker.com:1096/announce
-udp://tracker-udp.gbitt.info:80/announce
 udp://retracker.lanta.me:2710/announce
 udp://udp.tracker.projectk.org:23333/announce
 udp://tracker.fnix.net:6969/announce
@@ -50,5 +50,5 @@ udp://tracker.dler.com:6969/announce
 udp://tracker.therarbg.to:6969/announce
 http://bvarf.tracker.sh:2086/announce
 udp://admin.52ywp.com:6969/announce
-https://tracker.moeblog.cn:443/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
+https://tracker.moeblog.cn:443/announce
