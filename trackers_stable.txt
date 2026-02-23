@@ -22,6 +22,7 @@ udp://tracker.ixuexi.click:6969/announce
 udp://tracker.corpscorp.online:80/announce
 http://ipv6.rer.lol:6969/announce
 http://ipv4.rer.lol:2710/announce
+udp://tracker-udp.gbitt.info:80/announce
 udp://tracker.torrust-demo.com:6969/announce
 udp://martin-gebhardt.eu:25/announce
 https://t.213891.xyz:443/announce
@@ -29,7 +30,6 @@ http://bt.okmp3.ru:2710/announce
 udp://open.demonii.com:1337/announce
 http://taciturn-shadow.spb.ru:6969/announce
 http://tracker.waaa.moe:6969/announce
-udp://tracker-udp.gbitt.info:80/announce
 http://wegkxfcivgx.ydns.eu:80/announce
 https://tracker.manager.v6.navy:443/announce
 http://open.acgtracker.com:1096/announce
