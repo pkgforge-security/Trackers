@@ -37,10 +37,10 @@ https://tracker.ghostchu-services.top:443/announce
 udp://tracker.tvunderground.org.ru:3218/announce
 http://tracker.mywaifu.best:6969/announce
 udp://tracker.gmi.gd:6969/announce
-udp://tracker.torrust-demo.com:6969/announce
-http://tracker.dhitechnical.com:6969/announce
-udp://tracker.srv00.com:6969/announce
 udp://evan.im:6969/announce
+http://tracker.dhitechnical.com:6969/announce
+udp://tracker.torrust-demo.com:6969/announce
+udp://tracker.srv00.com:6969/announce
 https://tr.nyacat.pw:443/announce
 https://tracker.manager.v6.navy:443/announce
 https://tracker.zhuqiy.com:443/announce
