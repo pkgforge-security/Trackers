@@ -22,6 +22,7 @@ http://ipv6.rer.lol:6969/announce
 http://ipv4.rer.lol:2710/announce
 udp://tracker.opentrackr.org:1337/announce
 udp://martin-gebhardt.eu:25/announce
+https://shahidrazi.online:443/announce
 http://tracker.xn--djrq4gl4hvoi.top:80/announce
 https://t.213891.xyz:443/announce
 http://bt.okmp3.ru:2710/announce
@@ -31,15 +32,14 @@ http://open.acgtracker.com:1096/announce
 udp://open.demonii.com:1337/announce
 udp://retracker.lanta.me:2710/announce
 http://wegkxfcivgx.ydns.eu:80/announce
-https://shahidrazi.online:443/announce
-udp://tracker.tvunderground.org.ru:3218/announce
 udp://tracker.fnix.net:6969/announce
 udp://tracker.torrust-demo.com:6969/announce
+udp://tracker.tvunderground.org.ru:3218/announce
 https://tracker.ghostchu-services.top:443/announce
 http://tracker.mywaifu.best:6969/announce
 udp://tracker.gmi.gd:6969/announce
-udp://tracker.srv00.com:6969/announce
 http://tracker.dhitechnical.com:6969/announce
+udp://tracker.srv00.com:6969/announce
 udp://evan.im:6969/announce
 https://tr.nyacat.pw:443/announce
 https://tracker.manager.v6.navy:443/announce
