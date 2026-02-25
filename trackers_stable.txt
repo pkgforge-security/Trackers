@@ -2,6 +2,7 @@ udp://open.stealth.si:80/announce
 udp://tracker-udp.gbitt.info:80/announce
 udp://tracker.torrent.eu.org:451/announce
 udp://tracker.tryhackx.org:6969/announce
+https://shahidrazi.online:443/announce
 udp://tracker.t-1.org:6969/announce
 udp://tr4ck3r.duckdns.org:6969/announce
 http://echostar.ddnsfree.com:8080/announce
@@ -22,14 +23,13 @@ http://ipv6.rer.lol:6969/announce
 http://ipv4.rer.lol:2710/announce
 udp://tracker.opentrackr.org:1337/announce
 udp://martin-gebhardt.eu:25/announce
-https://shahidrazi.online:443/announce
 http://tracker.xn--djrq4gl4hvoi.top:80/announce
 https://t.213891.xyz:443/announce
 http://bt.okmp3.ru:2710/announce
+udp://open.demonii.com:1337/announce
 http://taciturn-shadow.spb.ru:6969/announce
 http://tracker.waaa.moe:6969/announce
 http://open.acgtracker.com:1096/announce
-udp://open.demonii.com:1337/announce
 udp://retracker.lanta.me:2710/announce
 http://wegkxfcivgx.ydns.eu:80/announce
 udp://tracker.fnix.net:6969/announce
@@ -49,6 +49,6 @@ udp://tracker.breizh.pm:6969/announce
 udp://tracker.qu.ax:6969/announce
 udp://udp.tracker.projectk.org:23333/announce
 udp://tracker.therarbg.to:6969/announce
-http://bvarf.tracker.sh:2086/announce
 udp://utracker.ghostchu-services.top:6969/announce
+http://bvarf.tracker.sh:2086/announce
 udp://tracker.sharebro.in:6969/announce
