@@ -51,8 +51,8 @@ udp://tracker.breizh.pm:6969/announce
 udp://tracker.qu.ax:6969/announce
 udp://udp.tracker.projectk.org:23333/announce
 udp://tracker.therarbg.to:6969/announce
-udp://tracker.torrust-demo.com:6969/announce
 udp://utracker.ghostchu-services.top:6969/announce
+udp://tracker.torrust-demo.com:6969/announce
 http://bvarf.tracker.sh:2086/announce
 udp://tracker.iperson.xyz:6969/announce
 udp://tracker.sharebro.in:6969/announce
