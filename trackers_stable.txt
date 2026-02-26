@@ -24,7 +24,6 @@ udp://tracker.opentrackr.org:1337/announce
 udp://tracker.torrent.eu.org:451/announce
 udp://martin-gebhardt.eu:25/announce
 udp://tr4ck3r.duckdns.org:6969/announce
-http://tracker.xn--djrq4gl4hvoi.top:80/announce
 https://t.213891.xyz:443/announce
 udp://tracker.playground.ru:6969/announce
 http://bt.okmp3.ru:2710/announce
@@ -32,6 +31,7 @@ udp://open.demonii.com:1337/announce
 udp://evan.im:6969/announce
 udp://retracker.lanta.me:2710/announce
 http://taciturn-shadow.spb.ru:6969/announce
+http://tracker.xn--djrq4gl4hvoi.top:80/announce
 https://tracker.novy.vip:443/announce
 http://open.acgtracker.com:1096/announce
 http://tracker.waaa.moe:6969/announce
