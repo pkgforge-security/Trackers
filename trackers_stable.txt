@@ -1,6 +1,7 @@
 udp://open.stealth.si:80/announce
 udp://tracker-udp.gbitt.info:80/announce
 udp://tracker.tryhackx.org:6969/announce
+udp://retracker.lanta.me:2710/announce
 https://shahidrazi.online:443/announce
 udp://tracker.t-1.org:6969/announce
 http://echostar.ddnsfree.com:8080/announce
@@ -22,7 +23,6 @@ https://tracker.qingwapt.org:443/announce
 udp://tracker.riverarmy.xyz:6969/announce
 udp://tracker.opentrackr.org:1337/announce
 udp://tracker.torrent.eu.org:451/announce
-udp://retracker.lanta.me:2710/announce
 udp://martin-gebhardt.eu:25/announce
 udp://tr4ck3r.duckdns.org:6969/announce
 https://t.213891.xyz:443/announce
@@ -48,8 +48,8 @@ https://tracker.manager.v6.navy:443/announce
 udp://tracker.srv00.com:6969/announce
 https://tracker.zhuqiy.com:443/announce
 udp://tracker.dler.com:6969/announce
-udp://tracker.qu.ax:6969/announce
 udp://tracker.breizh.pm:6969/announce
+udp://tracker.qu.ax:6969/announce
 udp://tracker.therarbg.to:6969/announce
 udp://tracker.tvunderground.org.ru:3218/announce
 udp://utracker.ghostchu-services.top:6969/announce
