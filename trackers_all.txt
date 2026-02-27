@@ -313,7 +313,6 @@ http://ipv6.rer.lol:6969/announce
 http://irrenhaus.dyndns.dk/announce.php
 http://irrenhaus.dyndns.dk:80/announce.php
 http://jp.moeweb.pw:6969/announce
-http://jvavav.com:80/announce
 http://kamikazee.duckdns.org:7777/announce
 http://kinorun.com/announce.php
 http://kinorun.com:80/announce.php
@@ -396,9 +395,9 @@ http://secure.pow7.com:80/announce
 http://seeders-paradise.org/announce
 http://seeders-paradise.org:80/announce
 http://servandroidkino.ru/announce
+http://servandroidkino.ru:80/announce
 http://share.camoe.cn:8080/announce
 http://share.hkg-fansub.info/announce.php
-http://share.hkg-fansub.info:80/announce.php
 http://shogiroom.com:6969/announce
 http://shubt.net:2710/announce
 http://siambit.com/announce.php
@@ -428,6 +427,7 @@ http://torrent-team.net:80/announce.php
 http://torrent-tracker.ru/announce.php
 http://torrent.arjlover.net:2710/announce
 http://torrent.fedoraproject.org:6969/announce
+http://torrent.hificode.in:6969/announce
 http://torrent.mp3quran.net/announce.php
 http://torrent.mp3quran.net:80/announce.php
 http://torrent.nwps.ws/announce
@@ -470,7 +470,6 @@ http://tracker.bittorrent.nibblepoker.lu:49227/announce
 http://tracker.breizh.pm:6969/announce
 http://tracker.bt-chat.com/announce
 http://tracker.bt-hash.com/announce
-http://tracker.bt-hash.com:80/announce
 http://tracker.bt4g.com:2095/announce
 http://tracker.btcake.com/announce
 http://tracker.btcake.com:80/announce
@@ -730,7 +729,6 @@ https://tk.mabo.ltd/announce
 https://tk.mabo.ltd:443/announce
 https://torrent-tracker.hama3.net/announce
 https://torrent-tracker.hama3.net:443/announce
-https://torrent.tracker.durukanbal.com:443/announce
 https://torrent.ubuntu.com/announce
 https://torrent.ubuntu.com:443/announce
 https://torrents.linuxmint.com/announce.php
@@ -986,6 +984,7 @@ udp://download.nerocloud.me:6969/announce
 udp://elementsbrowser.com:6969/announce
 udp://epider.me:6969/announce
 udp://evan.im:6969/announce
+udp://exodus.desync.com:6969/announce
 udp://explodie.org:6969/announce
 udp://extracker.dahrkael.net:6969/announce
 udp://f1sh.de:6969/announce
@@ -1146,7 +1145,6 @@ udp://tracker.tryhackx.org:6969/announce
 udp://tracker.tvunderground.org.ru:3218/announce
 udp://tracker.wepzone.net:6969/announce
 udp://tracker.yangxiaoguozi.cn:6969/announce
-udp://tracker.yume-hatsuyuki.moe:6969/announce
 udp://tracker.zaluan.xyz:6969/announce
 udp://tracker.zemoj.com:6969/announce
 udp://tracker.zerobytes.xyz:1337/announce
