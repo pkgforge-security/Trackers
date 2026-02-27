@@ -40,8 +40,8 @@ http://wegkxfcivgx.ydns.eu:80/announce
 udp://uabits.today:6990/announce
 udp://tracker.fnix.net:6969/announce
 http://tracker.dhitechnical.com:6969/announce
-https://tracker.ghostchu-services.top:443/announce
 udp://tracker.gmi.gd:6969/announce
+https://tracker.ghostchu-services.top:443/announce
 http://tracker.mywaifu.best:6969/announce
 https://tr.nyacat.pw:443/announce
 https://tracker.manager.v6.navy:443/announce
