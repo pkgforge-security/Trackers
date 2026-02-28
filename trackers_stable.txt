@@ -35,10 +35,10 @@ http://taciturn-shadow.spb.ru:6969/announce
 http://tracker.xn--djrq4gl4hvoi.top:80/announce
 udp://torrentvpn.club:6990/announce
 http://open.acgtracker.com:1096/announce
-udp://evan.im:6969/announce
 http://tracker.waaa.moe:6969/announce
 http://wegkxfcivgx.ydns.eu:80/announce
 udp://uabits.today:6990/announce
+udp://evan.im:6969/announce
 udp://tracker.gmi.gd:6969/announce
 udp://tracker.fnix.net:6969/announce
 https://tracker.ghostchu-services.top:443/announce
