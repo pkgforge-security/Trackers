@@ -26,7 +26,6 @@ http://bt.okmp3.ru:2710/announce
 udp://tracker.torrent.eu.org:451/announce
 udp://martin-gebhardt.eu:25/announce
 udp://tr4ck3r.duckdns.org:6969/announce
-udp://tracker.plx.im:6969/announce
 https://t.213891.xyz:443/announce
 udp://tracker.playground.ru:6969/announce
 https://tracker.novy.vip:443/announce
@@ -42,8 +41,9 @@ http://wegkxfcivgx.ydns.eu:80/announce
 udp://uabits.today:6990/announce
 udp://tracker.gmi.gd:6969/announce
 udp://tracker.fnix.net:6969/announce
-http://tracker.dhitechnical.com:6969/announce
+udp://tracker.plx.im:6969/announce
 https://tracker.ghostchu-services.top:443/announce
+http://tracker.dhitechnical.com:6969/announce
 https://tracker.manager.v6.navy:443/announce
 udp://tracker.srv00.com:6969/announce
 https://tracker.zhuqiy.com:443/announce
