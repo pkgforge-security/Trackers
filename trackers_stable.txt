@@ -55,5 +55,3 @@ udp://utracker.ghostchu-services.top:6969/announce
 udp://udp.tracker.projectk.org:23333/announce
 udp://tracker.iperson.xyz:6969/announce
 udp://tracker.tvunderground.org.ru:3218/announce
-udp://tracker.sharebro.in:6969/announce
-http://bvarf.tracker.sh:2086/announce
