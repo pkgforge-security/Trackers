@@ -52,4 +52,3 @@ udp://tracker.therarbg.to:6969/announce
 udp://udp.tracker.projectk.org:23333/announce
 udp://tracker.iperson.xyz:6969/announce
 udp://utracker.ghostchu-services.top:6969/announce
-http://echostar.ddnsfree.com:8080/announce
