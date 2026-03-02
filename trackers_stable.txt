@@ -20,7 +20,6 @@ udp://tracker.bluefrog.pw:2710/announce
 udp://tracker.ixuexi.click:6969/announce
 udp://tracker.corpscorp.online:80/announce
 http://ipv6.rer.lol:6969/announce
-http://ipv4.rer.lol:2710/announce
 https://tracker.qingwapt.org:443/announce
 udp://tracker.riverarmy.xyz:6969/announce
 udp://tracker.opentrackr.org:1337/announce
@@ -33,6 +32,7 @@ https://tracker.novy.vip:443/announce
 http://open.acgtracker.com:1096/announce
 http://taciturn-shadow.spb.ru:6969/announce
 udp://torrentvpn.club:6990/announce
+http://ipv4.rer.lol:2710/announce
 udp://uabits.today:6990/announce
 udp://open.demonii.com:1337/announce
 udp://evan.im:6969/announce
