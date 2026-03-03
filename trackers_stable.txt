@@ -32,12 +32,12 @@ http://open.acgtracker.com:1096/announce
 udp://open.demonii.com:1337/announce
 http://taciturn-shadow.spb.ru:6969/announce
 https://t.213891.xyz:443/announce
-udp://torrentvpn.club:6990/announce
 http://ipv4.rer.lol:2710/announce
 udp://uabits.today:6990/announce
 udp://evan.im:6969/announce
 http://tracker.waaa.moe:6969/announce
 https://tracker.ghostchu-services.top:443/announce
+udp://torrentvpn.club:6990/announce
 udp://tracker.fnix.net:6969/announce
 udp://tracker.gmi.gd:6969/announce
 http://tracker.dhitechnical.com:6969/announce
