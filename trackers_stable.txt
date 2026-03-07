@@ -42,8 +42,8 @@ https://t.213891.xyz:443/announce
 udp://tracker.fnix.net:6969/announce
 http://tracker.dhitechnical.com:6969/announce
 https://tracker.manager.v6.navy:443/announce
-udp://tracker.srv00.com:6969/announce
 https://tracker.zhuqiy.com:443/announce
+udp://tracker.srv00.com:6969/announce
 udp://tracker.dler.com:6969/announce
 udp://tracker.breizh.pm:6969/announce
 udp://tracker.iperson.xyz:6969/announce
