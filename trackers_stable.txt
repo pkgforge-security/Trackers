@@ -48,6 +48,6 @@ udp://tracker.dler.com:6969/announce
 udp://tracker.breizh.pm:6969/announce
 udp://tracker.iperson.xyz:6969/announce
 udp://tracker.therarbg.to:6969/announce
-udp://tracker.qu.ax:6969/announce
 udp://udp.tracker.projectk.org:23333/announce
+udp://tracker.qu.ax:6969/announce
 udp://bt.rer.lol:6969/announce
