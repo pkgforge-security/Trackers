@@ -39,8 +39,8 @@ http://tracker.xn--djrq4gl4hvoi.top:80/announce
 udp://torrentvpn.club:6990/announce
 udp://tracker.gmi.gd:6969/announce
 udp://tracker.fnix.net:6969/announce
-http://tracker.dhitechnical.com:6969/announce
 https://t.213891.xyz:443/announce
+http://tracker.dhitechnical.com:6969/announce
 https://tracker.manager.v6.navy:443/announce
 https://tracker.zhuqiy.com:443/announce
 udp://tracker.dler.com:6969/announce
@@ -48,6 +48,6 @@ udp://udp.tracker.projectk.org:23333/announce
 udp://tracker.breizh.pm:6969/announce
 udp://tracker.therarbg.to:6969/announce
 udp://tracker.iperson.xyz:6969/announce
-udp://tracker.srv00.com:6969/announce
 udp://tracker.qu.ax:6969/announce
+udp://tracker.srv00.com:6969/announce
 udp://bt.rer.lol:6969/announce
