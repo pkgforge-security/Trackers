@@ -37,9 +37,9 @@ http://open.acgtracker.com:1096/announce
 udp://uabits.today:6990/announce
 http://tracker.waaa.moe:6969/announce
 https://tracker.ghostchu-services.top:443/announce
+https://t.213891.xyz:443/announce
 udp://torrentvpn.club:6990/announce
 udp://tracker.gmi.gd:6969/announce
-https://t.213891.xyz:443/announce
 udp://tracker.fnix.net:6969/announce
 udp://udp.tracker.projectk.org:23333/announce
 http://tracker.dhitechnical.com:6969/announce
