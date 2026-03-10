@@ -40,9 +40,9 @@ udp://torrentvpn.club:6990/announce
 udp://tracker.gmi.gd:6969/announce
 https://t.213891.xyz:443/announce
 udp://tracker.fnix.net:6969/announce
+udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 udp://udp.tracker.projectk.org:23333/announce
 http://tracker.dhitechnical.com:6969/announce
-udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 https://tracker.manager.v6.navy:443/announce
 https://tracker.zhuqiy.com:443/announce
 udp://tracker.dler.com:6969/announce
