@@ -53,3 +53,4 @@ udp://tracker.qu.ax:6969/announce
 https://tracker.moeblog.cn:443/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
 udp://bt.rer.lol:6969/announce
+udp://tracker.theoks.net:6969/announce
