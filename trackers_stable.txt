@@ -30,10 +30,10 @@ http://taciturn-shadow.spb.ru:6969/announce
 https://t.213891.xyz:443/announce
 udp://tracker.playground.ru:6969/announce
 udp://torrentvpn.club:6990/announce
+udp://uabits.today:6990/announce
 http://ipv6.rer.lol:6969/announce
 http://ipv4.rer.lol:2710/announce
 http://open.acgtracker.com:1096/announce
-udp://uabits.today:6990/announce
 udp://tracker.gmi.gd:6969/announce
 udp://udp.tracker.projectk.org:23333/announce
 https://tracker.ghostchu-services.top:443/announce
@@ -51,6 +51,6 @@ udp://tracker.therarbg.to:6969/announce
 https://tracker.iochimari.moe:443/announce
 udp://tracker.qu.ax:6969/announce
 http://tracker.waaa.moe:6969/announce
-udp://bt.rer.lol:6969/announce
 udp://tracker.theoks.net:6969/announce
+udp://bt.rer.lol:6969/announce
 https://tracker.pmman.tech:443/announce
