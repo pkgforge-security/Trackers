@@ -31,8 +31,8 @@ udp://tracker.playground.ru:6969/announce
 udp://tracker.ixuexi.click:6969/announce
 udp://torrentvpn.club:6990/announce
 udp://uabits.today:6990/announce
-http://ipv4.rer.lol:2710/announce
 http://ipv6.rer.lol:6969/announce
+http://ipv4.rer.lol:2710/announce
 http://open.acgtracker.com:1096/announce
 udp://tracker.torrust-demo.com:6969/announce
 udp://tracker.gmi.gd:6969/announce
