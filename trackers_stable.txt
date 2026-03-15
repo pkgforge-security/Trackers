@@ -29,12 +29,12 @@ udp://open.demonii.com:1337/announce
 http://taciturn-shadow.spb.ru:6969/announce
 https://t.213891.xyz:443/announce
 udp://tracker.playground.ru:6969/announce
-udp://tracker.ixuexi.click:6969/announce
 udp://torrentvpn.club:6990/announce
 udp://uabits.today:6990/announce
 http://ipv6.rer.lol:6969/announce
 http://ipv4.rer.lol:2710/announce
 udp://tracker.gmi.gd:6969/announce
+udp://tracker.ixuexi.click:6969/announce
 udp://tracker.torrust-demo.com:6969/announce
 https://tracker.ghostchu-services.top:443/announce
 http://tracker.xn--djrq4gl4hvoi.top:80/announce
