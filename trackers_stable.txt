@@ -53,4 +53,3 @@ udp://tracker.qu.ax:6969/announce
 udp://bt.rer.lol:6969/announce
 udp://tracker.theoks.net:6969/announce
 https://tracker.pmman.tech:443/announce
-https://tracker.iochimari.moe:443/announce
