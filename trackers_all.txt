@@ -497,6 +497,7 @@ http://tracker.enitin.xyz/announce
 http://tracker.etree.org:6969/announce
 http://tracker.ex.ua/announce
 http://tracker.ex.ua:80/announce
+http://tracker.exe.in.th:6969/announce
 http://tracker.fansub.id/announce
 http://tracker.fansub.id:80/announce
 http://tracker.fdn.fr:6969/announce

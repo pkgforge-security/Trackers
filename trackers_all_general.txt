@@ -21,6 +21,7 @@ http://tracker.darkness.services:6969/announce
 http://tracker.dhitechnical.com:6969/announce
 http://tracker.dler.com:6969/announce
 http://tracker.dler.org:6969/announce
+http://tracker.exe.in.th:6969/announce
 http://tracker.ghostchu-services.top:80/announce
 http://tracker.mywaifu.best:6969/announce
 http://tracker.opentrackr.org:1337/announce
