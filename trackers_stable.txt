@@ -42,9 +42,9 @@ udp://tracker.gmi.gd:6969/announce
 http://tracker.xn--djrq4gl4hvoi.top:80/announce
 udp://tracker.ixuexi.click:6969/announce
 http://tracker.exe.in.th:6969/announce
-udp://d40969.acod.regrucolo.ru:6969/announce
 https://tracker.pmman.tech:443/announce
 https://tracker.moeblog.cn:443/announce
+udp://d40969.acod.regrucolo.ru:6969/announce
 http://tracker.dhitechnical.com:6969/announce
 udp://t.overflow.biz:6969/announce
 https://tracker.ghostchu-services.top:443/announce
