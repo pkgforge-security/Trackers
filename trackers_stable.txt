@@ -36,8 +36,8 @@ http://wegkxfcivgx.ydns.eu:80/announce
 udp://tracker.playground.ru:6969/announce
 udp://torrentvpn.club:6990/announce
 udp://udp1.torrust-tracker-demo.com:6969/announce
-http://ipv4.rer.lol:2710/announce
 http://ipv6.rer.lol:6969/announce
+http://ipv4.rer.lol:2710/announce
 https://tracker.nekomi.cn:443/announce
 http://tracker.exe.in.th:6969/announce
 udp://tracker.gmi.gd:6969/announce
