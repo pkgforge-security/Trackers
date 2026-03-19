@@ -34,8 +34,8 @@ https://tracker.pmman.tech:443/announce
 http://taciturn-shadow.spb.ru:6969/announce
 http://wegkxfcivgx.ydns.eu:80/announce
 udp://udp1.torrust-tracker-demo.com:6969/announce
-http://ipv4.rer.lol:2710/announce
 http://ipv6.rer.lol:6969/announce
+http://ipv4.rer.lol:2710/announce
 https://tracker.nekomi.cn:443/announce
 http://tracker.exe.in.th:6969/announce
 http://open.acgtracker.com:1096/announce
