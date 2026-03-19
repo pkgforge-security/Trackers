@@ -44,8 +44,8 @@ udp://evan.im:6969/announce
 http://tracker.xn--djrq4gl4hvoi.top:80/announce
 udp://tracker.ixuexi.click:6969/announce
 udp://tracker.gmi.gd:6969/announce
-http://tracker.dhitechnical.com:6969/announce
 https://tr.zukizuki.org:443/announce
+http://tracker.dhitechnical.com:6969/announce
 udp://tracker.dler.com:6969/announce
 https://tracker.ghostchu-services.top:443/announce
 https://tracker.zhuqiy.com:443/announce
