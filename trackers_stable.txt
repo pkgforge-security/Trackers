@@ -33,9 +33,9 @@ https://http1.torrust-tracker-demo.com:443/announce
 http://taciturn-shadow.spb.ru:6969/announce
 http://wegkxfcivgx.ydns.eu:80/announce
 udp://torrentvpn.club:6990/announce
-http://ipv6.rer.lol:6969/announce
 http://ipv4.rer.lol:2710/announce
 https://tracker.nekomi.cn:443/announce
+http://ipv6.rer.lol:6969/announce
 http://tracker.exe.in.th:6969/announce
 https://tracker.moeblog.cn:443/announce
 udp://evan.im:6969/announce
