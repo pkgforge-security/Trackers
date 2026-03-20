@@ -57,3 +57,4 @@ udp://udp.tracker.projectk.org:23333/announce
 udp://tracker.qu.ax:6969/announce
 udp://tracker.theoks.net:6969/announce
 udp://bt.rer.lol:6969/announce
+udp://open.dstud.io:6969/announce
