@@ -36,8 +36,8 @@ http://tracker.xn--djrq4gl4hvoi.top:80/announce
 udp://torrentvpn.club:6990/announce
 https://tracker.nekomi.cn:443/announce
 http://tracker.exe.in.th:6969/announce
-http://ipv6.rer.lol:6969/announce
 http://ipv4.rer.lol:2710/announce
+http://ipv6.rer.lol:6969/announce
 https://tracker.moeblog.cn:443/announce
 udp://evan.im:6969/announce
 https://tr.zukizuki.org:443/announce
@@ -57,6 +57,6 @@ udp://udp.tracker.projectk.org:23333/announce
 udp://tracker.qu.ax:6969/announce
 udp://tracker.theoks.net:6969/announce
 udp://bt.rer.lol:6969/announce
-udp://open.dstud.io:6969/announce
 https://tracker-zhuqiy.xn--1r3au8b.space:443/announce
+udp://open.dstud.io:6969/announce
 http://tracker.bt4g.com:2095/announce
