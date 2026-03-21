@@ -58,4 +58,5 @@ udp://tracker.qu.ax:6969/announce
 udp://tracker.theoks.net:6969/announce
 udp://bt.rer.lol:6969/announce
 udp://open.dstud.io:6969/announce
+https://tracker-zhuqiy.xn--1r3au8b.space:443/announce
 http://tracker.bt4g.com:2095/announce
