@@ -96,7 +96,6 @@ udp://open.demonoid.ch:6969/announce
 udp://open.dstud.io:6969/announce
 udp://open.stealth.si:80/announce
 udp://rekcart.duckdns.org:15480/announce
-udp://retracker.lanta.me:2710/announce
 udp://t.overflow.biz:6969/announce
 udp://torrentclub.online:54123/announce
 udp://torrentvpn.club:6990/announce
