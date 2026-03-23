@@ -11,6 +11,7 @@ udp://martin-gebhardt.eu:25/announce
 https://shahidrazi.online:443/announce
 https://tracker.pmman.tech:443/announce
 udp://tracker.t-1.org:6969/announce
+https://tr.zukizuki.org:443/announce
 http://echostar.ddnsfree.com:8080/announce
 https://tracker-zhuqiy.xn--1r3au8b.space:443/announce
 http://lucke.fenesisu.moe:6969/announce
@@ -31,12 +32,11 @@ https://tracker.manager.v6.navy:443/announce
 https://tracker.qingwapt.org:443/announce
 udp://uabits.today:6990/announce
 https://http1.torrust-tracker-demo.com:443/announce
+udp://udp1.torrust-tracker-demo.com:6969/announce
 http://bt.okmp3.ru:2710/announce
 http://taciturn-shadow.spb.ru:6969/announce
-https://tr.zukizuki.org:443/announce
 http://wegkxfcivgx.ydns.eu:80/announce
 udp://torrentvpn.club:6990/announce
-udp://udp1.torrust-tracker-demo.com:6969/announce
 http://tracker.exe.in.th:6969/announce
 http://ipv6.rer.lol:6969/announce
 http://ipv4.rer.lol:2710/announce
