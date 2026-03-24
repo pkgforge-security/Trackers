@@ -56,8 +56,8 @@ udp://udp.tracker.projectk.org:23333/announce
 https://tracker.ghostchu-services.top:443/announce
 http://tracker.bt4g.com:2095/announce
 udp://tracker.qu.ax:6969/announce
-udp://tracker.theoks.net:6969/announce
 http://s1130639.ha009.t.mydomain.zone:80/announce
+udp://tracker.theoks.net:6969/announce
 udp://bt.rer.lol:6969/announce
 https://tracker.nekomi.cn:443/announce
 udp://tracker.srv00.com:6969/announce
