@@ -54,9 +54,9 @@ udp://tracker.dler.com:6969/announce
 http://tracker.bt4g.com:2095/announce
 https://tracker.ghostchu-services.top:443/announce
 udp://bt.rer.lol:6969/announce
-http://s1130639.ha009.t.mydomain.zone:80/announce
 https://tracker.nekomi.cn:443/announce
 udp://tracker.theoks.net:6969/announce
+http://s1130639.ha009.t.mydomain.zone:80/announce
 udp://tracker-udp.gbitt.info:80/announce
 udp://torrentvpn.club:6990/announce
 udp://tracker.srv00.com:6969/announce
