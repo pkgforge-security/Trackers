@@ -13,6 +13,7 @@ http://ipv4.rer.lol:2710/announce
 http://ipv6.rer.lol:6969/announce
 http://lucke.fenesisu.moe:6969/announce
 http://open.acgtracker.com:1096/announce
+http://s1130639.ha009.t.mydomain.zone:80/announce
 http://share.hkg-fansub.info:80/announce.php
 http://t.overflow.biz:6969/announce
 http://taciturn-shadow.spb.ru:6969/announce
