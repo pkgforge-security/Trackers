@@ -58,4 +58,3 @@ udp://tracker-udp.gbitt.info:80/announce
 udp://tracker.theoks.net:6969/announce
 udp://tracker.srv00.com:6969/announce
 http://tracker.skyts.net:6969/announce
-udp://www.nartlof.com:6969/announce
