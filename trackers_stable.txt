@@ -29,12 +29,12 @@ udp://tracker.corpscorp.online:80/announce
 https://tracker.manager.v6.navy:443/announce
 https://tracker.qingwapt.org:443/announce
 udp://uabits.today:6990/announce
-https://http1.torrust-tracker-demo.com:443/announce
 http://bt.okmp3.ru:2710/announce
 http://taciturn-shadow.spb.ru:6969/announce
 http://wegkxfcivgx.ydns.eu:80/announce
 http://lucke.fenesisu.moe:6969/announce
 http://tracker.dhitechnical.com:6969/announce
+https://http1.torrust-tracker-demo.com:443/announce
 udp://udp1.torrust-tracker-demo.com:6969/announce
 http://tracker.exe.in.th:6969/announce
 http://ipv6.rer.lol:6969/announce
@@ -51,8 +51,8 @@ udp://tracker.dler.com:6969/announce
 https://tracker.ghostchu-services.top:443/announce
 https://tracker.yggleak.top:443/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
+udp://tracker.srv00.com:6969/announce
 https://tracker.moeblog.cn:443/announce
 udp://bt.rer.lol:6969/announce
-udp://tracker.srv00.com:6969/announce
 https://tracker.nekomi.cn:443/announce
 udp://tracker-udp.gbitt.info:80/announce
