@@ -27,7 +27,6 @@ https://tracker.manager.v6.navy:443/announce
 https://tracker.qingwapt.org:443/announce
 http://tracker.exe.in.th:6969/announce
 http://bt.okmp3.ru:2710/announce
-http://taciturn-shadow.spb.ru:6969/announce
 http://wegkxfcivgx.ydns.eu:80/announce
 http://lucke.fenesisu.moe:6969/announce
 https://tr.nyacat.pw:443/announce
@@ -37,13 +36,14 @@ https://http1.torrust-tracker-demo.com:443/announce
 udp://udp1.torrust-tracker-demo.com:6969/announce
 udp://tracker.srv00.com:6969/announce
 udp://tracker.gmi.gd:6969/announce
+http://taciturn-shadow.spb.ru:6969/announce
 https://t.213891.xyz:443/announce
 udp://tracker.ixuexi.click:6969/announce
 http://ipv6.rer.lol:6969/announce
 udp://tracker.torrust-demo.com:6969/announce
 http://ipv4.rer.lol:2710/announce
-udp://tracker.opentrackr.org:1337/announce
 udp://node01.trackerstatus.live:42069/announce
+udp://tracker.opentrackr.org:1337/announce
 https://tracker.zhuqiy.com:443/announce
 http://open.acgtracker.com:1096/announce
 http://tracker.bt4g.com:2095/announce
