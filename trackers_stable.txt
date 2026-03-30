@@ -41,8 +41,8 @@ https://t.213891.xyz:443/announce
 udp://tracker.ixuexi.click:6969/announce
 http://ipv6.rer.lol:6969/announce
 udp://tracker.torrust-demo.com:6969/announce
-http://ipv4.rer.lol:2710/announce
 udp://node01.trackerstatus.live:42069/announce
+http://ipv4.rer.lol:2710/announce
 udp://tracker.opentrackr.org:1337/announce
 https://tracker.zhuqiy.com:443/announce
 http://open.acgtracker.com:1096/announce
