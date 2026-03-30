@@ -729,6 +729,7 @@ https://tk.mabo.ltd/announce
 https://tk.mabo.ltd:443/announce
 https://torrent-tracker.hama3.net/announce
 https://torrent-tracker.hama3.net:443/announce
+https://torrent.tracker.durukanbal.com:443/announce
 https://torrent.ubuntu.com/announce
 https://torrent.ubuntu.com:443/announce
 https://torrents.linuxmint.com/announce.php
