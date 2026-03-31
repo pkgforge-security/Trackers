@@ -50,8 +50,8 @@ udp://tracker.dler.com:6969/announce
 http://open.acgtracker.com:1096/announce
 https://tracker.yggleak.top:443/announce
 http://ipv4.rer.lol:2710/announce
-udp://extracker.dahrkael.net:6969/announce
 https://pybittrack.retiolus.net:443/announce
+udp://extracker.dahrkael.net:6969/announce
 https://torrent.tracker.durukanbal.com:443/announce
 https://tracker.nekomi.cn:443/announce
 udp://bt.rer.lol:6969/announce
