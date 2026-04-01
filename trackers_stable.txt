@@ -46,8 +46,8 @@ https://tracker.ghostchu-services.top:443/announce
 udp://node01.trackerstatus.live:42069/announce
 udp://tracker.dler.com:6969/announce
 https://tracker.zhuqiy.com:443/announce
-udp://tracker.opentrackr.org:1337/announce
 https://tracker.yggleak.top:443/announce
+udp://tracker.opentrackr.org:1337/announce
 http://open.acgtracker.com:1096/announce
 http://tracker.xn--djrq4gl4hvoi.top:80/announce
 https://torrent.tracker.durukanbal.com:443/announce
