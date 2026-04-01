@@ -39,8 +39,8 @@ udp://tracker.srv00.com:6969/announce
 http://taciturn-shadow.spb.ru:6969/announce
 http://lucke.fenesisu.moe:6969/announce
 udp://tracker.ixuexi.click:6969/announce
-http://tracker.xn--djrq4gl4hvoi.top:80/announce
 udp://tracker.torrust-demo.com:6969/announce
+http://tracker.xn--djrq4gl4hvoi.top:80/announce
 http://ipv6.rer.lol:6969/announce
 udp://node01.trackerstatus.live:42069/announce
 udp://tracker.tryhackx.org:6969/announce
