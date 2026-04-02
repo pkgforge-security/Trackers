@@ -41,9 +41,9 @@ udp://tracker.ixuexi.click:6969/announce
 https://t.213891.xyz:443/announce
 http://ipv6.rer.lol:6969/announce
 udp://tracker.breizh.pm:6969/announce
-http://tracker.bt4g.com:2095/announce
 udp://tracker.tryhackx.org:6969/announce
 udp://tracker.dler.com:6969/announce
+http://tracker.bt4g.com:2095/announce
 udp://node01.trackerstatus.live:42069/announce
 https://tracker.yggleak.top:443/announce
 https://tracker.ghostchu-services.top:443/announce
