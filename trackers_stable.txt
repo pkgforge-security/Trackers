@@ -53,5 +53,5 @@ udp://tracker.breizh.pm:6969/announce
 https://torrent.tracker.durukanbal.com:443/announce
 https://tracker.nekomi.cn:443/announce
 udp://bt.rer.lol:6969/announce
-http://ipv4.rer.lol:2710/announce
 udp://tracker-udp.gbitt.info:80/announce
+http://ipv4.rer.lol:2710/announce
