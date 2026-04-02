@@ -25,7 +25,6 @@ https://tracker.qingwapt.org:443/announce
 https://http1.torrust-tracker-demo.com:443/announce
 http://tracker.exe.in.th:6969/announce
 https://pybittrack.retiolus.net:443/announce
-http://tracker.bt4g.com:2095/announce
 http://bt.okmp3.ru:2710/announce
 http://wegkxfcivgx.ydns.eu:80/announce
 http://tracker.dhitechnical.com:6969/announce
@@ -34,6 +33,7 @@ udp://uabits.today:6990/announce
 udp://udp1.torrust-tracker-demo.com:6969/announce
 udp://tracker.gmi.gd:6969/announce
 https://tr.nyacat.pw:443/announce
+http://tracker.bt4g.com:2095/announce
 udp://tracker.srv00.com:6969/announce
 udp://tracker.torrust-demo.com:6969/announce
 http://taciturn-shadow.spb.ru:6969/announce
