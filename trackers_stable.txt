@@ -1,6 +1,7 @@
 udp://open.stealth.si:80/announce
 udp://tracker.torrent.eu.org:451/announce
 http://tracker.mywaifu.best:6969/announce
+udp://tracker.tryhackx.org:6969/announce
 udp://tracker.qu.ax:6969/announce
 udp://tracker.fnix.net:6969/announce
 udp://evan.im:6969/announce
@@ -31,7 +32,6 @@ http://tracker.dhitechnical.com:6969/announce
 udp://tracker.opentorrent.top:6969/announce
 udp://uabits.today:6990/announce
 udp://udp1.torrust-tracker-demo.com:6969/announce
-udp://tracker.tryhackx.org:6969/announce
 udp://tracker.gmi.gd:6969/announce
 https://pybittrack.retiolus.net:443/announce
 http://taciturn-shadow.spb.ru:6969/announce
