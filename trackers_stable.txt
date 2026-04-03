@@ -38,9 +38,9 @@ http://lucke.fenesisu.moe:6969/announce
 udp://tracker.ixuexi.click:6969/announce
 udp://tracker.srv00.com:6969/announce
 udp://tracker.torrust-demo.com:6969/announce
+udp://tracker.tryhackx.org:6969/announce
 https://t.213891.xyz:443/announce
 http://ipv6.rer.lol:6969/announce
-udp://tracker.tryhackx.org:6969/announce
 udp://tracker.breizh.pm:6969/announce
 udp://tracker.dler.com:6969/announce
 https://tracker.yggleak.top:443/announce
