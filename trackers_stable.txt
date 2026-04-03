@@ -50,8 +50,8 @@ https://tracker.zhuqiy.com:443/announce
 http://open.acgtracker.com:1096/announce
 udp://tracker.opentrackr.org:1337/announce
 https://torrent.tracker.durukanbal.com:443/announce
-http://tracker.bt4g.com:2095/announce
 https://tracker.nekomi.cn:443/announce
 udp://bt.rer.lol:6969/announce
+http://tracker.bt4g.com:2095/announce
 udp://tracker-udp.gbitt.info:80/announce
 udp://www.nartlof.com:6969/announce
