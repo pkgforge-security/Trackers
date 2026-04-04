@@ -54,5 +54,5 @@ udp://bt.rer.lol:6969/announce
 udp://node01.trackerstatus.live:42069/announce
 udp://tracker.opentrackr.org:1337/announce
 udp://www.nartlof.com:6969/announce
-udp://tracker-udp.gbitt.info:80/announce
 http://tracker.tritan.gg:8080/announce
+udp://tracker-udp.gbitt.info:80/announce
