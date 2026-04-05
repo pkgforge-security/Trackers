@@ -14,6 +14,7 @@ udp://udp.tracker.projectk.org:23333/announce
 http://echostar.ddnsfree.com:8080/announce
 https://tracker-zhuqiy.xn--1r3au8b.space:443/announce
 http://tracker.renfei.net:8080/announce
+https://tr.nyacat.pw:443/announce
 udp://tracker.plx.im:6969/announce
 udp://tracker.1h.is:1337/announce
 udp://tracker.playground.ru:6969/announce
@@ -25,7 +26,6 @@ https://tracker.manager.v6.navy:443/announce
 https://tracker.qingwapt.org:443/announce
 http://tracker.exe.in.th:6969/announce
 http://wegkxfcivgx.ydns.eu:80/announce
-https://tr.nyacat.pw:443/announce
 http://tracker.dhitechnical.com:6969/announce
 udp://tracker.opentorrent.top:6969/announce
 udp://uabits.today:6990/announce
