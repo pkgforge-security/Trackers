@@ -24,7 +24,6 @@ udp://tracker.bluefrog.pw:2710/announce
 udp://tracker.corpscorp.online:80/announce
 https://tracker.manager.v6.navy:443/announce
 https://tracker.qingwapt.org:443/announce
-udp://udp1.torrust-tracker-demo.com:6969/announce
 http://tracker.exe.in.th:6969/announce
 http://wegkxfcivgx.ydns.eu:80/announce
 http://tracker.dhitechnical.com:6969/announce
@@ -36,8 +35,9 @@ udp://tracker.srv00.com:6969/announce
 https://http1.torrust-tracker-demo.com:443/announce
 udp://tracker.gmi.gd:6969/announce
 http://lucke.fenesisu.moe:6969/announce
-udp://tracker.torrust-demo.com:6969/announce
 http://taciturn-shadow.spb.ru:6969/announce
+udp://tracker.torrust-demo.com:6969/announce
+udp://udp1.torrust-tracker-demo.com:6969/announce
 http://ipv6.rer.lol:6969/announce
 https://t.213891.xyz:443/announce
 https://torrent.tracker.durukanbal.com:443/announce
