@@ -41,12 +41,12 @@ http://taciturn-shadow.spb.ru:6969/announce
 http://ipv6.rer.lol:6969/announce
 https://pybittrack.retiolus.net:443/announce
 https://t.213891.xyz:443/announce
-udp://tracker.breizh.pm:6969/announce
 https://torrent.tracker.durukanbal.com:443/announce
+udp://tracker.breizh.pm:6969/announce
 udp://tracker.dler.com:6969/announce
+http://tracker.xn--djrq4gl4hvoi.top:80/announce
 https://tracker.yggleak.top:443/announce
 https://tracker.ghostchu-services.top:443/announce
-http://tracker.xn--djrq4gl4hvoi.top:80/announce
 http://tracker.tritan.gg:8080/announce
 https://tracker.zhuqiy.com:443/announce
 http://open.acgtracker.com:1096/announce
