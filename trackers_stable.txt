@@ -31,9 +31,9 @@ http://tracker.dhitechnical.com:6969/announce
 udp://tracker.opentorrent.top:6969/announce
 udp://tracker.ixuexi.click:6969/announce
 udp://uabits.today:6990/announce
-https://http1.torrust-tracker-demo.com:443/announce
 https://tracker.7471.top:443/announce
 udp://tracker.srv00.com:6969/announce
+https://http1.torrust-tracker-demo.com:443/announce
 udp://tracker.gmi.gd:6969/announce
 http://lucke.fenesisu.moe:6969/announce
 udp://tracker.torrust-demo.com:6969/announce
