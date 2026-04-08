@@ -49,7 +49,7 @@ http://tracker.xn--djrq4gl4hvoi.top:80/announce
 http://tracker.tritan.gg:8080/announce
 udp://bt.rer.lol:6969/announce
 https://tracker.nekomi.cn:443/announce
-https://tracker.zhuqiy.com:443/announce
 udp://www.nartlof.com:6969/announce
+https://tracker.zhuqiy.com:443/announce
 http://open.acgtracker.com:1096/announce
 udp://tracker-udp.gbitt.info:80/announce
