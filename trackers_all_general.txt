@@ -82,6 +82,7 @@ udp://tracker.flatuslifir.is:6969/announce
 udp://tracker.fnix.net:6969/announce
 udp://tracker.gmi.gd:6969/announce
 udp://tracker.ixuexi.click:6969/announce
+udp://tracker.nyaa.vc:6969/announce
 udp://tracker.opentorrent.top:6969/announce
 udp://tracker.opentrackr.org:1337/announce
 udp://tracker.playground.ru:6969/announce
@@ -96,6 +97,7 @@ udp://tracker.torrust-demo.com:6969/announce
 udp://tracker.tryhackx.org:6969/announce
 udp://tracker.tvunderground.org.ru:3218/announce
 udp://tracker.wepzone.net:6969/announce
+udp://tracker.wildkat.net:6969/announce
 udp://tracker.yume-hatsuyuki.moe:6969/announce
 udp://tracker1.myporn.club:9337/announce
 udp://uabits.today:6990/announce
