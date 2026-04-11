@@ -21,7 +21,6 @@ https://tracker.qingwapt.org:443/announce
 https://tracker.yggleak.top:443/announce
 http://tracker.exe.in.th:6969/announce
 udp://tracker.nyaa.vc:6969/announce
-udp://tracker.torrust-demo.com:6969/announce
 https://tracker.pmman.tech:443/announce
 udp://tracker.gmi.gd:6969/announce
 udp://udp.tracker.projectk.org:23333/announce
@@ -32,6 +31,7 @@ udp://uabits.today:6990/announce
 https://http1.torrust-tracker-demo.com:443/announce
 https://tracker.7471.top:443/announce
 udp://tracker.srv00.com:6969/announce
+udp://tracker.torrust-demo.com:6969/announce
 http://tracker.xn--djrq4gl4hvoi.top:80/announce
 http://lucke.fenesisu.moe:6969/announce
 http://tracker.dhitechnical.com:6969/announce
