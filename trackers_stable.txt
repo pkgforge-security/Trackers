@@ -42,8 +42,8 @@ http://taciturn-shadow.spb.ru:6969/announce
 http://tracker.dhitechnical.com:6969/announce
 udp://tracker.dler.com:6969/announce
 udp://tracker.breizh.pm:6969/announce
-https://torrent.tracker.durukanbal.com:443/announce
 https://tracker.ghostchu-services.top:443/announce
+https://torrent.tracker.durukanbal.com:443/announce
 udp://tracker.wildkat.net:6969/announce
 http://tracker.tritan.gg:8080/announce
 udp://bt.rer.lol:6969/announce
