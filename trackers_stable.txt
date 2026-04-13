@@ -18,7 +18,6 @@ udp://ns575949.ip-51-222-82.net:6969/announce
 udp://tracker.bluefrog.pw:2710/announce
 udp://tracker.corpscorp.online:80/announce
 https://tracker.qingwapt.org:443/announce
-https://http1.torrust-tracker-demo.com:443/announce
 https://tracker.yggleak.top:443/announce
 http://tracker.exe.in.th:6969/announce
 udp://tracker.nyaa.vc:6969/announce
@@ -29,12 +28,13 @@ udp://tracker.playground.ru:6969/announce
 udp://tracker.opentorrent.top:6969/announce
 udp://tracker.ixuexi.click:6969/announce
 udp://uabits.today:6990/announce
+https://http1.torrust-tracker-demo.com:443/announce
 https://tracker.7471.top:443/announce
 udp://tracker.srv00.com:6969/announce
 http://tracker.xn--djrq4gl4hvoi.top:80/announce
 udp://tracker.torrust-demo.com:6969/announce
-http://lucke.fenesisu.moe:6969/announce
 https://t.213891.xyz:443/announce
+http://lucke.fenesisu.moe:6969/announce
 http://ipv6.rer.lol:6969/announce
 udp://tracker.1h.is:1337/announce
 udp://tracker.t-1.org:6969/announce
@@ -49,6 +49,5 @@ https://torrent.tracker.durukanbal.com:443/announce
 udp://bt.rer.lol:6969/announce
 udp://www.nartlof.com:6969/announce
 https://tracker.nekomi.cn:443/announce
-udp://admin.52ywp.com:6969/announce
 https://tracker.zhuqiy.com:443/announce
-https://pybittrack.retiolus.net:443/announce
+udp://admin.52ywp.com:6969/announce
