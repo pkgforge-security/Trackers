@@ -13,6 +13,7 @@ http://echostar.ddnsfree.com:8080/announce
 https://tracker-zhuqiy.xn--1r3au8b.space:443/announce
 http://tracker.renfei.net:8080/announce
 udp://tracker.plx.im:6969/announce
+http://tracker.xn--djrq4gl4hvoi.top:80/announce
 udp://tracker.flatuslifir.is:6969/announce
 udp://ns575949.ip-51-222-82.net:6969/announce
 udp://tracker.bluefrog.pw:2710/announce
@@ -23,7 +24,6 @@ http://tracker.exe.in.th:6969/announce
 udp://tracker.nyaa.vc:6969/announce
 udp://tracker.gmi.gd:6969/announce
 udp://udp.tracker.projectk.org:23333/announce
-http://tracker.xn--djrq4gl4hvoi.top:80/announce
 udp://tracker.playground.ru:6969/announce
 udp://tracker.opentorrent.top:6969/announce
 udp://tracker.ixuexi.click:6969/announce
@@ -51,3 +51,4 @@ udp://www.nartlof.com:6969/announce
 https://tracker.nekomi.cn:443/announce
 https://tracker.zhuqiy.com:443/announce
 udp://admin.52ywp.com:6969/announce
+udp://udp1.torrust-tracker-demo.com:6969/announce
