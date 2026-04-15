@@ -1158,6 +1158,7 @@ udp://www.peckservers.com:9000/announce
 udp://yahor.ftp.sh:6969/announce
 udp://yahor.of.by:6969/announce
 udp://yann5.hexanyn.fr:6969/announce
+udp://yuptracker-eu.gaijinent.com:27022/announce
 udp://zecircle.xyz:6969/announce
 wss://qot.abiir.top:443/announce
 wss://spacetradersapi-chatbox.herokuapp.com:443/announce
