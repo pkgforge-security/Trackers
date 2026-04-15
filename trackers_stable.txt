@@ -44,13 +44,13 @@ http://tracker.dhitechnical.com:6969/announce
 https://tracker.ghostchu-services.top:443/announce
 udp://tracker.wildkat.net:6969/announce
 https://tracker-zhuqiy.xn--1r3au8b.space:443/announce
-http://lucke.fenesisu.moe:6969/announce
 http://tracker.tritan.gg:8080/announce
+http://lucke.fenesisu.moe:6969/announce
+udp://tr4ck3r.duckdns.org:6969/announce
 https://torrent.tracker.durukanbal.com:443/announce
 udp://bt.rer.lol:6969/announce
-udp://tr4ck3r.duckdns.org:6969/announce
+udp://udp1.torrust-tracker-demo.com:6969/announce
 udp://www.nartlof.com:6969/announce
 https://tracker.nekomi.cn:443/announce
-udp://udp1.torrust-tracker-demo.com:6969/announce
 https://tracker.zhuqiy.com:443/announce
 udp://admin.52ywp.com:6969/announce
