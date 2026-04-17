@@ -48,9 +48,9 @@ udp://seedpeer.net:6969/announce
 http://tracker.dhitechnical.com:6969/announce
 https://tracker.ghostchu-services.top:443/announce
 udp://tracker.breizh.pm:6969/announce
+udp://www.nartlof.com:6969/announce
 udp://tr4ck3r.duckdns.org:6969/announce
 http://tracker.tritan.gg:8080/announce
-udp://www.nartlof.com:6969/announce
 udp://bt.rer.lol:6969/announce
 https://torrent.tracker.durukanbal.com:443/announce
 udp://admin.52ywp.com:6969/announce
