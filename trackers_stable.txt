@@ -34,8 +34,8 @@ https://torrents.tmtime.dev:443/announce
 udp://tracker.srv00.com:6969/announce
 https://tracker.pmman.tech:443/announce
 udp://tracker.fnix.net:6969/announce
-udp://tracker.torrust-demo.com:6969/announce
 udp://tracker.dler.com:6969/announce
+udp://tracker.torrust-demo.com:6969/announce
 udp://www.nartlof.com:6969/announce
 http://ipv6.rer.lol:6969/announce
 udp://tracker.1h.is:1337/announce
