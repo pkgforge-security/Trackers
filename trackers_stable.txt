@@ -36,9 +36,9 @@ https://tracker.pmman.tech:443/announce
 udp://tracker.fnix.net:6969/announce
 udp://tracker.torrust-demo.com:6969/announce
 udp://tracker.dler.com:6969/announce
+udp://www.nartlof.com:6969/announce
 http://ipv6.rer.lol:6969/announce
 udp://tracker.1h.is:1337/announce
-udp://www.nartlof.com:6969/announce
 udp://tracker.t-1.org:6969/announce
 http://tracker.xn--djrq4gl4hvoi.top:80/announce
 http://taciturn-shadow.spb.ru:6969/announce
