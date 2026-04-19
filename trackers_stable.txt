@@ -41,9 +41,9 @@ http://ipv6.rer.lol:6969/announce
 udp://tracker.1h.is:1337/announce
 udp://tracker.t-1.org:6969/announce
 http://taciturn-shadow.spb.ru:6969/announce
-http://tracker.xn--djrq4gl4hvoi.top:80/announce
 https://t.213891.xyz:443/announce
 udp://tracker-udp.gbitt.info:80/announce
+http://tracker.xn--djrq4gl4hvoi.top:80/announce
 udp://tracker.wildkat.net:6969/announce
 udp://seedpeer.net:6969/announce
 http://tracker.dhitechnical.com:6969/announce
