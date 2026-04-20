@@ -12,6 +12,7 @@ udp://udp.tracker.projectk.org:23333/announce
 http://echostar.ddnsfree.com:8080/announce
 http://tracker.renfei.net:8080/announce
 udp://tracker.plx.im:6969/announce
+https://opentracker.8880085.xyz:443/announce
 udp://tracker.flatuslifir.is:6969/announce
 udp://tracker.opentorrent.top:6969/announce
 udp://ns575949.ip-51-222-82.net:6969/announce
@@ -23,9 +24,7 @@ http://tracker.exe.in.th:6969/announce
 udp://www.nartlof.com:6969/announce
 https://tracker.7471.top:443/announce
 udp://tracker.nyaa.vc:6969/announce
-udp://tracker.torrust-demo.com:6969/announce
 udp://tracker.gmi.gd:6969/announce
-https://opentracker.8880085.xyz:443/announce
 udp://tracker.playground.ru:6969/announce
 udp://uabits.today:6990/announce
 https://http1.torrust-tracker-demo.com:443/announce
@@ -33,6 +32,7 @@ https://tracker.yggleak.top:443/announce
 udp://yuptracker-eu.gaijinent.com:27022/announce
 https://torrents.tmtime.dev:443/announce
 udp://tracker.srv00.com:6969/announce
+udp://tracker.torrust-demo.com:6969/announce
 https://tracker.pmman.tech:443/announce
 udp://tracker.fnix.net:6969/announce
 udp://tracker.dler.com:6969/announce
@@ -42,8 +42,8 @@ udp://tracker.t-1.org:6969/announce
 http://taciturn-shadow.spb.ru:6969/announce
 udp://tracker-udp.gbitt.info:80/announce
 https://t.213891.xyz:443/announce
-udp://tracker.wildkat.net:6969/announce
 udp://retracker.hotplug.ru:2710/announce
+udp://tracker.wildkat.net:6969/announce
 udp://seedpeer.net:6969/announce
 http://tracker.xn--djrq4gl4hvoi.top:80/announce
 http://tracker.dhitechnical.com:6969/announce
