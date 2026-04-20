@@ -47,8 +47,8 @@ udp://tracker.wildkat.net:6969/announce
 http://tracker.dhitechnical.com:6969/announce
 https://tracker.ghostchu-services.top:443/announce
 http://tracker.xn--djrq4gl4hvoi.top:80/announce
-udp://seedpeer.net:6969/announce
 udp://tr4ck3r.duckdns.org:6969/announce
+udp://seedpeer.net:6969/announce
 udp://tracker.breizh.pm:6969/announce
 udp://bt.rer.lol:6969/announce
 udp://admin.52ywp.com:6969/announce
