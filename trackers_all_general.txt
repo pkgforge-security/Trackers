@@ -2,6 +2,8 @@ http://004430.xyz:80/announce
 http://1337.abcvg.info:80/announce
 http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
 http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
+http://bt1.archive.org:6969/announce
+http://bt2.archive.org:6969/announce
 http://bvarf.tracker.sh:2086/announce
 http://echostar.ddnsfree.com:8080/announce
 http://ipv6.rer.lol:6969/announce
