@@ -59,4 +59,3 @@ https://tracker.zhuqiy.com:443/announce
 https://tracker.nekomi.cn:443/announce
 http://bvarf.tracker.sh:2086/announce
 https://torrent.tracker.durukanbal.com:443/announce
-http://bt2.archive.org:6969/announce
