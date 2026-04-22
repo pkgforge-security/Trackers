@@ -44,9 +44,9 @@ http://taciturn-shadow.spb.ru:6969/announce
 udp://retracker.hotplug.ru:2710/announce
 https://t.213891.xyz:443/announce
 udp://tracker.wildkat.net:6969/announce
-http://tracker.xn--djrq4gl4hvoi.top:80/announce
 udp://tracker-udp.gbitt.info:80/announce
 http://tracker.dhitechnical.com:6969/announce
+http://tracker.xn--djrq4gl4hvoi.top:80/announce
 https://tracker.ghostchu-services.top:443/announce
 udp://seedpeer.net:6969/announce
 udp://tr4ck3r.duckdns.org:6969/announce
