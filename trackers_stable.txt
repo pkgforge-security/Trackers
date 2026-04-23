@@ -39,14 +39,14 @@ http://tracker.exe.in.th:6969/announce
 https://t.213891.xyz:443/announce
 http://bt1.archive.org:6969/announce
 http://taciturn-shadow.spb.ru:6969/announce
-udp://retracker.hotplug.ru:2710/announce
 udp://udp1.torrust-tracker-demo.com:6969/announce
+udp://retracker.hotplug.ru:2710/announce
 udp://tracker.wildkat.net:6969/announce
 udp://vito-tracker.duckdns.org:6969/announce
 http://tracker.dhitechnical.com:6969/announce
 udp://tracker-udp.gbitt.info:80/announce
-https://tracker.ghostchu-services.top:443/announce
 udp://seedpeer.net:6969/announce
+https://tracker.ghostchu-services.top:443/announce
 udp://trackthis.cyber.pz.it:1337/announce
 udp://tracker.breizh.pm:6969/announce
 udp://tr4ck3r.duckdns.org:6969/announce
