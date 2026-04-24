@@ -10,7 +10,6 @@ https://shahidrazi.online:443/announce
 udp://udp.tracker.projectk.org:23333/announce
 http://echostar.ddnsfree.com:8080/announce
 http://tracker.renfei.net:8080/announce
-udp://tracker.plx.im:6969/announce
 udp://tracker.flatuslifir.is:6969/announce
 udp://tracker.opentorrent.top:6969/announce
 udp://ns575949.ip-51-222-82.net:6969/announce
@@ -31,12 +30,13 @@ udp://udp1.torrust-tracker-demo.com:6969/announce
 udp://yuptracker-eu.gaijinent.com:27022/announce
 https://torrents.tmtime.dev:443/announce
 udp://tracker.fnix.net:6969/announce
+udp://tracker.plx.im:6969/announce
 udp://tracker.dler.com:6969/announce
 http://ipv6.rer.lol:6969/announce
 udp://tracker.1h.is:1337/announce
-https://tracker.pmman.tech:443/announce
 udp://tracker.t-1.org:6969/announce
 http://tracker.exe.in.th:6969/announce
+https://tracker.pmman.tech:443/announce
 https://t.213891.xyz:443/announce
 http://bt1.archive.org:6969/announce
 http://taciturn-shadow.spb.ru:6969/announce
