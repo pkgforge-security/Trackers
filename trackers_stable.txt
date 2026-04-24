@@ -31,9 +31,9 @@ udp://udp1.torrust-tracker-demo.com:6969/announce
 udp://yuptracker-eu.gaijinent.com:27022/announce
 https://torrents.tmtime.dev:443/announce
 udp://tracker.fnix.net:6969/announce
-https://tracker.pmman.tech:443/announce
 udp://tracker.dler.com:6969/announce
 http://ipv6.rer.lol:6969/announce
+https://tracker.pmman.tech:443/announce
 udp://tracker.1h.is:1337/announce
 udp://tracker.t-1.org:6969/announce
 http://tracker.exe.in.th:6969/announce
@@ -47,9 +47,9 @@ udp://seedpeer.net:6969/announce
 http://tracker.dhitechnical.com:6969/announce
 udp://tracker-udp.gbitt.info:80/announce
 https://tracker.ghostchu-services.top:443/announce
-udp://tracker.breizh.pm:6969/announce
 udp://tr4ck3r.duckdns.org:6969/announce
 udp://bt.rer.lol:6969/announce
+udp://tracker.breizh.pm:6969/announce
 udp://trackthis.cyber.pz.it:1337/announce
 udp://admin.52ywp.com:6969/announce
 http://tracker.tritan.gg:8080/announce
