@@ -41,9 +41,9 @@ http://tracker.exe.in.th:6969/announce
 udp://tracker.wildkat.net:6969/announce
 https://t.213891.xyz:443/announce
 https://tracker.pmman.tech:443/announce
+http://taciturn-shadow.spb.ru:6969/announce
 udp://vito-tracker.duckdns.org:6969/announce
 http://bt1.archive.org:6969/announce
-http://taciturn-shadow.spb.ru:6969/announce
 udp://retracker.hotplug.ru:2710/announce
 http://tracker.dhitechnical.com:6969/announce
 udp://tracker-udp.gbitt.info:80/announce
@@ -52,8 +52,8 @@ udp://seedpeer.net:6969/announce
 udp://bt.rer.lol:6969/announce
 udp://tracker.breizh.pm:6969/announce
 udp://admin.52ywp.com:6969/announce
-udp://tracker.hismz.cn:6969/announce
 udp://tracker.torrust-demo.com:6969/announce
+udp://tracker.hismz.cn:6969/announce
 http://wegkxfcivgx.ydns.eu:80/announce
 http://tracker.tritan.gg:8080/announce
 http://bt2.archive.org:6969/announce
