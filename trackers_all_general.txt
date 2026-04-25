@@ -85,6 +85,7 @@ udp://martin-gebhardt.eu:25/announce
 udp://ns575949.ip-51-222-82.net:6969/announce
 udp://obey.torrentonline.cc:42069/announce
 udp://open.demonii.com:1337/announce
+udp://open.ftorrent.com:443/announce
 udp://open.stealth.si:80/announce
 udp://rekcart.duckdns.org:15480/announce
 udp://retracker.hotplug.ru:2710/announce
