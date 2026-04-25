@@ -10,6 +10,7 @@ https://shahidrazi.online:443/announce
 udp://udp.tracker.projectk.org:23333/announce
 http://echostar.ddnsfree.com:8080/announce
 http://tracker.renfei.net:8080/announce
+https://t.213891.xyz:443/announce
 udp://tracker.flatuslifir.is:6969/announce
 udp://tracker.opentorrent.top:6969/announce
 udp://ns575949.ip-51-222-82.net:6969/announce
@@ -27,7 +28,6 @@ https://tracker.yggleak.top:443/announce
 https://torrents.tmtime.dev:443/announce
 udp://whybother.torrentonline.cc:42069/announce
 udp://obey.torrentonline.cc:42069/announce
-https://t.213891.xyz:443/announce
 https://http1.torrust-tracker-demo.com:443/announce
 udp://yuptracker-eu.gaijinent.com:27022/announce
 udp://tracker.dler.com:6969/announce
@@ -46,9 +46,9 @@ udp://vito-tracker.duckdns.org:6969/announce
 http://bt1.archive.org:6969/announce
 udp://retracker.hotplug.ru:2710/announce
 http://tracker.dhitechnical.com:6969/announce
+udp://tracker.torrust-demo.com:6969/announce
 udp://tracker-udp.gbitt.info:80/announce
 https://tracker.ghostchu-services.top:443/announce
-udp://tracker.torrust-demo.com:6969/announce
 udp://seedpeer.net:6969/announce
 udp://bt.rer.lol:6969/announce
 udp://tracker.breizh.pm:6969/announce
