@@ -27,6 +27,7 @@ https://tracker.yggleak.top:443/announce
 https://torrents.tmtime.dev:443/announce
 udp://whybother.torrentonline.cc:42069/announce
 udp://obey.torrentonline.cc:42069/announce
+https://t.213891.xyz:443/announce
 https://http1.torrust-tracker-demo.com:443/announce
 udp://yuptracker-eu.gaijinent.com:27022/announce
 udp://tracker.dler.com:6969/announce
@@ -34,7 +35,6 @@ udp://tracker.fnix.net:6969/announce
 udp://evan.im:6969/announce
 udp://tracker.gmi.gd:6969/announce
 udp://archive.torrentonline.cc:42069/announce
-https://t.213891.xyz:443/announce
 udp://tracker.1h.is:1337/announce
 udp://tracker.t-1.org:6969/announce
 http://tracker.exe.in.th:6969/announce
