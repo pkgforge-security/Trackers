@@ -57,7 +57,7 @@ udp://tracker.hismz.cn:6969/announce
 http://wegkxfcivgx.ydns.eu:80/announce
 http://tracker.tritan.gg:8080/announce
 https://tracker.zhuqiy.com:443/announce
-udp://bt.rer.lol:6969/announce
 https://tracker.nekomi.cn:443/announce
+udp://bt.rer.lol:6969/announce
 udp://seedpeer.net:6969/announce
 http://bvarf.tracker.sh:2086/announce
