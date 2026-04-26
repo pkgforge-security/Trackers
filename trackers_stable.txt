@@ -48,12 +48,12 @@ udp://retracker.hotplug.ru:2710/announce
 http://tracker.dhitechnical.com:6969/announce
 udp://tracker-udp.gbitt.info:80/announce
 https://tracker.ghostchu-services.top:443/announce
-http://ipv6.rer.lol:6969/announce
 https://tr.nyacat.pw:443/announce
+http://ipv6.rer.lol:6969/announce
 udp://admin.52ywp.com:6969/announce
 udp://tracker.breizh.pm:6969/announce
-udp://tracker.hismz.cn:6969/announce
 http://bt2.archive.org:6969/announce
+udp://tracker.hismz.cn:6969/announce
 http://wegkxfcivgx.ydns.eu:80/announce
 udp://bt.rer.lol:6969/announce
 http://tracker.tritan.gg:8080/announce
