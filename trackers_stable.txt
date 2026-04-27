@@ -44,11 +44,11 @@ https://tracker.pmman.tech:443/announce
 http://taciturn-shadow.spb.ru:6969/announce
 udp://vito-tracker.duckdns.org:6969/announce
 udp://retracker.hotplug.ru:2710/announce
-udp://obey.torrentonline.cc:42069/announce
 https://tracker.ghostchu-services.top:443/announce
+udp://obey.torrentonline.cc:42069/announce
 http://tracker.dhitechnical.com:6969/announce
-udp://whybother.torrentonline.cc:42069/announce
 udp://tracker-udp.gbitt.info:80/announce
+udp://whybother.torrentonline.cc:42069/announce
 udp://admin.52ywp.com:6969/announce
 udp://tracker.breizh.pm:6969/announce
 udp://tracker.hismz.cn:6969/announce
