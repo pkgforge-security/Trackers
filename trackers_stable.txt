@@ -56,4 +56,3 @@ udp://tracker.iperson.xyz:6969/announce
 http://tracker.tritan.gg:8080/announce
 https://tracker.zhuqiy.com:443/announce
 https://tracker.nekomi.cn:443/announce
-http://ipv6.rer.lol:6969/announce

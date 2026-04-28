@@ -6,7 +6,6 @@ http://bt1.archive.org:6969/announce
 http://bt2.archive.org:6969/announce
 http://bvarf.tracker.sh:2086/announce
 http://echostar.ddnsfree.com:8080/announce
-http://ipv6.rer.lol:6969/announce
 http://t.overflow.biz:6969/announce
 http://taciturn-shadow.spb.ru:6969/announce
 http://tr.highstar.shop:80/announce
