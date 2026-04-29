@@ -35,11 +35,11 @@ udp://tracker.fnix.net:6969/announce
 udp://tracker.torrust-demo.com:6969/announce
 udp://tracker.gmi.gd:6969/announce
 udp://archive.torrentonline.cc:42069/announce
+udp://evan.im:6969/announce
 udp://tracker.1h.is:1337/announce
 udp://tracker.t-1.org:6969/announce
 http://tracker.exe.in.th:6969/announce
 http://bt1.archive.org:6969/announce
-udp://evan.im:6969/announce
 https://tracker.pmman.tech:443/announce
 http://taciturn-shadow.spb.ru:6969/announce
 udp://retracker.hotplug.ru:2710/announce
