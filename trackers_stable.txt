@@ -25,7 +25,6 @@ udp://ns575949.ip-51-222-82.net:6969/announce
 https://http1.torrust-tracker-demo.com:443/announce
 udp://udp1.torrust-tracker-demo.com:6969/announce
 https://torrents.tmtime.dev:443/announce
-udp://tracker.torrent.eu.org:451/announce
 https://tracker.yggleak.top:443/announce
 udp://tracker.wildkat.net:6969/announce
 udp://yuptracker-eu.gaijinent.com:27022/announce
@@ -33,6 +32,7 @@ udp://tracker.dler.com:6969/announce
 udp://tracker.fnix.net:6969/announce
 udp://tracker.torrust-demo.com:6969/announce
 udp://tracker.gmi.gd:6969/announce
+udp://tracker.torrent.eu.org:451/announce
 udp://archive.torrentonline.cc:42069/announce
 udp://tracker.1h.is:1337/announce
 udp://tracker.t-1.org:6969/announce
