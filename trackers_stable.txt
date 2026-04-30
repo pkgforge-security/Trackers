@@ -39,8 +39,8 @@ udp://tracker.t-1.org:6969/announce
 http://tracker.exe.in.th:6969/announce
 http://bt1.archive.org:6969/announce
 http://taciturn-shadow.spb.ru:6969/announce
-https://t.213891.xyz:443/announce
 udp://retracker.hotplug.ru:2710/announce
+https://t.213891.xyz:443/announce
 https://tracker.pmman.tech:443/announce
 http://tracker.dhitechnical.com:6969/announce
 udp://tracker-udp.gbitt.info:80/announce
@@ -55,4 +55,3 @@ http://wegkxfcivgx.ydns.eu:80/announce
 https://tracker.zhuqiy.com:443/announce
 http://tracker.tritan.gg:8080/announce
 https://tracker.nekomi.cn:443/announce
-udp://tracker.ixuexi.click:6969/announce
