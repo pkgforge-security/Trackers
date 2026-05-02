@@ -11,6 +11,7 @@ http://echostar.ddnsfree.com:8080/announce
 http://tracker.renfei.net:8080/announce
 http://tracker.xn--djrq4gl4hvoi.top:80/announce
 udp://tracker.1h.is:1337/announce
+udp://tracker.playground.ru:6969/announce
 udp://tracker.flatuslifir.is:6969/announce
 udp://tracker.bluefrog.pw:2710/announce
 udp://tracker.corpscorp.online:80/announce
@@ -22,7 +23,6 @@ udp://tracker.nyaa.vc:6969/announce
 udp://open.stealth.si:80/announce
 udp://tracker.dler.com:6969/announce
 udp://martin-gebhardt.eu:25/announce
-udp://tracker.playground.ru:6969/announce
 udp://tracker.opentorrent.top:6969/announce
 udp://ns575949.ip-51-222-82.net:6969/announce
 udp://udp1.torrust-tracker-demo.com:6969/announce
@@ -39,8 +39,8 @@ udp://archive.torrentonline.cc:42069/announce
 udp://tracker.torrent.eu.org:451/announce
 https://tracker.ghostchu-services.top:443/announce
 udp://retracker.hotplug.ru:2710/announce
-udp://tracker-udp.gbitt.info:80/announce
 http://tracker.dhitechnical.com:6969/announce
+udp://tracker-udp.gbitt.info:80/announce
 udp://vito-tracker.duckdns.org:6969/announce
 https://tracker.pmman.tech:443/announce
 udp://tracker.breizh.pm:6969/announce
