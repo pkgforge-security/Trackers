@@ -2,7 +2,6 @@ http://00.mercax.com:443/announce
 http://00.xxtor.com:443/announce
 http://004430.xyz:80/announce
 http://0123456789nonexistent.com/announce
-http://0123456789nonexistent.com:80/announce
 http://0d.kebhana.mx:443/announce
 http://104.143.10.186:8000/announce
 http://104.244.77.14:1337/announce
@@ -424,7 +423,6 @@ http://torrent-team.net:80/announce.php
 http://torrent-tracker.ru/announce.php
 http://torrent.arjlover.net:2710/announce
 http://torrent.fedoraproject.org:6969/announce
-http://torrent.hificode.in:6969/announce
 http://torrent.mp3quran.net/announce.php
 http://torrent.mp3quran.net:80/announce.php
 http://torrent.nwps.ws/announce
@@ -449,7 +447,6 @@ http://tr.kxmp.cf/announce
 http://tr.kxmp.cf:80/announce
 http://tr.nyacat.pw/announce
 http://tr.nyacat.pw:80/announce
-http://tracker.23794.top:6969/announce
 http://tracker.acgnx.se/announce
 http://tracker.acgnx.se:80/announce
 http://tracker.aibt.xyz:900/announce
@@ -467,6 +464,7 @@ http://tracker.bittorrent.nibblepoker.lu:49227/announce
 http://tracker.breizh.pm:6969/announce
 http://tracker.bt-chat.com/announce
 http://tracker.bt-hash.com/announce
+http://tracker.bt-hash.com:80/announce
 http://tracker.bt4g.com:2095/announce
 http://tracker.btcake.com/announce
 http://tracker.btcake.com:80/announce
@@ -710,7 +708,6 @@ https://opentracker.xyz/announce
 https://opentracker.xyz:443/announce
 https://pybittrack.retiolus.net:443/announce
 https://seeders-paradise.org/announce
-https://shahidrazi.online:443/announce
 https://t.213891.xyz:443/announce
 https://t.btcland.xyz/announce
 https://t.btcland.xyz:443/announce
@@ -979,7 +976,6 @@ udp://download.nerocloud.me:6969/announce
 udp://elementsbrowser.com:6969/announce
 udp://epider.me:6969/announce
 udp://evan.im:6969/announce
-udp://explodie.org:6969/announce
 udp://f1sh.de:6969/announce
 udp://fe.dealclub.de:6969/announce
 udp://fh2.cmp-gaming.com:6969/announce
@@ -1129,10 +1125,8 @@ udp://tracker.torrust-demo.com:6969/announce
 udp://tracker.trackerfix.com:80/announce
 udp://tracker.trackerfix.com:82/announce
 udp://tracker.tryhackx.org:6969/announce
-udp://tracker.tvunderground.org.ru:3218/announce
 udp://tracker.wildkat.net:6969/announce
 udp://tracker.yangxiaoguozi.cn:6969/announce
-udp://tracker.yume-hatsuyuki.moe:6969/announce
 udp://tracker.zaluan.xyz:6969/announce
 udp://tracker.zemoj.com:6969/announce
 udp://tracker.zerobytes.xyz:1337/announce
@@ -1148,6 +1142,7 @@ udp://uabits.today:6990/announce
 udp://udp.tracker.projectk.org:23333/announce
 udp://udp1.torrust-tracker-demo.com:6969/announce
 udp://uploads.gamecoast.net:6969/announce
+udp://utracker.ghostchu-services.top:6969/announce
 udp://v1046920.hosted-by-vdsina.ru:6969/announce
 udp://v2.iperson.xyz:6969/announce
 udp://vibe.sleepyinternetfun.xyz:1738/announce
