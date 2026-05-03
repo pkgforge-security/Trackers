@@ -26,9 +26,9 @@ udp://tracker.dler.com:6969/announce
 udp://martin-gebhardt.eu:25/announce
 udp://tracker.opentorrent.top:6969/announce
 udp://ns575949.ip-51-222-82.net:6969/announce
+https://http1.torrust-tracker-demo.com:443/announce
 udp://udp1.torrust-tracker-demo.com:6969/announce
 https://torrents.tmtime.dev:443/announce
-https://http1.torrust-tracker-demo.com:443/announce
 udp://tracker.wildkat.net:6969/announce
 udp://yuptracker-eu.gaijinent.com:27022/announce
 udp://tracker.fnix.net:6969/announce
