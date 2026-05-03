@@ -41,8 +41,8 @@ udp://tracker.torrent.eu.org:451/announce
 https://tracker.ghostchu-services.top:443/announce
 udp://retracker.hotplug.ru:2710/announce
 udp://vito-tracker.duckdns.org:6969/announce
-udp://tracker-udp.gbitt.info:80/announce
 udp://tracker.breizh.pm:6969/announce
+udp://tracker-udp.gbitt.info:80/announce
 https://tracker.pmman.tech:443/announce
 udp://tracker.iperson.xyz:6969/announce
 https://tracker.zhuqiy.com:443/announce
