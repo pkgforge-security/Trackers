@@ -11,6 +11,7 @@ http://taciturn-shadow.spb.ru:6969/announce
 http://tr.highstar.shop:80/announce
 http://tr.kxmp.cf:80/announce
 http://tr.nyacat.pw:80/announce
+http://tracker.23794.top:6969/announce
 http://tracker.bt4g.com:2095/announce
 http://tracker.dhitechnical.com:6969/announce
 http://tracker.dler.com:6969/announce
@@ -20,7 +21,6 @@ http://tracker.mywaifu.best:6969/announce
 http://tracker.opentrackr.org:1337/announce
 http://tracker.qu.ax:6969/announce
 http://tracker.renfei.net:8080/announce
-http://tracker.skyts.net:6969/announce
 http://tracker.tritan.gg:8080/announce
 http://tracker.tvunderground.org.ru:3218/announce
 http://tracker.waaa.moe:6969/announce
@@ -60,7 +60,6 @@ udp://open.stealth.si:80/announce
 udp://rekcart.duckdns.org:15480/announce
 udp://retracker.hotplug.ru:2710/announce
 udp://seedpeer.net:6969/announce
-udp://t.overflow.biz:6969/announce
 udp://torrentclub.online:54123/announce
 udp://torrents.tmtime.dev:6969/announce
 udp://tr4ck3r.duckdns.org:6969/announce
@@ -74,6 +73,7 @@ udp://tracker.ddunlimited.net:6969/announce
 udp://tracker.dler.com:6969/announce
 udp://tracker.dler.org:6969/announce
 udp://tracker.ducks.party:1984/announce
+udp://tracker.filemail.com:6969/announce
 udp://tracker.flatuslifir.is:6969/announce
 udp://tracker.fnix.net:6969/announce
 udp://tracker.gmi.gd:6969/announce

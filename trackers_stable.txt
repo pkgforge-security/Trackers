@@ -10,6 +10,7 @@ udp://udp.tracker.projectk.org:23333/announce
 http://echostar.ddnsfree.com:8080/announce
 http://tracker.renfei.net:8080/announce
 http://tracker.xn--djrq4gl4hvoi.top:80/announce
+http://tracker.dhitechnical.com:6969/announce
 udp://tracker.1h.is:1337/announce
 udp://tracker.flatuslifir.is:6969/announce
 udp://tracker.bluefrog.pw:2710/announce
@@ -23,7 +24,6 @@ udp://tracker.nyaa.vc:6969/announce
 udp://open.stealth.si:80/announce
 udp://tracker.dler.com:6969/announce
 udp://martin-gebhardt.eu:25/announce
-http://tracker.dhitechnical.com:6969/announce
 udp://tracker.opentorrent.top:6969/announce
 udp://ns575949.ip-51-222-82.net:6969/announce
 https://http1.torrust-tracker-demo.com:443/announce
