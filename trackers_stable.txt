@@ -12,7 +12,6 @@ http://echostar.ddnsfree.com:8080/announce
 http://tracker.renfei.net:8080/announce
 http://tracker.xn--djrq4gl4hvoi.top:80/announce
 udp://tracker.1h.is:1337/announce
-udp://tracker.playground.ru:6969/announce
 udp://tracker.flatuslifir.is:6969/announce
 udp://tracker.bluefrog.pw:2710/announce
 udp://tracker.corpscorp.online:80/announce
@@ -34,6 +33,7 @@ udp://tracker.wildkat.net:6969/announce
 udp://yuptracker-eu.gaijinent.com:27022/announce
 udp://tracker.fnix.net:6969/announce
 udp://tracker.gmi.gd:6969/announce
+udp://tracker.playground.ru:6969/announce
 http://bt1.archive.org:6969/announce
 http://taciturn-shadow.spb.ru:6969/announce
 udp://archive.torrentonline.cc:42069/announce
@@ -43,9 +43,9 @@ udp://retracker.hotplug.ru:2710/announce
 udp://vito-tracker.duckdns.org:6969/announce
 udp://tracker.breizh.pm:6969/announce
 udp://tracker.iperson.xyz:6969/announce
+udp://tracker.hismz.cn:6969/announce
 https://tracker.pmman.tech:443/announce
 https://tracker.zhuqiy.com:443/announce
-udp://tracker.hismz.cn:6969/announce
 http://wegkxfcivgx.ydns.eu:80/announce
 http://tracker.tritan.gg:8080/announce
 http://bt2.archive.org:6969/announce
