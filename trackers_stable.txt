@@ -26,8 +26,8 @@ udp://tracker.dler.com:6969/announce
 udp://martin-gebhardt.eu:25/announce
 udp://tracker.opentorrent.top:6969/announce
 udp://ns575949.ip-51-222-82.net:6969/announce
-https://http1.torrust-tracker-demo.com:443/announce
 https://torrents.tmtime.dev:443/announce
+https://http1.torrust-tracker-demo.com:443/announce
 udp://yuptracker-eu.gaijinent.com:27022/announce
 udp://tracker.fnix.net:6969/announce
 udp://tracker.gmi.gd:6969/announce
@@ -36,9 +36,9 @@ http://bt1.archive.org:6969/announce
 http://taciturn-shadow.spb.ru:6969/announce
 udp://archive.torrentonline.cc:42069/announce
 udp://tracker.torrent.eu.org:451/announce
-udp://tracker.srv00.com:6969/announce
 https://tracker.ghostchu-services.top:443/announce
 udp://retracker.hotplug.ru:2710/announce
+udp://tracker.srv00.com:6969/announce
 udp://vito-tracker.duckdns.org:6969/announce
 udp://tracker.playground.ru:6969/announce
 udp://tracker.breizh.pm:6969/announce
