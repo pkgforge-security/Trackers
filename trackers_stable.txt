@@ -34,8 +34,8 @@ udp://tracker.gmi.gd:6969/announce
 http://bt1.archive.org:6969/announce
 http://taciturn-shadow.spb.ru:6969/announce
 udp://archive.torrentonline.cc:42069/announce
-udp://tracker.torrent.eu.org:451/announce
 udp://tracker.wildkat.net:6969/announce
+udp://tracker.torrent.eu.org:451/announce
 https://tracker.ghostchu-services.top:443/announce
 udp://retracker.hotplug.ru:2710/announce
 udp://vito-tracker.duckdns.org:6969/announce
