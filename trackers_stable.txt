@@ -49,4 +49,3 @@ http://wegkxfcivgx.ydns.eu:80/announce
 http://tracker.tritan.gg:8080/announce
 https://tracker.nekomi.cn:443/announce
 http://bt2.archive.org:6969/announce
-udp://tracker.playground.ru:6969/announce
