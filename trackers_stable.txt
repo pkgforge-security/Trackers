@@ -25,8 +25,8 @@ http://tracker.xn--djrq4gl4hvoi.top:80/announce
 udp://tracker.opentorrent.top:6969/announce
 udp://ns575949.ip-51-222-82.net:6969/announce
 udp://yuptracker-eu.gaijinent.com:27022/announce
-udp://udp1.torrust-tracker-demo.com:6969/announce
 https://torrents.tmtime.dev:443/announce
+udp://udp1.torrust-tracker-demo.com:6969/announce
 udp://tracker.fnix.net:6969/announce
 udp://tracker.gmi.gd:6969/announce
 https://http1.torrust-tracker-demo.com:443/announce
@@ -36,8 +36,8 @@ udp://archive.torrentonline.cc:42069/announce
 udp://tracker.torrent.eu.org:451/announce
 udp://tracker.wildkat.net:6969/announce
 udp://retracker.hotplug.ru:2710/announce
-udp://tracker.torrust-demo.com:6969/announce
 udp://vito-tracker.duckdns.org:6969/announce
+udp://tracker.torrust-demo.com:6969/announce
 https://tracker.pmman.tech:443/announce
 udp://tracker.hismz.cn:6969/announce
 https://tracker.zhuqiy.com:443/announce
