@@ -30,14 +30,13 @@ https://torrents.tmtime.dev:443/announce
 udp://tracker.fnix.net:6969/announce
 udp://tracker.gmi.gd:6969/announce
 https://http1.torrust-tracker-demo.com:443/announce
-udp://tracker.torrust-demo.com:6969/announce
 http://taciturn-shadow.spb.ru:6969/announce
 http://bt1.archive.org:6969/announce
 udp://archive.torrentonline.cc:42069/announce
 udp://tracker.torrent.eu.org:451/announce
 udp://tracker.wildkat.net:6969/announce
+udp://tracker.torrust-demo.com:6969/announce
 udp://retracker.hotplug.ru:2710/announce
-https://tracker.ghostchu-services.top:443/announce
 udp://vito-tracker.duckdns.org:6969/announce
 https://tracker.pmman.tech:443/announce
 https://tracker.zhuqiy.com:443/announce
