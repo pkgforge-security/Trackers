@@ -31,8 +31,8 @@ https://torrents.tmtime.dev:443/announce
 udp://tracker.qu.ax:6969/announce
 udp://tracker.gmi.gd:6969/announce
 http://taciturn-shadow.spb.ru:6969/announce
-http://tracker.xn--djrq4gl4hvoi.top:80/announce
 http://bt1.archive.org:6969/announce
+http://tracker.xn--djrq4gl4hvoi.top:80/announce
 udp://retracker.hotplug.ru:2710/announce
 udp://archive.torrentonline.cc:42069/announce
 udp://tracker.torrent.eu.org:451/announce
