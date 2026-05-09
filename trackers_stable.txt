@@ -48,3 +48,4 @@ https://tracker.zhuqiy.com:443/announce
 http://wegkxfcivgx.ydns.eu:80/announce
 http://tracker.tritan.gg:8080/announce
 https://tracker.nekomi.cn:443/announce
+http://tracker.waaa.moe:6969/announce
