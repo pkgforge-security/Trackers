@@ -1,3 +1,4 @@
+udp://tracker.dler.com:6969/announce
 http://tracker.bt4g.com:2095/announce
 http://tracker.mywaifu.best:6969/announce
 udp://tracker.tryhackx.org:6969/announce
@@ -19,7 +20,6 @@ udp://www.nartlof.com:6969/announce
 https://tracker.7471.top:443/announce
 udp://tracker.nyaa.vc:6969/announce
 udp://open.stealth.si:80/announce
-udp://tracker.dler.com:6969/announce
 udp://martin-gebhardt.eu:25/announce
 udp://udp.tracker.projectk.org:23333/announce
 udp://tracker.opentorrent.top:6969/announce
@@ -39,8 +39,8 @@ udp://tracker.torrent.eu.org:451/announce
 udp://vito-tracker.space:2095/announce
 udp://tracker.wildkat.net:6969/announce
 udp://vito-tracker.duckdns.org:6969/announce
-udp://tracker.hismz.cn:6969/announce
 https://t.213891.xyz:443/announce
+udp://tracker.hismz.cn:6969/announce
 udp://tracker.breizh.pm:6969/announce
 https://tracker.pmman.tech:443/announce
 http://bt2.archive.org:6969/announce
