@@ -36,11 +36,11 @@ udp://retracker.hotplug.ru:2710/announce
 udp://archive.torrentonline.cc:42069/announce
 udp://tracker.torrent.eu.org:451/announce
 http://tracker.xn--djrq4gl4hvoi.top:80/announce
-udp://vito-tracker.space:2095/announce
 udp://open.ftorrent.com:443/announce
 udp://tracker.wildkat.net:6969/announce
-udp://vito-tracker.duckdns.org:6969/announce
+udp://vito-tracker.space:2095/announce
 http://tracker.waaa.moe:6969/announce
+udp://vito-tracker.duckdns.org:6969/announce
 https://t.213891.xyz:443/announce
 udp://tracker.breizh.pm:6969/announce
 https://tracker.pmman.tech:443/announce
