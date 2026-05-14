@@ -34,8 +34,8 @@ udp://open.ftorrent.com:443/announce
 http://tracker.waaa.moe:6969/announce
 http://tracker.xn--djrq4gl4hvoi.top:80/announce
 https://t.213891.xyz:443/announce
-http://taciturn-shadow.spb.ru:6969/announce
 udp://tracker.torrent.eu.org:451/announce
+http://taciturn-shadow.spb.ru:6969/announce
 udp://archive.torrentonline.cc:42069/announce
 udp://tracker.wildkat.net:6969/announce
 http://bt2.archive.org:6969/announce
