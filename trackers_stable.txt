@@ -15,6 +15,7 @@ udp://tracker.corpscorp.online:80/announce
 https://tracker.qingwapt.org:443/announce
 udp://uabits.today:6990/announce
 udp://tracker.nyaa.vc:6969/announce
+udp://yuptracker-eu.gaijinent.com:27022/announce
 udp://open.stealth.si:80/announce
 udp://tracker.dler.com:6969/announce
 udp://retracker.hotplug.ru:2710/announce
@@ -24,7 +25,6 @@ udp://udp.tracker.projectk.org:23333/announce
 udp://tracker.opentorrent.top:6969/announce
 udp://ns575949.ip-51-222-82.net:6969/announce
 udp://www.nartlof.com:6969/announce
-udp://yuptracker-eu.gaijinent.com:27022/announce
 https://torrents.tmtime.dev:443/announce
 udp://tracker.bluefrog.pw:2710/announce
 udp://tracker.gmi.gd:6969/announce
