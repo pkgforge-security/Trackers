@@ -16,6 +16,7 @@ https://tracker.qingwapt.org:443/announce
 udp://uabits.today:6990/announce
 udp://tracker.nyaa.vc:6969/announce
 udp://yuptracker-eu.gaijinent.com:27022/announce
+udp://open.ftorrent.com:443/announce
 udp://open.stealth.si:80/announce
 udp://tracker.dler.com:6969/announce
 udp://retracker.hotplug.ru:2710/announce
@@ -28,7 +29,6 @@ udp://www.nartlof.com:6969/announce
 https://torrents.tmtime.dev:443/announce
 udp://tracker.bluefrog.pw:2710/announce
 udp://tracker.gmi.gd:6969/announce
-udp://open.ftorrent.com:443/announce
 https://tracker.7471.top:443/announce
 http://bt1.archive.org:6969/announce
 http://tracker.waaa.moe:6969/announce
