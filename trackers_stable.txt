@@ -46,4 +46,5 @@ http://tracker.tritan.gg:8080/announce
 udp://tracker.qu.ax:6969/announce
 https://tracker.zhuqiy.com:443/announce
 https://tracker.nekomi.cn:443/announce
+udp://seedpeer.net:6969/announce
 http://tracker.ipv6tracker.ru:80/announce
