@@ -30,8 +30,8 @@ https://torrents.tmtime.dev:443/announce
 udp://tracker.bluefrog.pw:2710/announce
 http://bt1.archive.org:6969/announce
 http://tracker.waaa.moe:6969/announce
-udp://udp.tracker.projectk.org:23333/announce
 https://tracker.7471.top:443/announce
+udp://udp.tracker.projectk.org:23333/announce
 http://tracker.xn--djrq4gl4hvoi.top:80/announce
 https://t.213891.xyz:443/announce
 udp://tracker.torrent.eu.org:451/announce
