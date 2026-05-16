@@ -7,7 +7,6 @@ udp://tracker.t-1.org:6969/announce
 http://wegkxfcivgx.ydns.eu:80/announce
 http://echostar.ddnsfree.com:8080/announce
 http://tracker.renfei.net:8080/announce
-https://tr.nyacat.pw:443/announce
 http://tracker.dhitechnical.com:6969/announce
 udp://tracker.1h.is:1337/announce
 udp://tracker.flatuslifir.is:6969/announce
@@ -22,15 +21,16 @@ udp://tracker.dler.com:6969/announce
 udp://retracker.hotplug.ru:2710/announce
 udp://evan.im:6969/announce
 udp://martin-gebhardt.eu:25/announce
-udp://udp.tracker.projectk.org:23333/announce
+udp://tracker.gmi.gd:6969/announce
+https://tr.nyacat.pw:443/announce
 udp://tracker.opentorrent.top:6969/announce
 udp://ns575949.ip-51-222-82.net:6969/announce
 udp://www.nartlof.com:6969/announce
 https://torrents.tmtime.dev:443/announce
-udp://tracker.gmi.gd:6969/announce
+udp://udp.tracker.projectk.org:23333/announce
 udp://tracker.bluefrog.pw:2710/announce
-https://tracker.7471.top:443/announce
 http://bt1.archive.org:6969/announce
+https://tracker.7471.top:443/announce
 http://tracker.waaa.moe:6969/announce
 http://tracker.xn--djrq4gl4hvoi.top:80/announce
 https://t.213891.xyz:443/announce
@@ -43,8 +43,8 @@ http://bt2.archive.org:6969/announce
 http://taciturn-shadow.spb.ru:6969/announce
 udp://tracker.breizh.pm:6969/announce
 http://tracker.tritan.gg:8080/announce
-udp://tracker.qu.ax:6969/announce
 https://tracker.zhuqiy.com:443/announce
+udp://tracker.qu.ax:6969/announce
 udp://seedpeer.net:6969/announce
 https://tracker.nekomi.cn:443/announce
 http://tracker.ipv6tracker.ru:80/announce
