@@ -31,8 +31,8 @@ udp://tracker.gmi.gd:6969/announce
 udp://tracker.bluefrog.pw:2710/announce
 https://tracker.7471.top:443/announce
 http://bt1.archive.org:6969/announce
-udp://www.nartlof.com:6969/announce
 https://t.213891.xyz:443/announce
+udp://www.nartlof.com:6969/announce
 udp://archive.torrentonline.cc:42069/announce
 udp://tracker.torrent.eu.org:451/announce
 http://tracker.xn--djrq4gl4hvoi.top:80/announce
@@ -46,7 +46,7 @@ http://taciturn-shadow.spb.ru:6969/announce
 udp://tracker.breizh.pm:6969/announce
 https://tracker.zhuqiy.com:443/announce
 https://tracker.nekomi.cn:443/announce
-https://pybittrack.retiolus.net:443/announce
 udp://tracker.qu.ax:6969/announce
 http://bvarf.tracker.sh:2086/announce
 http://tracker.ipv6tracker.ru:80/announce
+https://pybittrack.retiolus.net:443/announce
