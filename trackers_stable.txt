@@ -47,3 +47,4 @@ udp://tracker.breizh.pm:6969/announce
 http://tracker.ipv6tracker.ru:80/announce
 https://tracker.nekomi.cn:443/announce
 http://bvarf.tracker.sh:2086/announce
+udp://udp.trackarr.org:6969/announce
