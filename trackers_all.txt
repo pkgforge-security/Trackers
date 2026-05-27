@@ -947,6 +947,7 @@ udp://acxx.de:6969/announce
 udp://admin.52ywp.com:6969/announce
 udp://admin.videoenpoche.info:6969/announce
 udp://aegir.sexy:6969/announce
+udp://anime-tracker.aruku.kro.kr:8081/announce
 udp://app.icon256.com:8000/announce
 udp://archive.torrentonline.cc:42069/announce
 udp://astrr.ru:6969/announce
