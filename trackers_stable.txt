@@ -22,12 +22,12 @@ udp://tracker.nyaa.vc:6969/announce
 udp://tracker.aruku.ovh:8081/announce
 udp://anime-tracker.aruku.kro.kr:8081/announce
 udp://open.stealth.si:80/announce
-udp://tracker.dler.com:6969/announce
 udp://tracker-udp.gbitt.info:80/announce
 udp://evan.im:6969/announce
 udp://tracker.t-1.org:6969/announce
 http://tracker.waaa.moe:6969/announce
 udp://yuptracker-eu.gaijinent.com:27022/announce
+udp://tracker.dler.com:6969/announce
 udp://tracker.gmi.gd:6969/announce
 https://t.213891.xyz:443/announce
 udp://tracker.bluefrog.pw:2710/announce
@@ -37,9 +37,9 @@ udp://archive.torrentonline.cc:42069/announce
 http://bt1.archive.org:6969/announce
 udp://seedpeer.net:6969/announce
 udp://udp.tracker.projectk.org:23333/announce
-http://bt2.archive.org:6969/announce
 udp://coeus.torrentonline.cc:42069/announce
 udp://open.ftorrent.com:443/announce
+http://bt2.archive.org:6969/announce
 http://tracker.bt4g.com:2095/announce
 udp://uabits.today:6990/announce
 udp://tracker.breizh.pm:6969/announce
