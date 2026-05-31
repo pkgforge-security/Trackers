@@ -1,5 +1,4 @@
 udp://retracker.hotplug.ru:2710/announce
-udp://tracker-udp.gbitt.info:80/announce
 udp://tracker.torrent.eu.org:451/announce
 http://tracker.mywaifu.best:6969/announce
 udp://tracker.tryhackx.org:6969/announce
@@ -20,6 +19,7 @@ https://tracker.qingwapt.org:443/announce
 udp://tracker.nyaa.vc:6969/announce
 udp://tracker.aruku.ovh:8081/announce
 udp://open.stealth.si:80/announce
+udp://tracker-udp.gbitt.info:80/announce
 udp://evan.im:6969/announce
 udp://tracker.gmi.gd:6969/announce
 udp://tracker.t-1.org:6969/announce
@@ -31,8 +31,8 @@ udp://anime-tracker.aruku.kro.kr:8081/announce
 https://tracker.pmman.tech:443/announce
 https://torrents.tmtime.dev:443/announce
 https://tracker.7471.top:443/announce
-https://t.213891.xyz:443/announce
 udp://archive.torrentonline.cc:42069/announce
+https://t.213891.xyz:443/announce
 udp://tracker.1h.is:1337/announce
 http://bt1.archive.org:6969/announce
 udp://seedpeer.net:6969/announce
