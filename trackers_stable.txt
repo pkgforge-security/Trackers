@@ -1,4 +1,3 @@
-udp://retracker.hotplug.ru:2710/announce
 udp://tracker.torrent.eu.org:451/announce
 http://tracker.mywaifu.best:6969/announce
 udp://tracker.tryhackx.org:6969/announce
@@ -24,11 +23,11 @@ udp://tracker-udp.gbitt.info:80/announce
 udp://evan.im:6969/announce
 udp://tracker.gmi.gd:6969/announce
 udp://tracker.t-1.org:6969/announce
-udp://udp.tracker.projectk.org:23333/announce
 udp://tracker.bluefrog.pw:2710/announce
 udp://yuptracker-eu.gaijinent.com:27022/announce
 udp://anime-tracker.aruku.kro.kr:8081/announce
 https://tracker.pmman.tech:443/announce
+udp://udp.tracker.projectk.org:23333/announce
 https://tracker.7471.top:443/announce
 https://torrents.tmtime.dev:443/announce
 udp://archive.torrentonline.cc:42069/announce
@@ -37,6 +36,7 @@ udp://tracker.1h.is:1337/announce
 http://bt1.archive.org:6969/announce
 udp://seedpeer.net:6969/announce
 http://bt2.archive.org:6969/announce
+udp://retracker.hotplug.ru:2710/announce
 udp://coeus.torrentonline.cc:42069/announce
 udp://open.ftorrent.com:443/announce
 http://tracker.bt4g.com:2095/announce
