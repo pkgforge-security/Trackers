@@ -2,6 +2,7 @@ udp://tracker.torrent.eu.org:451/announce
 http://tracker.mywaifu.best:6969/announce
 udp://tracker.tryhackx.org:6969/announce
 udp://tracker.fnix.net:6969/announce
+udp://evan.im:6969/announce
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 udp://martin-gebhardt.eu:25/announce
 http://tracker.waaa.moe:6969/announce
@@ -20,7 +21,6 @@ udp://tracker.nyaa.vc:6969/announce
 udp://tracker.aruku.ovh:8081/announce
 udp://open.stealth.si:80/announce
 udp://tracker-udp.gbitt.info:80/announce
-udp://evan.im:6969/announce
 udp://tracker.gmi.gd:6969/announce
 udp://tracker.t-1.org:6969/announce
 udp://tracker.flatuslifir.is:6969/announce
@@ -40,8 +40,8 @@ udp://coeus.torrentonline.cc:42069/announce
 udp://open.ftorrent.com:443/announce
 udp://uabits.today:6990/announce
 http://tracker.bt4g.com:2095/announce
-http://tracker.tritan.gg:8080/announce
 udp://tracker.breizh.pm:6969/announce
+http://tracker.tritan.gg:8080/announce
 udp://tracker.dler.com:6969/announce
 udp://obey.torrentonline.cc:42069/announce
 udp://tracker.wildkat.net:6969/announce
