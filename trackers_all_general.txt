@@ -72,7 +72,6 @@ udp://open.demonoid.ch:6969/announce
 udp://open.ftorrent.com:443/announce
 udp://open.stealth.si:80/announce
 udp://rekcart.duckdns.org:15480/announce
-udp://retracker.hotplug.ru:2710/announce
 udp://retracker01-msk-virt.corbina.net:80/announce
 udp://seedpeer.net:6969/announce
 udp://t.overflow.biz:6969/announce
