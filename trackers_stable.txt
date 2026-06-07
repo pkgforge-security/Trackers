@@ -9,6 +9,7 @@ http://tracker.waaa.moe:6969/announce
 http://wegkxfcivgx.ydns.eu:80/announce
 http://echostar.ddnsfree.com:8080/announce
 http://tracker.renfei.net:8080/announce
+https://tr.nyacat.pw:443/announce
 http://tracker.dhitechnical.com:6969/announce
 udp://tracker.opentorrent.top:6969/announce
 udp://ns575949.ip-51-222-82.net:6969/announce
@@ -31,17 +32,16 @@ udp://yuptracker-eu.gaijinent.com:27022/announce
 https://torrents.tmtime.dev:443/announce
 https://tracker.pmman.tech:443/announce
 udp://tracker.1h.is:1337/announce
-udp://tracker.fnix.net:6969/announce
 http://bt1.archive.org:6969/announce
+udp://tracker.fnix.net:6969/announce
 http://tracker.bt4g.com:2095/announce
 udp://archive.torrentonline.cc:42069/announce
 udp://open.ftorrent.com:443/announce
 udp://coeus.torrentonline.cc:42069/announce
 udp://tracker.breizh.pm:6969/announce
-https://tr.nyacat.pw:443/announce
 udp://tracker.dler.com:6969/announce
-udp://udp.tracker.projectk.org:23333/announce
 http://tracker.tritan.gg:8080/announce
+udp://udp.tracker.projectk.org:23333/announce
 udp://tracker.wildkat.net:6969/announce
 https://tracker.zhuqiy.com:443/announce
 http://tracker.ipv6tracker.ru:80/announce
