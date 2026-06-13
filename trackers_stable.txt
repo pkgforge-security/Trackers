@@ -24,11 +24,11 @@ https://torrents.tmtime.dev:443/announce
 https://tracker.anibt.net:443/announce
 https://banananetwork.qzz.io:443/announce
 udp://tracker.t-1.org:6969/announce
-https://tr.nyacat.pw:443/announce
 udp://tracker.wildkat.net:6969/announce
 udp://yuptracker-eu.gaijinent.com:27022/announce
 udp://uabits.today:6990/announce
 udp://tracker.gmi.gd:6969/announce
+https://tr.nyacat.pw:443/announce
 https://shahidrazi.online:443/announce
 https://tracker.pmman.tech:443/announce
 http://tracker.waaa.moe:6969/announce
