@@ -439,11 +439,11 @@ http://torrentzilla.org:80/announce.php
 http://tr.bangumi.moe/announce
 http://tr.bangumi.moe:6969/announce
 http://tr.cili001.com:8070/announce
+http://tr.highstar.shop:80/announce
 http://tr.kxmp.cf/announce
 http://tr.kxmp.cf:80/announce
 http://tr.nyacat.pw/announce
 http://tr.nyacat.pw:80/announce
-http://tracker.23794.top:6969/announce
 http://tracker.acgnx.se/announce
 http://tracker.acgnx.se:80/announce
 http://tracker.aibt.xyz:900/announce
@@ -538,6 +538,7 @@ http://tracker.peckservers.com:9000/announce
 http://tracker.pimp4003.net/announce
 http://tracker.pow7.com/announce
 http://tracker.pow7.com:80/announce
+http://tracker.privateseedbox.xyz:2710/announce
 http://tracker.publictorrent.net/announce
 http://tracker.publictorrent.net:80/announce
 http://tracker.pussytorrents.org:3000/announce
@@ -977,7 +978,6 @@ udp://download.nerocloud.me:6969/announce
 udp://elementsbrowser.com:6969/announce
 udp://epider.me:6969/announce
 udp://evan.im:6969/announce
-udp://exodus.desync.com:6969/announce
 udp://explodie.org:6969/announce
 udp://f1sh.de:6969/announce
 udp://fe.dealclub.de:6969/announce
@@ -1035,6 +1035,7 @@ udp://public-tracker.cf:6969/announce
 udp://public.publictracker.xyz:6969/announce
 udp://public.tracker.vraphim.com:6969/announce
 udp://qtstm32fan.ru:6969/announce
+udp://rekcart.duckdns.org:15480/announce
 udp://rep-art.ynh.fr:6969/announce
 udp://retracker.lanta-net.ru:2710/announce
 udp://retracker01-msk-virt.corbina.net:80/announce
@@ -1096,7 +1097,6 @@ udp://tracker.edkj.club:6969/announce
 udp://tracker.ex.ua:80/announce
 udp://tracker.farted.net:6969/announce
 udp://tracker.filemail.com:6969/announce
-udp://tracker.fnix.net:6969/announce
 udp://tracker.gmi.gd:6969/announce
 udp://tracker.hismz.cn:6969/announce
 udp://tracker.ilibr.org:80/announce
@@ -1111,6 +1111,7 @@ udp://tracker.opentorrent.top:6969/announce
 udp://tracker.opentrackr.org:1337/announce
 udp://tracker.peerfect.org:6969/announce
 udp://tracker.playground.ru:6969/announce
+udp://tracker.plx.im:6969/announce
 udp://tracker.pomf.se:80/announce
 udp://tracker.publictracker.xyz:6969/announce
 udp://tracker.qu.ax:6969/announce
