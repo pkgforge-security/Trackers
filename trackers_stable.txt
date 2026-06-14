@@ -13,12 +13,12 @@ udp://tracker.opentorrent.top:6969/announce
 udp://ns575949.ip-51-222-82.net:6969/announce
 udp://tracker.bluefrog.pw:2710/announce
 udp://tracker.corpscorp.online:80/announce
-https://tracker.7471.top:443/announce
 https://orgtgju.org:443/announce
 https://021912.xyz:443/announce
 udp://tracker-udp.gbitt.info:80/announce
 https://tracker.leechshield.link:443/announce
 https://tracker.manager.v6.navy:443/announce
+https://tracker.7471.top:443/announce
 https://torrents.tmtime.dev:443/announce
 udp://anime-tracker.aruku.kro.kr:8081/announce
 https://tracker.anibt.net:443/announce
@@ -27,8 +27,8 @@ udp://tracker.t-1.org:6969/announce
 https://tr.nyacat.pw:443/announce
 udp://tracker.wildkat.net:6969/announce
 udp://yuptracker-eu.gaijinent.com:27022/announce
-udp://uabits.today:6990/announce
 udp://tracker.gmi.gd:6969/announce
+udp://uabits.today:6990/announce
 udp://open.ftorrent.com:443/announce
 udp://tracker.aruku.ovh:8081/announce
 udp://shahidrazi.online:1984/announce
