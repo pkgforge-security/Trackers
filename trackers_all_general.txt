@@ -11,6 +11,7 @@ http://buny.uk:6969/announce
 http://bvarf.tracker.sh:2086/announce
 http://echostar.ddnsfree.com:8080/announce
 http://home.yxgz.club:6969/announce
+http://ipv4announce.sktorrent.eu:6969/announce
 http://jvavav.com:80/announce
 http://open.trackerlist.xyz:80/announce
 http://retracker.spark-rostov.ru:80/announce
