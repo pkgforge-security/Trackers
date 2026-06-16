@@ -18,6 +18,7 @@ https://tracker.anibt.net:443/announce
 https://orgtgju.org:443/announce
 https://021912.xyz:443/announce
 udp://tracker.trackarr.org:6969/announce
+https://tracker.bigbewbs.online:443/announce
 udp://tracker-udp.gbitt.info:80/announce
 https://tracker.leechshield.link:443/announce
 udp://tracker.bluefrog.pw:2710/announce
@@ -38,9 +39,9 @@ https://tracker.pmman.tech:443/announce
 http://tracker.waaa.moe:6969/announce
 http://bt1.archive.org:6969/announce
 http://tracker.bt4g.com:2095/announce
+http://ipv4announce.sktorrent.eu:6969/announce
 http://tracker.renfei.net:8080/announce
 http://tracker.xn--djrq4gl4hvoi.top:80/announce
-http://ipv4announce.sktorrent.eu:6969/announce
 udp://coeus.torrentonline.cc:42069/announce
 udp://tracker.qu.ax:6969/announce
 udp://tracker.breizh.pm:6969/announce
