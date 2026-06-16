@@ -20,6 +20,7 @@ https://021912.xyz:443/announce
 udp://tracker.trackarr.org:6969/announce
 https://tracker.bigbewbs.online:443/announce
 udp://tracker-udp.gbitt.info:80/announce
+http://ipv4announce.sktorrent.eu:6969/announce
 https://tracker.leechshield.link:443/announce
 udp://tracker.bluefrog.pw:2710/announce
 https://tracker.manager.v6.navy:443/announce
@@ -29,7 +30,6 @@ https://banananetwork.qzz.io:443/announce
 udp://tracker.t-1.org:6969/announce
 udp://tracker.wildkat.net:6969/announce
 udp://tracker.teambelgium.net:6969/announce
-http://ipv4announce.sktorrent.eu:6969/announce
 udp://tracker.gmi.gd:6969/announce
 udp://uabits.today:6990/announce
 udp://open.ftorrent.com:443/announce
@@ -37,9 +37,9 @@ https://tracker.7471.top:443/announce
 udp://shahidrazi.online:1984/announce
 http://bt1.archive.org:6969/announce
 udp://tracker.aruku.ovh:8081/announce
+http://tracker.bt4g.com:2095/announce
 https://tracker.pmman.tech:443/announce
 http://tracker.waaa.moe:6969/announce
-http://tracker.bt4g.com:2095/announce
 http://tracker.renfei.net:8080/announce
 http://tracker.xn--djrq4gl4hvoi.top:80/announce
 udp://coeus.torrentonline.cc:42069/announce
