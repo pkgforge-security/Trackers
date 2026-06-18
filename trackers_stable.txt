@@ -30,6 +30,7 @@ https://banananetwork.qzz.io:443/announce
 udp://tracker.teambelgium.net:6969/announce
 udp://tracker.t-1.org:6969/announce
 udp://tracker.wildkat.net:6969/announce
+udp://mail.segso.net:6969/announce
 udp://tracker.gmi.gd:6969/announce
 udp://uabits.today:6990/announce
 udp://open.ftorrent.com:443/announce
