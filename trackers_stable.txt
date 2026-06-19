@@ -25,10 +25,10 @@ https://tracker.leechshield.link:443/announce
 udp://tracker.bluefrog.pw:2710/announce
 https://tracker.manager.v6.navy:443/announce
 udp://yuptracker-eu.gaijinent.com:27022/announce
+udp://tracker.aruku.ovh:8081/announce
 https://banananetwork.qzz.io:443/announce
 udp://tracker.trackarr.org:6969/announce
 udp://tracker.t-1.org:6969/announce
-udp://tracker.aruku.ovh:8081/announce
 udp://uabits.today:6990/announce
 udp://tracker.wildkat.net:6969/announce
 udp://mail.segso.net:6969/announce
