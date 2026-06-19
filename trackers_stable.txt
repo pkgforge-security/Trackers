@@ -34,14 +34,14 @@ udp://mail.segso.net:6969/announce
 udp://tracker.wildkat.net:6969/announce
 udp://tracker.teambelgium.net:6969/announce
 udp://tracker.gmi.gd:6969/announce
-udp://open.ftorrent.com:443/announce
-http://tracker.xn--djrq4gl4hvoi.top:80/announce
 https://tracker.7471.top:443/announce
+udp://open.ftorrent.com:443/announce
 udp://shahidrazi.online:1984/announce
-udp://uabits.today:6990/announce
 https://tracker.pmman.tech:443/announce
+http://tracker.xn--djrq4gl4hvoi.top:80/announce
 http://bt1.archive.org:6969/announce
 udp://tracker.dler.com:6969/announce
+udp://uabits.today:6990/announce
 http://tracker.renfei.net:8080/announce
 udp://tracker.breizh.pm:6969/announce
 udp://tracker.qu.ax:6969/announce
