@@ -86,6 +86,7 @@ udp://open.stealth.si:80/announce
 udp://retracker01-msk-virt.corbina.net:80/announce
 udp://seedpeer.net:6969/announce
 udp://t.overflow.biz:6969/announce
+udp://torrentclub.online:1984/announce
 udp://torrentclub.online:54123/announce
 udp://torrents.tmtime.dev:6969/announce
 udp://tr4ck3r.duckdns.org:6969/announce
