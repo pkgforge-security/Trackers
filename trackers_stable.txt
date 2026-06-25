@@ -19,13 +19,13 @@ udp://mail.segso.net:6969/announce
 udp://torrentclub.online:1984/announce
 udp://tracker.dler.com:6969/announce
 http://ipv4announce.sktorrent.eu:6969/announce
-https://tr.zukizuki.org:443/announce
 http://tracker.dhitechnical.com:6969/announce
 udp://tracker.bluefrog.pw:2710/announce
 https://tracker.manager.v6.navy:443/announce
 udp://yuptracker-eu.gaijinent.com:27022/announce
 udp://anime-tracker.aruku.kro.kr:8081/announce
 https://banananetwork.qzz.io:443/announce
+https://tr.zukizuki.org:443/announce
 udp://tracker.trackarr.org:6969/announce
 http://wegkxfcivgx.ydns.eu:80/announce
 https://t.213891.xyz:443/announce
@@ -41,8 +41,8 @@ udp://tracker.wildkat.net:6969/announce
 udp://tracker.qu.ax:6969/announce
 http://tracker.renfei.net:8080/announce
 http://tracker.waaa.moe:6969/announce
-udp://coeus.torrentonline.cc:42069/announce
 udp://retracker.hotplug.ru:2710/announce
+udp://coeus.torrentonline.cc:42069/announce
 udp://tracker.t-1.org:6969/announce
 http://tracker.ipv6tracker.ru:80/announce
 http://tracker.tritan.gg:8080/announce
