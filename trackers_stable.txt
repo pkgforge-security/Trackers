@@ -25,11 +25,11 @@ udp://tracker.bluefrog.pw:2710/announce
 https://tracker.manager.v6.navy:443/announce
 https://torrents.tmtime.dev:443/announce
 udp://anime-tracker.aruku.kro.kr:8081/announce
-udp://tracker.trackarr.org:6969/announce
 udp://retracker.hotplug.ru:2710/announce
 http://wegkxfcivgx.ydns.eu:80/announce
 https://t.213891.xyz:443/announce
 udp://open.ftorrent.com:443/announce
+udp://tracker.trackarr.org:6969/announce
 udp://tracker.teambelgium.net:6969/announce
 udp://open.stealth.si:80/announce
 udp://tracker.gmi.gd:6969/announce
