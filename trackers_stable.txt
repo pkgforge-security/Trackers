@@ -1,4 +1,5 @@
 udp://tracker-udp.gbitt.info:80/announce
+http://ipv4announce.sktorrent.eu:6969/announce
 udp://tracker.torrent.eu.org:451/announce
 http://tracker.mywaifu.best:6969/announce
 udp://evan.im:6969/announce
@@ -19,7 +20,6 @@ https://021912.xyz:443/announce
 udp://mail.segso.net:6969/announce
 udp://torrentclub.online:1984/announce
 udp://tracker.dler.com:6969/announce
-http://ipv4announce.sktorrent.eu:6969/announce
 udp://seedpeer.net:6969/announce
 http://tracker.dhitechnical.com:6969/announce
 udp://tracker.bluefrog.pw:2710/announce
@@ -35,8 +35,8 @@ udp://tracker.gmi.gd:6969/announce
 https://tr.zukizuki.org:443/announce
 https://t.213891.xyz:443/announce
 https://tracker.7471.top:443/announce
-https://tracker.leechshield.link:443/announce
 udp://tracker.qu.ax:6969/announce
+https://tracker.leechshield.link:443/announce
 http://bt1.archive.org:6969/announce
 udp://tracker.wildkat.net:6969/announce
 https://tracker.pmman.tech:443/announce
