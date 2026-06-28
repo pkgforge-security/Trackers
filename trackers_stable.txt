@@ -32,8 +32,8 @@ udp://tracker.trackarr.org:6969/announce
 udp://tracker.teambelgium.net:6969/announce
 udp://open.stealth.si:80/announce
 udp://tracker.gmi.gd:6969/announce
-https://t.213891.xyz:443/announce
 https://tr.zukizuki.org:443/announce
+https://t.213891.xyz:443/announce
 https://tracker.7471.top:443/announce
 https://tracker.leechshield.link:443/announce
 udp://tracker.qu.ax:6969/announce
