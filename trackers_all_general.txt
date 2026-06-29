@@ -66,7 +66,6 @@ https://tracker.bt4g.com:443/announce
 https://tracker.leechshield.link:443/announce
 https://tracker.manager.v6.navy:443/announce
 https://tracker.nekomi.cn:443/announce
-https://tracker.pmman.tech:443/announce
 https://tracker.yemekyedim.com:443/announce
 https://tracker.zhuqiy.com:443/announce
 udp://admin.52ywp.com:6969/announce
