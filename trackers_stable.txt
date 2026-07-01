@@ -21,8 +21,8 @@ https://ht.therarbg.to:443/announce
 udp://tracker.dler.com:6969/announce
 http://tracker.dhitechnical.com:6969/announce
 udp://tracker.bluefrog.pw:2710/announce
-https://tracker.anibt.net:443/announce
 udp://anime-tracker.aruku.kro.kr:8081/announce
+https://tracker.anibt.net:443/announce
 udp://retracker.hotplug.ru:2710/announce
 http://wegkxfcivgx.ydns.eu:80/announce
 udp://open.ftorrent.com:443/announce
@@ -49,6 +49,6 @@ http://tracker.bt4g.com:2095/announce
 https://tracker.zhuqiy.com:443/announce
 udp://tracker.breizh.pm:6969/announce
 http://tracker.tritan.gg:8080/announce
-udp://t.overflow.biz:6969/announce
 https://004430.xyz:443/announce
+udp://t.overflow.biz:6969/announce
 udp://tracker.004430.xyz:1337/announce
