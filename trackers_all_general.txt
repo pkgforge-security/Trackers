@@ -52,6 +52,7 @@ http://tracker810.xyz:11450/announce
 http://wegkxfcivgx.ydns.eu:80/announce
 http://www.genesis-sp.org:2710/announce
 http://www.torrentsnipe.info:2701/announce
+https://004430.xyz:443/announce
 https://021912.xyz:443/announce
 https://banananetwork.qzz.io:443/announce
 https://open.ftorrent.com:443/announce
