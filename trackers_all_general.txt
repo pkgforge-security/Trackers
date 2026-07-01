@@ -55,6 +55,7 @@ http://www.torrentsnipe.info:2701/announce
 https://004430.xyz:443/announce
 https://021912.xyz:443/announce
 https://banananetwork.qzz.io:443/announce
+https://ht.therarbg.to:443/announce
 https://open.ftorrent.com:443/announce
 https://orgtgju.org:443/announce
 https://pybittrack.retiolus.net:443/announce
@@ -92,7 +93,6 @@ udp://open.stealth.si:80/announce
 udp://rekcart.duckdns.org:15480/announce
 udp://retracker.hotplug.ru:2710/announce
 udp://retracker01-msk-virt.corbina.net:80/announce
-udp://seedpeer.net:6969/announce
 udp://t.overflow.biz:6969/announce
 udp://torrentclub.online:1984/announce
 udp://torrentclub.online:54123/announce
