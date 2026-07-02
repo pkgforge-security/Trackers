@@ -52,3 +52,4 @@ udp://tracker.breizh.pm:6969/announce
 udp://t.overflow.biz:6969/announce
 http://tracker.tritan.gg:8080/announce
 udp://tracker.hismz.cn:6969/announce
+udp://tr.btube3.com:2010/announce
