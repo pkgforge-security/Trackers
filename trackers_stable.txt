@@ -11,7 +11,6 @@ udp://tracker.opentorrent.top:6969/announce
 udp://ns575949.ip-51-222-82.net:6969/announce
 udp://tracker.corpscorp.online:80/announce
 https://tracker.manager.v6.navy:443/announce
-udp://tracker.aruku.ovh:8081/announce
 https://orgtgju.org:443/announce
 https://banananetwork.qzz.io:443/announce
 https://021912.xyz:443/announce
@@ -22,6 +21,7 @@ https://tr.nyacat.pw:443/announce
 http://tracker.dhitechnical.com:6969/announce
 udp://tracker.bluefrog.pw:2710/announce
 udp://open.ftorrent.com:443/announce
+udp://tracker.aruku.ovh:8081/announce
 https://tracker.anibt.net:443/announce
 udp://anime-tracker.aruku.kro.kr:8081/announce
 http://wegkxfcivgx.ydns.eu:80/announce
@@ -33,12 +33,12 @@ https://tracker.7471.top:443/announce
 https://t.213891.xyz:443/announce
 https://torrents.tmtime.dev:443/announce
 https://tracker.leechshield.link:443/announce
-udp://yuptracker-eu.gaijinent.com:27022/announce
 udp://tracker.trackarr.org:6969/announce
 udp://tracker.wildkat.net:6969/announce
 udp://torrentclub.online:1984/announce
-http://bt2.archive.org:6969/announce
+udp://yuptracker-eu.gaijinent.com:27022/announce
 http://bt1.archive.org:6969/announce
+http://bt2.archive.org:6969/announce
 http://tracker.xn--djrq4gl4hvoi.top:80/announce
 http://tracker.waaa.moe:6969/announce
 https://004430.xyz:443/announce
@@ -49,7 +49,6 @@ http://tracker.bt4g.com:2095/announce
 https://tracker.zhuqiy.com:443/announce
 udp://t.overflow.biz:6969/announce
 udp://tracker.breizh.pm:6969/announce
-https://tr.zukizuki.org:443/announce
 http://tracker.tritan.gg:8080/announce
+https://tr.zukizuki.org:443/announce
 udp://tracker.hismz.cn:6969/announce
-udp://tr.btube3.com:2010/announce
