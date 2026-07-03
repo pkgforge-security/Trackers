@@ -1,4 +1,3 @@
-udp://retracker.hotplug.ru:2710/announce
 udp://tracker-udp.gbitt.info:80/announce
 http://ipv4announce.sktorrent.eu:6969/announce
 udp://tracker.torrent.eu.org:451/announce
@@ -26,6 +25,7 @@ udp://tracker.bluefrog.pw:2710/announce
 udp://open.ftorrent.com:443/announce
 udp://tracker.aruku.ovh:8081/announce
 https://tracker.anibt.net:443/announce
+udp://retracker.hotplug.ru:2710/announce
 udp://anime-tracker.aruku.kro.kr:8081/announce
 http://wegkxfcivgx.ydns.eu:80/announce
 udp://open.stealth.si:80/announce
