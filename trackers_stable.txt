@@ -6,6 +6,7 @@ udp://evan.im:6969/announce
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 udp://martin-gebhardt.eu:25/announce
 http://echostar.ddnsfree.com:8080/announce
+https://tr.nyacat.pw:443/announce
 udp://tracker.opentorrent.top:6969/announce
 udp://ns575949.ip-51-222-82.net:6969/announce
 udp://tracker.corpscorp.online:80/announce
@@ -19,7 +20,6 @@ udp://tracker.peerfect.org:6969/announce
 udp://tracker.opentrackr.com:6969/announce
 udp://tracker.ilibr.org:6969/announce
 udp://tracker.dler.com:6969/announce
-https://tr.nyacat.pw:443/announce
 udp://tracker.bluefrog.pw:2710/announce
 udp://open.ftorrent.com:443/announce
 udp://tracker.aruku.ovh:8081/announce
