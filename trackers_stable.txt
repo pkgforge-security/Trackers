@@ -31,9 +31,9 @@ udp://retracker.hotplug.ru:2710/announce
 http://wegkxfcivgx.ydns.eu:80/announce
 udp://open.stealth.si:80/announce
 udp://tracker.gmi.gd:6969/announce
+https://tracker.7471.top:443/announce
 udp://tracker.teambelgium.net:6969/announce
 https://t.213891.xyz:443/announce
-https://tracker.7471.top:443/announce
 https://tracker.leechshield.link:443/announce
 udp://tracker.wildkat.net:6969/announce
 https://torrents.tmtime.dev:443/announce
