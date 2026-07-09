@@ -49,3 +49,4 @@ udp://tracker.trackarr.org:6969/announce
 http://tracker.ipv6tracker.ru:80/announce
 udp://tracker.breizh.pm:6969/announce
 https://tracker.zhuqiy.com:443/announce
+udp://open.demonii.com:1337/announce
