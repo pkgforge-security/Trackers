@@ -35,8 +35,8 @@ udp://open.stealth.si:80/announce
 udp://tracker.gmi.gd:6969/announce
 https://t.213891.xyz:443/announce
 http://tracker.dhitechnical.com:6969/announce
-https://tracker.leechshield.link:443/announce
 udp://tracker.teambelgium.net:6969/announce
+https://tracker.leechshield.link:443/announce
 udp://retracker.hotplug.ru:2710/announce
 https://torrents.tmtime.dev:443/announce
 udp://torrentclub.online:1984/announce
