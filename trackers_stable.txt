@@ -14,6 +14,7 @@ udp://ns575949.ip-51-222-82.net:6969/announce
 udp://tracker.corpscorp.online:80/announce
 https://tracker.manager.v6.navy:443/announce
 https://tracker.7471.top:443/announce
+udp://open.ftorrent.com:443/announce
 https://tracker.anibt.net:443/announce
 https://orgtgju.org:443/announce
 https://banananetwork.qzz.io:443/announce
@@ -24,7 +25,6 @@ udp://tracker.ilibr.org:6969/announce
 udp://tracker.qu.ax:6969/announce
 http://tracker.waaa.moe:6969/announce
 udp://tracker.bluefrog.pw:2710/announce
-udp://open.ftorrent.com:443/announce
 udp://tracker.aruku.ovh:8081/announce
 udp://mail.segso.net:6969/announce
 udp://tracker.opentrackr.com:6969/announce
@@ -39,8 +39,8 @@ https://tracker.leechshield.link:443/announce
 http://tracker.dhitechnical.com:6969/announce
 udp://retracker.hotplug.ru:2710/announce
 udp://torrentclub.online:1984/announce
-https://torrents.tmtime.dev:443/announce
 udp://tracker.wildkat.net:6969/announce
+https://torrents.tmtime.dev:443/announce
 http://bt1.archive.org:6969/announce
 http://bt2.archive.org:6969/announce
 udp://t.overflow.biz:6969/announce
