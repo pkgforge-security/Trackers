@@ -2,6 +2,7 @@ http://00.mercax.com:443/announce
 http://00.xxtor.com:443/announce
 http://004430.xyz:80/announce
 http://0123456789nonexistent.com/announce
+http://0123456789nonexistent.com:80/announce
 http://0d.kebhana.mx:443/announce
 http://104.143.10.186:8000/announce
 http://104.244.77.14:1337/announce
@@ -310,6 +311,7 @@ http://ipv4announce.sktorrent.eu:6969/announce
 http://irrenhaus.dyndns.dk/announce.php
 http://irrenhaus.dyndns.dk:80/announce.php
 http://jp.moeweb.pw:6969/announce
+http://jvavav.com:80/announce
 http://kamikazee.duckdns.org:7777/announce
 http://kinorun.com/announce.php
 http://kinorun.com:80/announce.php
@@ -390,9 +392,11 @@ http://rstracker.ohys.net:80/announce
 http://secure.pow7.com/announce
 http://secure.pow7.com:80/announce
 http://seeders-paradise.org/announce
+http://seeders-paradise.org:80/announce
 http://servandroidkino.ru/announce
 http://share.camoe.cn:8080/announce
 http://share.hkg-fansub.info/announce.php
+http://share.hkg-fansub.info:80/announce.php
 http://shogiroom.com:6969/announce
 http://shubt.net:2710/announce
 http://siambit.com/announce.php
@@ -421,6 +425,7 @@ http://torrent-team.net:80/announce.php
 http://torrent-tracker.ru/announce.php
 http://torrent.arjlover.net:2710/announce
 http://torrent.fedoraproject.org:6969/announce
+http://torrent.hificode.in:6969/announce
 http://torrent.mp3quran.net/announce.php
 http://torrent.mp3quran.net:80/announce.php
 http://torrent.nwps.ws/announce
@@ -1067,7 +1072,6 @@ udp://torrentclub.online:1984/announce
 udp://torrentclub.online:54123/announce
 udp://torrentclub.space:6969/announce
 udp://torrents.artixlinux.org:6969/announce
-udp://torrents.tmtime.dev:6969/announce
 udp://tr.bangumi.moe:6969/announce
 udp://tr.btube3.com:2010/announce
 udp://tr.cili001.com:8070/announce
@@ -1105,7 +1109,6 @@ udp://tracker.internetwarriors.net:1337/announce
 udp://tracker.istole.it:80/announce
 udp://tracker.lelux.fi:6969/announce
 udp://tracker.monitorit4.me:6969/announce
-udp://tracker.nyaa.vc:6969/announce
 udp://tracker.ololosh.space:6969/announce
 udp://tracker.openbittorrent.com:80/announce
 udp://tracker.openbtba.com:6969/announce
@@ -1114,6 +1117,7 @@ udp://tracker.opentrackr.com:6969/announce
 udp://tracker.opentrackr.org:1337/announce
 udp://tracker.peerfect.org:6969/announce
 udp://tracker.playground.ru:6969/announce
+udp://tracker.plx.im:6969/announce
 udp://tracker.pomf.se:80/announce
 udp://tracker.publictracker.xyz:6969/announce
 udp://tracker.qu.ax:6969/announce
