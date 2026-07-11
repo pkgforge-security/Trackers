@@ -28,9 +28,9 @@ udp://tracker.bluefrog.pw:2710/announce
 udp://tracker.aruku.ovh:8081/announce
 udp://mail.segso.net:6969/announce
 udp://tracker.opentrackr.com:6969/announce
+udp://anime-tracker.aruku.kro.kr:8081/announce
 http://wegkxfcivgx.ydns.eu:80/announce
 https://t.213891.xyz:443/announce
-udp://anime-tracker.aruku.kro.kr:8081/announce
 udp://open.stealth.si:80/announce
 udp://tracker.gmi.gd:6969/announce
 udp://tracker.teambelgium.net:6969/announce
@@ -46,4 +46,3 @@ udp://t.overflow.biz:6969/announce
 http://tracker.ipv6tracker.ru:80/announce
 http://tracker.renfei.net:8080/announce
 https://tracker.zhuqiy.com:443/announce
-https://torrents.tmtime.dev:443/announce
