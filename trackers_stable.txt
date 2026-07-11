@@ -26,10 +26,10 @@ udp://tracker.qu.ax:6969/announce
 http://tracker.waaa.moe:6969/announce
 udp://tracker.bluefrog.pw:2710/announce
 udp://tracker.aruku.ovh:8081/announce
+udp://anime-tracker.aruku.kro.kr:8081/announce
 udp://mail.segso.net:6969/announce
 udp://tracker.opentrackr.com:6969/announce
 https://tracker.leechshield.link:443/announce
-udp://anime-tracker.aruku.kro.kr:8081/announce
 http://wegkxfcivgx.ydns.eu:80/announce
 https://t.213891.xyz:443/announce
 udp://open.stealth.si:80/announce
