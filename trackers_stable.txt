@@ -28,9 +28,9 @@ udp://tracker.bluefrog.pw:2710/announce
 udp://mail.segso.net:6969/announce
 udp://tracker.opentrackr.com:6969/announce
 https://tracker.leechshield.link:443/announce
-udp://tracker.opentorrent.top:6969/announce
 udp://open.ftorrent.com:443/announce
 http://wegkxfcivgx.ydns.eu:80/announce
+udp://tracker.opentorrent.top:6969/announce
 udp://open.stealth.si:80/announce
 udp://tracker.gmi.gd:6969/announce
 udp://tracker.teambelgium.net:6969/announce
