@@ -36,10 +36,10 @@ udp://open.stealth.si:80/announce
 udp://tracker.gmi.gd:6969/announce
 udp://tracker.teambelgium.net:6969/announce
 http://tracker.dhitechnical.com:6969/announce
-udp://tracker.wildkat.net:6969/announce
-udp://tracker.opentorrent.top:6969/announce
-udp://torrentclub.online:1984/announce
 udp://tracker.nyaa.vc:6969/announce
+udp://tracker.wildkat.net:6969/announce
+udp://torrentclub.online:1984/announce
+udp://tracker.opentorrent.top:6969/announce
 udp://retracker.hotplug.ru:2710/announce
 https://t.213891.xyz:443/announce
 udp://t.overflow.biz:6969/announce
