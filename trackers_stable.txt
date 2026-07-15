@@ -22,6 +22,7 @@ https://021912.xyz:443/announce
 https://ht.therarbg.to:443/announce
 udp://tracker.peerfect.org:6969/announce
 udp://tracker.ilibr.org:6969/announce
+udp://tracker.nexusstream.eu:6969/announce
 udp://tracker.qu.ax:6969/announce
 http://echostar.ddnsfree.com:8080/announce
 udp://anime-tracker.aruku.kro.kr:8081/announce
