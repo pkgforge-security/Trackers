@@ -48,4 +48,3 @@ udp://t.overflow.biz:6969/announce
 http://tracker.ipv6tracker.ru:80/announce
 http://tracker.renfei.net:8080/announce
 https://tracker.zhuqiy.com:443/announce
-https://tracker.anibt.net:443/announce
