@@ -29,10 +29,10 @@ udp://anime-tracker.aruku.kro.kr:8081/announce
 https://tracker.anibt.net:443/announce
 udp://mail.segso.net:6969/announce
 udp://tracker.opentrackr.com:6969/announce
+udp://open.stealth.si:80/announce
 http://tracker.waaa.moe:6969/announce
 https://tracker.leechshield.link:443/announce
 udp://tracker.bluefrog.pw:2710/announce
-udp://open.stealth.si:80/announce
 udp://tracker.gmi.gd:6969/announce
 udp://tracker.teambelgium.net:6969/announce
 http://tracker.dhitechnical.com:6969/announce
