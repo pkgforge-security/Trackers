@@ -1,3 +1,4 @@
+udp://open.stealth.si:80/announce
 udp://tracker.dler.com:6969/announce
 http://tracker.bt4g.com:2095/announce
 udp://tracker-udp.gbitt.info:80/announce
@@ -23,14 +24,13 @@ https://ht.therarbg.to:443/announce
 udp://tracker.peerfect.org:6969/announce
 udp://tracker.ilibr.org:6969/announce
 udp://tracker.nexusstream.eu:6969/announce
-udp://open.stealth.si:80/announce
 udp://tracker.qu.ax:6969/announce
+http://tracker.waaa.moe:6969/announce
 http://echostar.ddnsfree.com:8080/announce
 udp://anime-tracker.aruku.kro.kr:8081/announce
 https://tracker.anibt.net:443/announce
 udp://mail.segso.net:6969/announce
 udp://tracker.opentrackr.com:6969/announce
-http://tracker.waaa.moe:6969/announce
 https://tracker.leechshield.link:443/announce
 udp://tracker.bluefrog.pw:2710/announce
 udp://tracker.gmi.gd:6969/announce
@@ -49,3 +49,4 @@ http://bt2.archive.org:6969/announce
 http://tracker.ipv6tracker.ru:80/announce
 http://tracker.renfei.net:8080/announce
 https://tracker.zhuqiy.com:443/announce
+http://tracker.xn--djrq4gl4hvoi.top:80/announce
