@@ -20,6 +20,7 @@ udp://anime-tracker.aruku.kro.kr:8081/announce
 https://orgtgju.org:443/announce
 https://banananetwork.qzz.io:443/announce
 https://021912.xyz:443/announce
+udp://mail.segso.net:6969/announce
 https://ht.therarbg.to:443/announce
 udp://tracker.peerfect.org:6969/announce
 udp://tracker.opentrackr.com:6969/announce
@@ -30,7 +31,6 @@ udp://tracker.qu.ax:6969/announce
 http://tracker.waaa.moe:6969/announce
 https://tracker.leechshield.link:443/announce
 http://echostar.ddnsfree.com:8080/announce
-udp://mail.segso.net:6969/announce
 udp://tracker.bluefrog.pw:2710/announce
 udp://tracker.gmi.gd:6969/announce
 http://tracker.dhitechnical.com:6969/announce
