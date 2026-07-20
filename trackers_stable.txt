@@ -43,9 +43,9 @@ udp://tracker.opentorrent.top:6969/announce
 udp://retracker.hotplug.ru:2710/announce
 https://t.213891.xyz:443/announce
 http://bt1.archive.org:6969/announce
+http://tracker.zhuqiy.dgj055.icu:80/announce
 http://bt2.archive.org:6969/announce
 http://tracker.ipv6tracker.ru:80/announce
 udp://t.overflow.biz:6969/announce
-http://tracker.zhuqiy.dgj055.icu:80/announce
 http://tracker.renfei.net:8080/announce
 https://tracker.zhuqiy.com:443/announce
