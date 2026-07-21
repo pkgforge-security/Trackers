@@ -391,6 +391,7 @@ http://rstracker.ohys.net:80/announce
 http://secure.pow7.com/announce
 http://secure.pow7.com:80/announce
 http://seeders-paradise.org/announce
+http://seeders-paradise.org:80/announce
 http://servandroidkino.ru/announce
 http://share.camoe.cn:8080/announce
 http://share.hkg-fansub.info/announce.php
@@ -446,6 +447,7 @@ http://tr.kxmp.cf/announce
 http://tr.kxmp.cf:80/announce
 http://tr.nyacat.pw/announce
 http://tr.nyacat.pw:80/announce
+http://tracker.23794.top:6969/announce
 http://tracker.acgnx.se/announce
 http://tracker.acgnx.se:80/announce
 http://tracker.aibt.xyz:900/announce
@@ -463,6 +465,7 @@ http://tracker.bittorrent.nibblepoker.lu:49227/announce
 http://tracker.breizh.pm:6969/announce
 http://tracker.bt-chat.com/announce
 http://tracker.bt-hash.com/announce
+http://tracker.bt-hash.com:80/announce
 http://tracker.bt4g.com:2095/announce
 http://tracker.btcake.com/announce
 http://tracker.btcake.com:80/announce
@@ -690,7 +693,6 @@ https://chihaya-heroku.120181311.xyz:443/announce
 https://dev.tracker.cf-identity-wallet.metadata.dev.cf-deployments.org/announce
 https://dev.tracker.cf-identity-wallet.metadata.dev.cf-deployments.org:443/announce
 https://docker-tracker-production.up.railway.app/announce
-https://edgev.duckdns.org:443/announce
 https://evening-badlands-6215.herokuapp.com/announce
 https://grifon.info:80/announce
 https://hcbt.pp.ua/announce
@@ -783,6 +785,7 @@ https://tracker.foreverpirates.co/announce
 https://tracker.foreverpirates.co:443/announce
 https://tracker.gbitt.info/announce
 https://tracker.gbitt.info:443/announce
+https://tracker.gcrenwp.top:443/announce
 https://tracker.h3o2.me:443/announce
 https://tracker.imgoingto.icu/announce
 https://tracker.imgoingto.icu:443/announce
@@ -975,7 +978,6 @@ udp://cutscloud.duckdns.org:6969/announce
 udp://devops.gay:6969/announce
 udp://dht.bt251.com:6969/announce
 udp://download.nerocloud.me:6969/announce
-udp://edgev.duckdns.org:6969/announce
 udp://elementsbrowser.com:6969/announce
 udp://epider.me:6969/announce
 udp://evan.im:6969/announce
@@ -1071,7 +1073,6 @@ udp://torrentclub.space:6969/announce
 udp://torrents.artixlinux.org:6969/announce
 udp://tr.bangumi.moe:6969/announce
 udp://tr.cili001.com:8070/announce
-udp://tr4ck3r.duckdns.org:6969/announce
 udp://tracker-udp.anirena.com:80/announce
 udp://tracker-udp.gbitt.info:80/announce
 udp://tracker.0x.tf:6969/announce
@@ -1101,6 +1102,7 @@ udp://tracker.gmi.gd:6969/announce
 udp://tracker.ilibr.org:6969/announce
 udp://tracker.ilibr.org:80/announce
 udp://tracker.internetwarriors.net:1337/announce
+udp://tracker.iperson.xyz:6969/announce
 udp://tracker.istole.it:80/announce
 udp://tracker.lelux.fi:6969/announce
 udp://tracker.monitorit4.me:6969/announce
@@ -1128,6 +1130,7 @@ udp://tracker.tiny-vps.com:6969/announce
 udp://tracker.torrent.eu.org:451/announce
 udp://tracker.trackerfix.com:80/announce
 udp://tracker.trackerfix.com:82/announce
+udp://tracker.tryhackx.org:6969/announce
 udp://tracker.wildkat.net:6969/announce
 udp://tracker.yangxiaoguozi.cn:6969/announce
 udp://tracker.zaluan.xyz:6969/announce
@@ -1151,7 +1154,6 @@ udp://yahor.ftp.sh:6969/announce
 udp://yahor.of.by:6969/announce
 udp://yann5.hexanyn.fr:6969/announce
 udp://zecircle.xyz:6969/announce
-udp://zer0day.ch:1337/announce
 wss://qot.abiir.top:443/announce
 wss://spacetradersapi-chatbox.herokuapp.com:443/announce
 wss://tracker.btorrent.xyz:443/announce
