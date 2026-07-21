@@ -40,9 +40,9 @@ udp://open.ftorrent.com:443/announce
 udp://tracker.wildkat.net:6969/announce
 udp://tracker.nyaa.vc:6969/announce
 udp://torrentclub.online:1984/announce
+http://tracker.zhuqiy.dgj055.icu:80/announce
 udp://tracker.opentorrent.top:6969/announce
 udp://retracker.hotplug.ru:2710/announce
-http://tracker.zhuqiy.dgj055.icu:80/announce
 http://bt1.archive.org:6969/announce
 http://bt2.archive.org:6969/announce
 http://tracker.ipv6tracker.ru:80/announce
