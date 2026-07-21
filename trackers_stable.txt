@@ -35,8 +35,8 @@ http://tracker.zhuqiy.dgj055.icu:80/announce
 udp://tracker.gmi.gd:6969/announce
 http://tracker.dhitechnical.com:6969/announce
 https://t.213891.xyz:443/announce
-udp://tracker.bluefrog.pw:2710/announce
 udp://tracker.teambelgium.net:6969/announce
+udp://tracker.bluefrog.pw:2710/announce
 udp://open.ftorrent.com:443/announce
 udp://tracker.nyaa.vc:6969/announce
 udp://torrentclub.online:1984/announce
