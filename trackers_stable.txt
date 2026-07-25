@@ -6,7 +6,6 @@ udp://tracker.torrent.eu.org:451/announce
 udp://open.demonii.com:1337/announce
 udp://evan.im:6969/announce
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
-udp://martin-gebhardt.eu:25/announce
 http://wegkxfcivgx.ydns.eu:80/announce
 udp://ns575949.ip-51-222-82.net:6969/announce
 udp://tracker.corpscorp.online:80/announce
@@ -17,6 +16,7 @@ https://ht.therarbg.to:443/announce
 udp://tracker.peerfect.org:6969/announce
 udp://tracker.nexusstream.eu:6969/announce
 udp://tracker.qu.ax:6969/announce
+udp://martin-gebhardt.eu:25/announce
 http://tracker.waaa.moe:6969/announce
 https://tracker.leechshield.link:443/announce
 http://echostar.ddnsfree.com:8080/announce
@@ -27,11 +27,11 @@ http://tracker.zhuqiy.dgj055.icu:80/announce
 udp://tracker.gmi.gd:6969/announce
 udp://tracker.teambelgium.net:6969/announce
 https://021912.xyz:443/announce
-udp://tracker.dler.com:6969/announce
 http://tracker.dhitechnical.com:6969/announce
 https://orgtgju.org:443/announce
 http://tracker.mywaifu.best:6969/announce
 udp://open.ftorrent.com:443/announce
+udp://tracker.dler.com:6969/announce
 udp://tracker.wildkat.net:6969/announce
 udp://tracker.nyaa.vc:6969/announce
 https://banananetwork.qzz.io:443/announce
