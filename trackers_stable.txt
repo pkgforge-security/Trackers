@@ -26,9 +26,9 @@ udp://tracker.nexusstream.eu:6969/announce
 udp://tracker.gmi.gd:6969/announce
 udp://tracker.teambelgium.net:6969/announce
 http://tracker.dhitechnical.com:6969/announce
-http://tracker.zhuqiy.dgj055.icu:80/announce
 udp://open.ftorrent.com:443/announce
 udp://tracker.dler.com:6969/announce
+http://tracker.zhuqiy.dgj055.icu:80/announce
 udp://retracker.hotplug.ru:2710/announce
 udp://tracker.nyaa.vc:6969/announce
 http://bt1.archive.org:6969/announce
