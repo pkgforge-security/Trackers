@@ -41,8 +41,8 @@ https://t.213891.xyz:443/announce
 http://tracker.renfei.net:8080/announce
 udp://tracker.opentrackr.com:6969/announce
 udp://tracker.ilibr.org:6969/announce
-https://orgtgju.org:443/announce
 https://tracker.zhuqiy.com:443/announce
+https://orgtgju.org:443/announce
 https://021912.xyz:443/announce
 http://tracker.mywaifu.best:6969/announce
 https://banananetwork.qzz.io:443/announce
