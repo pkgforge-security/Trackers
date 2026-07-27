@@ -24,8 +24,8 @@ http://echostar.ddnsfree.com:8080/announce
 udp://mail.segso.net:6969/announce
 udp://tracker.nexusstream.eu:6969/announce
 udp://tracker.gmi.gd:6969/announce
-http://tracker.dhitechnical.com:6969/announce
 udp://tracker.teambelgium.net:6969/announce
+http://tracker.dhitechnical.com:6969/announce
 udp://open.ftorrent.com:443/announce
 udp://tracker.dler.com:6969/announce
 udp://retracker.hotplug.ru:2710/announce
@@ -43,6 +43,3 @@ udp://tracker.opentrackr.com:6969/announce
 udp://tracker.ilibr.org:6969/announce
 https://tracker.zhuqiy.com:443/announce
 https://orgtgju.org:443/announce
-https://021912.xyz:443/announce
-http://tracker.mywaifu.best:6969/announce
-https://banananetwork.qzz.io:443/announce
