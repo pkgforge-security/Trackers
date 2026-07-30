@@ -39,6 +39,6 @@ http://tracker.renfei.net:8080/announce
 http://tracker.zhuqiy.dgj055.icu:80/announce
 udp://tracker.opentrackr.com:6969/announce
 udp://tracker.ilibr.org:6969/announce
-udp://tracker.wildkat.net:6969/announce
 https://tracker.zhuqiy.com:443/announce
+udp://tracker.wildkat.net:6969/announce
 https://orgtgju.org:443/announce
