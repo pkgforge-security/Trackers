@@ -15,13 +15,13 @@ udp://tracker.aruku.ovh:8081/announce
 udp://torrentclub.online:1984/announce
 https://ht.therarbg.to:443/announce
 udp://tracker.peerfect.org:6969/announce
+https://tracker.foreverpirates.co:443/announce
 udp://martin-gebhardt.eu:25/announce
 http://tracker.waaa.moe:6969/announce
 https://tracker.leechshield.link:443/announce
 udp://anime-tracker.aruku.kro.kr:8081/announce
 udp://mail.segso.net:6969/announce
 udp://tracker.nexusstream.eu:6969/announce
-https://tracker.foreverpirates.co:443/announce
 udp://tracker.gmi.gd:6969/announce
 http://tracker.dhitechnical.com:6969/announce
 udp://retracker.hotplug.ru:2710/announce
@@ -42,4 +42,3 @@ udp://tracker.opentrackr.com:6969/announce
 https://tracker.zhuqiy.com:443/announce
 http://tracker.zhuqiy.dgj055.icu:80/announce
 udp://tracker.wildkat.net:6969/announce
-https://orgtgju.org:443/announce
