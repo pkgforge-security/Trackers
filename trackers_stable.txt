@@ -21,8 +21,8 @@ https://tracker.foreverpirates.co:443/announce
 udp://martin-gebhardt.eu:25/announce
 http://tracker.waaa.moe:6969/announce
 https://tracker.leechshield.link:443/announce
-udp://tracker.ilibr.org:6969/announce
 udp://tracker.nexusstream.eu:6969/announce
+udp://tracker.ilibr.org:6969/announce
 http://tracker.dhitechnical.com:6969/announce
 udp://tracker.gmi.gd:6969/announce
 http://bt2.archive.org:6969/announce
