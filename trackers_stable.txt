@@ -41,6 +41,6 @@ udp://obey.torrentonline.cc:42069/announce
 udp://tracker.dler.com:6969/announce
 udp://tracker.nyaa.vc:6969/announce
 http://tracker.renfei.net:8080/announce
-https://tracker.zhuqiy.com:443/announce
 http://tracker.xn--djrq4gl4hvoi.top:80/announce
+https://tracker.zhuqiy.com:443/announce
 https://ht.therarbg.to:443/announce
