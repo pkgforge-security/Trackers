@@ -24,8 +24,8 @@ udp://torrentclub.online:1984/announce
 http://tracker.dhitechnical.com:6969/announce
 udp://tracker.nexusstream.eu:6969/announce
 udp://tracker.gmi.gd:6969/announce
-http://bt2.archive.org:6969/announce
 http://lucke.fenesisu.moe:6969/announce
+http://bt2.archive.org:6969/announce
 udp://open.ftorrent.com:443/announce
 udp://tracker.aruku.ovh:8081/announce
 http://wegkxfcivgx.ydns.eu:80/announce
@@ -39,9 +39,9 @@ udp://tracker.dler.com:6969/announce
 udp://t.overflow.biz:6969/announce
 udp://tracker.peerfect.org:6969/announce
 https://tracker.zhuqiy.com:443/announce
-udp://mail.segso.net:6969/announce
 udp://tracker.opentrackr.com:6969/announce
 udp://tracker.ilibr.org:6969/announce
+udp://mail.segso.net:6969/announce
 udp://tracker.nyaa.vc:6969/announce
 http://tracker.renfei.net:8080/announce
 udp://tracker.breizh.pm:6969/announce
