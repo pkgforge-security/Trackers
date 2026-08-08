@@ -8,6 +8,7 @@ udp://evan.im:6969/announce
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 http://tracker.waaa.moe:6969/announce
 http://echostar.ddnsfree.com:8080/announce
+http://lucke.fenesisu.moe:6969/announce
 https://t.213891.xyz:443/announce
 udp://ns575949.ip-51-222-82.net:6969/announce
 udp://tracker.corpscorp.online:80/announce
@@ -20,7 +21,6 @@ udp://tracker.nyaa.net:6969/announce
 udp://retracker.hotplug.ru:2710/announce
 udp://martin-gebhardt.eu:25/announce
 https://tracker.leechshield.link:443/announce
-http://lucke.fenesisu.moe:6969/announce
 udp://torrentclub.online:1984/announce
 http://tracker.dhitechnical.com:6969/announce
 udp://tracker.nexusstream.eu:6969/announce
@@ -41,7 +41,7 @@ https://tracker.zhuqiy.com:443/announce
 udp://tracker.peerfect.org:6969/announce
 udp://tracker.ilibr.org:6969/announce
 udp://mail.segso.net:6969/announce
-udp://tracker.opentrackr.com:6969/announce
 udp://tracker.nyaa.vc:6969/announce
+udp://tracker.opentrackr.com:6969/announce
 http://tracker.renfei.net:8080/announce
 udp://tracker.breizh.pm:6969/announce
