@@ -392,9 +392,11 @@ http://rstracker.ohys.net:80/announce
 http://secure.pow7.com/announce
 http://secure.pow7.com:80/announce
 http://seeders-paradise.org/announce
+http://seeders-paradise.org:80/announce
 http://servandroidkino.ru/announce
 http://share.camoe.cn:8080/announce
 http://share.hkg-fansub.info/announce.php
+http://share.hkg-fansub.info:80/announce.php
 http://shogiroom.com:6969/announce
 http://shubt.net:2710/announce
 http://siambit.com/announce.php
@@ -423,6 +425,7 @@ http://torrent-team.net:80/announce.php
 http://torrent-tracker.ru/announce.php
 http://torrent.arjlover.net:2710/announce
 http://torrent.fedoraproject.org:6969/announce
+http://torrent.hificode.in:6969/announce
 http://torrent.mp3quran.net/announce.php
 http://torrent.mp3quran.net:80/announce.php
 http://torrent.nwps.ws/announce
@@ -463,6 +466,7 @@ http://tracker.bittorrent.nibblepoker.lu:49227/announce
 http://tracker.breizh.pm:6969/announce
 http://tracker.bt-chat.com/announce
 http://tracker.bt-hash.com/announce
+http://tracker.bt-hash.com:80/announce
 http://tracker.bt4g.com:2095/announce
 http://tracker.btcake.com/announce
 http://tracker.btcake.com:80/announce
@@ -688,10 +692,10 @@ https://chihaya-heroku.120181311.xyz:443/announce
 https://dev.tracker.cf-identity-wallet.metadata.dev.cf-deployments.org/announce
 https://dev.tracker.cf-identity-wallet.metadata.dev.cf-deployments.org:443/announce
 https://docker-tracker-production.up.railway.app/announce
-https://edgev.duckdns.org:443/announce
 https://evening-badlands-6215.herokuapp.com/announce
 https://grifon.info:80/announce
 https://hcbt.pp.ua/announce
+https://ht.therarbg.to:443/announce
 https://inferno.demonoid.is/announce
 https://k.avc.cx/announce.php
 https://k.avc.cx:443/announce.php
@@ -1130,6 +1134,7 @@ udp://tracker.tiny-vps.com:6969/announce
 udp://tracker.torrent.eu.org:451/announce
 udp://tracker.trackerfix.com:80/announce
 udp://tracker.trackerfix.com:82/announce
+udp://tracker.tryhackx.org:6969/announce
 udp://tracker.wildkat.net:6969/announce
 udp://tracker.yangxiaoguozi.cn:6969/announce
 udp://tracker.zaluan.xyz:6969/announce
@@ -1154,7 +1159,6 @@ udp://yahor.ftp.sh:6969/announce
 udp://yahor.of.by:6969/announce
 udp://yann5.hexanyn.fr:6969/announce
 udp://zecircle.xyz:6969/announce
-udp://zer0day.ch:1337/announce
 wss://qot.abiir.top:443/announce
 wss://spacetradersapi-chatbox.herokuapp.com:443/announce
 wss://tracker.btorrent.xyz:443/announce
