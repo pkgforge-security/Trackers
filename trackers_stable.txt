@@ -33,8 +33,8 @@ udp://archive.torrentonline.cc:42069/announce
 http://bt1.archive.org:6969/announce
 http://tracker.ipv6tracker.ru:80/announce
 https://tracker.zhuqiy.com:443/announce
-udp://t.overflow.biz:6969/announce
 udp://tracker.dler.com:6969/announce
+udp://t.overflow.biz:6969/announce
 udp://whybother.torrentonline.cc:42069/announce
 udp://obey.torrentonline.cc:42069/announce
 http://tracker.renfei.net:8080/announce
