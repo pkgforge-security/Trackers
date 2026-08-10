@@ -110,7 +110,6 @@ udp://tracker.ilibr.org:6969/announce
 udp://tracker.linvk.com:6969/announce
 udp://tracker.nexusstream.eu:6969/announce
 udp://tracker.nyaa.net:6969/announce
-udp://tracker.nyaa.vc:6969/announce
 udp://tracker.opentrackr.com:6969/announce
 udp://tracker.peerfect.org:6969/announce
 udp://tracker.playground.ru:6969/announce
