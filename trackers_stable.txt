@@ -19,11 +19,11 @@ udp://anime-tracker.aruku.kro.kr:8081/announce
 https://tracker.foreverpirates.co:443/announce
 udp://tracker.nyaa.net:6969/announce
 udp://tracker.cn.nyaa.net:6969/announce
+http://tracker.bt4g.com:2095/announce
 udp://tracker.qu.ax:6969/announce
 udp://martin-gebhardt.eu:25/announce
 https://tracker.leechshield.link:443/announce
 udp://torrentclub.online:1984/announce
-http://tracker.bt4g.com:2095/announce
 http://tracker.dhitechnical.com:6969/announce
 udp://tracker.nexusstream.eu:6969/announce
 udp://tracker.gmi.gd:6969/announce
