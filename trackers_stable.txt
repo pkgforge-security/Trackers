@@ -42,7 +42,8 @@ http://tracker.renfei.net:8080/announce
 https://tracker.pmman.tech:443/announce
 udp://tracker.aruku.ovh:8081/announce
 udp://tracker.peerfect.org:6969/announce
+udp://tracker.breizh.pm:6969/announce
 udp://mail.segso.net:6969/announce
 udp://tracker.ilibr.org:6969/announce
-udp://tracker.breizh.pm:6969/announce
 udp://tracker.opentrackr.com:6969/announce
+http://tracker.bt4g.com:2095/announce
