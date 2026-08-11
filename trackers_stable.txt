@@ -1,5 +1,6 @@
 udp://open.stealth.si:80/announce
 udp://retracker.hotplug.ru:2710/announce
+http://tracker.bt4g.com:2095/announce
 udp://tracker-udp.gbitt.info:80/announce
 http://ipv4announce.sktorrent.eu:6969/announce
 udp://tracker.torrent.eu.org:451/announce
@@ -19,7 +20,6 @@ udp://anime-tracker.aruku.kro.kr:8081/announce
 https://tracker.foreverpirates.co:443/announce
 udp://tracker.nyaa.net:6969/announce
 udp://tracker.cn.nyaa.net:6969/announce
-http://tracker.bt4g.com:2095/announce
 udp://tracker.qu.ax:6969/announce
 udp://martin-gebhardt.eu:25/announce
 https://tracker.leechshield.link:443/announce
@@ -41,8 +41,8 @@ udp://obey.torrentonline.cc:42069/announce
 https://tracker.pmman.tech:443/announce
 udp://t.overflow.biz:6969/announce
 http://tracker.renfei.net:8080/announce
-udp://tracker.aruku.ovh:8081/announce
 udp://tr3.ysagin.top:2715/announce
+udp://tracker.aruku.ovh:8081/announce
 udp://tracker.peerfect.org:6969/announce
 udp://tracker.breizh.pm:6969/announce
 udp://mail.segso.net:6969/announce
