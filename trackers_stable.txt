@@ -8,6 +8,7 @@ udp://open.demonii.com:1337/announce
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 http://tracker.waaa.moe:6969/announce
 udp://tr3.ysagin.top:2715/announce
+https://tracker.leechshield.link:443/announce
 http://echostar.ddnsfree.com:8080/announce
 http://lucke.fenesisu.moe:6969/announce
 https://t.213891.xyz:443/announce
@@ -22,14 +23,13 @@ udp://tracker.nyaa.net:6969/announce
 udp://tracker.cn.nyaa.net:6969/announce
 udp://tracker.qu.ax:6969/announce
 udp://martin-gebhardt.eu:25/announce
-https://tracker.leechshield.link:443/announce
+udp://tracker.aruku.ovh:8081/announce
 udp://torrentclub.online:1984/announce
 http://tracker.dhitechnical.com:6969/announce
 http://bt2.archive.org:6969/announce
 udp://tracker.gmi.gd:6969/announce
 udp://open.ftorrent.com:443/announce
 udp://tracker.nexusstream.eu:6969/announce
-udp://tracker.aruku.ovh:8081/announce
 http://bt1.archive.org:6969/announce
 udp://tracker.teambelgium.net:6969/announce
 https://tracker.zhuqiy.com:443/announce
@@ -43,6 +43,7 @@ udp://obey.torrentonline.cc:42069/announce
 https://tracker.pmman.tech:443/announce
 http://tracker.renfei.net:8080/announce
 udp://t.overflow.biz:6969/announce
+udp://tr.btube3.com:2010/announce
 udp://tracker.peerfect.org:6969/announce
 udp://tracker.opentrackr.com:6969/announce
 udp://tracker.breizh.pm:6969/announce
