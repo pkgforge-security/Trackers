@@ -33,8 +33,8 @@ udp://tracker.nexusstream.eu:6969/announce
 http://bt1.archive.org:6969/announce
 udp://tracker.teambelgium.net:6969/announce
 https://tracker.zhuqiy.com:443/announce
-udp://tr.btube3.com:2010/announce
 http://wegkxfcivgx.ydns.eu:80/announce
+udp://tr.btube3.com:2010/announce
 udp://archive.torrentonline.cc:42069/announce
 udp://evan.im:6969/announce
 http://tracker.ipv6tracker.ru:80/announce
@@ -45,9 +45,8 @@ https://tracker.pmman.tech:443/announce
 http://tracker.renfei.net:8080/announce
 udp://tracker.peerfect.org:6969/announce
 udp://t.overflow.biz:6969/announce
+https://tr.zukizuki.org:443/announce
 udp://mail.segso.net:6969/announce
 udp://tracker.opentrackr.com:6969/announce
 udp://tracker.ilibr.org:6969/announce
 udp://tracker.breizh.pm:6969/announce
-https://tr.zukizuki.org:443/announce
-http://tracker.xn--djrq4gl4hvoi.top:80/announce
