@@ -6,6 +6,7 @@ http://ipv4announce.sktorrent.eu:6969/announce
 udp://tracker.torrent.eu.org:451/announce
 udp://open.demonii.com:1337/announce
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
+udp://martin-gebhardt.eu:25/announce
 http://tracker.waaa.moe:6969/announce
 udp://tr3.ysagin.top:2715/announce
 https://tracker.leechshield.link:443/announce
@@ -22,7 +23,6 @@ https://tracker.foreverpirates.co:443/announce
 udp://tracker.nyaa.net:6969/announce
 udp://tracker.cn.nyaa.net:6969/announce
 udp://tracker.qu.ax:6969/announce
-udp://martin-gebhardt.eu:25/announce
 udp://tracker.aruku.ovh:8081/announce
 http://tracker.dhitechnical.com:6969/announce
 udp://torrentclub.online:1984/announce
@@ -45,7 +45,8 @@ udp://whybother.torrentonline.cc:42069/announce
 udp://mail.segso.net:6969/announce
 udp://tracker.peerfect.org:6969/announce
 udp://tracker.opentrackr.com:6969/announce
-http://tracker.xn--djrq4gl4hvoi.top:80/announce
 udp://tracker.ilibr.org:6969/announce
+http://tracker.xn--djrq4gl4hvoi.top:80/announce
 udp://tracker.breizh.pm:6969/announce
 udp://t.overflow.biz:6969/announce
+udp://seedpeer.net:6969/announce
