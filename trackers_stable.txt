@@ -48,6 +48,7 @@ udp://tracker.opentrackr.com:6969/announce
 udp://tracker.peerfect.org:6969/announce
 udp://tracker.ilibr.org:6969/announce
 udp://tracker.breizh.pm:6969/announce
-udp://t.overflow.biz:6969/announce
 udp://torrent.tracker.durukanbal.com:6969/announce
+udp://t.overflow.biz:6969/announce
+http://tracker.mywaifu.best:6969/announce
 http://tracker.xn--djrq4gl4hvoi.top:80/announce
