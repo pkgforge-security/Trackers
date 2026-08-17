@@ -49,7 +49,7 @@ udp://obey.torrentonline.cc:42069/announce
 udp://tr.btube3.com:2010/announce
 https://tracker.linvk.com:443/announce
 udp://tracker.peerfect.org:6969/announce
-udp://mail.segso.net:6969/announce
 udp://tracker.ilibr.org:6969/announce
-udp://tracker.breizh.pm:6969/announce
+udp://mail.segso.net:6969/announce
 udp://tracker.opentrackr.com:6969/announce
+udp://tracker.breizh.pm:6969/announce
