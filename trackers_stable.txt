@@ -40,10 +40,10 @@ http://tracker.ipv6tracker.ru:80/announce
 udp://tracker.dler.com:6969/announce
 http://tracker.mywaifu.best:6969/announce
 udp://tracker.gmi.gd:6969/announce
-https://tracker.pmman.tech:443/announce
 udp://tracker.breizh.pm:6969/announce
-udp://archive.torrentonline.cc:42069/announce
+https://tracker.pmman.tech:443/announce
 udp://tracker.k.vu:6969/announce
+udp://archive.torrentonline.cc:42069/announce
 http://tracker.renfei.net:8080/announce
 udp://whybother.torrentonline.cc:42069/announce
 http://bt2.archive.org:6969/announce
