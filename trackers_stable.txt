@@ -39,8 +39,8 @@ udp://tracker.teambelgium.net:6969/announce
 udp://tracker.breizh.pm:6969/announce
 http://tracker.ipv6tracker.ru:80/announce
 udp://tracker.dler.com:6969/announce
-http://lucke.fenesisu.moe:6969/announce
 http://tracker.mywaifu.best:6969/announce
+http://lucke.fenesisu.moe:6969/announce
 udp://tracker.gmi.gd:6969/announce
 https://tracker.pmman.tech:443/announce
 udp://tracker.k.vu:6969/announce
