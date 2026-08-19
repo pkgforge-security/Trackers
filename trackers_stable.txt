@@ -52,7 +52,7 @@ udp://tr.btube3.com:2010/announce
 udp://mail.segso.net:6969/announce
 udp://tracker.peerfect.org:6969/announce
 udp://tracker.opentrackr.com:6969/announce
-http://lucke.fenesisu.moe:6969/announce
 udp://tracker.ilibr.org:6969/announce
 udp://whybother.torrentonline.cc:42069/announce
+http://lucke.fenesisu.moe:6969/announce
 udp://tracker.farted.net:6969/announce
