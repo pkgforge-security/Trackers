@@ -24,12 +24,12 @@ https://tracker.foreverpirates.co:443/announce
 udp://tracker.nyaa.net:6969/announce
 udp://tracker.cn.nyaa.net:6969/announce
 udp://ipv6.govt.hu:6969/announce
-udp://tracker.cynma.tv:6969/announce
 udp://tracker.qu.ax:6969/announce
 udp://torrent.tracker.durukanbal.com:6969/announce
 udp://tr3.ysagin.top:2715/announce
 http://tracker.dhitechnical.com:6969/announce
 udp://tracker.aruku.ovh:8081/announce
+udp://tracker.cynma.tv:6969/announce
 udp://open.ftorrent.com:443/announce
 udp://torrentclub.online:1984/announce
 udp://tracker.nexusstream.eu:6969/announce
@@ -48,10 +48,10 @@ http://tracker.renfei.net:8080/announce
 https://tracker.linvk.com:443/announce
 http://lucke.fenesisu.moe:6969/announce
 http://bt2.archive.org:6969/announce
-udp://tr.btube3.com:2010/announce
 udp://obey.torrentonline.cc:42069/announce
 udp://mail.segso.net:6969/announce
 udp://tracker.peerfect.org:6969/announce
+udp://tr.btube3.com:2010/announce
 udp://tracker.opentrackr.com:6969/announce
 udp://tracker.ilibr.org:6969/announce
 udp://whybother.torrentonline.cc:42069/announce
