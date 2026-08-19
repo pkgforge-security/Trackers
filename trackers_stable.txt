@@ -43,8 +43,8 @@ http://tracker.mywaifu.best:6969/announce
 https://tracker.pmman.tech:443/announce
 udp://tracker.gmi.gd:6969/announce
 udp://tracker.k.vu:6969/announce
-http://lucke.fenesisu.moe:6969/announce
 https://tracker.gcrenwp.top:443/announce
+http://lucke.fenesisu.moe:6969/announce
 http://tracker.renfei.net:8080/announce
 https://tracker.linvk.com:443/announce
 udp://tr.btube3.com:2010/announce
