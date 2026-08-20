@@ -26,9 +26,9 @@ udp://tracker.qu.ax:6969/announce
 udp://torrent.tracker.durukanbal.com:6969/announce
 udp://tr3.ysagin.top:2715/announce
 http://tracker.dhitechnical.com:6969/announce
-udp://tracker.aruku.ovh:8081/announce
 udp://ipv6.govt.hu:6969/announce
 udp://retracker.hotplug.ru:2710/announce
+udp://tracker.aruku.ovh:8081/announce
 udp://torrentclub.online:1984/announce
 udp://tracker.cynma.tv:6969/announce
 udp://open.ftorrent.com:443/announce
@@ -43,9 +43,9 @@ udp://tracker.dler.com:6969/announce
 http://tracker.mywaifu.best:6969/announce
 udp://tracker.gmi.gd:6969/announce
 udp://tracker.opentrackr.com:6969/announce
+udp://mail.segso.net:6969/announce
 udp://tracker.peerfect.org:6969/announce
 https://tracker.gcrenwp.top:443/announce
-udp://mail.segso.net:6969/announce
 https://tracker.linvk.com:443/announce
 udp://tracker.ilibr.org:6969/announce
 http://tracker.renfei.net:8080/announce
