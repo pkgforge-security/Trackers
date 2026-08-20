@@ -39,13 +39,13 @@ https://tracker.pmman.tech:443/announce
 http://tracker.ipv6tracker.ru:80/announce
 udp://tracker.breizh.pm:6969/announce
 udp://tracker.dler.com:6969/announce
-https://tr.zukizuki.org:443/announce
 http://tracker.mywaifu.best:6969/announce
+https://tr.zukizuki.org:443/announce
 udp://tracker.peerfect.org:6969/announce
 udp://tracker.opentrackr.com:6969/announce
+udp://tracker.ilibr.org:6969/announce
 udp://tracker.gmi.gd:6969/announce
 udp://mail.segso.net:6969/announce
-udp://tracker.ilibr.org:6969/announce
 https://tracker.gcrenwp.top:443/announce
 https://tracker.linvk.com:443/announce
 http://tracker.renfei.net:8080/announce
