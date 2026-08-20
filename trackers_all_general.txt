@@ -8,7 +8,6 @@ http://bt2.archive.org:6969/announce
 http://echostar.ddnsfree.com:8080/announce
 http://home.yxgz.club:6969/announce
 http://ipv4announce.sktorrent.eu:6969/announce
-http://lucke.fenesisu.moe:6969/announce
 http://shubt.net:2710/announce
 http://t.overflow.biz:6969/announce
 http://torrent.hificode.in:6969/announce
