@@ -25,11 +25,11 @@ udp://tr3.ysagin.top:2715/announce
 http://tracker.dhitechnical.com:6969/announce
 https://tracker.foreverpirates.co:443/announce
 udp://ipv6.govt.hu:6969/announce
-http://tracker.bt4g.com:2095/announce
 udp://torrentclub.online:1984/announce
 udp://retracker.hotplug.ru:2710/announce
 udp://open.ftorrent.com:443/announce
 udp://tracker.nexusstream.eu:6969/announce
+http://tracker.bt4g.com:2095/announce
 udp://tracker.aruku.ovh:8081/announce
 udp://tracker.teambelgium.net:6969/announce
 https://tracker.zhuqiy.com:443/announce
@@ -54,4 +54,3 @@ udp://obey.torrentonline.cc:42069/announce
 udp://whybother.torrentonline.cc:42069/announce
 udp://tracker.farted.net:6969/announce
 udp://tr.btube3.com:2010/announce
-http://tracker.xn--djrq4gl4hvoi.top:80/announce
