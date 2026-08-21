@@ -40,7 +40,6 @@ https://ht.therarbg.to:443/announce
 https://open.ftorrent.com:443/announce
 https://t.213891.xyz:443/announce
 https://tr.nyacat.pw:443/announce
-https://tr.zukizuki.org:443/announce
 https://tracker.7471.top:443/announce
 https://tracker.bt4g.com:443/announce
 https://tracker.foreverpirates.co:443/announce
