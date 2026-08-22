@@ -27,6 +27,7 @@ https://tracker.foreverpirates.co:443/announce
 udp://ipv6.govt.hu:6969/announce
 udp://open.ftorrent.com:443/announce
 udp://torrentclub.online:1984/announce
+udp://udp.tracker.linvk.com:6969/announce
 udp://retracker.hotplug.ru:2710/announce
 udp://tracker.aruku.ovh:8081/announce
 udp://tracker.nexusstream.eu:6969/announce
@@ -45,8 +46,8 @@ udp://mail.segso.net:6969/announce
 udp://tracker.peerfect.org:6969/announce
 udp://tracker.opentrackr.com:6969/announce
 udp://tracker.gmi.gd:6969/announce
-https://tracker.gcrenwp.top:443/announce
 https://tracker.linvk.com:443/announce
+https://tracker.gcrenwp.top:443/announce
 udp://tracker.k.vu:6969/announce
 http://tracker.renfei.net:8080/announce
 http://bt2.archive.org:6969/announce

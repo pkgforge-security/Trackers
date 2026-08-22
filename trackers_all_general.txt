@@ -100,6 +100,7 @@ udp://tracker.torrent.eu.org:451/announce
 udp://tracker.tryhackx.org:6969/announce
 udp://tracker.wildkat.net:6969/announce
 udp://tracker2.dler.org:80/announce
+udp://udp.tracker.linvk.com:6969/announce
 udp://whybother.torrentonline.cc:42069/announce
 udp://yuptracker-eu.gaijinent.com:27022/announce
 udp://zer0day.ch:1337/announce
