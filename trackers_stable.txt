@@ -53,3 +53,4 @@ http://bt2.archive.org:6969/announce
 udp://obey.torrentonline.cc:42069/announce
 udp://whybother.torrentonline.cc:42069/announce
 udp://tracker.farted.net:6969/announce
+udp://tr4ck3r.duckdns.org:6969/announce
